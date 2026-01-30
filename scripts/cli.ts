@@ -41,13 +41,14 @@ program
   .command("extract")
   .description("Extract insights from podcast transcripts")
   .option("-n, --limit <number>", "Limit number of episodes to process")
+  .option("-c, --concurrency <number>", "Number of parallel requests (default: 3)")
   .option("--dry-run", "Preview without writing files")
   .option("--verbose", "Show detailed output")
-  .option("--reprocess", "Reprocess already-processed episodes")
   .action(async (options) => {
     const args = ["scripts/transcript-agent.ts"];
     if (options.dryRun) args.push("--dry-run");
     if (options.verbose) args.push("--verbose");
+    if (options.concurrency) args.push(`--concurrency=${options.concurrency}`);
     if (options.limit) args.push(options.limit);
     
     console.log(`Running: npx tsx ${args.join(" ")}`);

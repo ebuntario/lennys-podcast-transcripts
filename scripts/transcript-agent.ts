@@ -8,6 +8,7 @@ import * as os from "os";
 import { fileURLToPath } from "url";
 import { createRequire } from "module";
 import pRetry from "p-retry";
+import pLimit from "p-limit";
 
 const require = createRequire(import.meta.url);
 const slugify = require("slugify") as (str: string, opts?: { lower?: boolean; strict?: boolean }) => string;
@@ -22,6 +23,21 @@ const PROCESSED_DIR = path.join(__dirname, "..", "notes", ".processed");
 // CLI flags
 const DRY_RUN = process.argv.includes("--dry-run");
 const VERBOSE = process.argv.includes("--verbose");
+
+// Parse concurrency from --concurrency=N or -c N (default 3)
+function parseConcurrency(): number {
+  const concurrencyArg = process.argv.find(a => a.startsWith("--concurrency="));
+  if (concurrencyArg) {
+    return parseInt(concurrencyArg.split("=")[1] || "3", 10);
+  }
+  const cIndex = process.argv.indexOf("-c");
+  if (cIndex !== -1 && process.argv[cIndex + 1]) {
+    return parseInt(process.argv[cIndex + 1], 10);
+  }
+  return 3; // Default concurrency
+}
+
+const CONCURRENCY = parseConcurrency();
 
 const openai = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
@@ -322,7 +338,7 @@ async function main(): Promise<void> {
   fs.mkdirSync(PROCESSED_DIR, { recursive: true });
 
   // Parse limit from args (skip flags)
-  const numericArgs = process.argv.slice(2).filter((a) => !a.startsWith("--"));
+  const numericArgs = process.argv.slice(2).filter((a) => !a.startsWith("--") && !a.startsWith("-"));
   const limit = numericArgs[0] ? parseInt(numericArgs[0], 10) : undefined;
 
   const episodes = fs.readdirSync(EPISODES_DIR).filter((d) => {
@@ -330,24 +346,66 @@ async function main(): Promise<void> {
     return fs.existsSync(transcriptPath);
   });
 
-  console.log(`Found ${episodes.length} episodes`);
-  if (limit) console.log(`Processing first ${limit} episodes`);
+  // Filter to unprocessed only
+  const unprocessed = episodes.filter((ep) => {
+    const transcriptPath = path.join(EPISODES_DIR, ep, "transcript.md");
+    const raw = fs.readFileSync(transcriptPath, "utf-8");
+    try {
+      const { data } = matter(raw);
+      return data.video_id && !isProcessed(data.video_id);
+    } catch {
+      return false;
+    }
+  });
 
-  const toProcess = limit ? episodes.slice(0, limit) : episodes;
+  console.log(`Found ${episodes.length} episodes (${unprocessed.length} unprocessed)`);
+  console.log(`Concurrency: ${CONCURRENCY} parallel requests\n`);
+  
+  const toProcess = limit ? unprocessed.slice(0, limit) : unprocessed;
+  
+  if (toProcess.length === 0) {
+    console.log("✅ All episodes already processed!");
+    return;
+  }
+  
+  if (limit) console.log(`Processing ${toProcess.length} episodes`);
 
+  // Parallel processing with progress tracking
+  const limit_fn = pLimit(CONCURRENCY);
+  let completed = 0;
   let totalValid = 0;
   let totalInvalid = 0;
+  const startTime = Date.now();
 
-  for (const ep of toProcess) {
-    const transcriptPath = path.join(EPISODES_DIR, ep, "transcript.md");
-    const { valid, invalid } = await processTranscript(transcriptPath);
-    totalValid += valid;
-    totalInvalid += invalid;
-  }
+  const tasks = toProcess.map((ep) =>
+    limit_fn(async () => {
+      const transcriptPath = path.join(EPISODES_DIR, ep, "transcript.md");
+      const { valid, invalid } = await processTranscript(transcriptPath);
+      
+      completed++;
+      totalValid += valid;
+      totalInvalid += invalid;
+      
+      // Progress update
+      const elapsed = (Date.now() - startTime) / 1000;
+      const rate = completed / elapsed;
+      const remaining = toProcess.length - completed;
+      const eta = remaining / rate;
+      
+      console.log(
+        `\n📊 Progress: ${completed}/${toProcess.length} (${Math.round(rate * 60)} ep/min, ETA: ${Math.round(eta / 60)}min)`
+      );
+    })
+  );
 
+  await Promise.all(tasks);
+
+  const totalTime = (Date.now() - startTime) / 1000;
   console.log(`\n🎉 Complete!`);
   console.log(`   Total valid notes: ${totalValid}`);
   console.log(`   Total invalid notes: ${totalInvalid}`);
+  console.log(`   Time: ${Math.round(totalTime / 60)}min ${Math.round(totalTime % 60)}s`);
+  console.log(`   Rate: ${Math.round(completed / totalTime * 60)} episodes/min`);
 }
 
 main().catch(console.error);
