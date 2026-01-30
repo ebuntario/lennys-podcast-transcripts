@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/jobs-to-be-done]] (1 shared insights)
-- [[concepts/user-journey]] (1 shared insights)
+- [[concepts/customer-journey]] (1 shared insights)

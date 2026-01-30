@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-positioning]] (1 shared insights)
+- [[concepts/product-positioning]] (1 shared insights)
 - [[concepts/buyer-trust]] (1 shared insights)

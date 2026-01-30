@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)
 - [[concepts/customer-centricity]] (1 shared insights)

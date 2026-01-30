@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/company-selection]] (2 shared insights)
 - [[concepts/hiring-strategy]] (1 shared insights)
-- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/product-leadership-strategy]] (1 shared insights)
 - [[concepts/raw-intellect]] (1 shared insights)
 - [[concepts/entrepreneurial-culture]] (1 shared insights)

@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/sales-mindset]] (2 shared insights)
 - [[concepts/positioning]] (2 shared insights)
 - [[concepts/trial-strategy]] (1 shared insights)
-- [[concepts/pricing-experimentation]] (1 shared insights)
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)

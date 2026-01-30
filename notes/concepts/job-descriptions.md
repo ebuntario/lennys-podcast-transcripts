@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/hiring-strategy]] (1 shared insights)
-- [[concepts/job-features-vs-experiences]] (1 shared insights)
+- [[concepts/jobs-to-be-done]] (1 shared insights)

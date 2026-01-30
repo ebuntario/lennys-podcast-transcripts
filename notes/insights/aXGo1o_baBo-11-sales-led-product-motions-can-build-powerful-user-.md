@@ -2,9 +2,9 @@
 type: insight
 title: Sales-led product motions can build powerful, user-centric businesses
 concepts:
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "growth"
-  - "business-model"
+  - "business-models"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

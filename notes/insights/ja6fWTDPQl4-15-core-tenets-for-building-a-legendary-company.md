@@ -2,8 +2,8 @@
 type: insight
 title: Core Tenets for Building a Legendary Company
 concepts:
-  - "company-culture"
-  - "hyper-growth"
+  - "organizational-culture"
+  - "hypergrowth"
   - "ambitious-goals"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody

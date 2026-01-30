@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/decision-making]] (3 shared insights)
 - [[concepts/execution-mindset]] (1 shared insights)
-- [[concepts/product-launch]] (1 shared insights)
+- [[concepts/product-launches]] (1 shared insights)
 - [[concepts/99-percent-done]] (1 shared insights)
 - [[concepts/execution]] (1 shared insights)

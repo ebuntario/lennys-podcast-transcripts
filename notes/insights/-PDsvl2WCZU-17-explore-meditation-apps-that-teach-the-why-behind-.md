@@ -3,7 +3,7 @@ type: insight
 title: Explore meditation apps that teach the "why" behind the practice
 concepts:
   - "meditation"
-  - "mental-wellness"
+  - "mental-health"
   - "mindfulness"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)

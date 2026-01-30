@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/company-naming]] (2 shared insights)
 - [[concepts/podcast-advertising]] (1 shared insights)
 - [[concepts/channel-strategy]] (1 shared insights)
-- [[concepts/community-growth]] (1 shared insights)
+- [[concepts/community-building]] (1 shared insights)
 - [[concepts/product-led-growth]] (1 shared insights)

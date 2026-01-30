@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/evolution-not-revolution]] (2 shared insights)
-- [[concepts/product-led-sales]] (2 shared insights)
+- [[concepts/product-led-growth]] (2 shared insights)
 - [[concepts/data-sales-fit]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)

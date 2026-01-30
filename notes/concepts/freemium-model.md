@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/product-led-growth]] (4 shared insights)
 - [[concepts/early-adopters]] (1 shared insights)
-- [[concepts/product-launch]] (1 shared insights)
+- [[concepts/product-launches]] (1 shared insights)
 - [[concepts/user-perception]] (1 shared insights)
 - [[concepts/growth-loops]] (1 shared insights)

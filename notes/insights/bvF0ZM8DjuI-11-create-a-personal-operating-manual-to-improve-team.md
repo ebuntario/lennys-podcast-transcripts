@@ -2,7 +2,7 @@
 type: insight
 title: Create a Personal Operating Manual to improve team collaboration
 concepts:
-  - "team-alignment"
+  - "organizational-alignment"
   - "communication-styles"
   - "working-style"
 source_guest: Alisa Cohn

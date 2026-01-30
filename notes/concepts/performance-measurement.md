@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/metric-aggregation]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/marketing-strategy]] (1 shared insights)
-- [[concepts/operational-excellence]] (1 shared insights)
+- [[concepts/organizational-excellence]] (1 shared insights)

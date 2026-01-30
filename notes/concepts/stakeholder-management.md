@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/influence]] (2 shared insights)
 - [[concepts/sales-enablement]] (1 shared insights)
 - [[concepts/product-management]] (1 shared insights)
-- [[concepts/executive-leadership]] (1 shared insights)
+- [[concepts/organizational-leadership]] (1 shared insights)

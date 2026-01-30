@@ -4,7 +4,7 @@ title: Democratize security education as a public growth loop
 concepts:
   - "community-led-growth"
   - "developer-education"
-  - "content-marketing"
+  - "content-strategy"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

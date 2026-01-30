@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/skill-development]] (1 shared insights)

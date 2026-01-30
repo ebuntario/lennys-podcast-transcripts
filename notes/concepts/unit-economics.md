@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/marketplace-strategy]] (2 shared insights)
 - [[concepts/customer-acquisition-cost]] (1 shared insights)
-- [[concepts/market-analysis]] (1 shared insights)
+- [[concepts/market-research]] (1 shared insights)

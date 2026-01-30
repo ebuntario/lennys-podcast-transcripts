@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-adoption]] (1 shared insights)
+- [[concepts/product-adoption]] (1 shared insights)
 - [[concepts/workflow-tools]] (1 shared insights)

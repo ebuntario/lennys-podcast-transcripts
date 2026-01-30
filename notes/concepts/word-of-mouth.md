@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-strategy]] (3 shared insights)
+- [[concepts/strategic-growth-management]] (3 shared insights)
 - [[concepts/community-building]] (2 shared insights)
 - [[concepts/organic-growth]] (1 shared insights)
 - [[concepts/building-in-public]] (1 shared insights)

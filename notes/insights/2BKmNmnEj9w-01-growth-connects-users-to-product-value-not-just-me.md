@@ -3,8 +3,8 @@ type: insight
 title: Growth connects users to product value, not just metrics hacking
 concepts:
   - "growth-mindset"
-  - "user-journey"
-  - "value-proposition"
+  - "customer-journey"
+  - "customer-value-proposition"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

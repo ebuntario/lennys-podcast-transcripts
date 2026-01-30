@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/growth-metrics]] (1 shared insights)
 - [[concepts/team-incentives]] (1 shared insights)
-- [[concepts/conversion-rates]] (1 shared insights)
+- [[concepts/conversion-optimization]] (1 shared insights)

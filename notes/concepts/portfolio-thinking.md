@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
 - [[concepts/resource-allocation]] (1 shared insights)
-- [[concepts/innovation-culture]] (1 shared insights)
+- [[concepts/organizational-innovation]] (1 shared insights)

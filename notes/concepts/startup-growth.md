@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-development]] (1 shared insights)
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/minimum-lovable-product]] (1 shared insights)
 - [[concepts/marketing]] (1 shared insights)
 - [[concepts/product-demos]] (1 shared insights)

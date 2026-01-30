@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/user-onboarding]] (2 shared insights)
 - [[concepts/differentiated-value]] (1 shared insights)
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)
 - [[concepts/behavioral-science]] (1 shared insights)
 - [[concepts/ai-evals]] (1 shared insights)

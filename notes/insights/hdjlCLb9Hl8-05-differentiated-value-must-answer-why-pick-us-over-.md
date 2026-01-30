@@ -4,7 +4,7 @@ title: Differentiated value must answer "why pick us over alternatives?"
 concepts:
   - "differentiated-value"
   - "positioning"
-  - "competitive-advantage"
+  - "product-market-leadership"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

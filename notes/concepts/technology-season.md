@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-planning]] (1 shared insights)
+- [[concepts/strategic-thinking]] (1 shared insights)
 - [[concepts/agile-roadmapping]] (1 shared insights)
 - [[concepts/technology-cycles]] (1 shared insights)

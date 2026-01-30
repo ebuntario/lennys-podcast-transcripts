@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/growth-loops]] (1 shared insights)
-- [[concepts/product-led-acquisition]] (1 shared insights)
+- [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/seo-strategy]] (1 shared insights)
 - [[concepts/acquisition]] (1 shared insights)

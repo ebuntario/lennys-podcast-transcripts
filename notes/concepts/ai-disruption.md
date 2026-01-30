@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-pivot]] (1 shared insights)
+- [[concepts/strategic-pivots]] (1 shared insights)
 - [[concepts/competitive-threat]] (1 shared insights)
 - [[concepts/workplace-automation]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)
-- [[concepts/operational-efficiency]] (1 shared insights)
+- [[concepts/organizational-effectiveness]] (1 shared insights)

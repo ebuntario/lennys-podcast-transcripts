@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/career-development]] (2 shared insights)
 - [[concepts/job-rotation]] (1 shared insights)
-- [[concepts/professional-growth]] (1 shared insights)
+- [[concepts/career-development]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)

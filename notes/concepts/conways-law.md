@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/engineering-leadership]] (1 shared insights)
-- [[concepts/technical-strategy]] (1 shared insights)
+- [[concepts/technical-leadership]] (1 shared insights)

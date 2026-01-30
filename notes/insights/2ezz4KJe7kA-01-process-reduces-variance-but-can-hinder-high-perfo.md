@@ -4,7 +4,7 @@ title: Process reduces variance but can hinder high performers
 concepts:
   - "process-design"
   - "high-performers"
-  - "innovation-culture"
+  - "organizational-innovation"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

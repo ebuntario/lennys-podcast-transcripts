@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/innovation-culture]] (1 shared insights)
+- [[concepts/organizational-innovation]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)

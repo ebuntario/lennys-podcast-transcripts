@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/early-adoption]] (1 shared insights)

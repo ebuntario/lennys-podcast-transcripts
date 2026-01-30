@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-led-sales]] (1 shared insights)
+- [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/enterprise-value-proposition]] (1 shared insights)

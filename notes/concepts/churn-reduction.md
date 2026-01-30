@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/customer-feedback]] (1 shared insights)
-- [[concepts/product-iteration]] (1 shared insights)
+- [[concepts/product-development]] (1 shared insights)

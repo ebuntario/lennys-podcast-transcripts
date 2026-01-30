@@ -2,7 +2,7 @@
 type: insight
 title: Blending consumer and enterprise product mindsets
 concepts:
-  - "product-mindset"
+  - "product-thinking"
   - "b2b2c"
   - "career-development"
 source_guest: Annie Pearl

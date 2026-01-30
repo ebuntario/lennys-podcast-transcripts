@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/supply-quality]] (1 shared insights)
 - [[concepts/user-empowerment]] (1 shared insights)
 - [[concepts/supply-strategy]] (1 shared insights)
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)

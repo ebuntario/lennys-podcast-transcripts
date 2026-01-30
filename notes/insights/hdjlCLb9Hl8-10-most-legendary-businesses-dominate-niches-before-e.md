@@ -2,7 +2,7 @@
 type: insight
 title: Most legendary businesses dominate niches before expanding categories
 concepts:
-  - "market-strategy"
+  - "product-market-strategy"
   - "category-creation"
   - "bowling-pin-strategy"
 source_guest: April Dunford

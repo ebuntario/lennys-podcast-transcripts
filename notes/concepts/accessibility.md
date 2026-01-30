@@ -16,4 +16,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/optimization-prioritization]] (1 shared insights)
-- [[concepts/growth-tactics]] (1 shared insights)
+- [[concepts/growth-marketing]] (1 shared insights)

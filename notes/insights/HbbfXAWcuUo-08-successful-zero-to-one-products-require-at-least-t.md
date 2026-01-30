@@ -2,7 +2,7 @@
 type: insight
 title: Successful zero-to-one products require at least two of three inflection points
 concepts:
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "market-timing"
   - "innovation"
 source_guest: Aparna Chennapragada

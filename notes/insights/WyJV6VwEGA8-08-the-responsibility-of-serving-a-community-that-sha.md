@@ -3,8 +3,8 @@ type: insight
 title: The responsibility of serving a community that shapes technology
 concepts:
   - "community-stewardship"
-  - "product-vision"
-  - "company-culture"
+  - "organizational-product-strategy"
+  - "organizational-culture"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

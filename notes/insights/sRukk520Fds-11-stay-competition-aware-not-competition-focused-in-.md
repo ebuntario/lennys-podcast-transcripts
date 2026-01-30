@@ -2,7 +2,7 @@
 type: insight
 title: Stay competition-aware, not competition-focused, in large, non-saturated markets
 concepts:
-  - "competitive-strategy"
+  - "market-strategy"
   - "market-focus"
   - "customer-centricity"
 source_guest: Brian Tolkin

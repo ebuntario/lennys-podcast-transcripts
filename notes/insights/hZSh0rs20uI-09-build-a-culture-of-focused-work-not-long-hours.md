@@ -3,7 +3,7 @@ type: insight
 title: Build a Culture of Focused Work, Not Long Hours
 concepts:
   - "work-life-balance"
-  - "operational-efficiency"
+  - "organizational-effectiveness"
   - "team-culture"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)

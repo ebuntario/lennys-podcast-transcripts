@@ -4,7 +4,7 @@ title: Share of wallet measures marketplace depth and defensibility
 concepts:
   - "marketplace-strategy"
   - "customer-lifetime-value"
-  - "competitive-moat"
+  - "strategic-advantage"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

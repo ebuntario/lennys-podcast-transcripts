@@ -2,7 +2,7 @@
 type: insight
 title: CPOs must prioritize business leadership over product leadership
 concepts:
-  - "executive-leadership"
+  - "organizational-leadership"
   - "cross-functional-alignment"
   - "stakeholder-management"
 source_guest: Casey Winters

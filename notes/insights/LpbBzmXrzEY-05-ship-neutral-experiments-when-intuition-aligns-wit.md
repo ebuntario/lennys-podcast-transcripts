@@ -3,7 +3,7 @@ type: insight
 title: Ship neutral experiments when intuition aligns with long-term vision
 concepts:
   - "experimentation"
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "decision-making"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)

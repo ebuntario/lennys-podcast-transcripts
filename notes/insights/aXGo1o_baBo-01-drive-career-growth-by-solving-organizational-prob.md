@@ -2,7 +2,7 @@
 type: insight
 title: Drive career growth by solving organizational problems
 concepts:
-  - "career-growth"
+  - "career-development"
   - "problem-solving"
   - "leadership"
 source_guest: Claire Vo

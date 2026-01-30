@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership-mindset]] (1 shared insights)
+- [[concepts/leadership-development]] (1 shared insights)
 - [[concepts/career-development]] (1 shared insights)

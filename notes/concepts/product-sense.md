@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/continuous-learning]] (2 shared insights)
 - [[concepts/skill-development]] (2 shared insights)
 - [[concepts/career-development]] (2 shared insights)
-- [[concepts/user-empathy]] (1 shared insights)
+- [[concepts/customer-empathy]] (1 shared insights)
 - [[concepts/creative-inspiration]] (1 shared insights)

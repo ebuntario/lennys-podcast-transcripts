@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/natural-language-interface]] (2 shared insights)
-- [[concepts/user-experience]] (2 shared insights)
+- [[concepts/customer-experience]] (2 shared insights)

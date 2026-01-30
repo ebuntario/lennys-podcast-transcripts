@@ -3,7 +3,7 @@ type: insight
 title: Avoid the Silicon Valley fundraising and hype machine to build with integrity
 concepts:
   - "bootstrapping"
-  - "company-culture"
+  - "organizational-culture"
   - "product-development"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen

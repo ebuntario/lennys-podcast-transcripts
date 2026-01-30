@@ -2,7 +2,7 @@
 type: insight
 title: The Apple product model prioritizes craft and design over pure strategy
 concepts:
-  - "product-development-culture"
+  - "product-culture"
   - "design-led-development"
   - "organizational-structure"
 source_guest: Camille Hearst

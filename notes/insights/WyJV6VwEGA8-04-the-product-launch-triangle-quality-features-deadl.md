@@ -2,7 +2,7 @@
 type: insight
 title: The product launch triangle: quality, features, deadline
 concepts:
-  - "product-launch"
+  - "product-launches"
   - "quality-bar"
   - "iterative-development"
 source_guest: Dylan Field

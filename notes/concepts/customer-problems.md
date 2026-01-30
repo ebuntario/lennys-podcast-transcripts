@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/solution-first-thinking]] (1 shared insights)
-- [[concepts/product-validation]] (1 shared insights)
+- [[concepts/market-validation]] (1 shared insights)

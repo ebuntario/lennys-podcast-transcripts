@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/human-agency]] (1 shared insights)
 - [[concepts/ai-impact]] (1 shared insights)
 - [[concepts/product-innovation]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/ai-integration]] (1 shared insights)

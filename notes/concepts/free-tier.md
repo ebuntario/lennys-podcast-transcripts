@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/software-architecture]] (1 shared insights)
-- [[concepts/product-growth]] (1 shared insights)
+- [[concepts/growth-product-strategy]] (1 shared insights)

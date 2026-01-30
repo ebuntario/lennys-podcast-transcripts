@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-experience]] (2 shared insights)
+- [[concepts/customer-experience]] (2 shared insights)
 - [[concepts/ai-interaction-design]] (2 shared insights)

@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/content-marketing]] (1 shared insights)
+- [[concepts/content-strategy]] (1 shared insights)
 - [[concepts/jobs-to-be-done]] (1 shared insights)
 - [[concepts/product-market-fit]] (1 shared insights)

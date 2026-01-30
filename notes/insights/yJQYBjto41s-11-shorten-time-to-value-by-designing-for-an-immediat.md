@@ -4,7 +4,7 @@ title: Shorten time-to-value by designing for an immediate "awesome moment"
 concepts:
   - "product-development"
   - "user-onboarding"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

@@ -3,7 +3,7 @@ type: insight
 title: Use stand-up comedy principles to build product resilience
 concepts:
   - "rapid-iteration"
-  - "user-feedback"
+  - "customer-feedback"
   - "resilience"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada

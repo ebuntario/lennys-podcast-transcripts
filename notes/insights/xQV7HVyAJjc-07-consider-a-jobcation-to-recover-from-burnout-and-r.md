@@ -4,7 +4,7 @@ title: Consider a 'jobcation' to recover from burnout and rediscover yourself
 concepts:
   - "jobcation"
   - "burnout-recovery"
-  - "career-transition"
+  - "career-transitions"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

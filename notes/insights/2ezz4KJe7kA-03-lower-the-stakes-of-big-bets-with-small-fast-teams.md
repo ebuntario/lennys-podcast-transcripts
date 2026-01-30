@@ -2,7 +2,7 @@
 type: insight
 title: Lower the stakes of big bets with small, fast teams
 concepts:
-  - "innovation-culture"
+  - "organizational-innovation"
   - "team-structure"
   - "experimentation"
 source_guest: Eeke de Milliano

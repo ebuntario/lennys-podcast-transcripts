@@ -2,8 +2,8 @@
 type: insight
 title: "Sizzle" features can create viral moments that drive initial adoption
 concepts:
-  - "product-launch"
-  - "user-acquisition"
+  - "product-launches"
+  - "customer-acquisition"
   - "product-marketing"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)

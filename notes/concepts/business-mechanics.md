@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/customer-proximity]] (1 shared insights)
-- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/product-leadership-strategy]] (1 shared insights)

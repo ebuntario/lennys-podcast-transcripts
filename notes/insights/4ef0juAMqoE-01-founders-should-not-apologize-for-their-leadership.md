@@ -4,7 +4,7 @@ title: Founders should not apologize for their leadership style
 concepts:
   - "leadership"
   - "decision-making"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

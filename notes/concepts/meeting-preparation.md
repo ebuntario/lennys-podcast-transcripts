@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/executive-communication]] (1 shared insights)
+- [[concepts/leadership-communication]] (1 shared insights)
 - [[concepts/risk-mitigation]] (1 shared insights)

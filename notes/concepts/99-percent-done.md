@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/execution-mindset]] (1 shared insights)
-- [[concepts/product-launch]] (1 shared insights)
+- [[concepts/product-launches]] (1 shared insights)
 - [[concepts/ownership]] (1 shared insights)

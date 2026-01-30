@@ -4,7 +4,7 @@ title: New distribution platforms create asymmetric opportunities for startups
 concepts:
   - "distribution-platforms"
   - "startup-strategy"
-  - "competitive-advantage"
+  - "product-market-leadership"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

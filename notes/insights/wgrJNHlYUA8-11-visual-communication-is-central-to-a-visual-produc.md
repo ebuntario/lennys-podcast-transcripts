@@ -2,7 +2,7 @@
 type: insight
 title: Visual communication is central to a visual product's culture
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "communication"
   - "product-development"
 source_guest: Cameron Adams

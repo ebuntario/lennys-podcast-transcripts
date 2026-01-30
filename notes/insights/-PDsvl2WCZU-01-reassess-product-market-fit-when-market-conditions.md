@@ -4,7 +4,7 @@ title: Reassess product-market fit when market conditions change
 concepts:
   - "product-market-fit"
   - "market-shifts"
-  - "growth-strategy"
+  - "strategic-growth-management"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

@@ -3,7 +3,7 @@ type: insight
 title: Delegate to Empower Your Team and Scale Yourself
 concepts:
   - "delegation"
-  - "team-development"
+  - "team-building"
   - "leadership-scalability"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)

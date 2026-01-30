@@ -15,5 +15,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-agent]] (1 shared insights)
+- [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/product-development]] (1 shared insights)

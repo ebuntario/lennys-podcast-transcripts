@@ -4,7 +4,7 @@ title: Be surgical with managed supply to address specific gaps
 concepts:
   - "managed-marketplaces"
   - "supply-strategy"
-  - "competitive-advantage"
+  - "product-market-leadership"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

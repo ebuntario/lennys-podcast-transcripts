@@ -3,7 +3,7 @@ type: insight
 title: Integrate AI as an enhancer to user goals, not as the product core
 concepts:
   - "ai-integration"
-  - "product-vision"
+  - "organizational-product-strategy"
   - "technology-adoption"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams

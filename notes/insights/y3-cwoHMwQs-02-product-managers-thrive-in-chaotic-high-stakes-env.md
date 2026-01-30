@@ -2,7 +2,7 @@
 type: insight
 title: Product managers thrive in chaotic, high-stakes environments
 concepts:
-  - "product-leadership"
+  - "product-leadership-strategy"
   - "wartime-product-management"
   - "prioritization"
 source_guest: Alex Hardiman

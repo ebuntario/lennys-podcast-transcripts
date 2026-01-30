@@ -3,7 +3,7 @@ type: insight
 title: Use a simple "once upon a time" story framework to craft a vision narrative
 concepts:
   - "storytelling"
-  - "product-vision"
+  - "organizational-product-strategy"
   - "communication"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)

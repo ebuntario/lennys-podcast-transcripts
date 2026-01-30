@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/hiring-strategy]] (1 shared insights)
-- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/product-leadership-strategy]] (1 shared insights)
 - [[concepts/career-acceleration]] (1 shared insights)

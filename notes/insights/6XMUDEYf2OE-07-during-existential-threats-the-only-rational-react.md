@@ -2,7 +2,7 @@
 type: insight
 title: During existential threats, the only rational reaction is overreaction
 concepts:
-  - "competitive-strategy"
+  - "market-strategy"
   - "innovators-dilemma"
   - "strategic-pivots"
 source_guest: Casey Winters

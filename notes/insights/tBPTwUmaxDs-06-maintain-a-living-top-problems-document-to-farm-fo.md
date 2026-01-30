@@ -3,7 +3,7 @@ type: insight
 title: Maintain a living "top problems" document to farm for insights
 concepts:
   - "problem-framing"
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "continuous-learning"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)

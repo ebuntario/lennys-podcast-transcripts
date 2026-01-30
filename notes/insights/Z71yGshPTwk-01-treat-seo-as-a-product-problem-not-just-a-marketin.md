@@ -4,7 +4,7 @@ title: Treat SEO as a product problem, not just a marketing tactic
 concepts:
   - "seo-strategy"
   - "product-led-growth"
-  - "user-journey"
+  - "customer-journey"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

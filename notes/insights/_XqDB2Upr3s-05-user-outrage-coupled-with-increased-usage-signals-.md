@@ -2,8 +2,8 @@
 type: insight
 title: User outrage coupled with increased usage signals a successful but imperfect launch
 concepts:
-  - "product-launch"
-  - "user-feedback"
+  - "product-launches"
+  - "customer-feedback"
   - "conviction"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)

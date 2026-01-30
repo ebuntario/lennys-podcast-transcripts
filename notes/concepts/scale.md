@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/business-model]] (1 shared insights)
+- [[concepts/business-models]] (1 shared insights)
 - [[concepts/entrepreneurial-mindset]] (1 shared insights)
 - [[concepts/automation]] (1 shared insights)

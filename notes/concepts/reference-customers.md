@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-market-fit]] (1 shared insights)
-- [[concepts/value-creation]] (1 shared insights)
+- [[concepts/customer-value-creation]] (1 shared insights)

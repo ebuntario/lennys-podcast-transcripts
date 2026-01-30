@@ -4,7 +4,7 @@ title: Sales pitches should focus on immediate value, not distant futures
 concepts:
   - "sales-pitch-framework"
   - "buyer-psychology"
-  - "value-proposition"
+  - "customer-value-proposition"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

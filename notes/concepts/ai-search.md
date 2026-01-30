@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/seo-strategy]] (1 shared insights)
-- [[concepts/user-journey]] (1 shared insights)
+- [[concepts/customer-journey]] (1 shared insights)
 - [[concepts/search-engines]] (1 shared insights)
 - [[concepts/market-dynamics]] (1 shared insights)

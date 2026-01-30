@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-management]] (2 shared insights)
-- [[concepts/value-creation]] (2 shared insights)
+- [[concepts/customer-value-creation]] (2 shared insights)
 - [[concepts/struggling-moment]] (1 shared insights)
 - [[concepts/innovation]] (1 shared insights)
 - [[concepts/demand-side-sales]] (1 shared insights)

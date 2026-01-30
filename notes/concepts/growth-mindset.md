@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/team-building]] (1 shared insights)
 - [[concepts/talent-alignment]] (1 shared insights)
-- [[concepts/user-journey]] (1 shared insights)
-- [[concepts/value-proposition]] (1 shared insights)
+- [[concepts/customer-journey]] (1 shared insights)
+- [[concepts/customer-value-proposition]] (1 shared insights)
 - [[concepts/ownership-mentality]] (1 shared insights)

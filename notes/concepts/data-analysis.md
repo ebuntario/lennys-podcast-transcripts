@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/experimentation]] (1 shared insights)
 - [[concepts/retention]] (1 shared insights)
 - [[concepts/causation-vs-correlation]] (1 shared insights)

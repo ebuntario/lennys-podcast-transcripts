@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/job-features-vs-experiences]] (1 shared insights)
+- [[concepts/jobs-to-be-done]] (1 shared insights)
 - [[concepts/career-fulfillment]] (1 shared insights)
 - [[concepts/career-trade-offs]] (1 shared insights)
 - [[concepts/job-acceptance]] (1 shared insights)

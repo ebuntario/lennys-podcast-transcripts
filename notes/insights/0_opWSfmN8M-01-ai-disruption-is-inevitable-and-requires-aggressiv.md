@@ -3,7 +3,7 @@ type: insight
 title: AI disruption is inevitable and requires aggressive adaptation
 concepts:
   - "ai-disruption"
-  - "strategic-pivot"
+  - "strategic-pivots"
   - "competitive-threat"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)

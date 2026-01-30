@@ -3,7 +3,7 @@ type: insight
 title: Prioritizing generative capacity over executional skill
 concepts:
   - "idea-generation"
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "ai-productivity"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)

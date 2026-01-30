@@ -3,7 +3,7 @@ type: insight
 title: Activation becomes a core product function in AI-native companies
 concepts:
   - "activation"
-  - "ai-agent"
+  - "ai-agents"
   - "product-development"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year

@@ -3,7 +3,7 @@ type: insight
 title: First-principles thinking and mini-CEO ownership develop top product talent
 concepts:
   - "first-principles-thinking"
-  - "product-leadership"
+  - "product-leadership-strategy"
   - "autonomy"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)

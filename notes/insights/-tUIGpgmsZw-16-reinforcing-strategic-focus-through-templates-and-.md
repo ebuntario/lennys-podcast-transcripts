@@ -2,8 +2,8 @@
 type: insight
 title: Reinforcing strategic focus through templates and rituals
 concepts:
-  - "strategic-focus"
-  - "operational-excellence"
+  - "strategic-priorities"
+  - "organizational-excellence"
   - "product-culture"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)

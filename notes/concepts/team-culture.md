@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/leadership]] (2 shared insights)
 - [[concepts/company-evaluation]] (2 shared insights)
 - [[concepts/competitive-analysis]] (1 shared insights)
-- [[concepts/strategic-planning]] (1 shared insights)
+- [[concepts/strategic-thinking]] (1 shared insights)

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/agile-marketing]] (1 shared insights)
-- [[concepts/product-marketing-integration]] (1 shared insights)
+- [[concepts/product-marketing]] (1 shared insights)

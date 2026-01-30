@@ -15,5 +15,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/mental-wellness]] (1 shared insights)
+- [[concepts/mental-health]] (1 shared insights)
 - [[concepts/mindfulness]] (1 shared insights)

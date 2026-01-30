@@ -4,7 +4,7 @@ title: A Growth CMO integrates marketing with product development through agile 
 concepts:
   - "growth-cmo"
   - "agile-marketing"
-  - "product-marketing-integration"
+  - "product-marketing"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

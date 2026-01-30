@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-differentiation]] (1 shared insights)
+- [[concepts/product-differentiation]] (1 shared insights)
 - [[concepts/user-delight]] (1 shared insights)
 - [[concepts/table-stakes-features]] (1 shared insights)

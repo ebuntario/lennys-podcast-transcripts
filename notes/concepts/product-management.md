@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/influence]] (2 shared insights)
 - [[concepts/career-development]] (2 shared insights)
-- [[concepts/ai-tools]] (2 shared insights)
+- [[concepts/ai-applications]] (2 shared insights)
 - [[concepts/skill-evolution]] (2 shared insights)
 - [[concepts/skill-development]] (2 shared insights)

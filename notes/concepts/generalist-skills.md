@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/skill-evolution]] (1 shared insights)
 - [[concepts/team-building]] (1 shared insights)
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)

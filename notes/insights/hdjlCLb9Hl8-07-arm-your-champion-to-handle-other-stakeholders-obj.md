@@ -3,7 +3,7 @@ type: insight
 title: Arm your champion to handle other stakeholders' objections
 concepts:
   - "b2b-sales"
-  - "sales-process"
+  - "sales-strategy"
   - "stakeholder-management"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)

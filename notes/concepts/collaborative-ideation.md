@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/engineering-motivation]] (1 shared insights)
 - [[concepts/creative-control]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)

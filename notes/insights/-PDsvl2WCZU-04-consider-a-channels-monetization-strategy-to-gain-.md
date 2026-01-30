@@ -3,7 +3,7 @@ type: insight
 title: Consider a channel's monetization strategy to gain partnership advantages
 concepts:
   - "channel-partnerships"
-  - "growth-strategy"
+  - "strategic-growth-management"
   - "early-adoption"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/value-proposition]] (1 shared insights)
+- [[concepts/customer-value-proposition]] (1 shared insights)
 - [[concepts/early-stage-strategy]] (1 shared insights)

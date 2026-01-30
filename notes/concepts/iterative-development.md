@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-launch]] (1 shared insights)
+- [[concepts/product-launches]] (1 shared insights)
 - [[concepts/quality-bar]] (1 shared insights)
 - [[concepts/agency-control-tradeoff]] (1 shared insights)
 - [[concepts/risk-management]] (1 shared insights)

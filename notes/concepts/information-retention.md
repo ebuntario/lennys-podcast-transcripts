@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/communication-skills]] (1 shared insights)
+- [[concepts/professional-communication]] (1 shared insights)
 - [[concepts/presentation-techniques]] (1 shared insights)

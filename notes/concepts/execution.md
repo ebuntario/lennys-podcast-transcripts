@@ -19,4 +19,4 @@ SORT file.name ASC
 - [[concepts/accountability]] (2 shared insights)
 - [[concepts/strategy]] (2 shared insights)
 - [[concepts/prioritization]] (2 shared insights)
-- [[concepts/product-strategy]] (2 shared insights)
+- [[concepts/organizational-product-strategy]] (2 shared insights)

@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/talent-density]] (2 shared insights)
-- [[concepts/go-to-market]] (2 shared insights)
-- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/go-to-market-strategy]] (2 shared insights)
+- [[concepts/product-leadership-strategy]] (1 shared insights)
 - [[concepts/career-acceleration]] (1 shared insights)
 - [[concepts/raw-intellect]] (1 shared insights)

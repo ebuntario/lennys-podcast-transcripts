@@ -4,7 +4,7 @@ title: Don't just digitize the past; create native, transformative experiences
 concepts:
   - "product-innovation"
   - "technology-adoption"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

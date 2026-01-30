@@ -2,7 +2,7 @@
 type: insight
 title: An MVP must spark joy and excitement, not just utility
 concepts:
-  - "mvp-strategy"
+  - "minimum-viable-product"
   - "user-delight"
   - "word-of-mouth-growth"
 source_guest: Cameron Adams

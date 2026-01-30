@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize momentum and feedback over a "perfect" launch
 concepts:
-  - "product-launch"
+  - "product-launches"
   - "product-market-fit-signals"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)

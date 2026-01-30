@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/strategic-narrative]] (1 shared insights)
 - [[concepts/messaging]] (1 shared insights)
-- [[concepts/product-vision]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
 - [[concepts/strategic-framing]] (1 shared insights)

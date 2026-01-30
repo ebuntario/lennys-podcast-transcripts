@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/problem-solving]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)
 - [[concepts/hands-on-mindset]] (1 shared insights)

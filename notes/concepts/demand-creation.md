@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/category-design]] (1 shared insights)
-- [[concepts/competitive-strategy]] (1 shared insights)
+- [[concepts/market-strategy]] (1 shared insights)

@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-layering]] (1 shared insights)
-- [[concepts/competitive-differentiation]] (1 shared insights)
+- [[concepts/product-differentiation]] (1 shared insights)
 - [[concepts/user-delight]] (1 shared insights)

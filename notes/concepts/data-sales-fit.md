@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/evolution-not-revolution]] (1 shared insights)
 - [[concepts/pilot-programs]] (1 shared insights)
-- [[concepts/product-led-sales]] (1 shared insights)
+- [[concepts/product-led-growth]] (1 shared insights)

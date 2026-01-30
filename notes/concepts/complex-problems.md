@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/problem-selection]] (1 shared insights)
 - [[concepts/market-opportunity]] (1 shared insights)
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)

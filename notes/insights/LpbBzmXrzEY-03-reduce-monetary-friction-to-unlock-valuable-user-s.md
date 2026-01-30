@@ -2,8 +2,8 @@
 type: insight
 title: Reduce monetary friction to unlock valuable user segments
 concepts:
-  - "user-acquisition"
-  - "onboarding"
+  - "customer-acquisition"
+  - "user-onboarding"
   - "experimentation"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)

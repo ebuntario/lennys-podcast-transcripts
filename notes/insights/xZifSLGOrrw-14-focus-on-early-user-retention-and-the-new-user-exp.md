@@ -2,7 +2,7 @@
 type: insight
 title: Focus on early user retention and the new user experience, even for power-user tools
 concepts:
-  - "user-retention"
+  - "customer-retention"
   - "product-metrics"
   - "user-onboarding"
 source_guest: Alexander Embiricos

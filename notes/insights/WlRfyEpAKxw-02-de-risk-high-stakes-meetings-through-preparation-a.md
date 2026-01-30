@@ -3,7 +3,7 @@ type: insight
 title: De-Risk High-Stakes Meetings Through Preparation and Role-Playing
 concepts:
   - "meeting-preparation"
-  - "executive-communication"
+  - "leadership-communication"
   - "risk-mitigation"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters

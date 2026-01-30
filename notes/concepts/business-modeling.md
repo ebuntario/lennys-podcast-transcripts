@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-model]] (2 shared insights)
-- [[concepts/decision-framework]] (1 shared insights)
+- [[concepts/growth-loops]] (2 shared insights)
+- [[concepts/decision-frameworks]] (1 shared insights)
 - [[concepts/saas-metrics]] (1 shared insights)

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/zero-to-one]] (1 shared insights)
-- [[concepts/portfolio-strategy]] (1 shared insights)
+- [[concepts/product-portfolio]] (1 shared insights)

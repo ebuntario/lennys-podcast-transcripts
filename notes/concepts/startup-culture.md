@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/hiring]] (2 shared insights)
 - [[concepts/hiring-marketing]] (1 shared insights)
 - [[concepts/leadership-adaptability]] (1 shared insights)
-- [[concepts/startup-mindset]] (1 shared insights)
+- [[concepts/startup-strategy]] (1 shared insights)

@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/word-of-mouth]] (2 shared insights)
-- [[concepts/user-retention]] (1 shared insights)
+- [[concepts/customer-retention]] (1 shared insights)
 - [[concepts/diversity-inclusion]] (1 shared insights)
 - [[concepts/ai-skills]] (1 shared insights)
 - [[concepts/growth-levers]] (1 shared insights)

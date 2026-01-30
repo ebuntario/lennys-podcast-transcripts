@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/product-market-fit]] (1 shared insights)
 - [[concepts/developer-tools]] (1 shared insights)
 - [[concepts/developer-education]] (1 shared insights)
-- [[concepts/content-marketing]] (1 shared insights)
+- [[concepts/content-strategy]] (1 shared insights)
 - [[concepts/early-adopters]] (1 shared insights)

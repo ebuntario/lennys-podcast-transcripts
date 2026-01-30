@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/buyer-persona]] (1 shared insights)
+- [[concepts/buyer-personas]] (1 shared insights)
 - [[concepts/onboarding-optimization]] (1 shared insights)

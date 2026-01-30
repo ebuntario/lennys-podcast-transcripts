@@ -2,7 +2,7 @@
 type: insight
 title: Evangelize vision through concentric circles: team, stakeholders, leadership
 concepts:
-  - "product-vision"
+  - "organizational-product-strategy"
   - "stakeholder-alignment"
   - "communication"
 source_guest: Ebi Atawodi

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-empathy]] (1 shared insights)
+- [[concepts/customer-empathy]] (1 shared insights)
 - [[concepts/software-as-a-medium]] (1 shared insights)

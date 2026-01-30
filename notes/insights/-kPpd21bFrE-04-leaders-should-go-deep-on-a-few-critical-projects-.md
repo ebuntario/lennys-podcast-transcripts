@@ -3,7 +3,7 @@ type: insight
 title: Leaders should go deep on a few critical projects rather than staying high-level on many
 concepts:
   - "leadership-depth"
-  - "execution-focus"
+  - "growth-strategy-execution"
   - "team-autonomy"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

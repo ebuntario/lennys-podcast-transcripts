@@ -2,8 +2,8 @@
 type: insight
 title: A macro-vision is evergreen; micro-visions address nearer-term problems
 concepts:
-  - "product-vision"
-  - "strategic-planning"
+  - "organizational-product-strategy"
+  - "strategic-thinking"
   - "roadmapping"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)

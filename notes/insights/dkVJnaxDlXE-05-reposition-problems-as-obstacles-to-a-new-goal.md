@@ -4,7 +4,7 @@ title: Reposition problems as obstacles to a new goal
 concepts:
   - "strategic-narrative"
   - "problem-framing"
-  - "value-proposition"
+  - "customer-value-proposition"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

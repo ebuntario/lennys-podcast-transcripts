@@ -2,7 +2,7 @@
 type: insight
 title: Sketch low-fidelity mocks to visualize the vision, even without a designer
 concepts:
-  - "product-vision"
+  - "organizational-product-strategy"
   - "visual-communication"
   - "execution"
 source_guest: Ebi Atawodi

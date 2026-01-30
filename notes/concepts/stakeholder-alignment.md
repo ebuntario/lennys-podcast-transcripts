@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/internal-communication]] (1 shared insights)
 - [[concepts/platform-adoption]] (1 shared insights)
 - [[concepts/organizational-trust]] (1 shared insights)
-- [[concepts/product-vision]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)

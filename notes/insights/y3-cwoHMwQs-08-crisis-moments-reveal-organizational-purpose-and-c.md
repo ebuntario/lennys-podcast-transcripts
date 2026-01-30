@@ -3,7 +3,7 @@ type: insight
 title: Crisis moments reveal organizational purpose and capability
 concepts:
   - "crisis-response"
-  - "team-alignment"
+  - "organizational-alignment"
   - "product-purpose"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)

@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/startup-strategy]] (1 shared insights)
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)
 - [[concepts/platform-lifecycle]] (1 shared insights)
 - [[concepts/monetization]] (1 shared insights)
 - [[concepts/platform-strategy]] (1 shared insights)

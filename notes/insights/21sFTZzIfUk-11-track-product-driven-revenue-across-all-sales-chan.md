@@ -2,7 +2,7 @@
 type: insight
 title: Track product-driven revenue across all sales channels
 concepts:
-  - "product-led-sales"
+  - "product-led-growth"
   - "revenue-attribution"
   - "growth-metrics"
 source_guest: Ben Williams

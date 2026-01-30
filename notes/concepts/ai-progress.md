@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/agi]] (1 shared insights)
+- [[concepts/artificial-intelligence]] (1 shared insights)
 - [[concepts/ai-definition]] (1 shared insights)

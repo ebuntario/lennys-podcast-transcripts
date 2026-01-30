@@ -2,7 +2,7 @@
 type: insight
 title: The moral obligation to build great products
 concepts:
-  - "user-empathy"
+  - "customer-empathy"
   - "emotional-impact"
   - "software-as-a-medium"
 source_guest: Bob Baxley

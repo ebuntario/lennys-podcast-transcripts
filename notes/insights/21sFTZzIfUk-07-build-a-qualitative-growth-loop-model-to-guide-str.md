@@ -3,7 +3,7 @@ type: insight
 title: Build a qualitative growth loop model to guide strategic focus
 concepts:
   - "growth-modeling"
-  - "strategic-focus"
+  - "strategic-priorities"
   - "growth-loops"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)

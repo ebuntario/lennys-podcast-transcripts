@@ -19,4 +19,4 @@ SORT file.name ASC
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/idea-championing]] (1 shared insights)
 - [[concepts/radical-ideas]] (1 shared insights)
-- [[concepts/product-launch]] (1 shared insights)
+- [[concepts/product-launches]] (1 shared insights)

@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/product-development]] (2 shared insights)
 - [[concepts/workforce-development]] (1 shared insights)
 - [[concepts/hiring]] (1 shared insights)
-- [[concepts/company-culture]] (1 shared insights)
+- [[concepts/organizational-culture]] (1 shared insights)
 - [[concepts/internal-tools]] (1 shared insights)

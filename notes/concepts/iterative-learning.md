@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/personal-experimentation]] (1 shared insights)
 - [[concepts/data-driven-decisions]] (1 shared insights)
-- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/product-market-leadership]] (1 shared insights)

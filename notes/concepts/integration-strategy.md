@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/developer-experience]] (1 shared insights)
-- [[concepts/user-adoption]] (1 shared insights)
+- [[concepts/product-adoption]] (1 shared insights)

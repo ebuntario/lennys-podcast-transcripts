@@ -3,7 +3,7 @@ type: insight
 title: Treat 99% done as closer to 0% than 100% complete
 concepts:
   - "execution-mindset"
-  - "product-launch"
+  - "product-launches"
   - "ownership"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

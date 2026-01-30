@@ -2,7 +2,7 @@
 type: insight
 title: Former product managers make strong product ops leaders due to firsthand pain point understanding
 concepts:
-  - "career-transition"
+  - "career-transitions"
   - "product-operations"
   - "leadership"
 source_guest: Christine Itwaru

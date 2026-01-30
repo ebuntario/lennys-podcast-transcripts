@@ -4,7 +4,7 @@ title: With low transaction volume, use creativity and clarity to build convicti
 concepts:
   - "experimentation-low-volume"
   - "conviction-building"
-  - "data-informed-decisions"
+  - "data-driven-decisions"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

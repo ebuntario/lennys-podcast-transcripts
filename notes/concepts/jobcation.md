@@ -16,4 +16,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/burnout-recovery]] (1 shared insights)
-- [[concepts/career-transition]] (1 shared insights)
+- [[concepts/career-transitions]] (1 shared insights)

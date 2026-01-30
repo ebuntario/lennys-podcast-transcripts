@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-advantage]] (2 shared insights)
+- [[concepts/product-market-leadership]] (2 shared insights)
 - [[concepts/product-positioning]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)
 - [[concepts/product-marketing]] (1 shared insights)

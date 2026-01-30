@@ -4,7 +4,7 @@ title: AI will automate repetitive work across all business functions, not just 
 concepts:
   - "workplace-automation"
   - "ai-agents"
-  - "operational-efficiency"
+  - "organizational-effectiveness"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

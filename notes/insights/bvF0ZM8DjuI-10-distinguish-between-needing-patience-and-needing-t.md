@@ -4,7 +4,7 @@ title: Distinguish between needing patience and needing to fix a broken process
 concepts:
   - "leadership"
   - "problem-solving"
-  - "operational-excellence"
+  - "organizational-excellence"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

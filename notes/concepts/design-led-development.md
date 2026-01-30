@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-development-culture]] (1 shared insights)
+- [[concepts/product-culture]] (1 shared insights)
 - [[concepts/organizational-structure]] (1 shared insights)

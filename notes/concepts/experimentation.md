@@ -19,4 +19,4 @@ SORT file.name ASC
 - [[concepts/decision-making]] (3 shared insights)
 - [[concepts/data-driven-decisions]] (3 shared insights)
 - [[concepts/product-development]] (2 shared insights)
-- [[concepts/innovation-culture]] (2 shared insights)
+- [[concepts/organizational-innovation]] (2 shared insights)

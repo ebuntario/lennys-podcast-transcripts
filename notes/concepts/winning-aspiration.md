@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
 - [[concepts/market-segmentation]] (1 shared insights)

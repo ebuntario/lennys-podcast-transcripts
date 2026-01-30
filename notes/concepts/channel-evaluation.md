@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/customer-alignment]] (1 shared insights)
 - [[concepts/influencer-marketing]] (1 shared insights)
 - [[concepts/targeted-marketing]] (1 shared insights)

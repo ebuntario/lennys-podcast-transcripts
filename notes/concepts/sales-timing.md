@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/product-qualified-account]] (2 shared insights)
 - [[concepts/customer-journey]] (1 shared insights)
-- [[concepts/product-led-sales]] (1 shared insights)
+- [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/behavioral-signals]] (1 shared insights)

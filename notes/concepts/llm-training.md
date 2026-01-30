@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/software-engineering]] (1 shared insights)
+- [[concepts/software-development]] (1 shared insights)
 - [[concepts/ai-advancement]] (1 shared insights)

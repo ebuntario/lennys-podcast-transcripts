@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/sales-process]] (1 shared insights)
+- [[concepts/sales-strategy]] (1 shared insights)
 - [[concepts/experimentation]] (1 shared insights)
 - [[concepts/strategic-thinking]] (1 shared insights)
 - [[concepts/communication]] (1 shared insights)

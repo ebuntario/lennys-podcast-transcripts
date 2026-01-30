@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/developer-tools]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/product-design]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)

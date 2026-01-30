@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/consumer-experience]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)

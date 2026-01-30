@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/operational-leverage]] (1 shared insights)
-- [[concepts/company-scaling]] (1 shared insights)
+- [[concepts/organizational-scaling]] (1 shared insights)

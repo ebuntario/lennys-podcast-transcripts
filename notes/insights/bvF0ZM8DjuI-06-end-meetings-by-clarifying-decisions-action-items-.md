@@ -4,7 +4,7 @@ title: End meetings by clarifying decisions, action items, and communication nee
 concepts:
   - "meeting-effectiveness"
   - "accountability"
-  - "team-alignment"
+  - "organizational-alignment"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-transition]] (1 shared insights)
+- [[concepts/career-transitions]] (1 shared insights)
 - [[concepts/internal-transfer]] (1 shared insights)
 - [[concepts/product-management]] (1 shared insights)

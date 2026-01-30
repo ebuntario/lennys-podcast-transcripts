@@ -4,7 +4,7 @@ title: The "perfect world" conclusion aligns buyer and seller perspectives
 concepts:
   - "sales-alignment"
   - "sales-pitch-framework"
-  - "value-proposition"
+  - "customer-value-proposition"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

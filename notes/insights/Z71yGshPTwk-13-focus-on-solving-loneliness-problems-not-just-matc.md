@@ -2,7 +2,7 @@
 type: insight
 title: Focus on solving loneliness problems, not just matching keywords
 concepts:
-  - "user-journey"
+  - "customer-journey"
   - "seo-strategy"
   - "problem-solving"
 source_guest: Eli Schwartz

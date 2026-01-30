@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-focus]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/strategic-priorities]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)

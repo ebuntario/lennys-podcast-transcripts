@@ -3,8 +3,8 @@ type: insight
 title: Write a future press headline to force focus on impact and clarity
 concepts:
   - "storytelling"
-  - "product-vision"
-  - "strategic-focus"
+  - "organizational-product-strategy"
+  - "strategic-priorities"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

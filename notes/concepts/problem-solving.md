@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/skill-development]] (2 shared insights)
 - [[concepts/leadership]] (2 shared insights)
 - [[concepts/hands-on-leadership]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)
 - [[concepts/hands-on-mindset]] (1 shared insights)

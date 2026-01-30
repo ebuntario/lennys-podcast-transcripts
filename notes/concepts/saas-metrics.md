@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-model]] (1 shared insights)
+- [[concepts/growth-loops]] (1 shared insights)
 - [[concepts/business-modeling]] (1 shared insights)

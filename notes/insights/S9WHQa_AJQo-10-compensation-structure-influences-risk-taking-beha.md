@@ -3,7 +3,7 @@ type: insight
 title: Compensation structure influences risk-taking behavior
 concepts:
   - "compensation-design"
-  - "innovation-culture"
+  - "organizational-innovation"
   - "risk-taking"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)

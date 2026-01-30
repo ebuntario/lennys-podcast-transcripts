@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-manager-role]] (1 shared insights)
+- [[concepts/product-management]] (1 shared insights)
 - [[concepts/human-in-the-loop]] (1 shared insights)

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-craft]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/product-excellence]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)

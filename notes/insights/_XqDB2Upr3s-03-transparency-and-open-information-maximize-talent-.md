@@ -4,7 +4,7 @@ title: Transparency and open information maximize talent leverage
 concepts:
   - "information-transparency"
   - "talent-leverage"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

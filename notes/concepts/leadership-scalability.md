@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/delegation]] (1 shared insights)
-- [[concepts/team-development]] (1 shared insights)
+- [[concepts/team-building]] (1 shared insights)
 - [[concepts/organizational-scaling]] (1 shared insights)

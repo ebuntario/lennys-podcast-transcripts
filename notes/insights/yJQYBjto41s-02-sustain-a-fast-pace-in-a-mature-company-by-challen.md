@@ -2,7 +2,7 @@
 type: insight
 title: Sustain a fast pace in a mature company by challenging timeline assumptions and managing path dependency
 concepts:
-  - "operational-efficiency"
+  - "organizational-effectiveness"
   - "team-management"
   - "technical-debt"
 source_guest: Dylan Field

@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/category-creation]] (2 shared insights)
 - [[concepts/market-entry]] (1 shared insights)
-- [[concepts/market-strategy]] (1 shared insights)
+- [[concepts/product-market-strategy]] (1 shared insights)

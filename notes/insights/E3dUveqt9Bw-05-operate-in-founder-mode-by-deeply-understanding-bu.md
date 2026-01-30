@@ -2,7 +2,7 @@
 type: insight
 title: Operate in "founder mode" by deeply understanding business details
 concepts:
-  - "operational-excellence"
+  - "organizational-excellence"
   - "strategic-thinking"
   - "leadership"
 source_guest: Anneka Gupta

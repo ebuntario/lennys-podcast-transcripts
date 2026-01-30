@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/leadership-depth]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)
 - [[concepts/service-architecture]] (1 shared insights)
 - [[concepts/technical-debt]] (1 shared insights)
-- [[concepts/strategic-planning]] (1 shared insights)
+- [[concepts/strategic-thinking]] (1 shared insights)

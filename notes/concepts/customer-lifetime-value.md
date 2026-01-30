@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/marketplace-strategy]] (1 shared insights)
-- [[concepts/competitive-moat]] (1 shared insights)
+- [[concepts/strategic-advantage]] (1 shared insights)

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-vision]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
 - [[concepts/technology-adoption]] (1 shared insights)

@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/innovation]] (1 shared insights)
 - [[concepts/product-market-fit]] (1 shared insights)
 - [[concepts/competition]] (1 shared insights)

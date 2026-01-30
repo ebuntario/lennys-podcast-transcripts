@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/value-creation]] (2 shared insights)
+- [[concepts/customer-value-creation]] (2 shared insights)
 - [[concepts/user-innovation]] (1 shared insights)
 - [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/risk-assessment]] (1 shared insights)
-- [[concepts/roadmaps]] (1 shared insights)
+- [[concepts/product-roadmaps]] (1 shared insights)

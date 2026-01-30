@@ -4,7 +4,7 @@ title: Platform success depends on invisible fundamentals over feature prolifera
 concepts:
   - "platform-fundamentals"
   - "reliability"
-  - "product-strategy"
+  - "organizational-product-strategy"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

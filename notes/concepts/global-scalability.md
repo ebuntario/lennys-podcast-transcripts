@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-operations-function]] (1 shared insights)
+- [[concepts/product-operations]] (1 shared insights)
 - [[concepts/feedback-loops]] (1 shared insights)

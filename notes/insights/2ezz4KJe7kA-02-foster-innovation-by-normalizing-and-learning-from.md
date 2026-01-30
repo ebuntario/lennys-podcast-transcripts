@@ -2,7 +2,7 @@
 type: insight
 title: Foster innovation by normalizing and learning from failure
 concepts:
-  - "innovation-culture"
+  - "organizational-innovation"
   - "psychological-safety"
   - "experimentation"
 source_guest: Eeke de Milliano

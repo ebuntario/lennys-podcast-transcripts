@@ -2,7 +2,7 @@
 type: insight
 title: Four paths to transition into product management from other fields
 concepts:
-  - "career-transition"
+  - "career-transitions"
   - "associate-product-manager"
   - "internal-transfer"
 source_guest: Annie Pearl

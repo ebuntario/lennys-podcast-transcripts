@@ -2,7 +2,7 @@
 type: insight
 title: Challenge Yourself with Risks to Enable Growth
 concepts:
-  - "professional-growth"
+  - "career-development"
   - "risk-taking"
   - "career-development"
 source_guest: Camille Fournier

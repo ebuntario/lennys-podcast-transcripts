@@ -17,4 +17,4 @@ SORT file.name ASC
 
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/process-design]] (1 shared insights)
-- [[concepts/decision-making-framework]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)

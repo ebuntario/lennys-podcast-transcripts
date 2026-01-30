@@ -16,6 +16,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/meditation]] (1 shared insights)
-- [[concepts/mental-wellness]] (1 shared insights)
+- [[concepts/mental-health]] (1 shared insights)
 - [[concepts/emotional-regulation]] (1 shared insights)
 - [[concepts/self-awareness]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Scale Transforms a Job into a Business
 concepts:
-  - "business-model"
+  - "business-models"
   - "entrepreneurial-mindset"
   - "automation"
 source_guest: Andrew Wilkinson

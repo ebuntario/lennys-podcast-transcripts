@@ -4,7 +4,7 @@ title: A leader's primary job is to drive results, not to make people happy
 concepts:
   - "leadership"
   - "accountability"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

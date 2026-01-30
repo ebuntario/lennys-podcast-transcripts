@@ -2,7 +2,7 @@
 type: insight
 title: Treat major launches as cohesive stories
 concepts:
-  - "product-launch"
+  - "product-launches"
   - "storytelling"
   - "marketing"
 source_guest: Brian Chesky

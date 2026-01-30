@@ -2,7 +2,7 @@
 type: insight
 title: Product operations formalizes the feedback loop between centralized product and distributed operations
 concepts:
-  - "product-operations-function"
+  - "product-operations"
   - "feedback-loops"
   - "global-scalability"
 source_guest: Brian Tolkin

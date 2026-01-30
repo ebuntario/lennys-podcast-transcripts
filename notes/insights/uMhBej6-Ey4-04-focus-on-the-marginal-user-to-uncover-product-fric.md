@@ -3,7 +3,7 @@ type: insight
 title: Focus on the marginal user to uncover product friction
 concepts:
   - "user-research"
-  - "growth-strategy"
+  - "strategic-growth-management"
   - "product-friction"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)

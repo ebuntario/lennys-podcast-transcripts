@@ -4,7 +4,7 @@ title: Freemium aligns mission-driven philosophy with sustainable business
 concepts:
   - "freemium-model"
   - "product-led-growth"
-  - "business-model"
+  - "business-models"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

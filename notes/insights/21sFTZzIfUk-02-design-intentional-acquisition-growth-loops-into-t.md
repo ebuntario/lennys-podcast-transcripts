@@ -3,7 +3,7 @@ type: insight
 title: Design intentional acquisition growth loops into the product early
 concepts:
   - "growth-loops"
-  - "product-led-acquisition"
+  - "product-led-growth"
   - "content-loops"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)

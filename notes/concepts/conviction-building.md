@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/experimentation-low-volume]] (1 shared insights)
-- [[concepts/data-informed-decisions]] (1 shared insights)
+- [[concepts/data-driven-decisions]] (1 shared insights)

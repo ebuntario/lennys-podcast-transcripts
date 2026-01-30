@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/category-creation]] (1 shared insights)
 - [[concepts/thought-leadership]] (1 shared insights)
 - [[concepts/positioning]] (1 shared insights)
-- [[concepts/competitive-positioning]] (1 shared insights)
+- [[concepts/product-positioning]] (1 shared insights)

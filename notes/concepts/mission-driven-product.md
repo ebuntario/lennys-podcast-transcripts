@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/subscription-business]] (1 shared insights)
+- [[concepts/subscription-models]] (1 shared insights)
 - [[concepts/impact-measurement]] (1 shared insights)

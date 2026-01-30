@@ -3,7 +3,7 @@ type: insight
 title: The Lightning Strike vs. Peanut Butter Marketing Model
 concepts:
   - "marketing-strategy"
-  - "growth-strategy"
+  - "strategic-growth-management"
   - "word-of-mouth"
 source_guest: Christopher Lochhead
 source_episode: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)

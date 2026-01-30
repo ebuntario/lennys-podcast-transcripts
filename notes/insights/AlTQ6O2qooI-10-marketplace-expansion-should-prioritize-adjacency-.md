@@ -3,7 +3,7 @@ type: insight
 title: Marketplace expansion should prioritize adjacency and network effects
 concepts:
   - "marketplace-strategy"
-  - "growth-expansion"
+  - "market-expansion"
   - "network-effects"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier

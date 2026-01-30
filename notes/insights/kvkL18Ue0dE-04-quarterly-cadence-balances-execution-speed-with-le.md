@@ -4,7 +4,7 @@ title: Quarterly cadence balances execution speed with learning cycles
 concepts:
   - "learning-cycles"
   - "execution-rhythm"
-  - "strategic-focus"
+  - "strategic-priorities"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

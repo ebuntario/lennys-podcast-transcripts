@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/channel-evaluation]] (1 shared insights)
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/outcomes-based-pricing]] (1 shared insights)
 - [[concepts/value-measurement]] (1 shared insights)

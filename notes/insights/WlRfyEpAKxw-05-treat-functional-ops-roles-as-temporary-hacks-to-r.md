@@ -2,7 +2,7 @@
 type: insight
 title: Treat Functional Ops Roles as Temporary Hacks to Root Out Inefficiency
 concepts:
-  - "operational-efficiency"
+  - "organizational-effectiveness"
   - "process-automation"
   - "team-structure"
 source_guest: Casey Winters

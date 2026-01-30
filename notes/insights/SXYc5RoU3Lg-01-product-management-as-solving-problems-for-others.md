@@ -3,7 +3,7 @@ type: insight
 title: Product management as solving problems for others
 concepts:
   - "product-management"
-  - "value-creation"
+  - "customer-value-creation"
   - "customer-centricity"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)

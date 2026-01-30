@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/alignment]] (1 shared insights)
 - [[concepts/artificial-intelligence]] (1 shared insights)
 - [[concepts/behavioral-science]] (1 shared insights)
-- [[concepts/user-segmentation]] (1 shared insights)
+- [[concepts/customer-segmentation]] (1 shared insights)

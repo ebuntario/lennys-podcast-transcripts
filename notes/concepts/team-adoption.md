@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/activation-metrics]] (1 shared insights)
-- [[concepts/user-retention]] (1 shared insights)
+- [[concepts/customer-retention]] (1 shared insights)

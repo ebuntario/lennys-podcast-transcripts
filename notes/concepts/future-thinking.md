@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/innovation-strategy]] (1 shared insights)
+- [[concepts/product-innovation-strategy]] (1 shared insights)
 - [[concepts/early-adoption]] (1 shared insights)
 - [[concepts/innovation]] (1 shared insights)
 - [[concepts/action-bias]] (1 shared insights)

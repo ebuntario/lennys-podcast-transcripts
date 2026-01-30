@@ -3,7 +3,7 @@ type: insight
 title: NLX (Natural Language Interface) is the new UX
 concepts:
   - "natural-language-interface"
-  - "user-experience"
+  - "customer-experience"
   - "ai-interaction-design"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada

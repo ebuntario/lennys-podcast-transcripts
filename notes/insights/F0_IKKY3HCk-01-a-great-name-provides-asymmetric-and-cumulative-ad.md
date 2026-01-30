@@ -3,8 +3,8 @@ type: insight
 title: A great name provides asymmetric and cumulative advantage
 concepts:
   - "brand-naming"
-  - "competitive-advantage"
-  - "market-positioning"
+  - "product-market-leadership"
+  - "product-positioning"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

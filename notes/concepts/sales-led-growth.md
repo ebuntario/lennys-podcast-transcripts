@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/business-model-transition]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
 - [[concepts/growth]] (1 shared insights)
-- [[concepts/business-model]] (1 shared insights)
+- [[concepts/business-models]] (1 shared insights)

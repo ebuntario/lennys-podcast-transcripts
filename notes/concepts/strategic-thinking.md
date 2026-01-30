@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/communication]] (2 shared insights)
 - [[concepts/product-frameworks]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)
-- [[concepts/operational-excellence]] (1 shared insights)
+- [[concepts/organizational-excellence]] (1 shared insights)
 - [[concepts/leadership]] (1 shared insights)

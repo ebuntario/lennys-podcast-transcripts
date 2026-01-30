@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-retention]] (1 shared insights)
+- [[concepts/customer-retention]] (1 shared insights)
 - [[concepts/team-adoption]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Growth Has Two Phases: Kindle Strategies and Fire Strategies
 concepts:
-  - "growth-strategy"
+  - "strategic-growth-management"
   - "scalable-acquisition"
   - "early-stage-growth"
 source_guest: Casey Winters

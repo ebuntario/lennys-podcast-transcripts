@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/job-features-vs-experiences]] (1 shared insights)
+- [[concepts/jobs-to-be-done]] (1 shared insights)
 - [[concepts/compensation-motivation]] (1 shared insights)

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/company-culture]] (1 shared insights)
-- [[concepts/hyper-growth]] (1 shared insights)
+- [[concepts/organizational-culture]] (1 shared insights)
+- [[concepts/hypergrowth]] (1 shared insights)

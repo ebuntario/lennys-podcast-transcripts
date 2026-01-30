@@ -4,7 +4,7 @@ title: Validate product hypotheses with scrappy, unscalable tests
 concepts:
   - "hypothesis-validation"
   - "scrappy-growth"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

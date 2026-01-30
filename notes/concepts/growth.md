@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/marketing]] (1 shared insights)
 - [[concepts/brand-building]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
-- [[concepts/business-model]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)
+- [[concepts/business-models]] (1 shared insights)
 - [[concepts/sales-led-growth]] (1 shared insights)

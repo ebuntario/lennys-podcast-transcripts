@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-development]] (2 shared insights)
-- [[concepts/technical-strategy]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/technical-leadership]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/experimentation]] (1 shared insights)

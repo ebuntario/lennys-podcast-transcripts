@@ -3,7 +3,7 @@ type: insight
 title: Early internationalization fuels growth and shapes product development
 concepts:
   - "internationalization"
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "growth-levers"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams

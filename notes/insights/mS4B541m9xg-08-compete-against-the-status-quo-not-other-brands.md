@@ -2,7 +2,7 @@
 type: insight
 title: Compete Against the Status Quo, Not Other Brands
 concepts:
-  - "competitive-strategy"
+  - "market-strategy"
   - "category-design"
   - "marketing-strategy"
 source_guest: Christopher Lochhead

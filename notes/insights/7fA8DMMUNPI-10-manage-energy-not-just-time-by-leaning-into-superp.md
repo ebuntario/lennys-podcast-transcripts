@@ -4,7 +4,7 @@ title: Manage energy, not just time, by leaning into superpower activities
 concepts:
   - "energy-management"
   - "strengths-identification"
-  - "work-life-integration"
+  - "work-life-balance"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

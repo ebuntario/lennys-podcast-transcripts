@@ -3,7 +3,7 @@ type: insight
 title: Build tools for providers to improve customer experience
 concepts:
   - "platform-strategy"
-  - "user-experience"
+  - "customer-experience"
   - "product-development"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook

@@ -2,7 +2,7 @@
 type: insight
 title: Cultural transformation requires deliberate values and performance processes
 concepts:
-  - "cultural-transformation"
+  - "organizational-transformation"
   - "performance-management"
   - "company-values"
 source_guest: Eoghan McCabe

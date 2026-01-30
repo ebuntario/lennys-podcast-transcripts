@@ -4,7 +4,7 @@ title: Generalists with multiple skill sets are becoming more valuable than spec
 concepts:
   - "skill-evolution"
   - "team-building"
-  - "ai-tools"
+  - "ai-applications"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

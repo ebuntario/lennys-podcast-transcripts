@@ -3,7 +3,7 @@ type: insight
 title: The core of product work is solving problems
 concepts:
   - "product-management"
-  - "value-creation"
+  - "customer-value-creation"
   - "customer-centricity"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)

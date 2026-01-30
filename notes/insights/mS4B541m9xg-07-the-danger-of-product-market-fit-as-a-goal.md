@@ -3,7 +3,7 @@ type: insight
 title: The Danger of "Product-Market Fit" as a Goal
 concepts:
   - "category-design"
-  - "product-strategy"
+  - "organizational-product-strategy"
   - "market-creation"
 source_guest: Christopher Lochhead
 source_episode: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)

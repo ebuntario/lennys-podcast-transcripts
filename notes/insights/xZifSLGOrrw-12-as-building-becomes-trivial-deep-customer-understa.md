@@ -2,7 +2,7 @@
 type: insight
 title: As building becomes trivial, deep customer understanding becomes the primary competitive advantage
 concepts:
-  - "competitive-advantage"
+  - "product-market-leadership"
   - "customer-centricity"
   - "vertical-software"
 source_guest: Alexander Embiricos

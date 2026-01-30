@@ -3,8 +3,8 @@ type: insight
 title: Customer Obsession Precedes Sales and Marketing
 concepts:
   - "customer-obsession"
-  - "hyper-growth"
-  - "company-culture"
+  - "hypergrowth"
+  - "organizational-culture"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

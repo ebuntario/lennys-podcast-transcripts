@@ -2,7 +2,7 @@
 type: insight
 title: Focus on the most impactful task each day, not your preferred tasks
 concepts:
-  - "leadership-mindset"
+  - "leadership-development"
   - "career-development"
   - "impact-maximization"
 source_guest: Bret Taylor

@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/team-culture]] (1 shared insights)
-- [[concepts/strategic-planning]] (1 shared insights)
+- [[concepts/strategic-thinking]] (1 shared insights)
 - [[concepts/zero-to-one]] (1 shared insights)
 - [[concepts/jobs-to-be-done]] (1 shared insights)
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)

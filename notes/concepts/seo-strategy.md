@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-journey]] (4 shared insights)
+- [[concepts/customer-journey]] (4 shared insights)
 - [[concepts/product-led-growth]] (2 shared insights)
 - [[concepts/channel-selection]] (2 shared insights)
 - [[concepts/content-strategy]] (2 shared insights)

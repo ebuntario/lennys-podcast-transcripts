@@ -3,7 +3,7 @@ type: insight
 title: Convert supply into demand (or vice versa) as a growth lever
 concepts:
   - "growth-levers"
-  - "user-acquisition"
+  - "customer-acquisition"
   - "marketplace-strategy"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)

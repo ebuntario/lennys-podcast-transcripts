@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/hands-on-leadership]] (1 shared insights)
 - [[concepts/problem-solving]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)

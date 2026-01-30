@@ -3,8 +3,8 @@ type: insight
 title: The universe is bendable to your will in fluid organizations
 concepts:
   - "agency"
-  - "org-design"
-  - "startup-mindset"
+  - "organizational-design"
+  - "startup-strategy"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

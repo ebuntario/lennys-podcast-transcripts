@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/prototyping]] (1 shared insights)
 - [[concepts/ai-architecture]] (1 shared insights)
 - [[concepts/multi-agent-systems]] (1 shared insights)
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)

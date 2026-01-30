@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/user-profiling]] (1 shared insights)
-- [[concepts/buyer-persona]] (1 shared insights)
+- [[concepts/buyer-personas]] (1 shared insights)

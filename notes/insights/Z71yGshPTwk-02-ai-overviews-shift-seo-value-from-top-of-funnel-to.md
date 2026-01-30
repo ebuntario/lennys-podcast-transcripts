@@ -4,7 +4,7 @@ title: AI Overviews shift SEO value from top-of-funnel to mid-funnel queries
 concepts:
   - "ai-search"
   - "seo-strategy"
-  - "user-journey"
+  - "customer-journey"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

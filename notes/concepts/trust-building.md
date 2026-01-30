@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/competence]] (2 shared insights)
-- [[concepts/onboarding]] (1 shared insights)
+- [[concepts/user-onboarding]] (1 shared insights)
 - [[concepts/listening-tours]] (1 shared insights)
 - [[concepts/product-management]] (1 shared insights)
 - [[concepts/relationship-building]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Never compromise on product quality, even when cutting functionality for an MVP
 concepts:
   - "product-quality"
-  - "mvp-strategy"
-  - "user-experience"
+  - "minimum-viable-product"
+  - "customer-experience"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

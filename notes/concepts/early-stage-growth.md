@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/customer-obsession]] (1 shared insights)
 - [[concepts/doing-things-that-dont-scale]] (1 shared insights)
-- [[concepts/growth-strategy]] (1 shared insights)
+- [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/scalable-acquisition]] (1 shared insights)

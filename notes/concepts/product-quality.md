@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/mvp-strategy]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
-- [[concepts/user-feedback]] (1 shared insights)
+- [[concepts/minimum-viable-product]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)
+- [[concepts/customer-feedback]] (1 shared insights)

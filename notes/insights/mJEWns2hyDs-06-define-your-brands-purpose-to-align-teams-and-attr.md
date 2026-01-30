@@ -3,7 +3,7 @@ type: insight
 title: Define your brand's purpose to align teams and attract supporters
 concepts:
   - "brand-purpose"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

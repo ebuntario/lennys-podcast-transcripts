@@ -2,8 +2,8 @@
 type: insight
 title: Revisit onboarding only when you have new fundamental insights about customers
 concepts:
-  - "onboarding"
-  - "product-strategy"
+  - "user-onboarding"
+  - "organizational-product-strategy"
   - "customer-insights"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)

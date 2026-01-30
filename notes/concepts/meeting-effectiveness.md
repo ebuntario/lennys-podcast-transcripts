@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/accountability]] (1 shared insights)
-- [[concepts/team-alignment]] (1 shared insights)
+- [[concepts/organizational-alignment]] (1 shared insights)
 - [[concepts/strategic-conversations]] (1 shared insights)
 - [[concepts/leadership-trust]] (1 shared insights)

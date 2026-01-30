@@ -2,7 +2,7 @@
 type: insight
 title: Technical architecture determines long-term strategy
 concepts:
-  - "technical-strategy"
+  - "technical-leadership"
   - "product-development"
   - "long-term-planning"
 source_guest: Archie Abrams

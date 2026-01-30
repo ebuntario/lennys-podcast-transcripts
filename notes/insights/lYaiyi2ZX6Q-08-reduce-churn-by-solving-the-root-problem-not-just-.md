@@ -4,7 +4,7 @@ title: Reduce churn by solving the root problem, not just the symptom
 concepts:
   - "churn-reduction"
   - "customer-feedback"
-  - "product-iteration"
+  - "product-development"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

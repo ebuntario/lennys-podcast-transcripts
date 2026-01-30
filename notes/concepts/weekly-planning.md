@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/outcome-orientation]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)

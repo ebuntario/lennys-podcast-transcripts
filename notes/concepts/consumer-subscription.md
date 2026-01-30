@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-retention]] (1 shared insights)
+- [[concepts/customer-retention]] (1 shared insights)
 - [[concepts/habit-formation]] (1 shared insights)
 - [[concepts/business-models]] (1 shared insights)
 - [[concepts/retention]] (1 shared insights)

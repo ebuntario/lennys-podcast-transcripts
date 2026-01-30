@@ -2,9 +2,9 @@
 type: insight
 title: Focus on the complete user experience first, then integrate AI to solve specific problems
 concepts:
-  - "product-strategy"
-  - "ai-tools"
-  - "user-experience"
+  - "organizational-product-strategy"
+  - "ai-applications"
+  - "customer-experience"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

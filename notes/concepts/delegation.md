@@ -18,5 +18,5 @@ SORT file.name ASC
 - [[concepts/founder-intuition]] (1 shared insights)
 - [[concepts/team-expertise]] (1 shared insights)
 - [[concepts/leadership-depth]] (1 shared insights)
-- [[concepts/strategic-focus]] (1 shared insights)
-- [[concepts/team-development]] (1 shared insights)
+- [[concepts/strategic-priorities]] (1 shared insights)
+- [[concepts/team-building]] (1 shared insights)

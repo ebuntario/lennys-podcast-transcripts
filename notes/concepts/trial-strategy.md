@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/pricing-experimentation]] (1 shared insights)
+- [[concepts/pricing-strategy]] (1 shared insights)
 - [[concepts/customer-segmentation]] (1 shared insights)

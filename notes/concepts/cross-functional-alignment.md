@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-operations]] (3 shared insights)
-- [[concepts/org-structure]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
-- [[concepts/executive-leadership]] (1 shared insights)
+- [[concepts/organizational-design]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)
+- [[concepts/organizational-leadership]] (1 shared insights)
 - [[concepts/stakeholder-management]] (1 shared insights)

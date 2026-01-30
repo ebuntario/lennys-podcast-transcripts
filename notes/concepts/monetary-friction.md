@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-acquisition]] (1 shared insights)
-- [[concepts/onboarding]] (1 shared insights)
+- [[concepts/customer-acquisition]] (1 shared insights)
+- [[concepts/user-onboarding]] (1 shared insights)
 - [[concepts/experimentation]] (1 shared insights)

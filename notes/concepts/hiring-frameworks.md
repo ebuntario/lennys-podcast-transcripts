@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-execution]] (2 shared insights)
+- [[concepts/growth-strategy-execution]] (2 shared insights)
 - [[concepts/growth-competency]] (1 shared insights)
 - [[concepts/team-building]] (1 shared insights)
 - [[concepts/customer-knowledge]] (1 shared insights)

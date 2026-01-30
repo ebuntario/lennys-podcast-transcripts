@@ -4,7 +4,7 @@ title: Vertically integrating software and operations enables unique consumer ex
 concepts:
   - "vertical-integration"
   - "consumer-experience"
-  - "product-strategy"
+  - "organizational-product-strategy"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

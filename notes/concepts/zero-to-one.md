@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/competitive-analysis]] (1 shared insights)
 - [[concepts/jobs-to-be-done]] (1 shared insights)
 - [[concepts/innovation-management]] (1 shared insights)
-- [[concepts/portfolio-strategy]] (1 shared insights)
+- [[concepts/product-portfolio]] (1 shared insights)

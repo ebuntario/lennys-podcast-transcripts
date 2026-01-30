@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/product-management]] (1 shared insights)
 - [[concepts/engineering-relationships]] (1 shared insights)
-- [[concepts/team-collaboration]] (1 shared insights)
+- [[concepts/team-dynamics]] (1 shared insights)

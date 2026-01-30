@@ -3,7 +3,7 @@ type: insight
 title: Using multiple AI agents with different "personalities" for varied perspectives
 concepts:
   - "ai-agents"
-  - "ai-tools"
+  - "ai-applications"
   - "team-leverage"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)

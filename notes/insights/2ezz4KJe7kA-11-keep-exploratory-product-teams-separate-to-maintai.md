@@ -3,7 +3,7 @@ type: insight
 title: Keep exploratory product teams separate to maintain speed and focus
 concepts:
   - "team-structure"
-  - "innovation-culture"
+  - "organizational-innovation"
   - "product-development"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)

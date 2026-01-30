@@ -3,7 +3,7 @@ type: insight
 title: Slowing down strategic decisions accelerates overall execution
 concepts:
   - "decision-making"
-  - "strategic-planning"
+  - "strategic-thinking"
   - "execution-velocity"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)

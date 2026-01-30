@@ -19,4 +19,4 @@ SORT file.name ASC
 - [[concepts/early-stage]] (1 shared insights)
 - [[concepts/strategic-narrative]] (1 shared insights)
 - [[concepts/sales-pitching]] (1 shared insights)
-- [[concepts/team-alignment]] (1 shared insights)
+- [[concepts/organizational-alignment]] (1 shared insights)

@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/management-expectations]] (1 shared insights)
 - [[concepts/team-dynamics]] (1 shared insights)
-- [[concepts/team-alignment]] (1 shared insights)
+- [[concepts/organizational-alignment]] (1 shared insights)

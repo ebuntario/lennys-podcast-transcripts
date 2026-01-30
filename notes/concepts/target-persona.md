@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/team-structure]] (1 shared insights)
 - [[concepts/product-led-growth]] (1 shared insights)
-- [[concepts/strategic-focus]] (1 shared insights)
+- [[concepts/strategic-priorities]] (1 shared insights)
 - [[concepts/prioritization]] (1 shared insights)

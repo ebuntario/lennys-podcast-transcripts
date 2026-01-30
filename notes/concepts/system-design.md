@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/product-simplicity]] (1 shared insights)
 - [[concepts/technical-debt]] (1 shared insights)
 - [[concepts/multimodal-ai]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)

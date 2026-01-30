@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-strategy]] (1 shared insights)
+- [[concepts/market-strategy]] (1 shared insights)
 - [[concepts/innovators-dilemma]] (1 shared insights)

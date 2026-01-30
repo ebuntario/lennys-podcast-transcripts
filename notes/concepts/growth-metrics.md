@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/experimentation]] (3 shared insights)
 - [[concepts/early-testing]] (1 shared insights)
-- [[concepts/product-led-sales]] (1 shared insights)
+- [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/revenue-attribution]] (1 shared insights)
 - [[concepts/product-led-growth]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Maintain momentum after a major setback by offering a clear reset option
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "leadership"
   - "employee-retention"
 source_guest: Dylan Field

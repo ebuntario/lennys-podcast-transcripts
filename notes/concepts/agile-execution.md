@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-planning]] (1 shared insights)
+- [[concepts/strategic-thinking]] (1 shared insights)
 - [[concepts/team-autonomy]] (1 shared insights)

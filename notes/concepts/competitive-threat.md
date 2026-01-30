@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/ai-disruption]] (1 shared insights)
-- [[concepts/strategic-pivot]] (1 shared insights)
+- [[concepts/strategic-pivots]] (1 shared insights)

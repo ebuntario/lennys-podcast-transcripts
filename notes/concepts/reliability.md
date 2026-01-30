@@ -18,4 +18,4 @@ SORT file.name ASC
 - [[concepts/dedication]] (1 shared insights)
 - [[concepts/teamwork]] (1 shared insights)
 - [[concepts/platform-fundamentals]] (1 shared insights)
-- [[concepts/product-strategy]] (1 shared insights)
+- [[concepts/organizational-product-strategy]] (1 shared insights)

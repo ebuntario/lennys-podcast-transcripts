@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/competitive-dynamics]] (1 shared insights)
+- [[concepts/market-dynamics]] (1 shared insights)
 - [[concepts/platform-strategy]] (1 shared insights)

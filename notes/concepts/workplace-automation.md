@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/ai-agents]] (1 shared insights)
-- [[concepts/operational-efficiency]] (1 shared insights)
+- [[concepts/organizational-effectiveness]] (1 shared insights)
 - [[concepts/ai-disruption]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: Build products with table-stakes functionality plus delightful differentiators
 concepts:
   - "product-layering"
-  - "competitive-differentiation"
+  - "product-differentiation"
   - "user-delight"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

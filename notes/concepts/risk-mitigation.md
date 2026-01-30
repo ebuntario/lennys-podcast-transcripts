@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/buyer-psychology]] (1 shared insights)
 - [[concepts/b2b-sales]] (1 shared insights)
 - [[concepts/meeting-preparation]] (1 shared insights)
-- [[concepts/executive-communication]] (1 shared insights)
+- [[concepts/leadership-communication]] (1 shared insights)

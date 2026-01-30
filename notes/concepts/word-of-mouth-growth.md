@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/mvp-strategy]] (1 shared insights)
+- [[concepts/minimum-viable-product]] (1 shared insights)
 - [[concepts/user-delight]] (1 shared insights)

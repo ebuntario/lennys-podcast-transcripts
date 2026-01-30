@@ -2,7 +2,7 @@
 type: insight
 title: Frame alternatives honestly to build credibility and guide decisions
 concepts:
-  - "competitive-positioning"
+  - "product-positioning"
   - "sales-honesty"
   - "buyer-trust"
 source_guest: April Dunford

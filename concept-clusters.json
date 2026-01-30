@@ -1,0 +1,527 @@
+{
+  "generated_at": "2026-01-30T11:34:16.125Z",
+  "total_concepts": 1593,
+  "clusters_found": 171,
+  "aliases_to_merge": 176,
+  "estimated_final_count": 1417,
+  "clusters": {
+    "ai-agents": [
+      "ai-agent"
+    ],
+    "artificial-intelligence": [
+      "agi"
+    ],
+    "career-development": [
+      "career-growth",
+      "professional-development",
+      "professional-growth"
+    ],
+    "decision-making": [
+      "decision-making-framework"
+    ],
+    "product-market-fit": [
+      "pmf"
+    ],
+    "business-models": [
+      "business-model"
+    ],
+    "growth-metrics": [
+      "growth-model"
+    ],
+    "customer-insights": [
+      "customer-insight"
+    ],
+    "product-qualified-leads": [
+      "product-qualified-lead"
+    ],
+    "buyer-personas": [
+      "buyer-persona"
+    ],
+    "career-transitions": [
+      "career-transition"
+    ],
+    "growth-experiments": [
+      "growth-experimentation"
+    ],
+    "strategic-pivots": [
+      "strategic-pivot"
+    ],
+    "decision-frameworks": [
+      "decision-framework"
+    ],
+    "agile-methodology": [
+      "agile-development",
+      "agile-frameworks"
+    ],
+    "ai-applications": [
+      "ai-tools"
+    ],
+    "customer-experience": [
+      "user-experience"
+    ],
+    "product-management": [
+      "product-manager-role"
+    ],
+    "growth-strategy": [
+      "growth-tactics"
+    ],
+    "leadership-development": [
+      "leadership-mindset"
+    ],
+    "competitive-analysis": [
+      "competitor-analysis"
+    ],
+    "user-research": [
+      "customer-research"
+    ],
+    "product-strategy": [
+      "product-vision"
+    ],
+    "organizational-culture": [
+      "company-culture"
+    ],
+    "feedback-loops": [
+      "feedback-cycles"
+    ],
+    "growth-loops": [
+      "growth-model"
+    ],
+    "strategic-thinking": [
+      "strategic-planning"
+    ],
+    "team-dynamics": [
+      "team-collaboration"
+    ],
+    "product-development": [
+      "product-iteration"
+    ],
+    "customer-acquisition": [
+      "user-acquisition"
+    ],
+    "performance-metrics": [
+      "business-metrics"
+    ],
+    "innovation-strategy": [
+      "innovation-process"
+    ],
+    "market-research": [
+      "market-analysis"
+    ],
+    "content-strategy": [
+      "content-marketing"
+    ],
+    "brand-strategy": [
+      "brand-positioning"
+    ],
+    "sales-strategy": [
+      "sales-process"
+    ],
+    "organizational-design": [
+      "org-design",
+      "org-structure"
+    ],
+    "hypergrowth": [
+      "hyper-growth"
+    ],
+    "subscription-models": [
+      "subscription-business"
+    ],
+    "software-development": [
+      "software-engineering"
+    ],
+    "technical-leadership": [
+      "technical-strategy"
+    ],
+    "user-engagement": [
+      "audience-engagement"
+    ],
+    "customer-retention": [
+      "user-retention"
+    ],
+    "product-launches": [
+      "product-launch"
+    ],
+    "growth-hacking": [
+      "hacking-growth"
+    ],
+    "minimum-viable-product": [
+      "mvp-strategy"
+    ],
+    "go-to-market-strategy": [
+      "go-to-market"
+    ],
+    "jobs-to-be-done": [
+      "job-features-vs-experiences"
+    ],
+    "product-led-growth": [
+      "product-led-acquisition",
+      "product-led-sales"
+    ],
+    "community-building": [
+      "community-growth"
+    ],
+    "data-driven-decisions": [
+      "data-informed-decisions"
+    ],
+    "customer-development": [
+      "customer-understanding"
+    ],
+    "product-marketing": [
+      "product-marketing-integration"
+    ],
+    "sales-enablement": [
+      "sales-education"
+    ],
+    "team-building": [
+      "team-development"
+    ],
+    "strategic-alignment": [
+      "company-alignment"
+    ],
+    "user-onboarding": [
+      "onboarding"
+    ],
+    "conversion-optimization": [
+      "conversion-rates"
+    ],
+    "customer-segmentation": [
+      "user-segmentation"
+    ],
+    "product-discovery": [
+      "product-validation"
+    ],
+    "growth-team": [
+      "growth-team-structure"
+    ],
+    "pricing-strategy": [
+      "pricing-experimentation"
+    ],
+    "market-positioning": [
+      "competitive-positioning"
+    ],
+    "customer-journey": [
+      "user-journey"
+    ],
+    "product-operations": [
+      "product-operations-function"
+    ],
+    "technical-debt": [
+      "tech-debt"
+    ],
+    "work-life-balance": [
+      "work-life-integration"
+    ],
+    "mental-health": [
+      "mental-wellness"
+    ],
+    "professional-communication": [
+      "communication-skills"
+    ],
+    "startup-strategy": [
+      "startup-mindset"
+    ],
+    "product-requirements": [
+      "product-specifications"
+    ],
+    "customer-feedback": [
+      "user-feedback"
+    ],
+    "market-validation": [
+      "product-validation"
+    ],
+    "growth-marketing": [
+      "growth-tactics"
+    ],
+    "leadership-communication": [
+      "executive-communication"
+    ],
+    "product-roadmaps": [
+      "roadmaps"
+    ],
+    "customer-empathy": [
+      "user-empathy"
+    ],
+    "product-metrics": [
+      "performance-metrics"
+    ],
+    "organizational-scaling": [
+      "company-scaling"
+    ],
+    "innovation-culture": [
+      "innovation-environment"
+    ],
+    "customer-acquisition-cost": [
+      "user-acquisition-cost"
+    ],
+    "product-positioning": [
+      "market-positioning"
+    ],
+    "growth-mindset": [
+      "growth-psychology"
+    ],
+    "strategic-execution": [
+      "execution-strategy"
+    ],
+    "team-management": [
+      "team-leadership"
+    ],
+    "product-design": [
+      "user-centric-design"
+    ],
+    "customer-value": [
+      "user-value"
+    ],
+    "business-strategy": [
+      "strategic-direction"
+    ],
+    "product-thinking": [
+      "product-mindset"
+    ],
+    "organizational-alignment": [
+      "team-alignment"
+    ],
+    "growth-frameworks": [
+      "growth-strategy"
+    ],
+    "customer-problems": [
+      "user-problems"
+    ],
+    "product-excellence": [
+      "product-craft"
+    ],
+    "leadership-principles": [
+      "leadership-philosophy"
+    ],
+    "market-opportunity": [
+      "business-opportunity"
+    ],
+    "product-innovation": [
+      "innovation-strategy"
+    ],
+    "customer-relationships": [
+      "user-relationships"
+    ],
+    "growth-execution": [
+      "execution-focus"
+    ],
+    "strategic-frameworks": [
+      "strategy-frameworks"
+    ],
+    "product-culture": [
+      "product-development-culture"
+    ],
+    "organizational-health": [
+      "company-health"
+    ],
+    "customer-loyalty": [
+      "user-loyalty"
+    ],
+    "product-portfolio": [
+      "portfolio-strategy"
+    ],
+    "growth-optimization": [
+      "optimization-strategy"
+    ],
+    "leadership-effectiveness": [
+      "management-effectiveness"
+    ],
+    "market-dynamics": [
+      "competitive-dynamics"
+    ],
+    "product-adoption": [
+      "user-adoption"
+    ],
+    "customer-success": [
+      "user-success"
+    ],
+    "organizational-effectiveness": [
+      "operational-efficiency"
+    ],
+    "product-leadership": [
+      "product-management-leadership"
+    ],
+    "growth-acceleration": [
+      "growth-velocity"
+    ],
+    "strategic-priorities": [
+      "strategic-focus"
+    ],
+    "customer-centricity": [
+      "user-centricity"
+    ],
+    "organizational-transformation": [
+      "cultural-transformation"
+    ],
+    "growth-potential": [
+      "growth-opportunity"
+    ],
+    "leadership-impact": [
+      "executive-impact"
+    ],
+    "market-leadership": [
+      "competitive-advantage"
+    ],
+    "product-success": [
+      "product-impact"
+    ],
+    "customer-satisfaction": [
+      "user-satisfaction"
+    ],
+    "organizational-performance": [
+      "company-performance"
+    ],
+    "growth-sustainability": [
+      "sustainable-growth"
+    ],
+    "strategic-advantage": [
+      "competitive-moat"
+    ],
+    "product-differentiation": [
+      "competitive-differentiation"
+    ],
+    "customer-experience-optimization": [
+      "user-experience-optimization"
+    ],
+    "organizational-excellence": [
+      "operational-excellence"
+    ],
+    "growth-leadership": [
+      "growth-management"
+    ],
+    "strategic-innovation": [
+      "innovation-leadership"
+    ],
+    "product-strategy-execution": [
+      "product-execution"
+    ],
+    "customer-value-creation": [
+      "value-creation"
+    ],
+    "organizational-agility": [
+      "strategic-agility"
+    ],
+    "growth-transformation": [
+      "growth-evolution"
+    ],
+    "leadership-excellence": [
+      "executive-excellence"
+    ],
+    "market-expansion": [
+      "growth-expansion"
+    ],
+    "product-market-strategy": [
+      "market-strategy"
+    ],
+    "customer-engagement-strategy": [
+      "engagement-strategy"
+    ],
+    "organizational-development": [
+      "company-development"
+    ],
+    "growth-innovation": [
+      "innovation-growth"
+    ],
+    "strategic-leadership": [
+      "executive-leadership"
+    ],
+    "product-growth-strategy": [
+      "product-growth"
+    ],
+    "customer-value-proposition": [
+      "value-proposition"
+    ],
+    "organizational-strategy": [
+      "corporate-strategy"
+    ],
+    "growth-excellence": [
+      "growth-optimization"
+    ],
+    "leadership-strategy": [
+      "strategic-leadership"
+    ],
+    "market-strategy": [
+      "competitive-strategy"
+    ],
+    "product-innovation-strategy": [
+      "innovation-strategy"
+    ],
+    "customer-strategy": [
+      "user-strategy"
+    ],
+    "organizational-leadership": [
+      "executive-leadership"
+    ],
+    "growth-strategy-execution": [
+      "growth-execution"
+    ],
+    "strategic-product-management": [
+      "product-strategy"
+    ],
+    "customer-centric-strategy": [
+      "user-centric-strategy"
+    ],
+    "organizational-innovation": [
+      "innovation-culture"
+    ],
+    "growth-leadership-strategy": [
+      "growth-leadership"
+    ],
+    "strategic-growth-management": [
+      "growth-strategy"
+    ],
+    "product-leadership-strategy": [
+      "product-leadership"
+    ],
+    "customer-experience-strategy": [
+      "user-experience-strategy"
+    ],
+    "organizational-growth-strategy": [
+      "scaling-strategy"
+    ],
+    "growth-product-strategy": [
+      "product-growth-strategy"
+    ],
+    "strategic-customer-management": [
+      "customer-strategy"
+    ],
+    "product-market-leadership": [
+      "market-leadership"
+    ],
+    "customer-growth-strategy": [
+      "user-growth-strategy"
+    ],
+    "organizational-product-strategy": [
+      "product-strategy"
+    ],
+    "growth-market-strategy": [
+      "market-growth-strategy"
+    ],
+    "strategic-organizational-development": [
+      "organizational-development"
+    ],
+    "product-customer-strategy": [
+      "customer-product-strategy"
+    ],
+    "customer-organizational-strategy": [
+      "organizational-customer-strategy"
+    ],
+    "organizational-market-strategy": [
+      "market-organizational-strategy"
+    ],
+    "growth-organizational-strategy": [
+      "organizational-growth-strategy"
+    ],
+    "strategic-growth-leadership": [
+      "growth-strategic-leadership"
+    ],
+    "product-growth-leadership": [
+      "growth-product-leadership"
+    ],
+    "customer-growth-leadership": [
+      "growth-customer-leadership"
+    ],
+    "organizational-growth-leadership": [
+      "growth-organizational-leadership"
+    ]
+  }
+}

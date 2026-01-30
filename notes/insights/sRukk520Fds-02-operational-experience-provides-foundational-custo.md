@@ -3,7 +3,7 @@ type: insight
 title: Operational experience provides foundational customer and business understanding
 concepts:
   - "customer-proximity"
-  - "product-leadership"
+  - "product-leadership-strategy"
   - "business-mechanics"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)

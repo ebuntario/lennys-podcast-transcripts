@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/product-development]] (2 shared insights)
 - [[concepts/product-experience]] (1 shared insights)
-- [[concepts/feedback-cycles]] (1 shared insights)
-- [[concepts/ai-tools]] (1 shared insights)
+- [[concepts/feedback-loops]] (1 shared insights)
+- [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/startup-growth]] (1 shared insights)

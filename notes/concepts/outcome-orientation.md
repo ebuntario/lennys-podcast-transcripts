@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/excellence]] (1 shared insights)
 - [[concepts/managerial-frameworks]] (1 shared insights)
 - [[concepts/weekly-planning]] (1 shared insights)
-- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/growth-strategy-execution]] (1 shared insights)

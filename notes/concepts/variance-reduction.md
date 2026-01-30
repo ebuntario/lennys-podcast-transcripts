@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/process-design]] (1 shared insights)
 - [[concepts/high-performers]] (1 shared insights)
-- [[concepts/innovation-culture]] (1 shared insights)
+- [[concepts/organizational-innovation]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Infrastructure and tech debt are product problems, not just engineering issues
 concepts:
   - "technical-debt"
-  - "product-strategy"
-  - "team-alignment"
+  - "organizational-product-strategy"
+  - "organizational-alignment"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

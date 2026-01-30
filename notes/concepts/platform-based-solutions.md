@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/platform-strategy]] (1 shared insights)
 - [[concepts/scalability]] (1 shared insights)
-- [[concepts/operational-efficiency]] (1 shared insights)
+- [[concepts/organizational-effectiveness]] (1 shared insights)

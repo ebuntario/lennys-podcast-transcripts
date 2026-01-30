@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/signal-vs-noise]] (1 shared insights)
-- [[concepts/strategic-focus]] (1 shared insights)
+- [[concepts/strategic-priorities]] (1 shared insights)

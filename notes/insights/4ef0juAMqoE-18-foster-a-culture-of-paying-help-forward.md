@@ -3,7 +3,7 @@ type: insight
 title: Foster a culture of paying help forward
 concepts:
   - "mentorship"
-  - "company-culture"
+  - "organizational-culture"
   - "ecosystem-building"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook

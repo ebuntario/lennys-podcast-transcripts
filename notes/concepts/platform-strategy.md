@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/scalability]] (1 shared insights)
-- [[concepts/operational-efficiency]] (1 shared insights)
+- [[concepts/organizational-effectiveness]] (1 shared insights)
 - [[concepts/platform-based-solutions]] (1 shared insights)
-- [[concepts/user-experience]] (1 shared insights)
+- [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/product-development]] (1 shared insights)

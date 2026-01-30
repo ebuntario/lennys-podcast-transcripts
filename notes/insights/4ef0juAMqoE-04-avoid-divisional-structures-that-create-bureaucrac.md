@@ -3,7 +3,7 @@ type: insight
 title: Avoid divisional structures that create bureaucracy
 concepts:
   - "organizational-design"
-  - "company-culture"
+  - "organizational-culture"
   - "execution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook

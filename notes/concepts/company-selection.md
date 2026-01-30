@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/career-acceleration]] (2 shared insights)
 - [[concepts/entrepreneurial-culture]] (1 shared insights)
 - [[concepts/entrepreneurial-spirit]] (1 shared insights)
-- [[concepts/business-metrics]] (1 shared insights)
+- [[concepts/product-metrics]] (1 shared insights)

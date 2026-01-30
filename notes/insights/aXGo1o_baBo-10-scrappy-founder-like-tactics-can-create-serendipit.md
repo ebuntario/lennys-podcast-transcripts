@@ -4,7 +4,7 @@ title: Scrappy, founder-like tactics can create serendipitous opportunities
 concepts:
   - "agency"
   - "execution"
-  - "startup-mindset"
+  - "startup-strategy"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

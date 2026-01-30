@@ -2,7 +2,7 @@
 type: insight
 title: Culture add is more valuable than culture fit
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "diversity-inclusion"
   - "hiring"
 source_guest: Chip Conley

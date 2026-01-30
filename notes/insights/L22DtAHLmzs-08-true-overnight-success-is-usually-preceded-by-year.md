@@ -4,7 +4,7 @@ title: True overnight success is usually preceded by years of foundational work
 concepts:
   - "founder-journey"
   - "persistence"
-  - "product-launch"
+  - "product-launches"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

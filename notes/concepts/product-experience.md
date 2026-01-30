@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/word-of-mouth]] (1 shared insights)
 - [[concepts/brand-building]] (1 shared insights)
 - [[concepts/product-development]] (1 shared insights)
-- [[concepts/feedback-cycles]] (1 shared insights)
+- [[concepts/feedback-loops]] (1 shared insights)
 - [[concepts/minimum-lovable-product]] (1 shared insights)

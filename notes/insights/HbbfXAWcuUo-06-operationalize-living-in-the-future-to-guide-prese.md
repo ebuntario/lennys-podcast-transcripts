@@ -3,7 +3,7 @@ type: insight
 title: Operationalize living in the future to guide present-day building
 concepts:
   - "future-thinking"
-  - "innovation-strategy"
+  - "product-innovation-strategy"
   - "early-adoption"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada

@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/product-leadership-strategy]] (1 shared insights)
 - [[concepts/autonomy]] (1 shared insights)
 - [[concepts/execution]] (1 shared insights)
 - [[concepts/ownership]] (1 shared insights)

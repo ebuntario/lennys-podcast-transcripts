@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/leadership]] (1 shared insights)
-- [[concepts/product-growth]] (1 shared insights)
+- [[concepts/growth-product-strategy]] (1 shared insights)
 - [[concepts/free-tier]] (1 shared insights)

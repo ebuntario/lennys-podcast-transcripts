@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/growth-cmo]] (1 shared insights)
-- [[concepts/product-marketing-integration]] (1 shared insights)
+- [[concepts/product-marketing]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)
 - [[concepts/skill-development]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Focus on solving painful, complex problems that others avoid
 concepts:
   - "problem-selection"
   - "market-opportunity"
-  - "competitive-advantage"
+  - "product-market-leadership"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-tools]] (2 shared insights)
+- [[concepts/ai-applications]] (2 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/generalists]] (1 shared insights)

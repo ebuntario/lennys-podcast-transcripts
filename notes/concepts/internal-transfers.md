@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/internal-mobility]] (1 shared insights)
 - [[concepts/culture-fit]] (1 shared insights)
-- [[concepts/career-growth]] (1 shared insights)
+- [[concepts/career-development]] (1 shared insights)
