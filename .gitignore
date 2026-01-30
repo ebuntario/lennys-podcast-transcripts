@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+
+# Build
+dist/
+
+# Obsidian (optional - keep if you want to sync settings)
+# .obsidian/

@@ -1,0 +1,36 @@
+{
+  "name": "lennys-podcast-transcripts",
+  "version": "1.0.0",
+  "description": "A comprehensive archive of transcripts from [Lenny's Podcast](https://www.youtube.com/@LennysPodcast), organized for easy use with AI coding assistants and language models.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "agent": "tsx scripts/transcript-agent.ts",
+    "generate-guests": "tsx scripts/generate-guests.ts",
+    "generate-concepts": "tsx scripts/generate-concepts.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebuntario/lennys-podcast-transcripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebuntario/lennys-podcast-transcripts/issues"
+  },
+  "homepage": "https://github.com/ebuntario/lennys-podcast-transcripts#readme",
+  "dependencies": {
+    "@types/node": "^25.1.0",
+    "dotenv": "^17.2.3",
+    "gray-matter": "^4.0.3",
+    "openai": "^6.17.0",
+    "slugify": "^1.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
