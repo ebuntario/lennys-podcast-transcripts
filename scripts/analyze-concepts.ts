@@ -3,6 +3,7 @@ import * as path from "path";
 import { fileURLToPath } from "url";
 import OpenAI from "openai";
 import dotenv from "dotenv";
+import pRetry from "p-retry";
 
 dotenv.config({ path: ".env.local" });
 
@@ -96,25 +97,41 @@ The canonical name should NOT be in the aliases array.
 Here are all the concepts:
 ${concepts.join(", ")}`;
 
-  const response = await openai.chat.completions.create({
-    model: "anthropic/claude-sonnet-4.5",
-    temperature: 0.1,
-    max_tokens: 8000,
-    messages: [
-      { role: "user", content: prompt },
-    ],
-  });
+  const response = await pRetry(
+    async () => {
+      const result = await openai.chat.completions.create({
+        model: "anthropic/claude-sonnet-4.5",
+        temperature: 0.1,
+        max_tokens: 8000,
+        messages: [
+          { role: "user", content: prompt },
+        ],
+      });
+      
+      const content = result.choices[0]?.message?.content;
+      if (!content) {
+        throw new Error("Empty response from LLM");
+      }
+      return content;
+    },
+    {
+      retries: 3,
+      minTimeout: 2000,
+      maxTimeout: 15000,
+      onFailedAttempt: (error: { attemptNumber: number; retriesLeft: number }) => {
+        console.log(`  ⚠ Attempt ${error.attemptNumber} failed. ${error.retriesLeft} retries left.`);
+      },
+    }
+  );
 
-  const rawOutput = response.choices[0]?.message?.content || "{}";
-  
   // Clean up response - remove markdown code blocks if present
-  const cleaned = rawOutput.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
+  const cleaned = response.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
   
   try {
     return JSON.parse(cleaned);
   } catch (e) {
     console.error("Failed to parse LLM response:", e);
-    console.error("Raw output:", rawOutput);
+    console.error("Raw output:", response);
     return {};
   }
 }

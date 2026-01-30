@@ -4,8 +4,10 @@ import OpenAI from "openai";
 import matter from "gray-matter";
 import * as fs from "fs";
 import * as path from "path";
+import * as os from "os";
 import { fileURLToPath } from "url";
 import { createRequire } from "module";
+import pRetry from "p-retry";
 
 const require = createRequire(import.meta.url);
 const slugify = require("slugify") as (str: string, opts?: { lower?: boolean; strict?: boolean }) => string;
@@ -16,6 +18,10 @@ const __dirname = path.dirname(__filename);
 const EPISODES_DIR = path.join(__dirname, "..", "episodes");
 const NOTES_DIR = path.join(__dirname, "..", "notes", "insights");
 const PROCESSED_DIR = path.join(__dirname, "..", "notes", ".processed");
+
+// CLI flags
+const DRY_RUN = process.argv.includes("--dry-run");
+const VERBOSE = process.argv.includes("--verbose");
 
 const openai = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
@@ -38,9 +44,9 @@ Output format (repeat for each insight):
 type: insight
 title: [Short descriptive title]
 concepts:
-  - "[[concepts/concept-1]]"
-  - "[[concepts/concept-2]]"
-  - "[[concepts/concept-3]]"
+  - "concept-1"
+  - "concept-2"
+  - "concept-3"
 source_guest: [GUEST_NAME]
 source_episode: [EPISODE_TITLE]
 ---
@@ -49,10 +55,22 @@ source_episode: [EPISODE_TITLE]
 
 Rules for concepts:
 - Use lowercase kebab-case (e.g., career-development, product-strategy, subscription-models)
+- Use plain strings, NOT wikilink format in the frontmatter
 - Choose 2-5 concepts per insight that represent the core themes
 - In the body text, link the most important concept(s) inline using [[concepts/name|display text]]
 Use ===NOTE=== as separator between insights. Do not include any text outside this format.`;
 
+interface ValidatedNote {
+  content: string;
+  title: string;
+  concepts: string[];
+  isValid: boolean;
+  errors: string[];
+}
+
+/**
+ * Extract insights with retry logic
+ */
 async function extractInsights(
   transcript: string,
   guest: string,
@@ -66,38 +84,111 @@ Episode: ${title}
 Transcript:
 ${transcript}`;
 
-  const response = await openai.chat.completions.create({
-    model: "deepseek/deepseek-v3.2",
-    temperature: 0.2,
-    max_tokens: 8000,
-    messages: [
-      { role: "system", content: SYSTEM_PROMPT },
-      { role: "user", content: userPrompt },
-    ],
-  });
+  return pRetry(
+    async () => {
+      const response = await openai.chat.completions.create({
+        model: "deepseek/deepseek-v3.2",
+        temperature: 0.2,
+        max_tokens: 8000,
+        messages: [
+          { role: "system", content: SYSTEM_PROMPT },
+          { role: "user", content: userPrompt },
+        ],
+      });
 
-  return response.choices[0]?.message?.content || "";
+      const content = response.choices[0]?.message?.content;
+      if (!content || content.trim().length === 0) {
+        throw new Error("Empty response from LLM");
+      }
+      return content;
+    },
+    {
+      retries: 3,
+      minTimeout: 1000,
+      maxTimeout: 10000,
+      onFailedAttempt: (error: { attemptNumber: number; retriesLeft: number }) => {
+        console.log(
+          `  ⚠ Attempt ${error.attemptNumber} failed. ${error.retriesLeft} retries left.`
+        );
+      },
+    }
+  );
 }
 
-function parseNotes(rawOutput: string): string[] {
+/**
+ * Parse and validate notes from LLM output
+ */
+function parseAndValidateNotes(rawOutput: string): ValidatedNote[] {
   // Remove any preamble before the first ---
   const cleaned = rawOutput.replace(/^[\s\S]*?(?=---\ntype:)/m, "");
-  
-  return cleaned
+
+  const rawNotes = cleaned
     .split("===NOTE===")
     .map((n) => n.trim())
     .filter((n) => n.length > 0 && n.startsWith("---"));
+
+  return rawNotes.map((noteContent) => {
+    const errors: string[] = [];
+    let title = "untitled";
+    let concepts: string[] = [];
+
+    try {
+      const parsed = matter(noteContent);
+
+      // Validate type
+      if (parsed.data.type !== "insight") {
+        errors.push(`Invalid type: ${parsed.data.type}`);
+      }
+
+      // Validate title
+      if (!parsed.data.title || typeof parsed.data.title !== "string") {
+        errors.push("Missing or invalid title");
+      } else {
+        title = parsed.data.title;
+      }
+
+      // Validate concepts
+      if (!Array.isArray(parsed.data.concepts) || parsed.data.concepts.length === 0) {
+        errors.push("Missing or empty concepts array");
+      } else {
+        concepts = parsed.data.concepts;
+      }
+
+      // Validate source_guest
+      if (!parsed.data.source_guest) {
+        errors.push("Missing source_guest");
+      }
+
+      // Validate content exists
+      if (!parsed.content || parsed.content.trim().length < 50) {
+        errors.push("Content too short (< 50 chars)");
+      }
+    } catch (e) {
+      errors.push(`Parse error: ${e instanceof Error ? e.message : "Unknown"}`);
+    }
+
+    return {
+      content: noteContent,
+      title,
+      concepts,
+      isValid: errors.length === 0,
+      errors,
+    };
+  });
 }
 
+/**
+ * Save note with atomic write (write to temp, then move)
+ */
 function saveNote(
   noteContent: string,
   videoId: string,
   index: number,
   guestName: string,
   guestSlug: string
-): void {
+): string | null {
   let title = `insight-${index}`;
-  
+
   try {
     const parsed = matter(noteContent);
     if (parsed.data.title) {
@@ -106,7 +197,7 @@ function saveNote(
   } catch {
     const titleMatch = noteContent.match(/^title:\s*(.+)$/m);
     if (titleMatch) {
-      title = titleMatch[1].trim();
+      title = titleMatch[1]?.trim() || title;
     }
   }
 
@@ -121,11 +212,33 @@ function saveNote(
   const filename = `${videoId}-${String(index).padStart(2, "0")}-${slug}.md`;
   const filepath = path.join(NOTES_DIR, filename);
 
-  fs.writeFileSync(filepath, enhancedContent, "utf-8");
-  console.log(`  → ${filename}`);
+  if (DRY_RUN) {
+    console.log(`  → [DRY-RUN] Would create: ${filename}`);
+    return filename;
+  }
+
+  // Atomic write: write to temp file first, then rename
+  const tempPath = path.join(os.tmpdir(), `insight-${Date.now()}-${Math.random().toString(36).slice(2)}.md`);
+  
+  try {
+    fs.writeFileSync(tempPath, enhancedContent, "utf-8");
+    fs.renameSync(tempPath, filepath);
+    console.log(`  → ${filename}`);
+    return filename;
+  } catch (e) {
+    // Clean up temp file if rename failed
+    try {
+      fs.unlinkSync(tempPath);
+    } catch {
+      // Ignore cleanup errors
+    }
+    throw e;
+  }
 }
 
 function markProcessed(videoId: string): void {
+  if (DRY_RUN) return;
+  
   const marker = path.join(PROCESSED_DIR, `${videoId}.done`);
   fs.writeFileSync(marker, new Date().toISOString(), "utf-8");
 }
@@ -135,7 +248,7 @@ function isProcessed(videoId: string): boolean {
   return fs.existsSync(marker);
 }
 
-async function processTranscript(transcriptPath: string): Promise<void> {
+async function processTranscript(transcriptPath: string): Promise<{ valid: number; invalid: number }> {
   const raw = fs.readFileSync(transcriptPath, "utf-8");
   const { data, content } = matter(raw);
 
@@ -146,29 +259,53 @@ async function processTranscript(transcriptPath: string): Promise<void> {
 
   if (!videoId) {
     console.log(`⚠ Skipping (no video_id): ${transcriptPath}`);
-    return;
+    return { valid: 0, invalid: 0 };
   }
 
   if (isProcessed(videoId)) {
     console.log(`⏭ Already processed: ${guest}`);
-    return;
+    return { valid: 0, invalid: 0 };
   }
 
   console.log(`\n🎙 Processing: ${guest} - ${title}`);
 
   const transcriptBody = content.replace(/^#.*\n/, "").replace(/^## Transcript\n/, "");
 
-  const rawNotes = await extractInsights(transcriptBody, guest, title);
-  const notes = parseNotes(rawNotes);
+  let rawNotes: string;
+  try {
+    rawNotes = await extractInsights(transcriptBody, guest, title);
+  } catch (e) {
+    console.log(`  ❌ Failed to extract insights after retries: ${e instanceof Error ? e.message : "Unknown"}`);
+    return { valid: 0, invalid: 0 };
+  }
 
-  console.log(`  📝 Extracted ${notes.length} insights`);
+  const validatedNotes = parseAndValidateNotes(rawNotes);
+  const validNotes = validatedNotes.filter((n) => n.isValid);
+  const invalidNotes = validatedNotes.filter((n) => !n.isValid);
 
-  notes.forEach((note, i) => {
-    saveNote(note, videoId, i + 1, guest, guestSlug);
+  console.log(`  📝 Extracted ${validatedNotes.length} notes (${validNotes.length} valid, ${invalidNotes.length} invalid)`);
+
+  // Log invalid notes if verbose
+  if (VERBOSE && invalidNotes.length > 0) {
+    invalidNotes.forEach((note) => {
+      console.log(`    ⚠ Invalid: "${note.title.slice(0, 30)}..." - ${note.errors.join(", ")}`);
+    });
+  }
+
+  // Only save valid notes
+  validNotes.forEach((note, i) => {
+    saveNote(note.content, videoId, i + 1, guest, guestSlug);
   });
 
-  markProcessed(videoId);
-  console.log(`  ✅ Done`);
+  // Only mark as processed if we got at least 1 valid note
+  if (validNotes.length > 0) {
+    markProcessed(videoId);
+    console.log(`  ✅ Done`);
+  } else {
+    console.log(`  ⚠ No valid notes extracted - NOT marking as processed`);
+  }
+
+  return { valid: validNotes.length, invalid: invalidNotes.length };
 }
 
 async function main(): Promise<void> {
@@ -177,10 +314,16 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
+  if (DRY_RUN) {
+    console.log("🔍 DRY RUN MODE - no files will be created\n");
+  }
+
   fs.mkdirSync(NOTES_DIR, { recursive: true });
   fs.mkdirSync(PROCESSED_DIR, { recursive: true });
 
-  const limit = process.argv[2] ? parseInt(process.argv[2], 10) : undefined;
+  // Parse limit from args (skip flags)
+  const numericArgs = process.argv.slice(2).filter((a) => !a.startsWith("--"));
+  const limit = numericArgs[0] ? parseInt(numericArgs[0], 10) : undefined;
 
   const episodes = fs.readdirSync(EPISODES_DIR).filter((d) => {
     const transcriptPath = path.join(EPISODES_DIR, d, "transcript.md");
@@ -192,12 +335,19 @@ async function main(): Promise<void> {
 
   const toProcess = limit ? episodes.slice(0, limit) : episodes;
 
+  let totalValid = 0;
+  let totalInvalid = 0;
+
   for (const ep of toProcess) {
     const transcriptPath = path.join(EPISODES_DIR, ep, "transcript.md");
-    await processTranscript(transcriptPath);
+    const { valid, invalid } = await processTranscript(transcriptPath);
+    totalValid += valid;
+    totalInvalid += invalid;
   }
 
-  console.log("\n🎉 Complete!");
+  console.log(`\n🎉 Complete!`);
+  console.log(`   Total valid notes: ${totalValid}`);
+  console.log(`   Total invalid notes: ${totalInvalid}`);
 }
 
 main().catch(console.error);
