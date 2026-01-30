@@ -1,10 +1,13 @@
 import * as dotenv from "dotenv";
 dotenv.config({ path: ".env.local" });
 import matter from "gray-matter";
-import slugify from "slugify";
 import * as fs from "fs";
 import * as path from "path";
-import { fileURLToPath } from "url";
+import { fileURLToPath, pathToFileURL } from "url";
+import { createRequire } from "module";
+
+const require = createRequire(import.meta.url);
+const slugify = require("slugify") as (str: string, opts?: { lower?: boolean; strict?: boolean }) => string;
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

@@ -41,10 +41,10 @@ function extractAllConcepts(): Map<string, number> {
     
     // Extract concepts from frontmatter (now plain strings like "concept-name")
     const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
-    if (frontmatterMatch) {
+    if (frontmatterMatch && frontmatterMatch[1]) {
       const conceptMatches = frontmatterMatch[1].matchAll(/^\s*-\s*"([^"]+)"/gm);
       for (const match of conceptMatches) {
-        const concept = match[1].trim().toLowerCase();
+        const concept = match[1]?.trim().toLowerCase();
         if (concept && !concept.startsWith("[[")) {
           conceptCounts.set(concept, (conceptCounts.get(concept) || 0) + 1);
         }
@@ -54,8 +54,10 @@ function extractAllConcepts(): Map<string, number> {
     // Also extract from body wikilinks
     const bodyConceptMatches = content.matchAll(/\[\[concepts\/([^\]|]+)/g);
     for (const match of bodyConceptMatches) {
-      const concept = match[1].trim().toLowerCase();
-      conceptCounts.set(concept, (conceptCounts.get(concept) || 0) + 1);
+      const concept = match[1]?.trim().toLowerCase();
+      if (concept) {
+        conceptCounts.set(concept, (conceptCounts.get(concept) || 0) + 1);
+      }
     }
   }
 
@@ -95,7 +97,7 @@ Here are all the concepts:
 ${concepts.join(", ")}`;
 
   const response = await openai.chat.completions.create({
-    model: "anthropic/claude-sonnet-4",
+    model: "anthropic/claude-sonnet-4.5",
     temperature: 0.1,
     max_tokens: 8000,
     messages: [

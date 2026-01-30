@@ -1,7 +1,10 @@
 import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
-import slugify from "slugify";
+import { createRequire } from "module";
+
+const require = createRequire(import.meta.url);
+const slugify = require("slugify") as (str: string, opts?: { lower?: boolean; strict?: boolean }) => string;
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -25,7 +28,7 @@ function extractConceptsFromInsights(): Map<string, number> {
     // Extract concepts from wikilink format: "[[concepts/concept-name]]"
     const conceptMatches = content.matchAll(/\[\[concepts\/([^\]|]+)/g);
     for (const match of conceptMatches) {
-      const concept = match[1].trim();
+      const concept = match[1]?.trim();
       if (concept) {
         conceptCounts.set(concept, (conceptCounts.get(concept) || 0) + 1);
       }
