@@ -5,9 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "agent": "tsx scripts/transcript-agent.ts",
-    "generate-guests": "tsx scripts/generate-guests.ts",
-    "generate-concepts": "tsx scripts/generate-concepts.ts",
+    "cli": "tsx scripts/cli.ts",
+    "extract": "tsx scripts/cli.ts extract",
+    "concepts": "tsx scripts/cli.ts concepts",
+    "analyze": "tsx scripts/cli.ts analyze",
+    "canonicalize": "tsx scripts/cli.ts canonicalize",
+    "guests": "tsx scripts/cli.ts guests",
+    "validate": "tsx scripts/cli.ts validate",
+    "stats": "tsx scripts/cli.ts stats",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +28,7 @@
   "homepage": "https://github.com/ebuntario/lennys-podcast-transcripts#readme",
   "dependencies": {
     "@types/node": "^25.1.0",
+    "commander": "^14.0.2",
     "dotenv": "^17.2.3",
     "gray-matter": "^4.0.3",
     "openai": "^6.17.0",
