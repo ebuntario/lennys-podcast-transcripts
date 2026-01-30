@@ -2,9 +2,9 @@
 type: insight
 title: Build an "emulator" of great leaders in your mind
 concepts:
-  - "[[concepts/mentorship]]"
-  - "[[concepts/problem-solving]]"
-  - "[[concepts/skill-development]]"
+  - "mentorship"
+  - "problem-solving"
+  - "skill-development"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

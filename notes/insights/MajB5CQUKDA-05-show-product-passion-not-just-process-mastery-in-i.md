@@ -2,9 +2,9 @@
 type: insight
 title: Show product passion, not just process mastery, in interviews
 concepts:
-  - "[[concepts/interviewing]]"
-  - "[[concepts/product-passion]]"
-  - "[[concepts/problem-focus]]"
+  - "interviewing"
+  - "product-passion"
+  - "problem-focus"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Consider Medication for Treating Anxiety and ADHD
 concepts:
-  - "[[concepts/mental-health]]"
-  - "[[concepts/productivity]]"
-  - "[[concepts/decision-making]]"
+  - "mental-health"
+  - "productivity"
+  - "decision-making"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

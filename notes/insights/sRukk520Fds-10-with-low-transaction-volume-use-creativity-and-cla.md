@@ -2,9 +2,9 @@
 type: insight
 title: With low transaction volume, use creativity and clarity to build conviction beyond A/B testing
 concepts:
-  - "[[concepts/experimentation-low-volume]]"
-  - "[[concepts/conviction-building]]"
-  - "[[concepts/data-informed-decisions]]"
+  - "experimentation-low-volume"
+  - "conviction-building"
+  - "data-informed-decisions"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

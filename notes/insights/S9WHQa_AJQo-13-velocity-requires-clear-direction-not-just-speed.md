@@ -2,9 +2,9 @@
 type: insight
 title: Velocity requires clear direction, not just speed
 concepts:
-  - "[[concepts/velocity-vs-speed]]"
-  - "[[concepts/strategic-clarity]]"
-  - "[[concepts/execution]]"
+  - "velocity-vs-speed"
+  - "strategic-clarity"
+  - "execution"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

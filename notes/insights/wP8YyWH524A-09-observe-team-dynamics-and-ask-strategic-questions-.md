@@ -2,9 +2,9 @@
 type: insight
 title: Observe team dynamics and ask strategic questions to evaluate company culture
 concepts:
-  - "[[concepts/company-evaluation]]"
-  - "[[concepts/team-culture]]"
-  - "[[concepts/interviewing]]"
+  - "company-evaluation"
+  - "team-culture"
+  - "interviewing"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

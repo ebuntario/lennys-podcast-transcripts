@@ -2,9 +2,9 @@
 type: insight
 title: In marketplaces, demand aggregation is the ultimate currency
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/supply-demand-dynamics]]"
-  - "[[concepts/growth-prioritization]]"
+  - "marketplace-strategy"
+  - "supply-demand-dynamics"
+  - "growth-prioritization"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

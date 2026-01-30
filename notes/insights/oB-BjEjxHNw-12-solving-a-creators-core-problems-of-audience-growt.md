@@ -2,9 +2,9 @@
 type: insight
 title: Solving a creator's core problems of audience growth and payment unlocks value
 concepts:
-  - "[[concepts/creator-pain-points]]"
-  - "[[concepts/audience-growth]]"
-  - "[[concepts/problem-validation]]"
+  - "creator-pain-points"
+  - "audience-growth"
+  - "problem-validation"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Maintain a flexible professional identity to adapt to company needs
 concepts:
-  - "[[concepts/career-adaptability]]"
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/role-evolution]]"
+  - "career-adaptability"
+  - "founder-mindset"
+  - "role-evolution"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

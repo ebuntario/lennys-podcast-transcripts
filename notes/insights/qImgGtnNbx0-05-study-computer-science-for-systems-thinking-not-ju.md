@@ -2,9 +2,9 @@
 type: insight
 title: Study computer science for systems thinking, not just coding syntax
 concepts:
-  - "[[concepts/ai-future-of-work]]"
-  - "[[concepts/computer-science-education]]"
-  - "[[concepts/systems-thinking]]"
+  - "ai-future-of-work"
+  - "computer-science-education"
+  - "systems-thinking"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Technical people should see themselves as translators between problems and solutions
 concepts:
-  - "[[concepts/skill-evolution]]"
-  - "[[concepts/ai-tools]]"
-  - "[[concepts/technical-roles]]"
+  - "skill-evolution"
+  - "ai-tools"
+  - "technical-roles"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

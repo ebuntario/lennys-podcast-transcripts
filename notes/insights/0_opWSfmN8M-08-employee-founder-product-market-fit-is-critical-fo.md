@@ -2,9 +2,9 @@
 type: insight
 title: Employee-founder-product-market fit is critical for high-performance cultures
 concepts:
-  - "[[concepts/culture-fit]]"
-  - "[[concepts/team-building]]"
-  - "[[concepts/organizational-design]]"
+  - "culture-fit"
+  - "team-building"
+  - "organizational-design"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

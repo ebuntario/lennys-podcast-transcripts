@@ -2,9 +2,9 @@
 type: insight
 title: Use a "crystal clear" conversation before termination to avoid surprises
 concepts:
-  - "[[concepts/performance-management]]"
-  - "[[concepts/difficult-conversations]]"
-  - "[[concepts/accountability]]"
+  - "performance-management"
+  - "difficult-conversations"
+  - "accountability"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

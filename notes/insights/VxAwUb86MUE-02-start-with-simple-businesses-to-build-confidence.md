@@ -2,9 +2,9 @@
 type: insight
 title: Start with Simple Businesses to Build Confidence
 concepts:
-  - "[[concepts/entrepreneurial-journey]]"
-  - "[[concepts/business-idea-generation]]"
-  - "[[concepts/risk-management]]"
+  - "entrepreneurial-journey"
+  - "business-idea-generation"
+  - "risk-management"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

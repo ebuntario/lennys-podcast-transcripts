@@ -2,8 +2,8 @@
 type: insight
 title: Rank opportunity areas using four key criteria
 concepts:
-  - "[[concepts/prioritization]]"
-  - "[[concepts/decision-making]]"
+  - "prioritization"
+  - "decision-making"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

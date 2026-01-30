@@ -2,9 +2,9 @@
 type: insight
 title: Differentiate a product by leaning into an unconventional attribute like "fun"
 concepts:
-  - "[[concepts/product-differentiation]]"
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/user-experience]]"
+  - "product-differentiation"
+  - "product-strategy"
+  - "user-experience"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

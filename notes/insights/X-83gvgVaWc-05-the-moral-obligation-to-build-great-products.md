@@ -2,9 +2,9 @@
 type: insight
 title: The moral obligation to build great products
 concepts:
-  - "[[concepts/user-empathy]]"
-  - "[[concepts/emotional-impact]]"
-  - "[[concepts/software-as-a-medium]]"
+  - "user-empathy"
+  - "emotional-impact"
+  - "software-as-a-medium"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

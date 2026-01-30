@@ -2,9 +2,9 @@
 type: insight
 title: Achievement Addiction as a Coping Mechanism for Childhood Trauma
 concepts:
-  - "[[concepts/trauma]]"
-  - "[[concepts/self-worth]]"
-  - "[[concepts/coping-mechanisms]]"
+  - "trauma"
+  - "self-worth"
+  - "coping-mechanisms"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

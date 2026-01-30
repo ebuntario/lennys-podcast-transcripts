@@ -2,9 +2,9 @@
 type: insight
 title: View growth as a compounding game of inches
 concepts:
-  - "[[concepts/product-growth]]"
-  - "[[concepts/optimization]]"
-  - "[[concepts/experimentation]]"
+  - "product-growth"
+  - "optimization"
+  - "experimentation"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Process adoption requires adaptation to existing culture
 concepts:
-  - "[[concepts/process-adoption]]"
-  - "[[concepts/cultural-adaptation]]"
-  - "[[concepts/organizational-change]]"
+  - "process-adoption"
+  - "cultural-adaptation"
+  - "organizational-change"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

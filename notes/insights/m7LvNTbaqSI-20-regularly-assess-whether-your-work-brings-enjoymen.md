@@ -2,8 +2,8 @@
 type: insight
 title: Regularly assess whether your work brings enjoyment and adjust accordingly
 concepts:
-  - "[[concepts/founder-motivation]]"
-  - "[[concepts/career-satisfaction]]"
+  - "founder-motivation"
+  - "career-satisfaction"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

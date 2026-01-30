@@ -2,9 +2,9 @@
 type: insight
 title: Process innovation enables scaling beyond hypergrowth
 concepts:
-  - "[[concepts/process-innovation]]"
-  - "[[concepts/scaling]]"
-  - "[[concepts/operational-excellence]]"
+  - "process-innovation"
+  - "scaling"
+  - "operational-excellence"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

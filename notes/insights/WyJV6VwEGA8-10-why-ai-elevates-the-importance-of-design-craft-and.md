@@ -2,9 +2,9 @@
 type: insight
 title: Why AI elevates the importance of design, craft, and quality
 concepts:
-  - "[[concepts/ai-strategy]]"
-  - "[[concepts/design-moat]]"
-  - "[[concepts/competitive-advantage]]"
+  - "ai-strategy"
+  - "design-moat"
+  - "competitive-advantage"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

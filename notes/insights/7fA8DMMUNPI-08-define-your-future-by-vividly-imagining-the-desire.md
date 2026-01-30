@@ -2,9 +2,9 @@
 type: insight
 title: Define your future by vividly imagining the desired outcome first
 concepts:
-  - "[[concepts/goal-setting]]"
-  - "[[concepts/vision]]"
-  - "[[concepts/personal-purpose]]"
+  - "goal-setting"
+  - "vision"
+  - "personal-purpose"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

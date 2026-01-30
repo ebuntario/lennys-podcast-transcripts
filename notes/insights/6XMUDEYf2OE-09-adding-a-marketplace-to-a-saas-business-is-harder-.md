@@ -2,9 +2,9 @@
 type: insight
 title: Adding a marketplace to a SaaS business is harder than adding SaaS to a marketplace
 concepts:
-  - "[[concepts/saas-to-marketplace]]"
-  - "[[concepts/business-model-evolution]]"
-  - "[[concepts/customer-relationships]]"
+  - "saas-to-marketplace"
+  - "business-model-evolution"
+  - "customer-relationships"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

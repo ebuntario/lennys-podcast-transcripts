@@ -2,9 +2,9 @@
 type: insight
 title: Create hybrid journeys between self-service and sales motions
 concepts:
-  - "[[concepts/growth-funnels]]"
-  - "[[concepts/customer-journey]]"
-  - "[[concepts/attribution-modeling]]"
+  - "growth-funnels"
+  - "customer-journey"
+  - "attribution-modeling"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

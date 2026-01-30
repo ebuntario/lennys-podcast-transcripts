@@ -2,9 +2,9 @@
 type: insight
 title: To build a general AI agent, start by building a superior coding agent
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/composability]]"
+  - "product-strategy"
+  - "ai-agents"
+  - "composability"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

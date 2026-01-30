@@ -2,9 +2,9 @@
 type: insight
 title: Input metrics focus on controllable customer experience factors
 concepts:
-  - "[[concepts/input-metrics]]"
-  - "[[concepts/customer-experience]]"
-  - "[[concepts/measurement]]"
+  - "input-metrics"
+  - "customer-experience"
+  - "measurement"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

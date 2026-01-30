@@ -2,9 +2,9 @@
 type: insight
 title: Use work simulations (1-day to 1-week trials) as a key hiring filter
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/team-building]]"
-  - "[[concepts/practical-assessment]]"
+  - "hiring"
+  - "team-building"
+  - "practical-assessment"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

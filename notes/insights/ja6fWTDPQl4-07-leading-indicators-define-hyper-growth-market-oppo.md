@@ -2,9 +2,9 @@
 type: insight
 title: Leading Indicators Define Hyper-Growth Market Opportunities
 concepts:
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/market-opportunity]]"
-  - "[[concepts/customer-obsession]]"
+  - "product-market-fit"
+  - "market-opportunity"
+  - "customer-obsession"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

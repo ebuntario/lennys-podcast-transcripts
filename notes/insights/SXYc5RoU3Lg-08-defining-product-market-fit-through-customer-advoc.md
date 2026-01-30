@@ -2,9 +2,9 @@
 type: insight
 title: Defining product-market fit through customer advocacy
 concepts:
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/reference-customers]]"
-  - "[[concepts/value-creation]]"
+  - "product-market-fit"
+  - "reference-customers"
+  - "value-creation"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

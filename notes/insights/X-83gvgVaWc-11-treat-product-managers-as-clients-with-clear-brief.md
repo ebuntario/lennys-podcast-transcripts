@@ -2,9 +2,9 @@
 type: insight
 title: Treat product managers as clients with clear briefs
 concepts:
-  - "[[concepts/creative-brief]]"
-  - "[[concepts/design-efficiency]]"
-  - "[[concepts/problem-constraints]]"
+  - "creative-brief"
+  - "design-efficiency"
+  - "problem-constraints"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

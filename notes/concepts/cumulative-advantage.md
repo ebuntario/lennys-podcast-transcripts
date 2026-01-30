@@ -11,10 +11,13 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/cumulative-advantage"))
+WHERE contains(concepts, "cumulative-advantage")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/brand-naming]] (1 shared insights)
+- [[concepts/competitive-advantage]] (1 shared insights)
+- [[concepts/market-positioning]] (1 shared insights)
+- [[concepts/asymmetric-advantage]] (1 shared insights)

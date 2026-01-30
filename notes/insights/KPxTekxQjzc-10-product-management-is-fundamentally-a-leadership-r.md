@@ -2,8 +2,8 @@
 type: insight
 title: Product management is fundamentally a leadership role without authority
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/leadership]]"
+  - "product-management"
+  - "leadership"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

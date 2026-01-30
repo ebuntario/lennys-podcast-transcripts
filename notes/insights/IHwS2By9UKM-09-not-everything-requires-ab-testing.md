@@ -2,9 +2,9 @@
 type: insight
 title: Not everything requires A/B testing
 concepts:
-  - "[[concepts/experimentation-paralysis]]"
-  - "[[concepts/intuition-in-decision-making]]"
-  - "[[concepts/pre-post-analysis]]"
+  - "experimentation-paralysis"
+  - "intuition-in-decision-making"
+  - "pre-post-analysis"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

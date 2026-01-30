@@ -2,9 +2,9 @@
 type: insight
 title: Use concrete retention benchmarks for free vs. paid products
 concepts:
-  - "[[concepts/user-retention]]"
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/metrics]]"
+  - "user-retention"
+  - "product-market-fit"
+  - "metrics"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

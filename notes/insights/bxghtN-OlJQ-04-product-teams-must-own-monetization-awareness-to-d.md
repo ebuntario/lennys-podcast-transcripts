@@ -2,9 +2,9 @@
 type: insight
 title: Product teams must own monetization awareness to drive conversion
 concepts:
-  - "[[concepts/monetization-awareness]]"
-  - "[[concepts/freemium-conversion]]"
-  - "[[concepts/product-accountability]]"
+  - "monetization-awareness"
+  - "freemium-conversion"
+  - "product-accountability"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Positioning is the space you occupy in your customer's mind
 concepts:
-  - "[[concepts/positioning]]"
-  - "[[concepts/target-audience]]"
+  - "positioning"
+  - "target-audience"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

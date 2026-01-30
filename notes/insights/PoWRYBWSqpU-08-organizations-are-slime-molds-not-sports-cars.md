@@ -2,9 +2,9 @@
 type: insight
 title: Organizations are slime molds, not sports cars
 concepts:
-  - "[[concepts/coordination-cost]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/autonomy]]"
+  - "coordination-cost"
+  - "organizational-design"
+  - "autonomy"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

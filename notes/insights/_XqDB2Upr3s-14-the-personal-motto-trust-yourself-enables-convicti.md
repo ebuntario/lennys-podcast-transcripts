@@ -2,9 +2,9 @@
 type: insight
 title: The personal motto "trust yourself" enables conviction and risk-taking
 concepts:
-  - "[[concepts/self-trust]]"
-  - "[[concepts/conviction]]"
-  - "[[concepts/personal-motto]]"
+  - "self-trust"
+  - "conviction"
+  - "personal-motto"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

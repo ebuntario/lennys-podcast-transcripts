@@ -2,9 +2,9 @@
 type: insight
 title: Become a value-adding expert in online communities
 concepts:
-  - "[[concepts/community-engagement]]"
-  - "[[concepts/content-distribution]]"
-  - "[[concepts/expertise-positioning]]"
+  - "community-engagement"
+  - "content-distribution"
+  - "expertise-positioning"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

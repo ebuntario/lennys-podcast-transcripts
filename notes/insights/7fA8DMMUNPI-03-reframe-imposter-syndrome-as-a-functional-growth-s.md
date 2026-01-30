@@ -2,9 +2,9 @@
 type: insight
 title: Reframe imposter syndrome as a functional growth signal
 concepts:
-  - "[[concepts/imposter-syndrome]]"
-  - "[[concepts/personal-growth]]"
-  - "[[concepts/self-awareness]]"
+  - "imposter-syndrome"
+  - "personal-growth"
+  - "self-awareness"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

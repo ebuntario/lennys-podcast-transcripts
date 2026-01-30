@@ -2,9 +2,9 @@
 type: insight
 title: View perceived weaknesses as potential strengths in context
 concepts:
-  - "[[concepts/strengths-identification]]"
-  - "[[concepts/self-acceptance]]"
-  - "[[concepts/neurodiversity]]"
+  - "strengths-identification"
+  - "self-acceptance"
+  - "neurodiversity"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

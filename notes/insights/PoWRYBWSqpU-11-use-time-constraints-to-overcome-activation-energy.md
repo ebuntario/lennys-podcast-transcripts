@@ -2,9 +2,9 @@
 type: insight
 title: Use time constraints to overcome activation energy
 concepts:
-  - "[[concepts/productivity-hacks]]"
-  - "[[concepts/activation-energy]]"
-  - "[[concepts/task-management]]"
+  - "productivity-hacks"
+  - "activation-energy"
+  - "task-management"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

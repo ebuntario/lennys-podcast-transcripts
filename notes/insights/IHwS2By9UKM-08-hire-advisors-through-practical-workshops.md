@@ -2,9 +2,9 @@
 type: insight
 title: Hire advisors through practical workshops
 concepts:
-  - "[[concepts/advisor-networks]]"
-  - "[[concepts/workshop-evaluation]]"
-  - "[[concepts/career-acceleration]]"
+  - "advisor-networks"
+  - "workshop-evaluation"
+  - "career-acceleration"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

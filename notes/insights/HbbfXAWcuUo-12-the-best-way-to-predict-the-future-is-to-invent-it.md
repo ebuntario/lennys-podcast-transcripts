@@ -2,9 +2,9 @@
 type: insight
 title: The best way to predict the future is to invent it
 concepts:
-  - "[[concepts/innovation]]"
-  - "[[concepts/future-thinking]]"
-  - "[[concepts/action-bias]]"
+  - "innovation"
+  - "future-thinking"
+  - "action-bias"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

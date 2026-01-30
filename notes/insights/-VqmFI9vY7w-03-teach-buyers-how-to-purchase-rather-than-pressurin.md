@@ -2,9 +2,9 @@
 type: insight
 title: Teach buyers how to purchase rather than pressuring them with FOMO
 concepts:
-  - "[[concepts/buyer-psychology]]"
-  - "[[concepts/sales-education]]"
-  - "[[concepts/decision-making]]"
+  - "buyer-psychology"
+  - "sales-education"
+  - "decision-making"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

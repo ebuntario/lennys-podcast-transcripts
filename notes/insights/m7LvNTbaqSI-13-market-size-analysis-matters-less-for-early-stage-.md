@@ -2,8 +2,8 @@
 type: insight
 title: Market size analysis matters less for early-stage startups than solving real problems
 concepts:
-  - "[[concepts/market-size]]"
-  - "[[concepts/early-stage-investing]]"
+  - "market-size"
+  - "early-stage-investing"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

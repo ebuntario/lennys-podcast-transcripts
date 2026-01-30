@@ -2,9 +2,9 @@
 type: insight
 title: The core PM skill is driving clarity from ambiguity, not mastering tools
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/problem-framing]]"
+  - "product-management"
+  - "skill-development"
+  - "problem-framing"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

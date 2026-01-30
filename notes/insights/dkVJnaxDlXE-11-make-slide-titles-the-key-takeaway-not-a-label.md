@@ -2,8 +2,8 @@
 type: insight
 title: Make slide titles the key takeaway, not a label
 concepts:
-  - "[[concepts/presentation-skills]]"
-  - "[[concepts/communication]]"
+  - "presentation-skills"
+  - "communication"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

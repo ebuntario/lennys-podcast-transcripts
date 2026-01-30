@@ -2,9 +2,9 @@
 type: insight
 title: Energy and curiosity make age less noticeable in the workplace
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/age-diversity]]"
-  - "[[concepts/mindset]]"
+  - "career-development"
+  - "age-diversity"
+  - "mindset"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

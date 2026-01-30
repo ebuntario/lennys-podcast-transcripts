@@ -2,9 +2,9 @@
 type: insight
 title: Designate a single decision-maker on cross-functional teams
 concepts:
-  - "[[concepts/cross-functional-teams]]"
-  - "[[concepts/decision-rights]]"
-  - "[[concepts/execution]]"
+  - "cross-functional-teams"
+  - "decision-rights"
+  - "execution"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

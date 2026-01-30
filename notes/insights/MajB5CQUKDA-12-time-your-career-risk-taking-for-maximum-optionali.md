@@ -2,9 +2,9 @@
 type: insight
 title: Time your career risk-taking for maximum optionality
 concepts:
-  - "[[concepts/career-risk]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/skill-building]]"
+  - "career-risk"
+  - "career-development"
+  - "skill-building"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

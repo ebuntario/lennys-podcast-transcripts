@@ -2,9 +2,9 @@
 type: insight
 title: Use energy drivers and drains as design requirements for your ideal job
 concepts:
-  - "[[concepts/energy-drivers-drains]]"
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/job-design]]"
+  - "energy-drivers-drains"
+  - "self-awareness"
+  - "job-design"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

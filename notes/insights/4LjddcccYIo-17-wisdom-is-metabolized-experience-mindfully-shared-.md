@@ -2,9 +2,9 @@
 type: insight
 title: Wisdom is metabolized experience mindfully shared for the common good
 concepts:
-  - "[[concepts/personal-development]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/emotional-intelligence]]"
+  - "personal-development"
+  - "leadership"
+  - "emotional-intelligence"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

@@ -2,8 +2,8 @@
 type: insight
 title: You can sell into an existing category while building a new one
 concepts:
-  - "[[concepts/category-creation]]"
-  - "[[concepts/go-to-market-strategy]]"
+  - "category-creation"
+  - "go-to-market-strategy"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

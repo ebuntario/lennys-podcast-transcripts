@@ -2,9 +2,9 @@
 type: insight
 title: Extreme attention to detail in product presentation builds brand excellence
 concepts:
-  - "[[concepts/product-craft]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/executive-involvement]]"
+  - "product-craft"
+  - "user-experience"
+  - "executive-involvement"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

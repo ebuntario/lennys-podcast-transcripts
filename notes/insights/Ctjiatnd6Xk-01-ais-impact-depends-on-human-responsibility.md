@@ -2,9 +2,9 @@
 type: insight
 title: AI's impact depends on human responsibility
 concepts:
-  - "[[concepts/ai-impact]]"
-  - "[[concepts/human-agency]]"
-  - "[[concepts/technology-ethics]]"
+  - "ai-impact"
+  - "human-agency"
+  - "technology-ethics"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

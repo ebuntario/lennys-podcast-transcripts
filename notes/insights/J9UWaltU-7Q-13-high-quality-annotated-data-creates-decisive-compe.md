@@ -2,9 +2,9 @@
 type: insight
 title: High-quality annotated data creates decisive competitive advantages in fine-tuning
 concepts:
-  - "[[concepts/data-advantage]]"
-  - "[[concepts/fine-tuning]]"
-  - "[[concepts/ai-performance]]"
+  - "data-advantage"
+  - "fine-tuning"
+  - "ai-performance"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

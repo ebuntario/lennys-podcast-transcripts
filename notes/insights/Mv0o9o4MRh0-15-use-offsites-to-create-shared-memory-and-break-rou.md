@@ -2,8 +2,8 @@
 type: insight
 title: Use offsites to create shared memory and break routine
 concepts:
-  - "[[concepts/team-building]]"
-  - "[[concepts/alignment]]"
+  - "team-building"
+  - "alignment"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

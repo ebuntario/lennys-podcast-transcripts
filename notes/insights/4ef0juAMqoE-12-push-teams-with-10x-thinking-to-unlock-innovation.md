@@ -2,9 +2,9 @@
 type: insight
 title: Push teams with 10X thinking to unlock innovation
 concepts:
-  - "[[concepts/innovation]]"
-  - "[[concepts/goal-setting]]"
-  - "[[concepts/leadership]]"
+  - "innovation"
+  - "goal-setting"
+  - "leadership"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

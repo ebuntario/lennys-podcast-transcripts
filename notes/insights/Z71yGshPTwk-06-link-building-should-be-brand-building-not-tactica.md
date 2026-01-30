@@ -2,9 +2,9 @@
 type: insight
 title: Link building should be brand building, not tactical link acquisition
 concepts:
-  - "[[concepts/link-building]]"
-  - "[[concepts/brand-building]]"
-  - "[[concepts/seo-strategy]]"
+  - "link-building"
+  - "brand-building"
+  - "seo-strategy"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

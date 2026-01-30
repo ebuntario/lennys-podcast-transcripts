@@ -2,8 +2,8 @@
 type: insight
 title: Define a "winning aspiration" with a newspaper headline
 concepts:
-  - "[[concepts/vision]]"
-  - "[[concepts/strategy-process]]"
+  - "vision"
+  - "strategy-process"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

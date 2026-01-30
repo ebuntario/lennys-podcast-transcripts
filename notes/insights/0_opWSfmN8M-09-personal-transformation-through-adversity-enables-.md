@@ -2,9 +2,9 @@
 type: insight
 title: Personal transformation through adversity enables better leadership
 concepts:
-  - "[[concepts/leadership-development]]"
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/resilience]]"
+  - "leadership-development"
+  - "self-awareness"
+  - "resilience"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/maximizing-option-value"))
+WHERE contains(concepts, "maximizing-option-value")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/decision-frameworks]] (1 shared insights)
+- [[concepts/long-term-thinking]] (1 shared insights)
+- [[concepts/personal-development]] (1 shared insights)

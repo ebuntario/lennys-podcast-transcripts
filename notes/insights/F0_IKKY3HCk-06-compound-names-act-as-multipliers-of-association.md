@@ -2,8 +2,8 @@
 type: insight
 title: Compound names act as multipliers of association
 concepts:
-  - "[[concepts/brand-naming]]"
-  - "[[concepts/marketing-psychology]]"
+  - "brand-naming"
+  - "marketing-psychology"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

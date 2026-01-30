@@ -2,9 +2,9 @@
 type: insight
 title: Alignment as unanimous agreement is a coercive and unrealistic goal
 concepts:
-  - "[[concepts/group-dynamics]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/leadership]]"
+  - "group-dynamics"
+  - "decision-making"
+  - "leadership"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

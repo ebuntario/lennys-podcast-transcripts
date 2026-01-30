@@ -2,9 +2,9 @@
 type: insight
 title: The strategic power of saying "no" to focus on target personas
 concepts:
-  - "[[concepts/strategic-focus]]"
-  - "[[concepts/prioritization]]"
-  - "[[concepts/target-persona]]"
+  - "strategic-focus"
+  - "prioritization"
+  - "target-persona"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

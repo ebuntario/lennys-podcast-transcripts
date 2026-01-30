@@ -2,9 +2,9 @@
 type: insight
 title: Validate business models before scaling hardware or capital-intensive solutions
 concepts:
-  - "[[concepts/lean-validation]]"
-  - "[[concepts/business-model-testing]]"
-  - "[[concepts/startup-mistakes]]"
+  - "lean-validation"
+  - "business-model-testing"
+  - "startup-mistakes"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

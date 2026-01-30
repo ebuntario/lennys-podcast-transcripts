@@ -2,9 +2,9 @@
 type: insight
 title: Influencer marketing offers hyper-targeted contextual reach, but requires manual effort
 concepts:
-  - "[[concepts/influencer-marketing]]"
-  - "[[concepts/targeted-marketing]]"
-  - "[[concepts/channel-evaluation]]"
+  - "influencer-marketing"
+  - "targeted-marketing"
+  - "channel-evaluation"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

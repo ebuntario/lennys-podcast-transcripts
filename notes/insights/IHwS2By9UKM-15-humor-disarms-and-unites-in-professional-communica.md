@@ -2,9 +2,9 @@
 type: insight
 title: Humor disarms and unites in professional communication
 concepts:
-  - "[[concepts/professional-communication]]"
-  - "[[concepts/psychological-safety]]"
-  - "[[concepts/team-dynamics]]"
+  - "professional-communication"
+  - "psychological-safety"
+  - "team-dynamics"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

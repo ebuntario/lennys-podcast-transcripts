@@ -2,9 +2,9 @@
 type: insight
 title: Avoid divisional structures that create bureaucracy
 concepts:
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/company-culture]]"
-  - "[[concepts/execution]]"
+  - "organizational-design"
+  - "company-culture"
+  - "execution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

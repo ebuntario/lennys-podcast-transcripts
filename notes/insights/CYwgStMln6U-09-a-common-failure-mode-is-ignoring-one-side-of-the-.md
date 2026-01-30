@@ -2,9 +2,9 @@
 type: insight
 title: A common failure mode is ignoring one side of the marketplace for too long
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/network-effects]]"
-  - "[[concepts/retention]]"
+  - "marketplace-strategy"
+  - "network-effects"
+  - "retention"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

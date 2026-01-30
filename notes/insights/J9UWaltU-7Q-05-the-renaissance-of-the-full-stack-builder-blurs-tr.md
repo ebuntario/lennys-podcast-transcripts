@@ -2,9 +2,9 @@
 type: insight
 title: The renaissance of the full-stack builder blurs traditional functional roles
 concepts:
-  - "[[concepts/full-stack-builder]]"
-  - "[[concepts/cross-functional-skills]]"
-  - "[[concepts/product-velocity]]"
+  - "full-stack-builder"
+  - "cross-functional-skills"
+  - "product-velocity"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

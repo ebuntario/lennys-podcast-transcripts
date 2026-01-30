@@ -2,9 +2,9 @@
 type: insight
 title: Capture insights immediately when the muse strikes
 concepts:
-  - "[[concepts/insight-capture]]"
-  - "[[concepts/reflection-practice]]"
-  - "[[concepts/creativity]]"
+  - "insight-capture"
+  - "reflection-practice"
+  - "creativity"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Foundational breakthroughs often come from connecting overlooked dots
 concepts:
-  - "[[concepts/innovation]]"
-  - "[[concepts/research-strategy]]"
-  - "[[concepts/ai-history]]"
+  - "innovation"
+  - "research-strategy"
+  - "ai-history"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

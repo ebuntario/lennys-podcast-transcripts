@@ -2,9 +2,9 @@
 type: insight
 title: SEO success requires understanding the buyer journey, not just rankings
 concepts:
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/user-journey]]"
-  - "[[concepts/conversion-metrics]]"
+  - "seo-strategy"
+  - "user-journey"
+  - "conversion-metrics"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

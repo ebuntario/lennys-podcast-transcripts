@@ -2,8 +2,8 @@
 type: insight
 title: Use the "winning diamond" framework to clarify naming objectives
 concepts:
-  - "[[concepts/strategic-frameworks]]"
-  - "[[concepts/brand-strategy]]"
+  - "strategic-frameworks"
+  - "brand-strategy"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

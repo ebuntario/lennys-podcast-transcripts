@@ -2,9 +2,9 @@
 type: insight
 title: Third-party auth rarely boosts acquisition
 concepts:
-  - "[[concepts/user-acquisition]]"
-  - "[[concepts/signup-friction]]"
-  - "[[concepts/developer-experience]]"
+  - "user-acquisition"
+  - "signup-friction"
+  - "developer-experience"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

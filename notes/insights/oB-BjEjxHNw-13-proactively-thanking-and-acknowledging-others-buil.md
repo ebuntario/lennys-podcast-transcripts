@@ -2,9 +2,9 @@
 type: insight
 title: Proactively thanking and acknowledging others builds positive relationships
 concepts:
-  - "[[concepts/relationship-building]]"
-  - "[[concepts/professional-etiquette]]"
-  - "[[concepts/personal-brand]]"
+  - "relationship-building"
+  - "professional-etiquette"
+  - "personal-brand"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

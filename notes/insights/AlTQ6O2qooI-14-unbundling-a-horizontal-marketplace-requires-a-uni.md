@@ -2,9 +2,9 @@
 type: insight
 title: Unbundling a horizontal marketplace requires a unique wedge
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/verticalization]]"
+  - "marketplace-strategy"
+  - "competitive-advantage"
+  - "verticalization"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

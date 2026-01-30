@@ -2,9 +2,9 @@
 type: insight
 title: Initiative is the Biggest Barrier to Innovation
 concepts:
-  - "[[concepts/entrepreneurship]]"
-  - "[[concepts/ai-augmentation]]"
-  - "[[concepts/bootstrapping]]"
+  - "entrepreneurship"
+  - "ai-augmentation"
+  - "bootstrapping"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

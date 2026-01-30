@@ -2,9 +2,9 @@
 type: insight
 title: Platform Teams Require a Product Mindset
 concepts:
-  - "[[concepts/platform-engineering]]"
-  - "[[concepts/internal-products]]"
-  - "[[concepts/cross-functional-collaboration]]"
+  - "platform-engineering"
+  - "internal-products"
+  - "cross-functional-collaboration"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

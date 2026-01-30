@@ -2,9 +2,9 @@
 type: insight
 title: Lead by Asking Questions, Not Giving Directives
 concepts:
-  - "[[concepts/leadership-style]]"
-  - "[[concepts/technical-guidance]]"
-  - "[[concepts/empowerment]]"
+  - "leadership-style"
+  - "technical-guidance"
+  - "empowerment"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

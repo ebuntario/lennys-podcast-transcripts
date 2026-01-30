@@ -2,9 +2,9 @@
 type: insight
 title: Red flags in hiring include unwillingness to share company financials
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/transparency]]"
-  - "[[concepts/company-culture]]"
+  - "hiring"
+  - "transparency"
+  - "company-culture"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

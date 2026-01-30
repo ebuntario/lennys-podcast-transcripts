@@ -2,9 +2,9 @@
 type: insight
 title: The future of programming is systems for AI-generated code verification
 concepts:
-  - "[[concepts/future-of-programming]]"
-  - "[[concepts/ai-code-generation]]"
-  - "[[concepts/software-reliability]]"
+  - "future-of-programming"
+  - "ai-code-generation"
+  - "software-reliability"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

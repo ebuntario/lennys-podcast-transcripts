@@ -2,8 +2,8 @@
 type: insight
 title: Use both evals and production monitoring, not one exclusively
 concepts:
-  - "[[concepts/evaluation]]"
-  - "[[concepts/production-monitoring]]"
+  - "evaluation"
+  - "production-monitoring"
 source_guest: Kiriti Badam
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

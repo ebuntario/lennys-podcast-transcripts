@@ -2,9 +2,9 @@
 type: insight
 title: Empower supply with guardrails and coaching instead of over-controlling
 concepts:
-  - "[[concepts/managed-marketplaces]]"
-  - "[[concepts/supply-quality]]"
-  - "[[concepts/user-empowerment]]"
+  - "managed-marketplaces"
+  - "supply-quality"
+  - "user-empowerment"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

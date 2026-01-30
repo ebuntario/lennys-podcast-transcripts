@@ -2,8 +2,8 @@
 type: insight
 title: A strong brand is an extension of company values
 concepts:
-  - "[[concepts/brand-building]]"
-  - "[[concepts/company-values]]"
+  - "brand-building"
+  - "company-values"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

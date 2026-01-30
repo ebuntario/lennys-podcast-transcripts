@@ -2,9 +2,9 @@
 type: insight
 title: Strategic narratives are most impactful for B2B enterprise
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/b2b-sales]]"
-  - "[[concepts/product-complexity]]"
+  - "strategic-narrative"
+  - "b2b-sales"
+  - "product-complexity"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

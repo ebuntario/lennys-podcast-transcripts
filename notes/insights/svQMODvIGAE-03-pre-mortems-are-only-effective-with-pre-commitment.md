@@ -2,9 +2,9 @@
 type: insight
 title: Pre-mortems are only effective with pre-commitments to kill criteria
 concepts:
-  - "[[concepts/risk-management]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/project-planning]]"
+  - "risk-management"
+  - "decision-making"
+  - "project-planning"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

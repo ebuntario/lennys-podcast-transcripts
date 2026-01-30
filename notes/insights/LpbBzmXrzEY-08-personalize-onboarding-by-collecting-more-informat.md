@@ -2,9 +2,9 @@
 type: insight
 title: Personalize onboarding by collecting more information upfront
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/growth-levers]]"
+  - "onboarding"
+  - "user-experience"
+  - "growth-levers"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

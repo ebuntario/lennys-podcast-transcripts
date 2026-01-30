@@ -2,8 +2,8 @@
 type: insight
 title: Measure community success through net new visitor growth, not just transactional metrics
 concepts:
-  - "[[concepts/community-metrics]]"
-  - "[[concepts/brand-discovery]]"
+  - "community-metrics"
+  - "brand-discovery"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

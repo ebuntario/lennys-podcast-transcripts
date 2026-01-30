@@ -2,9 +2,9 @@
 type: insight
 title: Mission-driven business goals strengthen product impact
 concepts:
-  - "[[concepts/mission-driven-product]]"
-  - "[[concepts/subscription-business]]"
-  - "[[concepts/impact-measurement]]"
+  - "mission-driven-product"
+  - "subscription-business"
+  - "impact-measurement"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

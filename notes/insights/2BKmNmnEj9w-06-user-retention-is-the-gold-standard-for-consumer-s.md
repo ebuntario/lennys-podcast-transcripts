@@ -2,9 +2,9 @@
 type: insight
 title: User retention is the gold standard for consumer subscription success
 concepts:
-  - "[[concepts/user-retention]]"
-  - "[[concepts/consumer-subscription]]"
-  - "[[concepts/habit-formation]]"
+  - "user-retention"
+  - "consumer-subscription"
+  - "habit-formation"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

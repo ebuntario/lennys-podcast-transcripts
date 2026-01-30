@@ -2,9 +2,9 @@
 type: insight
 title: Strategy bridges mission and execution
 concepts:
-  - "[[concepts/strategy-definition]]"
-  - "[[concepts/roadmapping]]"
-  - "[[concepts/alignment]]"
+  - "strategy-definition"
+  - "roadmapping"
+  - "alignment"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

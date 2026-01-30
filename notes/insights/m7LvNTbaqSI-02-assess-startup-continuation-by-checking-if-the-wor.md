@@ -2,8 +2,8 @@
 type: insight
 title: Assess startup continuation by checking if the work remains enjoyable
 concepts:
-  - "[[concepts/startup-survival]]"
-  - "[[concepts/founder-motivation]]"
+  - "startup-survival"
+  - "founder-motivation"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

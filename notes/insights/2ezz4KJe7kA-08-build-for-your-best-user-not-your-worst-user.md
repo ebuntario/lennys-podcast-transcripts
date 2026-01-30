@@ -2,9 +2,9 @@
 type: insight
 title: Build for your best user, not your worst user
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/user-centric-design]]"
-  - "[[concepts/optimization]]"
+  - "product-development"
+  - "user-centric-design"
+  - "optimization"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

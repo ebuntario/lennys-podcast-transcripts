@@ -2,9 +2,9 @@
 type: insight
 title: A great name helps but won't make or break a company
 concepts:
-  - "[[concepts/brand-building]]"
-  - "[[concepts/company-naming]]"
-  - "[[concepts/marketing-strategy]]"
+  - "brand-building"
+  - "company-naming"
+  - "marketing-strategy"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

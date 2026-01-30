@@ -2,9 +2,9 @@
 type: insight
 title: Positioning work should be completed in one week for rapid implementation
 concepts:
-  - "[[concepts/positioning]]"
-  - "[[concepts/execution-speed]]"
-  - "[[concepts/sales-optimization]]"
+  - "positioning"
+  - "execution-speed"
+  - "sales-optimization"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

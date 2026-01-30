@@ -2,8 +2,8 @@
 type: insight
 title: A brand system scales better than a static logo
 concepts:
-  - "[[concepts/brand-building]]"
-  - "[[concepts/design-systems]]"
+  - "brand-building"
+  - "design-systems"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

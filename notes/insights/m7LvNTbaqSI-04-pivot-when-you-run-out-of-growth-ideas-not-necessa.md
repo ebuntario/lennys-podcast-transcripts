@@ -2,8 +2,8 @@
 type: insight
 title: Pivot when you run out of growth ideas, not necessarily when metrics are low
 concepts:
-  - "[[concepts/pivoting]]"
-  - "[[concepts/product-market-fit]]"
+  - "pivoting"
+  - "product-market-fit"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

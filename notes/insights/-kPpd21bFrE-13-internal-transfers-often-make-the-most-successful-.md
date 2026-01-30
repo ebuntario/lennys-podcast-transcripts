@@ -2,9 +2,9 @@
 type: insight
 title: Internal transfers often make the most successful product leaders
 concepts:
-  - "[[concepts/internal-mobility]]"
-  - "[[concepts/culture-fit]]"
-  - "[[concepts/career-growth]]"
+  - "internal-mobility"
+  - "culture-fit"
+  - "career-growth"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

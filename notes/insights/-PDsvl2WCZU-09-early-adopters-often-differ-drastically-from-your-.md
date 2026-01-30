@@ -2,9 +2,9 @@
 type: insight
 title: Early adopters often differ drastically from your eventual mainstream audience
 concepts:
-  - "[[concepts/early-adopters]]"
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/audience-expansion]]"
+  - "early-adopters"
+  - "product-market-fit"
+  - "audience-expansion"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

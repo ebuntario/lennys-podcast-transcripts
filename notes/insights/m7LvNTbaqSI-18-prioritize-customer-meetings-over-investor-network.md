@@ -2,8 +2,8 @@
 type: insight
 title: Prioritize customer meetings over investor networking in early stages
 concepts:
-  - "[[concepts/founder-priorities]]"
-  - "[[concepts/customer-development]]"
+  - "founder-priorities"
+  - "customer-development"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

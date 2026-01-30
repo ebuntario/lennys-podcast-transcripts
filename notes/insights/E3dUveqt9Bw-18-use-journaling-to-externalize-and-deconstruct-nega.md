@@ -2,9 +2,9 @@
 type: insight
 title: Use journaling to externalize and deconstruct negative thoughts
 concepts:
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/emotional-regulation]]"
-  - "[[concepts/mindset-shifts]]"
+  - "self-awareness"
+  - "emotional-regulation"
+  - "mindset-shifts"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The product launch triangle: quality, features, deadline
 concepts:
-  - "[[concepts/product-launch]]"
-  - "[[concepts/quality-bar]]"
-  - "[[concepts/iterative-development]]"
+  - "product-launch"
+  - "quality-bar"
+  - "iterative-development"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

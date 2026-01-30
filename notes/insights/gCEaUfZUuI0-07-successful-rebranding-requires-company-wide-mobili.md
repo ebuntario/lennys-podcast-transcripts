@@ -2,8 +2,8 @@
 type: insight
 title: Successful rebranding requires company-wide mobilization and transparency
 concepts:
-  - "[[concepts/rebranding]]"
-  - "[[concepts/internal-alignment]]"
+  - "rebranding"
+  - "internal-alignment"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

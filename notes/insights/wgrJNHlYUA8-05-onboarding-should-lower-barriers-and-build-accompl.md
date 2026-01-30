@@ -2,9 +2,9 @@
 type: insight
 title: Onboarding should lower barriers and build accomplishment through simple steps
 concepts:
-  - "[[concepts/user-onboarding]]"
-  - "[[concepts/product-adoption]]"
-  - "[[concepts/user-psychology]]"
+  - "user-onboarding"
+  - "product-adoption"
+  - "user-psychology"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

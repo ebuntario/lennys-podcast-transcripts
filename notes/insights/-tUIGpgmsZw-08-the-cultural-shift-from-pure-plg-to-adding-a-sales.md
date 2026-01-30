@@ -2,9 +2,9 @@
 type: insight
 title: The cultural shift from pure PLG to adding a sales-led motion
 concepts:
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/sales-led-growth]]"
-  - "[[concepts/business-model-transition]]"
+  - "product-led-growth"
+  - "sales-led-growth"
+  - "business-model-transition"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Leaders must go deep on critical details while delegating other areas
 concepts:
-  - "[[concepts/leadership-depth]]"
-  - "[[concepts/strategic-focus]]"
-  - "[[concepts/delegation]]"
+  - "leadership-depth"
+  - "strategic-focus"
+  - "delegation"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

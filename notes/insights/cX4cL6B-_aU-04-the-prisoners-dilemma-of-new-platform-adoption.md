@@ -2,9 +2,9 @@
 type: insight
 title: The prisoner's dilemma of new platform adoption
 concepts:
-  - "[[concepts/competitive-dynamics]]"
-  - "[[concepts/platform-strategy]]"
-  - "[[concepts/customer-expectations]]"
+  - "competitive-dynamics"
+  - "platform-strategy"
+  - "customer-expectations"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

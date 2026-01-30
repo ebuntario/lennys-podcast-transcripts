@@ -2,9 +2,9 @@
 type: insight
 title: Personal background informs critical product assumptions
 concepts:
-  - "[[concepts/product-assumptions]]"
-  - "[[concepts/global-perspective]]"
-  - "[[concepts/user-modeling]]"
+  - "product-assumptions"
+  - "global-perspective"
+  - "user-modeling"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Start with interactive, local tools to onboard users before moving to autonomous cloud agents
 concepts:
-  - "[[concepts/user-onboarding]]"
-  - "[[concepts/product-adoption]]"
-  - "[[concepts/ai-agents]]"
+  - "user-onboarding"
+  - "product-adoption"
+  - "ai-agents"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Elite small teams outperform bloated organizations
 concepts:
-  - "[[concepts/team-structure]]"
-  - "[[concepts/operational-efficiency]]"
-  - "[[concepts/bootstrapping]]"
+  - "team-structure"
+  - "operational-efficiency"
+  - "bootstrapping"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

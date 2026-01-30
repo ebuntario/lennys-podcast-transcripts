@@ -2,9 +2,9 @@
 type: insight
 title: Successful AI adoption follows a three-phase organizational fluency pattern
 concepts:
-  - "[[concepts/ai-fluency]]"
-  - "[[concepts/organizational-change]]"
-  - "[[concepts/use-case-prioritization]]"
+  - "ai-fluency"
+  - "organizational-change"
+  - "use-case-prioritization"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

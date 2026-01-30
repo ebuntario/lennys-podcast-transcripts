@@ -2,9 +2,9 @@
 type: insight
 title: Senior engineers may benefit most from AI coding tools
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/engineering-organization]]"
-  - "[[concepts/skill-development]]"
+  - "ai-productivity"
+  - "engineering-organization"
+  - "skill-development"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

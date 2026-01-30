@@ -2,8 +2,8 @@
 type: insight
 title: Force synchronicity by exploring unrelated categories
 concepts:
-  - "[[concepts/creative-process]]"
-  - "[[concepts/innovation]]"
+  - "creative-process"
+  - "innovation"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

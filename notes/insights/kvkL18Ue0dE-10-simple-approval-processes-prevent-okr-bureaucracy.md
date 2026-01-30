@@ -2,9 +2,9 @@
 type: insight
 title: Simple approval processes prevent OKR bureaucracy
 concepts:
-  - "[[concepts/decision-velocity]]"
-  - "[[concepts/process-simplicity]]"
-  - "[[concepts/team-autonomy]]"
+  - "decision-velocity"
+  - "process-simplicity"
+  - "team-autonomy"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

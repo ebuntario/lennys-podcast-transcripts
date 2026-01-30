@@ -2,9 +2,9 @@
 type: insight
 title: Avoid starting pitches with broad trends that competitors can also claim
 concepts:
-  - "[[concepts/sales-messaging]]"
-  - "[[concepts/competitive-differentiation]]"
-  - "[[concepts/market-insight]]"
+  - "sales-messaging"
+  - "competitive-differentiation"
+  - "market-insight"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

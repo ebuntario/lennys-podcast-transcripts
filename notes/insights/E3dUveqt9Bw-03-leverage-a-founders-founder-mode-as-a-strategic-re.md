@@ -2,9 +2,9 @@
 type: insight
 title: Leverage a founder's "founder mode" as a strategic resource
 concepts:
-  - "[[concepts/founder-dynamics]]"
-  - "[[concepts/strategic-execution]]"
-  - "[[concepts/influence]]"
+  - "founder-dynamics"
+  - "strategic-execution"
+  - "influence"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

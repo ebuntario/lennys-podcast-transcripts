@@ -2,9 +2,9 @@
 type: insight
 title: Top-down forecasting beats keyword-based SEO projections
 concepts:
-  - "[[concepts/seo-forecasting]]"
-  - "[[concepts/market-sizing]]"
-  - "[[concepts/seo-strategy]]"
+  - "seo-forecasting"
+  - "market-sizing"
+  - "seo-strategy"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

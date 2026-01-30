@@ -2,9 +2,9 @@
 type: insight
 title: Leverage existing network assets for cross-selling and acquisition
 concepts:
-  - "[[concepts/cross-selling]]"
-  - "[[concepts/growth-loops]]"
-  - "[[concepts/network-effects]]"
+  - "cross-selling"
+  - "growth-loops"
+  - "network-effects"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

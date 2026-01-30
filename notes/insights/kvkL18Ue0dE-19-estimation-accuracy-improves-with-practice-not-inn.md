@@ -2,9 +2,9 @@
 type: insight
 title: Estimation accuracy improves with practice, not innate ability
 concepts:
-  - "[[concepts/planning-skills]]"
-  - "[[concepts/team-predictability]]"
-  - "[[concepts/learning-curves]]"
+  - "planning-skills"
+  - "team-predictability"
+  - "learning-curves"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

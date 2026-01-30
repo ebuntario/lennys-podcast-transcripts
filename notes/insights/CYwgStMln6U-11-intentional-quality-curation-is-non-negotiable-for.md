@@ -2,9 +2,9 @@
 type: insight
 title: Intentional quality curation is non-negotiable for marketplaces
 concepts:
-  - "[[concepts/supply-quality]]"
-  - "[[concepts/trust-and-safety]]"
-  - "[[concepts/marketplace-strategy]]"
+  - "supply-quality"
+  - "trust-and-safety"
+  - "marketplace-strategy"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Categories Make Products and Brands, Not the Other Way Around
 concepts:
-  - "[[concepts/category-design]]"
-  - "[[concepts/market-positioning]]"
-  - "[[concepts/brand-strategy]]"
+  - "category-design"
+  - "market-positioning"
+  - "brand-strategy"
 source_guest: Christopher Lochhead
 source_episode: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)
 source: "[[guests/christopher-lochhead|Christopher Lochhead]]"

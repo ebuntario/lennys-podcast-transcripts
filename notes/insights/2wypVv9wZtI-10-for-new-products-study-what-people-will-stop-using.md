@@ -2,9 +2,9 @@
 type: insight
 title: For new products, study what people will stop using when they hire you
 concepts:
-  - "[[concepts/zero-to-one]]"
-  - "[[concepts/competitive-analysis]]"
-  - "[[concepts/jobs-to-be-done]]"
+  - "zero-to-one"
+  - "competitive-analysis"
+  - "jobs-to-be-done"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

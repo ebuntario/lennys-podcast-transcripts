@@ -2,9 +2,9 @@
 type: insight
 title: Onboarding drives retention through early habit formation
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/retention]]"
-  - "[[concepts/habit-formation]]"
+  - "onboarding"
+  - "retention"
+  - "habit-formation"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

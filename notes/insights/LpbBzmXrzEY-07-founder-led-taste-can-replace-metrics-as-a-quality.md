@@ -2,9 +2,9 @@
 type: insight
 title: Founder-led taste can replace metrics as a quality bar
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/decision-making]]"
+  - "leadership"
+  - "product-development"
+  - "decision-making"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Organizational structures for software development will be rewritten by AI tools
 concepts:
-  - "[[concepts/future-of-work]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/ai-product-development]]"
+  - "future-of-work"
+  - "organizational-design"
+  - "ai-product-development"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Leverage your weaknesses to identify your superpowers
 concepts:
-  - "[[concepts/strengths-weaknesses]]"
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/personal-development]]"
+  - "strengths-weaknesses"
+  - "self-awareness"
+  - "personal-development"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

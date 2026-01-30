@@ -2,9 +2,9 @@
 type: insight
 title: Everything measurable provides useful directional information
 concepts:
-  - "[[concepts/metrics-selection]]"
-  - "[[concepts/experimentation-mindset]]"
-  - "[[concepts/qualitative-measurement]]"
+  - "metrics-selection"
+  - "experimentation-mindset"
+  - "qualitative-measurement"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

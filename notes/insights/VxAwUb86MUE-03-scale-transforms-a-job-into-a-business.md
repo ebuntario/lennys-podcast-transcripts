@@ -2,9 +2,9 @@
 type: insight
 title: Scale Transforms a Job into a Business
 concepts:
-  - "[[concepts/business-model]]"
-  - "[[concepts/entrepreneurial-mindset]]"
-  - "[[concepts/automation]]"
+  - "business-model"
+  - "entrepreneurial-mindset"
+  - "automation"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

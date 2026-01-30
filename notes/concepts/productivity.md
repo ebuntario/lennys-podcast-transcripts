@@ -9,10 +9,14 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/productivity"))
+WHERE contains(concepts, "productivity")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/energy-management]] (2 shared insights)
+- [[concepts/artificial-intelligence]] (2 shared insights)
+- [[concepts/decision-making]] (2 shared insights)
+- [[concepts/self-awareness]] (1 shared insights)
+- [[concepts/automation]] (1 shared insights)

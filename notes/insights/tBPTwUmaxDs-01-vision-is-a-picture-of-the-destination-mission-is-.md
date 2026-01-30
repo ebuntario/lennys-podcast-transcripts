@@ -2,9 +2,9 @@
 type: insight
 title: Vision is a picture of the destination, mission is the purpose of the journey
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/company-mission]]"
-  - "[[concepts/strategic-framing]]"
+  - "product-vision"
+  - "company-mission"
+  - "strategic-framing"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

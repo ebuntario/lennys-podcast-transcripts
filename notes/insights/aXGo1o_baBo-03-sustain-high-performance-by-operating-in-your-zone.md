@@ -2,9 +2,9 @@
 type: insight
 title: Sustain high performance by operating in your zone of genius
 concepts:
-  - "[[concepts/energy-management]]"
-  - "[[concepts/strengths]]"
-  - "[[concepts/productivity]]"
+  - "energy-management"
+  - "strengths"
+  - "productivity"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

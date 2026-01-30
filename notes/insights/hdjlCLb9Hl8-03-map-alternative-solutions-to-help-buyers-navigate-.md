@@ -2,9 +2,9 @@
 type: insight
 title: Map alternative solutions to help buyers navigate the market
 concepts:
-  - "[[concepts/buyer-education]]"
-  - "[[concepts/competitive-positioning]]"
-  - "[[concepts/sales-pitch-framework]]"
+  - "buyer-education"
+  - "competitive-positioning"
+  - "sales-pitch-framework"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

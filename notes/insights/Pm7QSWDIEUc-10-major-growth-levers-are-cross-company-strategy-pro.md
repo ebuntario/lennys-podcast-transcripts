@@ -2,8 +2,8 @@
 type: insight
 title: Major growth levers are cross-company strategy problems, not departmental ones
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "growth-strategy"
+  - "cross-functional-alignment"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

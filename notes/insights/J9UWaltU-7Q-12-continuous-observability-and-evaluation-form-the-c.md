@@ -2,9 +2,9 @@
 type: insight
 title: Continuous observability and evaluation form the cultural core of AI product teams
 concepts:
-  - "[[concepts/observability]]"
-  - "[[concepts/continuous-feedback]]"
-  - "[[concepts/ai-evaluation]]"
+  - "observability"
+  - "continuous-feedback"
+  - "ai-evaluation"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

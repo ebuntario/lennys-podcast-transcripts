@@ -2,8 +2,8 @@
 type: insight
 title: The optimal number of strategic pillars is three
 concepts:
-  - "[[concepts/strategic-focus]]"
-  - "[[concepts/decision-making]]"
+  - "strategic-focus"
+  - "decision-making"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

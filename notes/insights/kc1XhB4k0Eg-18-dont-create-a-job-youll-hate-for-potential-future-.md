@@ -2,9 +2,9 @@
 type: insight
 title: Don't create a job you'll hate for potential future income
 concepts:
-  - "[[concepts/creator-sustainability]]"
-  - "[[concepts/personal-passion]]"
-  - "[[concepts/career-pathing]]"
+  - "creator-sustainability"
+  - "personal-passion"
+  - "career-pathing"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

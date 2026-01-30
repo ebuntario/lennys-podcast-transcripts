@@ -2,8 +2,8 @@
 type: insight
 title: Evaluate a company's potential using metrics like Rule of 40 and Net Dollar Retention
 concepts:
-  - "[[concepts/company-selection]]"
-  - "[[concepts/business-metrics]]"
+  - "company-selection"
+  - "business-metrics"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

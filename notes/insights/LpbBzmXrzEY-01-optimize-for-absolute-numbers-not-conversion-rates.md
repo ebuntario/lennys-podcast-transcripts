@@ -2,9 +2,9 @@
 type: insight
 title: Optimize for absolute numbers, not conversion rates
 concepts:
-  - "[[concepts/growth-metrics]]"
-  - "[[concepts/team-incentives]]"
-  - "[[concepts/funnel-optimization]]"
+  - "growth-metrics"
+  - "team-incentives"
+  - "funnel-optimization"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

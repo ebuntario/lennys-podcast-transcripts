@@ -2,8 +2,8 @@
 type: insight
 title: Gain deep customer insight by doing things that don't scale early on
 concepts:
-  - "[[concepts/customer-insight]]"
-  - "[[concepts/early-stage-strategy]]"
+  - "customer-insight"
+  - "early-stage-strategy"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

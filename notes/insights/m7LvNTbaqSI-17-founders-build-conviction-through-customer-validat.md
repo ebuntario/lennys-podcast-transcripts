@@ -2,8 +2,8 @@
 type: insight
 title: Founders build conviction through customer validation, not initial certainty
 concepts:
-  - "[[concepts/founder-conviction]]"
-  - "[[concepts/customer-development]]"
+  - "founder-conviction"
+  - "customer-development"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

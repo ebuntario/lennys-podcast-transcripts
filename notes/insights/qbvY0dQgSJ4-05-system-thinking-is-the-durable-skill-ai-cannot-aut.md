@@ -2,9 +2,9 @@
 type: insight
 title: System thinking is the durable skill AI cannot automate
 concepts:
-  - "[[concepts/skill-development]]"
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/problem-solving]]"
+  - "skill-development"
+  - "ai-productivity"
+  - "problem-solving"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

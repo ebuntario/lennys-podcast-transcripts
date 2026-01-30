@@ -2,9 +2,9 @@
 type: insight
 title: Seek advice by asking "why" to understand the underlying framework
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/mentorship]]"
-  - "[[concepts/first-principles-thinking]]"
+  - "decision-making"
+  - "mentorship"
+  - "first-principles-thinking"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

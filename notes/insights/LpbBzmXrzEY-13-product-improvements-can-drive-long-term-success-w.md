@@ -2,9 +2,9 @@
 type: insight
 title: Product improvements can drive long-term success without short-term conversion lifts
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/experimentation]]"
+  - "product-development"
+  - "user-experience"
+  - "experimentation"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

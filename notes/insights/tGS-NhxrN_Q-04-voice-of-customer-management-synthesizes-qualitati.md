@@ -2,9 +2,9 @@
 type: insight
 title: Voice of customer management synthesizes qualitative and quantitative feedback
 concepts:
-  - "[[concepts/customer-feedback]]"
-  - "[[concepts/data-synthesis]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "customer-feedback"
+  - "data-synthesis"
+  - "cross-functional-alignment"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

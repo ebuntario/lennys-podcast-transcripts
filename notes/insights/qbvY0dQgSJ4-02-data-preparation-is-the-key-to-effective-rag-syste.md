@@ -2,9 +2,9 @@
 type: insight
 title: Data preparation is the key to effective RAG systems
 concepts:
-  - "[[concepts/rag-systems]]"
-  - "[[concepts/data-preparation]]"
-  - "[[concepts/ai-application-performance]]"
+  - "rag-systems"
+  - "data-preparation"
+  - "ai-application-performance"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Make Hard Choices for an Easier Life
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/entrepreneurial-mindset]]"
-  - "[[concepts/management]]"
+  - "decision-making"
+  - "entrepreneurial-mindset"
+  - "management"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

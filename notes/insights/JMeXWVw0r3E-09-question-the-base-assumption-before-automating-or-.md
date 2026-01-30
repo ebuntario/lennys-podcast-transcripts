@@ -2,9 +2,9 @@
 type: insight
 title: Question the base assumption before automating or building
 concepts:
-  - "[[concepts/critical-thinking]]"
-  - "[[concepts/process-optimization]]"
-  - "[[concepts/strategic-judgment]]"
+  - "critical-thinking"
+  - "process-optimization"
+  - "strategic-judgment"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

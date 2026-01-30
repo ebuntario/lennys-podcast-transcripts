@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/operational-scaling"))
+WHERE contains(concepts, "operational-scaling")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/automation-tipping-point]] (1 shared insights)
+- [[concepts/process-optimization]] (1 shared insights)

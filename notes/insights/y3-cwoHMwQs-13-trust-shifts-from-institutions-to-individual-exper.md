@@ -2,9 +2,9 @@
 type: insight
 title: Trust shifts from institutions to individual experts in modern media
 concepts:
-  - "[[concepts/trust-building]]"
-  - "[[concepts/creator-economy]]"
-  - "[[concepts/brand-strategy]]"
+  - "trust-building"
+  - "creator-economy"
+  - "brand-strategy"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

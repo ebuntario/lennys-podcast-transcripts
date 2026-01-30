@@ -2,9 +2,9 @@
 type: insight
 title: A strategic narrative serves as a product north star
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/roadmap-prioritization]]"
+  - "strategic-narrative"
+  - "product-strategy"
+  - "roadmap-prioritization"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

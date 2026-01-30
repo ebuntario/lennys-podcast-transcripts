@@ -2,9 +2,9 @@
 type: insight
 title: Bias towards shipping to learn, especially in consumer products
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/consumer-products]]"
-  - "[[concepts/user-research]]"
+  - "experimentation"
+  - "consumer-products"
+  - "user-research"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

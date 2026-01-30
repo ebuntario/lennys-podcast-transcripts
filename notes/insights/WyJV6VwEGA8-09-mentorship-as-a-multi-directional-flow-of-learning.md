@@ -2,9 +2,9 @@
 type: insight
 title: Mentorship as a multi-directional flow of learning
 concepts:
-  - "[[concepts/mentorship]]"
-  - "[[concepts/continuous-learning]]"
-  - "[[concepts/founder-mindset]]"
+  - "mentorship"
+  - "continuous-learning"
+  - "founder-mindset"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

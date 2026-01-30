@@ -2,9 +2,9 @@
 type: insight
 title: Early growth teams should fill identified gaps, not define strategy from scratch
 concepts:
-  - "[[concepts/growth-team-structure]]"
-  - "[[concepts/early-stage-startups]]"
-  - "[[concepts/product-management]]"
+  - "growth-team-structure"
+  - "early-stage-startups"
+  - "product-management"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

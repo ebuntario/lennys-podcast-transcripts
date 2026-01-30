@@ -2,9 +2,9 @@
 type: insight
 title: Platform PMs must master multi-stakeholder economics
 concepts:
-  - "[[concepts/platform-strategy]]"
-  - "[[concepts/stakeholder-management]]"
-  - "[[concepts/ecosystem-development]]"
+  - "platform-strategy"
+  - "stakeholder-management"
+  - "ecosystem-development"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

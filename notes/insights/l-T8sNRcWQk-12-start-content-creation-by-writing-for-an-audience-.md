@@ -2,8 +2,8 @@
 type: insight
 title: Start content creation by writing for an audience of one
 concepts:
-  - "[[concepts/content-creation]]"
-  - "[[concepts/communication]]"
+  - "content-creation"
+  - "communication"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

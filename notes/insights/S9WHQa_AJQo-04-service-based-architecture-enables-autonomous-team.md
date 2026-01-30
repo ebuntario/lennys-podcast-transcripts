@@ -2,9 +2,9 @@
 type: insight
 title: Service-based architecture enables autonomous teams
 concepts:
-  - "[[concepts/service-architecture]]"
-  - "[[concepts/team-autonomy]]"
-  - "[[concepts/technical-debt]]"
+  - "service-architecture"
+  - "team-autonomy"
+  - "technical-debt"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

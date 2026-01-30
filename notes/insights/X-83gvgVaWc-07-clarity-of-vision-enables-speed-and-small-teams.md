@@ -2,9 +2,9 @@
 type: insight
 title: Clarity of vision enables speed and small teams
 concepts:
-  - "[[concepts/vision-clarity]]"
-  - "[[concepts/team-size]]"
-  - "[[concepts/scenius]]"
+  - "vision-clarity"
+  - "team-size"
+  - "scenius"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

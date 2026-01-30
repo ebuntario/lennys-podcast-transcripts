@@ -2,9 +2,9 @@
 type: insight
 title: Balance deep technical understanding with customer empathy and regulatory compliance
 concepts:
-  - "[[concepts/technical-depth]]"
-  - "[[concepts/customer-empathy]]"
-  - "[[concepts/regulatory-compliance]]"
+  - "technical-depth"
+  - "customer-empathy"
+  - "regulatory-compliance"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Strategic planning shifts from fixed roadmaps to adaptable seasons based on secular changes
 concepts:
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/agile-roadmapping]]"
-  - "[[concepts/technology-cycles]]"
+  - "strategic-planning"
+  - "agile-roadmapping"
+  - "technology-cycles"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

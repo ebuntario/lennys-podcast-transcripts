@@ -2,9 +2,9 @@
 type: insight
 title: The Four-Step Framework for Deep Personal Transformation
 concepts:
-  - "[[concepts/personal-transformation]]"
-  - "[[concepts/self-compassion]]"
-  - "[[concepts/suffering]]"
+  - "personal-transformation"
+  - "self-compassion"
+  - "suffering"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

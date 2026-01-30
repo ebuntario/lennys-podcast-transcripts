@@ -2,9 +2,9 @@
 type: insight
 title: The word "nevertheless" is a powerful leadership tool
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/communication]]"
-  - "[[concepts/decision-making]]"
+  - "leadership"
+  - "communication"
+  - "decision-making"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

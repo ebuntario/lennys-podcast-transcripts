@@ -2,9 +2,9 @@
 type: insight
 title: Podcast ads work best as sustained, personalized placements rather than direct-response buys
 concepts:
-  - "[[concepts/podcast-advertising]]"
-  - "[[concepts/brand-building]]"
-  - "[[concepts/channel-strategy]]"
+  - "podcast-advertising"
+  - "brand-building"
+  - "channel-strategy"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

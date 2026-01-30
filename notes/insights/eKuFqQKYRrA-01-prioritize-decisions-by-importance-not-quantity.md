@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize decisions by importance, not quantity
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/prioritization]]"
-  - "[[concepts/product-management]]"
+  - "decision-making"
+  - "prioritization"
+  - "product-management"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

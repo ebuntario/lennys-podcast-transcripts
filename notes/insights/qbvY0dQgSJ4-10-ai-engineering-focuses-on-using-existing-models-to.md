@@ -2,9 +2,9 @@
 type: insight
 title: AI engineering focuses on using existing models to build products
 concepts:
-  - "[[concepts/ai-engineering]]"
-  - "[[concepts/ml-engineering]]"
-  - "[[concepts/ai-product-development]]"
+  - "ai-engineering"
+  - "ml-engineering"
+  - "ai-product-development"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

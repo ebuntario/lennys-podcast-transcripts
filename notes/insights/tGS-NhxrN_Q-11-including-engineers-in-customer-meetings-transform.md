@@ -2,9 +2,9 @@
 type: insight
 title: Including engineers in customer meetings transforms product development
 concepts:
-  - "[[concepts/customer-development]]"
-  - "[[concepts/engineering-culture]]"
-  - "[[concepts/cross-functional-collaboration]]"
+  - "customer-development"
+  - "engineering-culture"
+  - "cross-functional-collaboration"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

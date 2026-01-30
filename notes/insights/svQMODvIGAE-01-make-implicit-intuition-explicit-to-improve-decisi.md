@@ -2,9 +2,9 @@
 type: insight
 title: Make implicit intuition explicit to improve decision quality
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/intuition]]"
-  - "[[concepts/feedback-loops]]"
+  - "decision-making"
+  - "intuition"
+  - "feedback-loops"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

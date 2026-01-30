@@ -2,8 +2,8 @@
 type: insight
 title: Obsess over customer workflows and data, not just the AI model
 concepts:
-  - "[[concepts/customer-obsession]]"
-  - "[[concepts/ai-product-development]]"
+  - "customer-obsession"
+  - "ai-product-development"
 source_guest: Aishwarya Naresh Reganti
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Coaching as the manager's day job
 concepts:
-  - "[[concepts/coaching]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/management]]"
+  - "coaching"
+  - "leadership"
+  - "management"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

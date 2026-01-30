@@ -2,9 +2,9 @@
 type: insight
 title: View AI as a tool for company growth, not just headcount reduction
 concepts:
-  - "[[concepts/ai-strategy]]"
-  - "[[concepts/business-strategy]]"
-  - "[[concepts/future-of-work]]"
+  - "ai-strategy"
+  - "business-strategy"
+  - "future-of-work"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

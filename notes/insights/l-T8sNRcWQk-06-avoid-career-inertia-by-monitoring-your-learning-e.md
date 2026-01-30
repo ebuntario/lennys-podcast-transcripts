@@ -2,8 +2,8 @@
 type: insight
 title: Avoid career inertia by monitoring your learning environment
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/self-awareness]]"
+  - "career-development"
+  - "self-awareness"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

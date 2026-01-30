@@ -2,9 +2,9 @@
 type: insight
 title: Hiring Strategy: Patient for First 10, Fast for Next 100
 concepts:
-  - "[[concepts/hiring-strategy]]"
-  - "[[concepts/talent-density]]"
-  - "[[concepts/hyper-growth]]"
+  - "hiring-strategy"
+  - "talent-density"
+  - "hyper-growth"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

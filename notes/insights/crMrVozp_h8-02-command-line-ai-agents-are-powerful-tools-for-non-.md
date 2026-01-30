@@ -2,9 +2,9 @@
 type: insight
 title: Command-line AI agents are powerful tools for non-technical knowledge work
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/knowledge-work]]"
-  - "[[concepts/ai-tools]]"
+  - "ai-agents"
+  - "knowledge-work"
+  - "ai-tools"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

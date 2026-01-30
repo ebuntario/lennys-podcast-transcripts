@@ -2,8 +2,8 @@
 type: insight
 title: Make high-impact strategic decisions with speed and conviction
 concepts:
-  - "[[concepts/early-stage-strategy]]"
-  - "[[concepts/brand-positioning]]"
+  - "early-stage-strategy"
+  - "brand-positioning"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

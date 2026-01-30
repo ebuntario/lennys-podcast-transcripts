@@ -2,9 +2,9 @@
 type: insight
 title: Repurpose podcast content for platforms with built-in distribution
 concepts:
-  - "[[concepts/content-repurposing]]"
-  - "[[concepts/cross-platform-strategy]]"
-  - "[[concepts/growth-hacking]]"
+  - "content-repurposing"
+  - "cross-platform-strategy"
+  - "growth-hacking"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

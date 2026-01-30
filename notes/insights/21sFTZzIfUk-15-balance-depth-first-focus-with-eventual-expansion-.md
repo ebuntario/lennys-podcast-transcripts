@@ -2,9 +2,9 @@
 type: insight
 title: Balance depth-first focus with eventual expansion to meet enterprise needs
 concepts:
-  - "[[concepts/enterprise-sales]]"
-  - "[[concepts/product-expansion]]"
-  - "[[concepts/monetization]]"
+  - "enterprise-sales"
+  - "product-expansion"
+  - "monetization"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

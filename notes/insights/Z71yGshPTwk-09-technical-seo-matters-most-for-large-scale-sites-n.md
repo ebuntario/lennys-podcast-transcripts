@@ -2,9 +2,9 @@
 type: insight
 title: Technical SEO matters most for large-scale sites, not small businesses
 concepts:
-  - "[[concepts/technical-seo]]"
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/prioritization]]"
+  - "technical-seo"
+  - "seo-strategy"
+  - "prioritization"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

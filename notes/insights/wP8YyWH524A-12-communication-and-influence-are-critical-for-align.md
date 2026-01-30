@@ -2,9 +2,9 @@
 type: insight
 title: Communication and influence are critical for aligning growth with product craftsmanship
 concepts:
-  - "[[concepts/communication-influence]]"
-  - "[[concepts/stakeholder-management]]"
-  - "[[concepts/growth-mindset]]"
+  - "communication-influence"
+  - "stakeholder-management"
+  - "growth-mindset"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

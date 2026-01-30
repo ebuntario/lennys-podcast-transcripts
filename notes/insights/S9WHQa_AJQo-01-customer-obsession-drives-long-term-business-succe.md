@@ -2,9 +2,9 @@
 type: insight
 title: Customer obsession drives long-term business success
 concepts:
-  - "[[concepts/customer-obsession]]"
-  - "[[concepts/long-term-thinking]]"
-  - "[[concepts/business-strategy]]"
+  - "customer-obsession"
+  - "long-term-thinking"
+  - "business-strategy"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

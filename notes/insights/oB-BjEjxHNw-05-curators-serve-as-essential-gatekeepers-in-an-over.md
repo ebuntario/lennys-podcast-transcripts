@@ -2,9 +2,9 @@
 type: insight
 title: Curators serve as essential gatekeepers in an oversaturated content landscape
 concepts:
-  - "[[concepts/content-discovery]]"
-  - "[[concepts/trusted-recommendations]]"
-  - "[[concepts/creator-brand]]"
+  - "content-discovery"
+  - "trusted-recommendations"
+  - "creator-brand"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

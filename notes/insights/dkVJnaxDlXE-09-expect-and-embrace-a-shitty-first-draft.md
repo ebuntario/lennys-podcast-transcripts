@@ -2,9 +2,9 @@
 type: insight
 title: Expect and embrace a "shitty first draft"
 concepts:
-  - "[[concepts/iteration]]"
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/feedback]]"
+  - "iteration"
+  - "team-alignment"
+  - "feedback"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

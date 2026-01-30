@@ -2,9 +2,9 @@
 type: insight
 title: Seek Businesses with Defensive Moats
 concepts:
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/business-model]]"
-  - "[[concepts/acquisition-criteria]]"
+  - "competitive-advantage"
+  - "business-model"
+  - "acquisition-criteria"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

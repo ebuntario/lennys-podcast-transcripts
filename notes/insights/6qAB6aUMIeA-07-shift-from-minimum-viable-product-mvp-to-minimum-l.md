@@ -2,9 +2,9 @@
 type: insight
 title: Shift from Minimum Viable Product (MVP) to Minimum Lovable Product (MLP)
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/product-experience]]"
-  - "[[concepts/feedback-cycles]]"
+  - "product-development"
+  - "product-experience"
+  - "feedback-cycles"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

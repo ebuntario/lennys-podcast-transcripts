@@ -2,9 +2,9 @@
 type: insight
 title: Treat major launches as cohesive stories
 concepts:
-  - "[[concepts/product-launch]]"
-  - "[[concepts/storytelling]]"
-  - "[[concepts/marketing]]"
+  - "product-launch"
+  - "storytelling"
+  - "marketing"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Expanding your perspective is necessary to understand greater opportunities
 concepts:
-  - "[[concepts/personal-growth]]"
-  - "[[concepts/mindset]]"
-  - "[[concepts/career-development]]"
+  - "personal-growth"
+  - "mindset"
+  - "career-development"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

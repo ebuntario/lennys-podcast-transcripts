@@ -2,9 +2,9 @@
 type: insight
 title: An MVP must spark joy and excitement, not just utility
 concepts:
-  - "[[concepts/mvp-strategy]]"
-  - "[[concepts/user-delight]]"
-  - "[[concepts/word-of-mouth-growth]]"
+  - "mvp-strategy"
+  - "user-delight"
+  - "word-of-mouth-growth"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

@@ -2,9 +2,9 @@
 type: insight
 title: A three-part framework for giving developmental feedback
 concepts:
-  - "[[concepts/radical-candor]]"
-  - "[[concepts/managerial-frameworks]]"
-  - "[[concepts/performance-management]]"
+  - "radical-candor"
+  - "managerial-frameworks"
+  - "performance-management"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

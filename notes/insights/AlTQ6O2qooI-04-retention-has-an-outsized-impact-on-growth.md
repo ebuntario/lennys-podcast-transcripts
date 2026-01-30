@@ -2,9 +2,9 @@
 type: insight
 title: Retention has an outsized impact on growth
 concepts:
-  - "[[concepts/retention]]"
-  - "[[concepts/growth-model]]"
-  - "[[concepts/resource-allocation]]"
+  - "retention"
+  - "growth-model"
+  - "resource-allocation"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

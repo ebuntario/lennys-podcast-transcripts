@@ -2,9 +2,9 @@
 type: insight
 title: Use flexible titles to preserve culture and optionality
 concepts:
-  - "[[concepts/company-culture]]"
-  - "[[concepts/hierarchy]]"
-  - "[[concepts/hiring]]"
+  - "company-culture"
+  - "hierarchy"
+  - "hiring"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

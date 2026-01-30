@@ -2,9 +2,9 @@
 type: insight
 title: Cultivate taste to stand out in an AI-generated world
 concepts:
-  - "[[concepts/taste]]"
-  - "[[concepts/ai-era-skills]]"
-  - "[[concepts/differentiation]]"
+  - "taste"
+  - "ai-era-skills"
+  - "differentiation"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

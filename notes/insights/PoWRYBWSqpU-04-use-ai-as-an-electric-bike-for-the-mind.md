@@ -2,9 +2,9 @@
 type: insight
 title: Use AI as an electric bike for the mind
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/thinking-partner]]"
-  - "[[concepts/exploration]]"
+  - "ai-productivity"
+  - "thinking-partner"
+  - "exploration"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

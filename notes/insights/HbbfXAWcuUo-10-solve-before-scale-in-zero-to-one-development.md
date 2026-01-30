@@ -2,9 +2,9 @@
 type: insight
 title: Solve before scale in zero-to-one development
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/early-stage]]"
-  - "[[concepts/iteration]]"
+  - "product-development"
+  - "early-stage"
+  - "iteration"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

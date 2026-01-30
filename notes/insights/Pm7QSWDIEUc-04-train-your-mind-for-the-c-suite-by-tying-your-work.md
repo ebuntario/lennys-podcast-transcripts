@@ -2,8 +2,8 @@
 type: insight
 title: Train your mind for the C-suite by tying your work to revenue and company finance
 concepts:
-  - "[[concepts/executive-mindset]]"
-  - "[[concepts/business-acumen]]"
+  - "executive-mindset"
+  - "business-acumen"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

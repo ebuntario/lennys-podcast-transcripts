@@ -2,9 +2,9 @@
 type: insight
 title: Growth strategy requires loop modeling, capital allocation, and prioritization skills
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/growth-loops]]"
-  - "[[concepts/prioritization]]"
+  - "growth-strategy"
+  - "growth-loops"
+  - "prioritization"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Deliver exceptional clip quality to encourage guest sharing
 concepts:
-  - "[[concepts/guest-recruitment]]"
-  - "[[concepts/content-quality]]"
-  - "[[concepts/viral-potential]]"
+  - "guest-recruitment"
+  - "content-quality"
+  - "viral-potential"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

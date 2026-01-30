@@ -2,9 +2,9 @@
 type: insight
 title: Brand personality and community can be rocket fuel for product-led growth
 concepts:
-  - "[[concepts/brand-building]]"
-  - "[[concepts/community-growth]]"
-  - "[[concepts/product-led-growth]]"
+  - "brand-building"
+  - "community-growth"
+  - "product-led-growth"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

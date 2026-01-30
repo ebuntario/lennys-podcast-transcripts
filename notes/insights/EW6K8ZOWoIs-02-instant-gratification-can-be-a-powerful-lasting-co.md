@@ -2,9 +2,9 @@
 type: insight
 title: Instant gratification can be a powerful, lasting consumer product differentiator
 concepts:
-  - "[[concepts/consumer-value]]"
-  - "[[concepts/product-differentiation]]"
-  - "[[concepts/user-experience]]"
+  - "consumer-value"
+  - "product-differentiation"
+  - "user-experience"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

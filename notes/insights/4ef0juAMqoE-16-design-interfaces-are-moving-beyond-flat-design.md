@@ -2,9 +2,9 @@
 type: insight
 title: Design interfaces are moving beyond flat design
 concepts:
-  - "[[concepts/design-trends]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/product-aesthetics]]"
+  - "design-trends"
+  - "user-experience"
+  - "product-aesthetics"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

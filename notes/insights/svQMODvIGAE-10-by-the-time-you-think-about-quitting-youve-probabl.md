@@ -2,9 +2,9 @@
 type: insight
 title: By the time you think about quitting, you've probably waited too long
 concepts:
-  - "[[concepts/quitting]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/sunk-cost-fallacy]]"
+  - "quitting"
+  - "decision-making"
+  - "sunk-cost-fallacy"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

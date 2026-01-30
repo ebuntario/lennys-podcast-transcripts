@@ -2,9 +2,9 @@
 type: insight
 title: A good reputation built on daily decisions opens doors through light connections
 concepts:
-  - "[[concepts/professional-reputation]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/network-effects]]"
+  - "professional-reputation"
+  - "career-development"
+  - "network-effects"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

@@ -2,9 +2,9 @@
 type: insight
 title: AI-generated content works best for structured data, not editorial content
 concepts:
-  - "[[concepts/ai-content]]"
-  - "[[concepts/content-strategy]]"
-  - "[[concepts/seo-strategy]]"
+  - "ai-content"
+  - "content-strategy"
+  - "seo-strategy"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Early career variety builds compound skills that pay off later
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/skill-acquisition]]"
-  - "[[concepts/job-rotation]]"
+  - "career-development"
+  - "skill-acquisition"
+  - "job-rotation"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

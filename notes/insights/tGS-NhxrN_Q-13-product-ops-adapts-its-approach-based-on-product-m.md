@@ -2,9 +2,9 @@
 type: insight
 title: Product ops adapts its approach based on product maturity
 concepts:
-  - "[[concepts/product-lifecycle]]"
-  - "[[concepts/process-design]]"
-  - "[[concepts/agile-methodology]]"
+  - "product-lifecycle"
+  - "process-design"
+  - "agile-methodology"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

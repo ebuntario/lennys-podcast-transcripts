@@ -2,8 +2,8 @@
 type: insight
 title: Work with linguists to avoid cultural and linguistic pitfalls
 concepts:
-  - "[[concepts/linguistics]]"
-  - "[[concepts/global-branding]]"
+  - "linguistics"
+  - "global-branding"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

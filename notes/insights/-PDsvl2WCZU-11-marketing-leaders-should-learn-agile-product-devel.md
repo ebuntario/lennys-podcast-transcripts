@@ -2,9 +2,9 @@
 type: insight
 title: Marketing leaders should learn agile product development to thrive in modern companies
 concepts:
-  - "[[concepts/agile-marketing]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/skill-development]]"
+  - "agile-marketing"
+  - "cross-functional-collaboration"
+  - "skill-development"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

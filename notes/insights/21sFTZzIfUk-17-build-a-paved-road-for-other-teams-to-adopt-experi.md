@@ -2,9 +2,9 @@
 type: insight
 title: Build a "paved road" for other teams to adopt experimentation and analytics
 concepts:
-  - "[[concepts/experimentation-culture]]"
-  - "[[concepts/internal-tooling]]"
-  - "[[concepts/knowledge-sharing]]"
+  - "experimentation-culture"
+  - "internal-tooling"
+  - "knowledge-sharing"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

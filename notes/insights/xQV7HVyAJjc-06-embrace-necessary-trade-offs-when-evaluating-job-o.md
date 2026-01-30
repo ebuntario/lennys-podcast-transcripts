@@ -2,9 +2,9 @@
 type: insight
 title: Embrace necessary trade-offs when evaluating job offers
 concepts:
-  - "[[concepts/career-trade-offs]]"
-  - "[[concepts/compensation-motivation]]"
-  - "[[concepts/job-acceptance]]"
+  - "career-trade-offs"
+  - "compensation-motivation"
+  - "job-acceptance"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

@@ -2,9 +2,9 @@
 type: insight
 title: AI data work is about instilling values, not just labeling information
 concepts:
-  - "[[concepts/ai-alignment]]"
-  - "[[concepts/ai-training-data]]"
-  - "[[concepts/ethical-ai]]"
+  - "ai-alignment"
+  - "ai-training-data"
+  - "ethical-ai"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

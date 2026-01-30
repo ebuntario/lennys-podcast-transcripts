@@ -2,9 +2,9 @@
 type: insight
 title: Deep technology bets require extreme capital efficiency to survive long enough for product-market fit
 concepts:
-  - "[[concepts/startup-survival]]"
-  - "[[concepts/capital-efficiency]]"
-  - "[[concepts/technology-bets]]"
+  - "startup-survival"
+  - "capital-efficiency"
+  - "technology-bets"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

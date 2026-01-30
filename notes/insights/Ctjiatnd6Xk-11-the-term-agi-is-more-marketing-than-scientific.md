@@ -2,9 +2,9 @@
 type: insight
 title: The term "AGI" is more marketing than scientific
 concepts:
-  - "[[concepts/agi]]"
-  - "[[concepts/ai-definition]]"
-  - "[[concepts/ai-progress]]"
+  - "agi"
+  - "ai-definition"
+  - "ai-progress"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

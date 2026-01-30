@@ -2,9 +2,9 @@
 type: insight
 title: Self-Compassion is Built Through Daily Practice
 concepts:
-  - "[[concepts/self-compassion]]"
-  - "[[concepts/conditioned-behavior]]"
-  - "[[concepts/neural-pathways]]"
+  - "self-compassion"
+  - "conditioned-behavior"
+  - "neural-pathways"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

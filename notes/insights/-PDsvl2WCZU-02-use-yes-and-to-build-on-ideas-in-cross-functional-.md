@@ -2,9 +2,9 @@
 type: insight
 title: Use "Yes, and..." to build on ideas in cross-functional work
 concepts:
-  - "[[concepts/collaboration]]"
-  - "[[concepts/communication]]"
-  - "[[concepts/teamwork]]"
+  - "collaboration"
+  - "communication"
+  - "teamwork"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

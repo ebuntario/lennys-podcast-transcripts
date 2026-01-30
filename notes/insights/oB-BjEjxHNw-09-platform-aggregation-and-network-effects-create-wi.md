@@ -2,9 +2,9 @@
 type: insight
 title: Platform aggregation and network effects create winner-take-most dynamics
 concepts:
-  - "[[concepts/network-effects]]"
-  - "[[concepts/platform-strategy]]"
-  - "[[concepts/creator-economy]]"
+  - "network-effects"
+  - "platform-strategy"
+  - "creator-economy"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

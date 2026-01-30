@@ -2,9 +2,9 @@
 type: insight
 title: Use dinner table conversations to identify podcast topics
 concepts:
-  - "[[concepts/content-ideation]]"
-  - "[[concepts/personal-passion]]"
-  - "[[concepts/authenticity]]"
+  - "content-ideation"
+  - "personal-passion"
+  - "authenticity"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Effective product reviews focus on making the product better, not serving as a firing squad
 concepts:
-  - "[[concepts/product-reviews]]"
-  - "[[concepts/psychological-safety]]"
-  - "[[concepts/leadership-feedback]]"
+  - "product-reviews"
+  - "psychological-safety"
+  - "leadership-feedback"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

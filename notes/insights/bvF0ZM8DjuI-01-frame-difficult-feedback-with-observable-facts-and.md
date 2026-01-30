@@ -2,9 +2,9 @@
 type: insight
 title: Frame difficult feedback with observable facts and shared goals
 concepts:
-  - "[[concepts/difficult-conversations]]"
-  - "[[concepts/constructive-feedback]]"
-  - "[[concepts/performance-management]]"
+  - "difficult-conversations"
+  - "constructive-feedback"
+  - "performance-management"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

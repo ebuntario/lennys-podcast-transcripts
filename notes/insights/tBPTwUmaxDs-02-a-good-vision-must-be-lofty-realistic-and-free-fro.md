@@ -2,9 +2,9 @@
 type: insight
 title: A good vision must be lofty, realistic, and free from today's limitations
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/aspirational-goals]]"
+  - "product-vision"
+  - "strategic-planning"
+  - "aspirational-goals"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

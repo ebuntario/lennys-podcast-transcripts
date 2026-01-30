@@ -2,9 +2,9 @@
 type: insight
 title: The pivot as a change in strategy with fidelity to vision
 concepts:
-  - "[[concepts/pivot]]"
-  - "[[concepts/startup-vision]]"
-  - "[[concepts/self-discovery]]"
+  - "pivot"
+  - "startup-vision"
+  - "self-discovery"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

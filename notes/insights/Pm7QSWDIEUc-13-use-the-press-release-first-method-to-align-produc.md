@@ -2,8 +2,8 @@
 type: insight
 title: Use the "press release first" method to align product and marketing from the start
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "product-development"
+  - "cross-functional-alignment"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

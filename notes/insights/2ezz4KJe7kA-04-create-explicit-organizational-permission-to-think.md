@@ -2,9 +2,9 @@
 type: insight
 title: Create explicit organizational permission to think big
 concepts:
-  - "[[concepts/innovation-culture]]"
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/process-design]]"
+  - "innovation-culture"
+  - "strategic-planning"
+  - "process-design"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

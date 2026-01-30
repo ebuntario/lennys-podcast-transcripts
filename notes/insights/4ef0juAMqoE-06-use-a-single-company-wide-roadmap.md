@@ -2,9 +2,9 @@
 type: insight
 title: Use a single, company-wide roadmap
 concepts:
-  - "[[concepts/roadmapping]]"
-  - "[[concepts/alignment]]"
-  - "[[concepts/strategy]]"
+  - "roadmapping"
+  - "alignment"
+  - "strategy"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

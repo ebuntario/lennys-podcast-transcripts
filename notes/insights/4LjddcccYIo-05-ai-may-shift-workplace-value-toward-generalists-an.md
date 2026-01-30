@@ -2,9 +2,9 @@
 type: insight
 title: AI may shift workplace value toward generalists and wisdom
 concepts:
-  - "[[concepts/artificial-intelligence]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/skill-development]]"
+  - "artificial-intelligence"
+  - "career-development"
+  - "skill-development"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Use a multi-platform approach to reach reporters
 concepts:
-  - "[[concepts/media-outreach]]"
-  - "[[concepts/pitching]]"
+  - "media-outreach"
+  - "pitching"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

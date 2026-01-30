@@ -2,9 +2,9 @@
 type: insight
 title: Blur functional lines to own AI application performance
 concepts:
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/evaluation]]"
+  - "organizational-structure"
+  - "cross-functional-collaboration"
+  - "evaluation"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

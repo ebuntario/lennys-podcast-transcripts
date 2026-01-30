@@ -2,9 +2,9 @@
 type: insight
 title: Regularly assess your alignment to prevent career drift
 concepts:
-  - "[[concepts/career-alignment]]"
-  - "[[concepts/self-assessment]]"
-  - "[[concepts/career-quests]]"
+  - "career-alignment"
+  - "self-assessment"
+  - "career-quests"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

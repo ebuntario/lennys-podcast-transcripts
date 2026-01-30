@@ -2,9 +2,9 @@
 type: insight
 title: The competitive advantage of building companies for human flourishing
 concepts:
-  - "[[concepts/company-values]]"
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/customer-loyalty]]"
+  - "company-values"
+  - "competitive-advantage"
+  - "customer-loyalty"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

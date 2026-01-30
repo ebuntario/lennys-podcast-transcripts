@@ -2,9 +2,9 @@
 type: insight
 title: Embrace being kooky to stay open to disconfirming evidence
 concepts:
-  - "[[concepts/open-mindedness]]"
-  - "[[concepts/ego-management]]"
-  - "[[concepts/cognitive-flexibility]]"
+  - "open-mindedness"
+  - "ego-management"
+  - "cognitive-flexibility"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

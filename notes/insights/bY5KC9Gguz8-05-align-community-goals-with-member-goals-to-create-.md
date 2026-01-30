@@ -2,8 +2,8 @@
 type: insight
 title: Align community goals with member goals to create powerful flywheels
 concepts:
-  - "[[concepts/community-incentives]]"
-  - "[[concepts/ecosystem-development]]"
+  - "community-incentives"
+  - "ecosystem-development"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

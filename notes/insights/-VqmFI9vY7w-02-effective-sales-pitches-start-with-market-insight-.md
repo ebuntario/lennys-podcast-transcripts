@@ -2,9 +2,9 @@
 type: insight
 title: Effective sales pitches start with market insight, not product features
 concepts:
-  - "[[concepts/sales-pitch-framework]]"
-  - "[[concepts/positioning]]"
-  - "[[concepts/customer-education]]"
+  - "sales-pitch-framework"
+  - "positioning"
+  - "customer-education"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

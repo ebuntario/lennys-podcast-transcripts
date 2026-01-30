@@ -2,9 +2,9 @@
 type: insight
 title: The AI growth playbook requires reinvention, not optimization
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/ai-companies]]"
-  - "[[concepts/innovation]]"
+  - "growth-strategy"
+  - "ai-companies"
+  - "innovation"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Most successful founders experience moments where they believe everything is over
 concepts:
-  - "[[concepts/founder-resilience]]"
-  - "[[concepts/startup-journey]]"
+  - "founder-resilience"
+  - "startup-journey"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

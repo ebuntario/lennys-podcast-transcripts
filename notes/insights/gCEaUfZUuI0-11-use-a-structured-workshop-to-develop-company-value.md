@@ -2,8 +2,8 @@
 type: insight
 title: Use a structured workshop to develop company values
 concepts:
-  - "[[concepts/company-values]]"
-  - "[[concepts/workshop-facilitation]]"
+  - "company-values"
+  - "workshop-facilitation"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

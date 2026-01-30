@@ -2,9 +2,9 @@
 type: insight
 title: Evaluate if team members can thrive in a growth context
 concepts:
-  - "[[concepts/team-building]]"
-  - "[[concepts/growth-mindset]]"
-  - "[[concepts/talent-alignment]]"
+  - "team-building"
+  - "growth-mindset"
+  - "talent-alignment"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

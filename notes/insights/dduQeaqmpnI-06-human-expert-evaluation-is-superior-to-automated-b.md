@@ -2,9 +2,9 @@
 type: insight
 title: Human expert evaluation is superior to automated benchmarks for measuring AI progress
 concepts:
-  - "[[concepts/human-evaluation]]"
-  - "[[concepts/ai-evaluation]]"
-  - "[[concepts/ai-training]]"
+  - "human-evaluation"
+  - "ai-evaluation"
+  - "ai-training"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

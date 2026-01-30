@@ -2,8 +2,8 @@
 type: insight
 title: Leverage sound symbolism—each letter evokes specific qualities
 concepts:
-  - "[[concepts/linguistics]]"
-  - "[[concepts/brand-naming]]"
+  - "linguistics"
+  - "brand-naming"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

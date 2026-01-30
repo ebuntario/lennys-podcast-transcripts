@@ -2,9 +2,9 @@
 type: insight
 title: Frame product reviews as principle calibration, not decision-making
 concepts:
-  - "[[concepts/product-reviews]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/leadership]]"
+  - "product-reviews"
+  - "decision-making"
+  - "leadership"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

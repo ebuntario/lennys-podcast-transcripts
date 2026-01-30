@@ -2,9 +2,9 @@
 type: insight
 title: Process hard feedback by feeling emotions first, then returning with curiosity
 concepts:
-  - "[[concepts/feedback]]"
-  - "[[concepts/emotional-intelligence]]"
-  - "[[concepts/self-awareness]]"
+  - "feedback"
+  - "emotional-intelligence"
+  - "self-awareness"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

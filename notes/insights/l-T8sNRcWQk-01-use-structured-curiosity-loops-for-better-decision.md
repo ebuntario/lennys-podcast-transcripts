@@ -2,9 +2,9 @@
 type: insight
 title: Use structured curiosity loops for better decision-making
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/advice-seeking]]"
-  - "[[concepts/feedback]]"
+  - "decision-making"
+  - "advice-seeking"
+  - "feedback"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

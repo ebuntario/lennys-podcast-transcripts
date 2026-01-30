@@ -11,10 +11,13 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/consumer-psychology"))
+WHERE contains(concepts, "consumer-psychology")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/growth-levers]] (1 shared insights)
+- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/product-adoption]] (1 shared insights)

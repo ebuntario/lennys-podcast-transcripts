@@ -2,9 +2,9 @@
 type: insight
 title: Founder intuition should direct new hires until they prove superior expertise
 concepts:
-  - "[[concepts/founder-intuition]]"
-  - "[[concepts/delegation]]"
-  - "[[concepts/team-expertise]]"
+  - "founder-intuition"
+  - "delegation"
+  - "team-expertise"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

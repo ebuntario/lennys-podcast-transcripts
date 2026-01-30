@@ -2,9 +2,9 @@
 type: insight
 title: 'Always rules' beat 'sometimes rules' for personal discipline
 concepts:
-  - "[[concepts/habit-formation]]"
-  - "[[concepts/streak-psychology]]"
-  - "[[concepts/self-control]]"
+  - "habit-formation"
+  - "streak-psychology"
+  - "self-control"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

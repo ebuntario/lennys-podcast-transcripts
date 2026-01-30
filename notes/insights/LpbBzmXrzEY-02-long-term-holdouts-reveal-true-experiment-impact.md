@@ -2,9 +2,9 @@
 type: insight
 title: Long-term holdouts reveal true experiment impact
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/growth-metrics]]"
-  - "[[concepts/data-driven-decisions]]"
+  - "experimentation"
+  - "growth-metrics"
+  - "data-driven-decisions"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Treat your career like a product with intentional milestones
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/product-management]]"
-  - "[[concepts/intentionality]]"
+  - "career-development"
+  - "product-management"
+  - "intentionality"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

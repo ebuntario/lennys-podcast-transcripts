@@ -2,9 +2,9 @@
 type: insight
 title: AI personalizes education and amplifies student agency
 concepts:
-  - "[[concepts/ai-in-education]]"
-  - "[[concepts/personalized-learning]]"
-  - "[[concepts/democratizing-education]]"
+  - "ai-in-education"
+  - "personalized-learning"
+  - "democratizing-education"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

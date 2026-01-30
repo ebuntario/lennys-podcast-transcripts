@@ -2,9 +2,9 @@
 type: insight
 title: Marketing technology evolves from village approach to centralized function as companies scale
 concepts:
-  - "[[concepts/marketing-technology]]"
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/scaling]]"
+  - "marketing-technology"
+  - "organizational-structure"
+  - "scaling"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

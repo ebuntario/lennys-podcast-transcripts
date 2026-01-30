@@ -2,9 +2,9 @@
 type: insight
 title: End meetings by clarifying decisions, action items, and communication needs
 concepts:
-  - "[[concepts/meeting-effectiveness]]"
-  - "[[concepts/accountability]]"
-  - "[[concepts/team-alignment]]"
+  - "meeting-effectiveness"
+  - "accountability"
+  - "team-alignment"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Avoid "tarpit ideas" that attract many founders but rarely succeed
 concepts:
-  - "[[concepts/startup-ideas]]"
-  - "[[concepts/market-validation]]"
+  - "startup-ideas"
+  - "market-validation"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

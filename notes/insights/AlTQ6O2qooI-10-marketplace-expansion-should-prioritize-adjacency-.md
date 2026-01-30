@@ -2,9 +2,9 @@
 type: insight
 title: Marketplace expansion should prioritize adjacency and network effects
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/growth-expansion]]"
-  - "[[concepts/network-effects]]"
+  - "marketplace-strategy"
+  - "growth-expansion"
+  - "network-effects"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

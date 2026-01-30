@@ -2,8 +2,8 @@
 type: insight
 title: Startup success correlates more with deep belief than specific personality traits
 concepts:
-  - "[[concepts/founder-conviction]]"
-  - "[[concepts/founder-resilience]]"
+  - "founder-conviction"
+  - "founder-resilience"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

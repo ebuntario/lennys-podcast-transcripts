@@ -2,9 +2,9 @@
 type: insight
 title: Early product launches reveal unexpected use cases
 concepts:
-  - "[[concepts/product-discovery]]"
-  - "[[concepts/user-innovation]]"
-  - "[[concepts/ai-applications]]"
+  - "product-discovery"
+  - "user-innovation"
+  - "ai-applications"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Place features that promote your growth model in the free plan
 concepts:
-  - "[[concepts/freemium-strategy]]"
-  - "[[concepts/pricing-packaging]]"
-  - "[[concepts/product-led-growth]]"
+  - "freemium-strategy"
+  - "pricing-packaging"
+  - "product-led-growth"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

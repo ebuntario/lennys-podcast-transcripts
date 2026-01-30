@@ -2,9 +2,9 @@
 type: insight
 title: Invest early in trustworthy behavioral data infrastructure
 concepts:
-  - "[[concepts/data-infrastructure]]"
-  - "[[concepts/behavioral-analytics]]"
-  - "[[concepts/experimentation-platform]]"
+  - "data-infrastructure"
+  - "behavioral-analytics"
+  - "experimentation-platform"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

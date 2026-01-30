@@ -2,9 +2,9 @@
 type: insight
 title: Balance learning and impact cycles for career growth
 concepts:
-  - "[[concepts/continuous-learning]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/impact-vs-learning]]"
+  - "continuous-learning"
+  - "career-development"
+  - "impact-vs-learning"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

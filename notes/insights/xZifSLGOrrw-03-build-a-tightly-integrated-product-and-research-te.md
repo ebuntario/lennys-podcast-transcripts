@@ -2,9 +2,9 @@
 type: insight
 title: Build a tightly integrated product and research team to accelerate agent development
 concepts:
-  - "[[concepts/cross-functional-teams]]"
-  - "[[concepts/rapid-iteration]]"
-  - "[[concepts/ai-model-development]]"
+  - "cross-functional-teams"
+  - "rapid-iteration"
+  - "ai-model-development"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Hypergrowth requires organic word-of-mouth and an amazing product
 concepts:
-  - "[[concepts/hypergrowth]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/virality]]"
+  - "hypergrowth"
+  - "product-led-growth"
+  - "virality"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

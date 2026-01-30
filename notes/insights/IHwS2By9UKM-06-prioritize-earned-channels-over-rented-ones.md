@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize earned channels over rented ones
 concepts:
-  - "[[concepts/earned-channels]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/virality]]"
+  - "earned-channels"
+  - "product-led-growth"
+  - "virality"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

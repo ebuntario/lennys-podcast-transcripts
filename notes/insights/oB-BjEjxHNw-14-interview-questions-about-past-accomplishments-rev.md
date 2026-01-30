@@ -2,9 +2,9 @@
 type: insight
 title: Interview questions about past accomplishments reveal motivation and values
 concepts:
-  - "[[concepts/hiring-practices]]"
-  - "[[concepts/behavioral-interviewing]]"
-  - "[[concepts/team-culture]]"
+  - "hiring-practices"
+  - "behavioral-interviewing"
+  - "team-culture"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

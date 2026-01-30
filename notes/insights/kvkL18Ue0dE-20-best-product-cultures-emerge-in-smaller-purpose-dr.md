@@ -2,9 +2,9 @@
 type: insight
 title: Best product cultures emerge in smaller, purpose-driven organizations
 concepts:
-  - "[[concepts/organizational-culture]]"
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/company-size]]"
+  - "organizational-culture"
+  - "team-alignment"
+  - "company-size"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

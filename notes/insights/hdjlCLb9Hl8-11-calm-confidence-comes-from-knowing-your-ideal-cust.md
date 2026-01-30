@@ -2,9 +2,9 @@
 type: insight
 title: Calm confidence comes from knowing your ideal customer fit
 concepts:
-  - "[[concepts/sales-mindset]]"
-  - "[[concepts/positioning]]"
-  - "[[concepts/customer-segmentation]]"
+  - "sales-mindset"
+  - "positioning"
+  - "customer-segmentation"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

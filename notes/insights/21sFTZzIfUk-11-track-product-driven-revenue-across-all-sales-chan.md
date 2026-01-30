@@ -2,9 +2,9 @@
 type: insight
 title: Track product-driven revenue across all sales channels
 concepts:
-  - "[[concepts/product-led-sales]]"
-  - "[[concepts/revenue-attribution]]"
-  - "[[concepts/growth-metrics]]"
+  - "product-led-sales"
+  - "revenue-attribution"
+  - "growth-metrics"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

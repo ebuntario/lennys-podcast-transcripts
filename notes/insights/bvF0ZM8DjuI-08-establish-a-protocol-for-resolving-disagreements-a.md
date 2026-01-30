@@ -2,9 +2,9 @@
 type: insight
 title: Establish a protocol for resolving disagreements among co-founders upfront
 concepts:
-  - "[[concepts/co-founder-alignment]]"
-  - "[[concepts/conflict-management]]"
-  - "[[concepts/decision-making]]"
+  - "co-founder-alignment"
+  - "conflict-management"
+  - "decision-making"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

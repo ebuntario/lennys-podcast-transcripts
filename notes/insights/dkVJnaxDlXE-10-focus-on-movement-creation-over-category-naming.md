@@ -2,9 +2,9 @@
 type: insight
 title: Focus on movement creation over category naming
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/category-creation]]"
-  - "[[concepts/messaging]]"
+  - "strategic-narrative"
+  - "category-creation"
+  - "messaging"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

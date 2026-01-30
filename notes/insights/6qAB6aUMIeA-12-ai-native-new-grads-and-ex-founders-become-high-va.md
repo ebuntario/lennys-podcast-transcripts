@@ -2,9 +2,9 @@
 type: insight
 title: AI-native new grads and ex-founders become high-value hires
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/ai-skills]]"
-  - "[[concepts/company-culture]]"
+  - "hiring"
+  - "ai-skills"
+  - "company-culture"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

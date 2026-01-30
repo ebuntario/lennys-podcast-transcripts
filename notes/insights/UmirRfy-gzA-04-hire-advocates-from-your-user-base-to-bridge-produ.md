@@ -2,8 +2,8 @@
 type: insight
 title: Hire advocates from your user base to bridge product and market
 concepts:
-  - "[[concepts/designer-advocates]]"
-  - "[[concepts/go-to-market-strategy]]"
+  - "designer-advocates"
+  - "go-to-market-strategy"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

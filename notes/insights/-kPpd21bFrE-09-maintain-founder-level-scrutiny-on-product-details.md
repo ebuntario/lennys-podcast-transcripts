@@ -2,9 +2,9 @@
 type: insight
 title: Maintain founder-level scrutiny on product details while granting team autonomy
 concepts:
-  - "[[concepts/founder-involvement]]"
-  - "[[concepts/product-review]]"
-  - "[[concepts/autonomy]]"
+  - "founder-involvement"
+  - "product-review"
+  - "autonomy"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

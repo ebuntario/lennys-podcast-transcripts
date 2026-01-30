@@ -2,9 +2,9 @@
 type: insight
 title: Anchor on company needs to prioritize which feedback to act on
 concepts:
-  - "[[concepts/feedback]]"
-  - "[[concepts/prioritization]]"
-  - "[[concepts/strategic-alignment]]"
+  - "feedback"
+  - "prioritization"
+  - "strategic-alignment"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

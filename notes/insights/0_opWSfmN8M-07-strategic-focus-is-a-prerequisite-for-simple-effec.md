@@ -2,9 +2,9 @@
 type: insight
 title: Strategic focus is a prerequisite for simple, effective pricing
 concepts:
-  - "[[concepts/strategic-focus]]"
-  - "[[concepts/pricing-simplicity]]"
-  - "[[concepts/product-strategy]]"
+  - "strategic-focus"
+  - "pricing-simplicity"
+  - "product-strategy"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

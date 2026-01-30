@@ -2,9 +2,9 @@
 type: insight
 title: Make public writing a consistent practice through accountability
 concepts:
-  - "[[concepts/career-communication]]"
-  - "[[concepts/knowledge-sharing]]"
-  - "[[concepts/accountability]]"
+  - "career-communication"
+  - "knowledge-sharing"
+  - "accountability"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

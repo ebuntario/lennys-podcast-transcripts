@@ -2,9 +2,9 @@
 type: insight
 title: How to influence leadership by making arguments concrete
 concepts:
-  - "[[concepts/leadership-influence]]"
-  - "[[concepts/first-principles-thinking]]"
-  - "[[concepts/data-driven-decisions]]"
+  - "leadership-influence"
+  - "first-principles-thinking"
+  - "data-driven-decisions"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

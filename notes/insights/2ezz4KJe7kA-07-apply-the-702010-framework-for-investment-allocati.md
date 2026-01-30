@@ -2,9 +2,9 @@
 type: insight
 title: Apply the 70/20/10 framework for investment allocation
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/resource-allocation]]"
-  - "[[concepts/innovation-culture]]"
+  - "product-strategy"
+  - "resource-allocation"
+  - "innovation-culture"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

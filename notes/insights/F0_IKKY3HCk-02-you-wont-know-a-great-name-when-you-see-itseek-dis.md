@@ -2,9 +2,9 @@
 type: insight
 title: You won't know a great name when you see it—seek discomfort
 concepts:
-  - "[[concepts/brand-naming]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/psychological-bias]]"
+  - "brand-naming"
+  - "decision-making"
+  - "psychological-bias"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

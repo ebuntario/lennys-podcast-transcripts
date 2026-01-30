@@ -2,9 +2,9 @@
 type: insight
 title: Being in the details is not micromanagement
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/accountability]]"
-  - "[[concepts/execution]]"
+  - "leadership"
+  - "accountability"
+  - "execution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Pitch yourself as a specific expert, not a general interviewer
 concepts:
-  - "[[concepts/guest-recruitment]]"
-  - "[[concepts/personal-branding]]"
-  - "[[concepts/pitching]]"
+  - "guest-recruitment"
+  - "personal-branding"
+  - "pitching"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Building a great product is necessary but insufficient for winning
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/distribution-strategy]]"
-  - "[[concepts/competitive-advantage]]"
+  - "product-development"
+  - "distribution-strategy"
+  - "competitive-advantage"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

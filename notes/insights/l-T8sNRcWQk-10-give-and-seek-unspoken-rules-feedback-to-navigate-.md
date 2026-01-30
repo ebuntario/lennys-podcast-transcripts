@@ -2,8 +2,8 @@
 type: insight
 title: Give and seek "unspoken rules" feedback to navigate bias
 concepts:
-  - "[[concepts/feedback]]"
-  - "[[concepts/professional-development]]"
+  - "feedback"
+  - "professional-development"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

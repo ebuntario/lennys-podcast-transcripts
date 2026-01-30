@@ -2,9 +2,9 @@
 type: insight
 title: A tactical framework for deciding when to pivot
 concepts:
-  - "[[concepts/pivot]]"
-  - "[[concepts/decision-framework]]"
-  - "[[concepts/experimentation]]"
+  - "pivot"
+  - "decision-framework"
+  - "experimentation"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/domain-expertise"))
+WHERE contains(concepts, "domain-expertise")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/leadership]] (1 shared insights)
+- [[concepts/accountability]] (1 shared insights)
+- [[concepts/skill-development]] (1 shared insights)

@@ -2,9 +2,9 @@
 type: insight
 title: Podcasts provide a platform for curated curiosity
 concepts:
-  - "[[concepts/content-creation]]"
-  - "[[concepts/networking]]"
-  - "[[concepts/personal-branding]]"
+  - "content-creation"
+  - "networking"
+  - "personal-branding"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

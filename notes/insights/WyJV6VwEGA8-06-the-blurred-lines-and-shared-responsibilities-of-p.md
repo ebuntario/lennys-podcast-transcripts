@@ -2,9 +2,9 @@
 type: insight
 title: The blurred lines and shared responsibilities of product roles
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/cross-functional-teams]]"
-  - "[[concepts/role-fluidity]]"
+  - "product-management"
+  - "cross-functional-teams"
+  - "role-fluidity"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

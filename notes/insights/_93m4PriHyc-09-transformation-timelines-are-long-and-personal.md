@@ -2,9 +2,9 @@
 type: insight
 title: Transformation Timelines are Long and Personal
 concepts:
-  - "[[concepts/personal-transformation]]"
-  - "[[concepts/spiritual-journey]]"
-  - "[[concepts/valley-of-transition]]"
+  - "personal-transformation"
+  - "spiritual-journey"
+  - "valley-of-transition"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

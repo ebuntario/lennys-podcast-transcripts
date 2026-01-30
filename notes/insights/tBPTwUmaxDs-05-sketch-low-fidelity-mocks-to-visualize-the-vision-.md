@@ -2,9 +2,9 @@
 type: insight
 title: Sketch low-fidelity mocks to visualize the vision, even without a designer
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/visual-communication]]"
-  - "[[concepts/execution]]"
+  - "product-vision"
+  - "visual-communication"
+  - "execution"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

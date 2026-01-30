@@ -2,9 +2,9 @@
 type: insight
 title: Product managers evolve from gatekeepers to editors and taste-makers
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/idea-curation]]"
-  - "[[concepts/ai-democratization]]"
+  - "product-management"
+  - "idea-curation"
+  - "ai-democratization"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

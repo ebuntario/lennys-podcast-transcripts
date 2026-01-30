@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize hiring for raw cognitive ability and startup mindset over narrow specialization
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/team-building]]"
-  - "[[concepts/startup-culture]]"
+  - "hiring"
+  - "team-building"
+  - "startup-culture"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

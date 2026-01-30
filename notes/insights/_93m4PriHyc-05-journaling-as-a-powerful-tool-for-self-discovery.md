@@ -2,9 +2,9 @@
 type: insight
 title: Journaling as a Powerful Tool for Self-Discovery
 concepts:
-  - "[[concepts/self-discovery]]"
-  - "[[concepts/journaling]]"
-  - "[[concepts/internal-narrative]]"
+  - "self-discovery"
+  - "journaling"
+  - "internal-narrative"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

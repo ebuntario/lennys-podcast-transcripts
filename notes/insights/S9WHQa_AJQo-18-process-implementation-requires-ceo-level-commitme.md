@@ -2,9 +2,9 @@
 type: insight
 title: Process implementation requires CEO-level commitment
 concepts:
-  - "[[concepts/process-implementation]]"
-  - "[[concepts/change-management]]"
-  - "[[concepts/leadership-commitment]]"
+  - "process-implementation"
+  - "change-management"
+  - "leadership-commitment"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Product management is about finding the kernel of truth in a sea of signals and ambiguity
 concepts:
-  - "[[concepts/signal-vs-noise]]"
-  - "[[concepts/product-prioritization]]"
-  - "[[concepts/strategic-focus]]"
+  - "signal-vs-noise"
+  - "product-prioritization"
+  - "strategic-focus"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

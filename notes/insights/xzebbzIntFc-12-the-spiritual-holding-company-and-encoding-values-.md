@@ -2,9 +2,9 @@
 type: insight
 title: The "spiritual holding company" and encoding values into governance
 concepts:
-  - "[[concepts/corporate-governance]]"
-  - "[[concepts/company-values]]"
-  - "[[concepts/long-term-thinking]]"
+  - "corporate-governance"
+  - "company-values"
+  - "long-term-thinking"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

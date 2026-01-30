@@ -2,9 +2,9 @@
 type: insight
 title: Become a "historian" of past decisions to make better future ones
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/organizational-learning]]"
-  - "[[concepts/context-building]]"
+  - "decision-making"
+  - "organizational-learning"
+  - "context-building"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Reframe challenges with an abundant mindset to unlock energy and solutions
 concepts:
-  - "[[concepts/mindset-shifts]]"
-  - "[[concepts/energy-management]]"
-  - "[[concepts/leadership]]"
+  - "mindset-shifts"
+  - "energy-management"
+  - "leadership"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

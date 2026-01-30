@@ -2,9 +2,9 @@
 type: insight
 title: During existential threats, the only rational reaction is overreaction
 concepts:
-  - "[[concepts/competitive-strategy]]"
-  - "[[concepts/innovators-dilemma]]"
-  - "[[concepts/strategic-pivots]]"
+  - "competitive-strategy"
+  - "innovators-dilemma"
+  - "strategic-pivots"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

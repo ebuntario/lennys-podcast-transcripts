@@ -2,9 +2,9 @@
 type: insight
 title: Artificial deadlines overcome creative paralysis
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/project-launch]]"
-  - "[[concepts/constraints]]"
+  - "decision-making"
+  - "project-launch"
+  - "constraints"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

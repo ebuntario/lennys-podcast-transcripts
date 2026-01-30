@@ -2,9 +2,9 @@
 type: insight
 title: Side projects build empathy and demystify technology
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/technical-fluency]]"
-  - "[[concepts/entrepreneurial-mindset]]"
+  - "career-development"
+  - "technical-fluency"
+  - "entrepreneurial-mindset"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

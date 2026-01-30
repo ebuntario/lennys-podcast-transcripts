@@ -2,9 +2,9 @@
 type: insight
 title: Product should own PQA targets as part of monetization accountability
 concepts:
-  - "[[concepts/product-qualified-account]]"
-  - "[[concepts/product-accountability]]"
-  - "[[concepts/monetization-ownership]]"
+  - "product-qualified-account"
+  - "product-accountability"
+  - "monetization-ownership"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

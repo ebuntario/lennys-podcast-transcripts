@@ -2,9 +2,9 @@
 type: insight
 title: Correlations in user behavior are rarely actionable levers
 concepts:
-  - "[[concepts/data-analysis]]"
-  - "[[concepts/retention]]"
-  - "[[concepts/causation-vs-correlation]]"
+  - "data-analysis"
+  - "retention"
+  - "causation-vs-correlation"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

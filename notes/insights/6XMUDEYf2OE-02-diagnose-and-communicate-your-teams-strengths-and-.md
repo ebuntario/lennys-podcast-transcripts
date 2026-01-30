@@ -2,9 +2,9 @@
 type: insight
 title: Diagnose and communicate your team's strengths and weaknesses transparently
 concepts:
-  - "[[concepts/team-diagnosis]]"
-  - "[[concepts/transparent-communication]]"
-  - "[[concepts/okrs]]"
+  - "team-diagnosis"
+  - "transparent-communication"
+  - "okrs"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

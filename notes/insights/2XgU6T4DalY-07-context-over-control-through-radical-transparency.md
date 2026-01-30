@@ -2,9 +2,9 @@
 type: insight
 title: Context over control through radical transparency
 concepts:
-  - "[[concepts/radical-transparency]]"
-  - "[[concepts/leadership-communication]]"
-  - "[[concepts/freedom-and-responsibility]]"
+  - "radical-transparency"
+  - "leadership-communication"
+  - "freedom-and-responsibility"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

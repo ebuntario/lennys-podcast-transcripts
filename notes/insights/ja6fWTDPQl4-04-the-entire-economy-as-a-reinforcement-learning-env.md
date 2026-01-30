@@ -2,9 +2,9 @@
 type: insight
 title: The Entire Economy as a Reinforcement Learning Environment
 concepts:
-  - "[[concepts/reinforcement-learning]]"
-  - "[[concepts/ai-training-data]]"
-  - "[[concepts/future-of-work]]"
+  - "reinforcement-learning"
+  - "ai-training-data"
+  - "future-of-work"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

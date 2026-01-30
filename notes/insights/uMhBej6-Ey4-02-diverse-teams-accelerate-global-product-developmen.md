@@ -2,9 +2,9 @@
 type: insight
 title: Diverse teams accelerate global product development
 concepts:
-  - "[[concepts/diverse-teams]]"
-  - "[[concepts/global-product-development]]"
-  - "[[concepts/product-efficiency]]"
+  - "diverse-teams"
+  - "global-product-development"
+  - "product-efficiency"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

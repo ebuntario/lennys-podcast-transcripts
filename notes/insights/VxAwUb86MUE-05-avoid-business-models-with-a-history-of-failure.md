@@ -2,9 +2,9 @@
 type: insight
 title: Avoid Business Models with a History of Failure
 concepts:
-  - "[[concepts/risk-management]]"
-  - "[[concepts/business-model]]"
-  - "[[concepts/entrepreneurial-journey]]"
+  - "risk-management"
+  - "business-model"
+  - "entrepreneurial-journey"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

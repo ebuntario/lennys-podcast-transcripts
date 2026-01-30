@@ -2,9 +2,9 @@
 type: insight
 title: Hire leaders who have seen the next stage of growth
 concepts:
-  - "[[concepts/hypergrowth]]"
-  - "[[concepts/leadership-hiring]]"
-  - "[[concepts/scaling]]"
+  - "hypergrowth"
+  - "leadership-hiring"
+  - "scaling"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

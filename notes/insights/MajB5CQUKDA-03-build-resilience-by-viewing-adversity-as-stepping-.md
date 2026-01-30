@@ -2,9 +2,9 @@
 type: insight
 title: Build resilience by viewing adversity as stepping stones
 concepts:
-  - "[[concepts/resilience]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/feedback-processing]]"
+  - "resilience"
+  - "career-development"
+  - "feedback-processing"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

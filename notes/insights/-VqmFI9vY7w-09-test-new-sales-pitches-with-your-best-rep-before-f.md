@@ -2,9 +2,9 @@
 type: insight
 title: Test new sales pitches with your best rep before full rollout
 concepts:
-  - "[[concepts/sales-process]]"
-  - "[[concepts/experimentation]]"
-  - "[[concepts/change-management]]"
+  - "sales-process"
+  - "experimentation"
+  - "change-management"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

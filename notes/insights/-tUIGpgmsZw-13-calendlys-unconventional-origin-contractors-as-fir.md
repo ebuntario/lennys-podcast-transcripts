@@ -2,9 +2,9 @@
 type: insight
 title: Calendly's unconventional origin: contractors as first users
 concepts:
-  - "[[concepts/early-adopters]]"
-  - "[[concepts/product-launch]]"
-  - "[[concepts/freemium-model]]"
+  - "early-adopters"
+  - "product-launch"
+  - "freemium-model"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Consolidating product and design under one leader for holistic experience
 concepts:
-  - "[[concepts/org-structure]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "org-structure"
+  - "user-experience"
+  - "cross-functional-alignment"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

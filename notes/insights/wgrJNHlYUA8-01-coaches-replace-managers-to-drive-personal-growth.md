@@ -2,9 +2,9 @@
 type: insight
 title: Coaches replace managers to drive personal growth
 concepts:
-  - "[[concepts/coaching-culture]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/team-structure]]"
+  - "coaching-culture"
+  - "career-development"
+  - "team-structure"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

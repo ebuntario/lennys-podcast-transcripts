@@ -2,9 +2,9 @@
 type: insight
 title: The psychological barrier to admitting what you don't know
 concepts:
-  - "[[concepts/founder-psychology]]"
-  - "[[concepts/experimentation]]"
-  - "[[concepts/cognitive-bias]]"
+  - "founder-psychology"
+  - "experimentation"
+  - "cognitive-bias"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

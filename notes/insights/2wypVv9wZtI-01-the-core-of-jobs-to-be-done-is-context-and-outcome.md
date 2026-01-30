@@ -2,9 +2,9 @@
 type: insight
 title: The core of Jobs-to-be-Done is context and outcome, not pain and gain
 concepts:
-  - "[[concepts/jobs-to-be-done]]"
-  - "[[concepts/customer-context]]"
-  - "[[concepts/progress-theory]]"
+  - "jobs-to-be-done"
+  - "customer-context"
+  - "progress-theory"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Senior leadership involves making suboptimal decisions
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/humility]]"
+  - "leadership"
+  - "decision-making"
+  - "humility"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Craft and quality must be defined by the customer's purpose
 concepts:
-  - "[[concepts/product-craft]]"
-  - "[[concepts/customer-centricity]]"
-  - "[[concepts/quality]]"
+  - "product-craft"
+  - "customer-centricity"
+  - "quality"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

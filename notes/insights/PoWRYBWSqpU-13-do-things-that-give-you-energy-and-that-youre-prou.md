@@ -2,9 +2,9 @@
 type: insight
 title: Do things that give you energy and that you're proud of
 concepts:
-  - "[[concepts/personal-energy]]"
-  - "[[concepts/work-alignment]]"
-  - "[[concepts/long-term-perspective]]"
+  - "personal-energy"
+  - "work-alignment"
+  - "long-term-perspective"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

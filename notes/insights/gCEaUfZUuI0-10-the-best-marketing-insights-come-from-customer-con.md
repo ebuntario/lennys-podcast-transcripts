@@ -2,8 +2,8 @@
 type: insight
 title: The best marketing insights come from customer conversations
 concepts:
-  - "[[concepts/customer-development]]"
-  - "[[concepts/positioning]]"
+  - "customer-development"
+  - "positioning"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

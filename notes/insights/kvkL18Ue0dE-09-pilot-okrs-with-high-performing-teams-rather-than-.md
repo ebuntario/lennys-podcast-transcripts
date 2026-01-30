@@ -2,9 +2,9 @@
 type: insight
 title: Pilot OKRs with high-performing teams rather than struggling ones
 concepts:
-  - "[[concepts/change-management]]"
-  - "[[concepts/organizational-learning]]"
-  - "[[concepts/process-adoption]]"
+  - "change-management"
+  - "organizational-learning"
+  - "process-adoption"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

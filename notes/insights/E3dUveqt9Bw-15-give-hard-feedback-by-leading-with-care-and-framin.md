@@ -2,9 +2,9 @@
 type: insight
 title: Give hard feedback by leading with care and framing around perception
 concepts:
-  - "[[concepts/feedback]]"
-  - "[[concepts/radical-candor]]"
-  - "[[concepts/communication]]"
+  - "feedback"
+  - "radical-candor"
+  - "communication"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

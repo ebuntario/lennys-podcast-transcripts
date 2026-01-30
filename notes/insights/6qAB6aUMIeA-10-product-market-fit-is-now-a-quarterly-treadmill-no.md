@@ -2,9 +2,9 @@
 type: insight
 title: Product-market fit is now a quarterly treadmill, not a milestone
 concepts:
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/ai-companies]]"
-  - "[[concepts/competition]]"
+  - "product-market-fit"
+  - "ai-companies"
+  - "competition"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

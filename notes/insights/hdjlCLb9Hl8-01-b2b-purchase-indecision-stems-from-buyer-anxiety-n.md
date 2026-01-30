@@ -2,9 +2,9 @@
 type: insight
 title: B2B purchase indecision stems from buyer anxiety, not lack of need
 concepts:
-  - "[[concepts/b2b-sales]]"
-  - "[[concepts/buyer-psychology]]"
-  - "[[concepts/risk-aversion]]"
+  - "b2b-sales"
+  - "buyer-psychology"
+  - "risk-aversion"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

@@ -2,8 +2,8 @@
 type: insight
 title: For product-led growth, avoid bundling at the initial land stage
 concepts:
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/bundling-strategy]]"
+  - "product-led-growth"
+  - "bundling-strategy"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

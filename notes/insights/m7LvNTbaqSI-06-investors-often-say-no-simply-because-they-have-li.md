@@ -2,8 +2,8 @@
 type: insight
 title: Investors often say no simply because they have limited allocation, not due to founder flaws
 concepts:
-  - "[[concepts/fundraising]]"
-  - "[[concepts/investor-psychology]]"
+  - "fundraising"
+  - "investor-psychology"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Run experiments even with very small sample sizes
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/data-driven-decisions]]"
-  - "[[concepts/early-stage-startups]]"
+  - "experimentation"
+  - "data-driven-decisions"
+  - "early-stage-startups"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

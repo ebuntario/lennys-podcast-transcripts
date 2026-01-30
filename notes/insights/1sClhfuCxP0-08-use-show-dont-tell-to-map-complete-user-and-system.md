@@ -2,9 +2,9 @@
 type: insight
 title: Use 'Show, Don't Tell' to Map Complete User and System Journeys
 concepts:
-  - "[[concepts/user-research]]"
-  - "[[concepts/product-design]]"
-  - "[[concepts/alignment]]"
+  - "user-research"
+  - "product-design"
+  - "alignment"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

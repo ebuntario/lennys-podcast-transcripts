@@ -2,9 +2,9 @@
 type: insight
 title: Embed promotion in every communication touchpoint
 concepts:
-  - "[[concepts/personal-branding]]"
-  - "[[concepts/growth-hacking]]"
-  - "[[concepts/consistency]]"
+  - "personal-branding"
+  - "growth-hacking"
+  - "consistency"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

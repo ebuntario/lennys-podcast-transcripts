@@ -2,9 +2,9 @@
 type: insight
 title: Build an audience before launching through simple updates
 concepts:
-  - "[[concepts/audience-building]]"
-  - "[[concepts/email-marketing]]"
-  - "[[concepts/community-engagement]]"
+  - "audience-building"
+  - "email-marketing"
+  - "community-engagement"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

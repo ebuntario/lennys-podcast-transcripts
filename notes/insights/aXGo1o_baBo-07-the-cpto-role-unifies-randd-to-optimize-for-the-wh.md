@@ -2,9 +2,9 @@
 type: insight
 title: The CPTO role unifies R&D to optimize for the whole organization
 concepts:
-  - "[[concepts/org-design]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "org-design"
+  - "leadership"
+  - "cross-functional-alignment"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

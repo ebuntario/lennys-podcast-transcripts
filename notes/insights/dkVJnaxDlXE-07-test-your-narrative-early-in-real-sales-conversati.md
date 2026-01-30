@@ -2,9 +2,9 @@
 type: insight
 title: Test your narrative early in real sales conversations
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/iteration]]"
-  - "[[concepts/sales-pitching]]"
+  - "strategic-narrative"
+  - "iteration"
+  - "sales-pitching"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

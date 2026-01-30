@@ -2,8 +2,8 @@
 type: insight
 title: Test names by presenting them as competitors
 concepts:
-  - "[[concepts/name-testing]]"
-  - "[[concepts/market-research]]"
+  - "name-testing"
+  - "market-research"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

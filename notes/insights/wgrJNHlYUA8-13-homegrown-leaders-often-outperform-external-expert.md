@@ -2,9 +2,9 @@
 type: insight
 title: Homegrown leaders often outperform external "experts" due to cultural fit
 concepts:
-  - "[[concepts/leadership-development]]"
-  - "[[concepts/company-culture]]"
-  - "[[concepts/team-alignment]]"
+  - "leadership-development"
+  - "company-culture"
+  - "team-alignment"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

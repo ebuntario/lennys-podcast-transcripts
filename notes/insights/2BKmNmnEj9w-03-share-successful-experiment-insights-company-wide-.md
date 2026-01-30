@@ -2,9 +2,9 @@
 type: insight
 title: Share successful experiment insights company-wide to multiply impact
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/knowledge-sharing]]"
-  - "[[concepts/product-psychology]]"
+  - "experimentation"
+  - "knowledge-sharing"
+  - "product-psychology"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

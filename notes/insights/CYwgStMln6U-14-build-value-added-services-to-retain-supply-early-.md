@@ -2,9 +2,9 @@
 type: insight
 title: Build value-added services to retain supply early on
 concepts:
-  - "[[concepts/supply-retention]]"
-  - "[[concepts/value-proposition]]"
-  - "[[concepts/early-stage-strategy]]"
+  - "supply-retention"
+  - "value-proposition"
+  - "early-stage-strategy"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

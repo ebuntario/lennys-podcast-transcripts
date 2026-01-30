@@ -2,9 +2,9 @@
 type: insight
 title: Three signs a marketplace model is a good fit for an idea
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/opportunity-identification]]"
-  - "[[concepts/fragmentation]]"
+  - "marketplace-strategy"
+  - "opportunity-identification"
+  - "fragmentation"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

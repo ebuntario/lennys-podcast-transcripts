@@ -2,8 +2,8 @@
 type: insight
 title: Build credibility with technical audiences by not marketing to them
 concepts:
-  - "[[concepts/audience-credibility]]"
-  - "[[concepts/technical-content]]"
+  - "audience-credibility"
+  - "technical-content"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

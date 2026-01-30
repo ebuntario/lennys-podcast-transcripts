@@ -2,9 +2,9 @@
 type: insight
 title: Platform moats shift from features to context and data
 concepts:
-  - "[[concepts/platform-moats]]"
-  - "[[concepts/ai-context]]"
-  - "[[concepts/competitive-advantage]]"
+  - "platform-moats"
+  - "ai-context"
+  - "competitive-advantage"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

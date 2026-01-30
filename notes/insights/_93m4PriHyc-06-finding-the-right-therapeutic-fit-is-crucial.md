@@ -2,9 +2,9 @@
 type: insight
 title: Finding the Right Therapeutic Fit is Crucial
 concepts:
-  - "[[concepts/therapy]]"
-  - "[[concepts/safety]]"
-  - "[[concepts/healing]]"
+  - "therapy"
+  - "safety"
+  - "healing"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

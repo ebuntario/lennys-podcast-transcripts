@@ -2,9 +2,9 @@
 type: insight
 title: Diversity delivers business value when properly utilized
 concepts:
-  - "[[concepts/diverse-teams]]"
-  - "[[concepts/business-value]]"
-  - "[[concepts/retention]]"
+  - "diverse-teams"
+  - "business-value"
+  - "retention"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

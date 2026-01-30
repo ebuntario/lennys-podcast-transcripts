@@ -2,9 +2,9 @@
 type: insight
 title: The Long Road to AGI is Paved with Evals
 concepts:
-  - "[[concepts/ai-evals]]"
-  - "[[concepts/agi-timeline]]"
-  - "[[concepts/model-training]]"
+  - "ai-evals"
+  - "agi-timeline"
+  - "model-training"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

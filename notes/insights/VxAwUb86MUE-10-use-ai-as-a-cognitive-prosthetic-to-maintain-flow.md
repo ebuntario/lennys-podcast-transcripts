@@ -2,9 +2,9 @@
 type: insight
 title: Use AI as a Cognitive Prosthetic to Maintain Flow
 concepts:
-  - "[[concepts/artificial-intelligence]]"
-  - "[[concepts/productivity]]"
-  - "[[concepts/decision-making]]"
+  - "artificial-intelligence"
+  - "productivity"
+  - "decision-making"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

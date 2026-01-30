@@ -11,10 +11,13 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/continuous-feedback"))
+WHERE contains(concepts, "continuous-feedback")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/product-as-organism]] (1 shared insights)
+- [[concepts/ai-product-development]] (1 shared insights)
+- [[concepts/observability]] (1 shared insights)
+- [[concepts/ai-evaluation]] (1 shared insights)

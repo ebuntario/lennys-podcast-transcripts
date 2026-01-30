@@ -2,9 +2,9 @@
 type: insight
 title: Prioritizing generative capacity over executional skill
 concepts:
-  - "[[concepts/idea-generation]]"
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/ai-productivity]]"
+  - "idea-generation"
+  - "product-strategy"
+  - "ai-productivity"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

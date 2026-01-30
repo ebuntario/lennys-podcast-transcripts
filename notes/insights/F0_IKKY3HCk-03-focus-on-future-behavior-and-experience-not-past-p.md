@@ -2,8 +2,8 @@
 type: insight
 title: Focus on future behavior and experience, not past positioning
 concepts:
-  - "[[concepts/brand-strategy]]"
-  - "[[concepts/creative-frameworks]]"
+  - "brand-strategy"
+  - "creative-frameworks"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

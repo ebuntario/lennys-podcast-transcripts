@@ -2,9 +2,9 @@
 type: insight
 title: Challenge Yourself with Risks to Enable Growth
 concepts:
-  - "[[concepts/professional-growth]]"
-  - "[[concepts/risk-taking]]"
-  - "[[concepts/career-development]]"
+  - "professional-growth"
+  - "risk-taking"
+  - "career-development"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

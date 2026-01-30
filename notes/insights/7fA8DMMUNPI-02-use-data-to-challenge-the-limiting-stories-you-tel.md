@@ -2,9 +2,9 @@
 type: insight
 title: Use data to challenge the limiting stories you tell yourself
 concepts:
-  - "[[concepts/self-narrative]]"
-  - "[[concepts/feedback]]"
-  - "[[concepts/data-driven-decisions]]"
+  - "self-narrative"
+  - "feedback"
+  - "data-driven-decisions"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

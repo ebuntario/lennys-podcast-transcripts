@@ -2,9 +2,9 @@
 type: insight
 title: Develop product taste through deliberate curation and cross-disciplinary exploration
 concepts:
-  - "[[concepts/design-principles]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/skill-development]]"
+  - "design-principles"
+  - "leadership"
+  - "skill-development"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

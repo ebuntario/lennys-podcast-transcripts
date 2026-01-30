@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/conways-law"))
+WHERE contains(concepts, "conways-law")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/organizational-design]] (1 shared insights)
+- [[concepts/engineering-leadership]] (1 shared insights)
+- [[concepts/technical-strategy]] (1 shared insights)

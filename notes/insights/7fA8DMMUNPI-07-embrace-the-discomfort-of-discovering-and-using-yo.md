@@ -2,9 +2,9 @@
 type: insight
 title: Embrace the discomfort of discovering and using your superpowers
 concepts:
-  - "[[concepts/personal-growth]]"
-  - "[[concepts/strengths-identification]]"
-  - "[[concepts/self-acceptance]]"
+  - "personal-growth"
+  - "strengths-identification"
+  - "self-acceptance"
 source_guest: Donna Lichaw
 source_episode: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 source: "[[guests/donna-lichaw|Donna Lichaw]]"

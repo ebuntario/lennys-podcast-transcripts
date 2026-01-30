@@ -2,9 +2,9 @@
 type: insight
 title: Problem-People-System framework guides effective technology implementation
 concepts:
-  - "[[concepts/problem-solving]]"
-  - "[[concepts/stakeholder-management]]"
-  - "[[concepts/systems-thinking]]"
+  - "problem-solving"
+  - "stakeholder-management"
+  - "systems-thinking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

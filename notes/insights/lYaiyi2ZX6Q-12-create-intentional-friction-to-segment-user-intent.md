@@ -2,9 +2,9 @@
 type: insight
 title: Create intentional friction to segment user intent and deepen engagement
 concepts:
-  - "[[concepts/user-segmentation]]"
-  - "[[concepts/engagement]]"
-  - "[[concepts/product-design]]"
+  - "user-segmentation"
+  - "engagement"
+  - "product-design"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Assessing Talent in the Age of AI Tools
 concepts:
-  - "[[concepts/talent-assessment]]"
-  - "[[concepts/ai-augmentation]]"
-  - "[[concepts/future-of-work]]"
+  - "talent-assessment"
+  - "ai-augmentation"
+  - "future-of-work"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

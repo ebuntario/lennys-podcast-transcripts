@@ -2,9 +2,9 @@
 type: insight
 title: Frameworks are tools, not coloring books
 concepts:
-  - "[[concepts/product-frameworks]]"
-  - "[[concepts/strategic-thinking]]"
-  - "[[concepts/risk-taking]]"
+  - "product-frameworks"
+  - "strategic-thinking"
+  - "risk-taking"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

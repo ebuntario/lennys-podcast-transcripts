@@ -2,9 +2,9 @@
 type: insight
 title: Thinking gray enables better systems decisions by delaying judgment
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/systems-thinking]]"
-  - "[[concepts/patience]]"
+  - "decision-making"
+  - "systems-thinking"
+  - "patience"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

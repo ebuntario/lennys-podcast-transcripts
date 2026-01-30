@@ -2,8 +2,8 @@
 type: insight
 title: Compile a creative brief as your brand bible
 concepts:
-  - "[[concepts/brand-strategy]]"
-  - "[[concepts/creative-direction]]"
+  - "brand-strategy"
+  - "creative-direction"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

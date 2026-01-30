@@ -2,9 +2,9 @@
 type: insight
 title: Surrendering to Life's Current vs. Climbing the Mountain
 concepts:
-  - "[[concepts/surrender]]"
-  - "[[concepts/life-metaphor]]"
-  - "[[concepts/presence]]"
+  - "surrender"
+  - "life-metaphor"
+  - "presence"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

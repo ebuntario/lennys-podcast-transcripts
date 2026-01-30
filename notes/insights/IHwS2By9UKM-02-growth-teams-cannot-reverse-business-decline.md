@@ -2,9 +2,9 @@
 type: insight
 title: Growth teams cannot reverse business decline
 concepts:
-  - "[[concepts/growth-team-limitations]]"
-  - "[[concepts/business-decline]]"
-  - "[[concepts/product-strategy]]"
+  - "growth-team-limitations"
+  - "business-decline"
+  - "product-strategy"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

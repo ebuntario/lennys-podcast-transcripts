@@ -2,9 +2,9 @@
 type: insight
 title: Product vision requires constant reinforcement
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/internal-communication]]"
-  - "[[concepts/team-alignment]]"
+  - "product-vision"
+  - "internal-communication"
+  - "team-alignment"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

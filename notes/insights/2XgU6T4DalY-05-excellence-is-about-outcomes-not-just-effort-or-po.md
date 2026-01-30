@@ -2,9 +2,9 @@
 type: insight
 title: Excellence is about outcomes, not just effort or polish
 concepts:
-  - "[[concepts/excellence]]"
-  - "[[concepts/outcome-orientation]]"
-  - "[[concepts/managerial-frameworks]]"
+  - "excellence"
+  - "outcome-orientation"
+  - "managerial-frameworks"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

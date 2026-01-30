@@ -2,9 +2,9 @@
 type: insight
 title: Hiring founders brings high output but also higher attrition and bullshit intolerance
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/team-culture]]"
-  - "[[concepts/execution]]"
+  - "hiring"
+  - "team-culture"
+  - "execution"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

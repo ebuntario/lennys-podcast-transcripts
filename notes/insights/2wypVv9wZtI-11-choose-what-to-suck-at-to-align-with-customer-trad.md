@@ -2,9 +2,9 @@
 type: insight
 title: Choose what to suck at to align with customer trade-offs
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/trade-offs]]"
-  - "[[concepts/positioning]]"
+  - "product-strategy"
+  - "trade-offs"
+  - "positioning"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

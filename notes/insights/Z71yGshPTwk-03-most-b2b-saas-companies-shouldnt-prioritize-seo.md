@@ -2,9 +2,9 @@
 type: insight
 title: Most B2B SaaS companies shouldn't prioritize SEO
 concepts:
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/b2b-sales]]"
-  - "[[concepts/channel-selection]]"
+  - "seo-strategy"
+  - "b2b-sales"
+  - "channel-selection"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

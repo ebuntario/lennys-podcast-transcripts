@@ -2,9 +2,9 @@
 type: insight
 title: Hire growth team members with strong statistical intuition
 concepts:
-  - "[[concepts/growth-hiring]]"
-  - "[[concepts/data-literacy]]"
-  - "[[concepts/experimentation]]"
+  - "growth-hiring"
+  - "data-literacy"
+  - "experimentation"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Product management is the craft of bringing clarity and conviction
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/decision-making]]"
+  - "product-management"
+  - "leadership"
+  - "decision-making"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

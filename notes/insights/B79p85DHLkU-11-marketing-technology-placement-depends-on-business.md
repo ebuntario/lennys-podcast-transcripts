@@ -2,9 +2,9 @@
 type: insight
 title: Marketing technology placement depends on business model and organizational maturity
 concepts:
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/b2b-vs-b2c]]"
-  - "[[concepts/centralized-vs-decentralized]]"
+  - "organizational-structure"
+  - "b2b-vs-b2c"
+  - "centralized-vs-decentralized"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

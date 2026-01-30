@@ -2,9 +2,9 @@
 type: insight
 title: Community-led growth drives enterprise adoption through ubiquity and de-risking
 concepts:
-  - "[[concepts/community-led-growth]]"
-  - "[[concepts/enterprise-adoption]]"
-  - "[[concepts/brand-awareness]]"
+  - "community-led-growth"
+  - "enterprise-adoption"
+  - "brand-awareness"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

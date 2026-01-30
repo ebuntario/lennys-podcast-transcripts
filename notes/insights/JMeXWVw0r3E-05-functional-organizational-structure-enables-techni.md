@@ -2,9 +2,9 @@
 type: insight
 title: Functional organizational structure enables technical depth and AI adoption
 concepts:
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/engineering-leadership]]"
-  - "[[concepts/technical-strategy]]"
+  - "organizational-design"
+  - "engineering-leadership"
+  - "technical-strategy"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The best way to test a powerful coding agent is to give it your hardest problem
 concepts:
-  - "[[concepts/product-positioning]]"
-  - "[[concepts/user-onboarding]]"
-  - "[[concepts/ai-agents]]"
+  - "product-positioning"
+  - "user-onboarding"
+  - "ai-agents"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

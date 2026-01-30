@@ -2,9 +2,9 @@
 type: insight
 title: Effective communication requires understanding your audience's starting point
 concepts:
-  - "[[concepts/audience-empathy]]"
-  - "[[concepts/communication-tactics]]"
-  - "[[concepts/information-repetition]]"
+  - "audience-empathy"
+  - "communication-tactics"
+  - "information-repetition"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

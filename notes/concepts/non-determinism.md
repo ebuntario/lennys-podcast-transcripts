@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/non-determinism"))
+WHERE contains(concepts, "non-determinism")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/ai-product-development]] (1 shared insights)
+- [[concepts/user-experience]] (1 shared insights)

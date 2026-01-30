@@ -2,9 +2,9 @@
 type: insight
 title: Use AI tools internally to prototype and communicate ideas
 concepts:
-  - "[[concepts/ai-skills]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/internal-tools]]"
+  - "ai-skills"
+  - "product-development"
+  - "internal-tools"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

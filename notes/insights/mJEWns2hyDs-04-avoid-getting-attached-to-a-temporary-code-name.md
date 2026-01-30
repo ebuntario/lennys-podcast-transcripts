@@ -2,8 +2,8 @@
 type: insight
 title: Avoid getting attached to a temporary code name
 concepts:
-  - "[[concepts/company-naming]]"
-  - "[[concepts/early-stage-strategy]]"
+  - "company-naming"
+  - "early-stage-strategy"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

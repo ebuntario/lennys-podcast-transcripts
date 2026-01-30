@@ -2,9 +2,9 @@
 type: insight
 title: Build direct connections to customers rather than relying on filtered feedback
 concepts:
-  - "[[concepts/customer-feedback]]"
-  - "[[concepts/product-empathy]]"
-  - "[[concepts/user-research]]"
+  - "customer-feedback"
+  - "product-empathy"
+  - "user-research"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

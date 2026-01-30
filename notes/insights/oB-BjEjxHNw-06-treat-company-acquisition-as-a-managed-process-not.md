@@ -2,9 +2,9 @@
 type: insight
 title: Treat company acquisition as a managed process, not a spontaneous event
 concepts:
-  - "[[concepts/startup-exit-strategy]]"
-  - "[[concepts/business-development]]"
-  - "[[concepts/relationship-building]]"
+  - "startup-exit-strategy"
+  - "business-development"
+  - "relationship-building"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Spatial intelligence is a key missing component for embodied AI
 concepts:
-  - "[[concepts/spatial-intelligence]]"
-  - "[[concepts/embodied-ai]]"
-  - "[[concepts/world-models]]"
+  - "spatial-intelligence"
+  - "embodied-ai"
+  - "world-models"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Treating sales teams as a critical asset for customer empathy
 concepts:
-  - "[[concepts/customer-empathy]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/product-feedback]]"
+  - "customer-empathy"
+  - "cross-functional-collaboration"
+  - "product-feedback"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

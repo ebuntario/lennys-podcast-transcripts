@@ -2,9 +2,9 @@
 type: insight
 title: Appreciation for others' challenges improves leadership and decision-making
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/empathy]]"
-  - "[[concepts/perspective-taking]]"
+  - "leadership"
+  - "empathy"
+  - "perspective-taking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

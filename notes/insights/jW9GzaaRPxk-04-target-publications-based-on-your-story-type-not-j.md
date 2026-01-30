@@ -2,8 +2,8 @@
 type: insight
 title: Target publications based on your story type, not just prestige
 concepts:
-  - "[[concepts/publication-targeting]]"
-  - "[[concepts/media-strategy]]"
+  - "publication-targeting"
+  - "media-strategy"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

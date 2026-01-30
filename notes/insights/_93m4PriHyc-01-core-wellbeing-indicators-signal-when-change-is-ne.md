@@ -2,9 +2,9 @@
 type: insight
 title: Core Wellbeing Indicators Signal When Change Is Needed
 concepts:
-  - "[[concepts/burnout]]"
-  - "[[concepts/mental-health]]"
-  - "[[concepts/self-awareness]]"
+  - "burnout"
+  - "mental-health"
+  - "self-awareness"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

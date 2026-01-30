@@ -2,9 +2,9 @@
 type: insight
 title: The future product stack: a society of models
 concepts:
-  - "[[concepts/ai-architecture]]"
-  - "[[concepts/multi-agent-systems]]"
-  - "[[concepts/software-development]]"
+  - "ai-architecture"
+  - "multi-agent-systems"
+  - "software-development"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

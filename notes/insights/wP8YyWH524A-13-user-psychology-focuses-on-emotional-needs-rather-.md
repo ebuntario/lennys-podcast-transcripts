@@ -2,9 +2,9 @@
 type: insight
 title: User psychology focuses on emotional needs rather than logical appeals
 concepts:
-  - "[[concepts/user-psychology]]"
-  - "[[concepts/customer-knowledge]]"
-  - "[[concepts/product-development]]"
+  - "user-psychology"
+  - "customer-knowledge"
+  - "product-development"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

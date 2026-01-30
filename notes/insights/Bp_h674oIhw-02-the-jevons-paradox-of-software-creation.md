@@ -2,9 +2,9 @@
 type: insight
 title: The Jevons Paradox of software creation
 concepts:
-  - "[[concepts/software-democratization]]"
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/idea-generation]]"
+  - "software-democratization"
+  - "ai-productivity"
+  - "idea-generation"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

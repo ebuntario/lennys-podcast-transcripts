@@ -2,9 +2,9 @@
 type: insight
 title: Successful acquisitions require preserving core magic while enabling integration
 concepts:
-  - "[[concepts/acquisition-integration]]"
-  - "[[concepts/product-migration]]"
-  - "[[concepts/user-experience-preservation]]"
+  - "acquisition-integration"
+  - "product-migration"
+  - "user-experience-preservation"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Maintain a high talent bar with clear expectations and normalized feedback
 concepts:
-  - "[[concepts/talent-density]]"
-  - "[[concepts/feedback-culture]]"
-  - "[[concepts/accountability]]"
+  - "talent-density"
+  - "feedback-culture"
+  - "accountability"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

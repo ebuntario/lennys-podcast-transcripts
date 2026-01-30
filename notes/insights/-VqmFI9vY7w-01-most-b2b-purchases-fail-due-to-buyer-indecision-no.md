@@ -2,9 +2,9 @@
 type: insight
 title: Most B2B purchases fail due to buyer indecision, not competitor superiority
 concepts:
-  - "[[concepts/b2b-sales]]"
-  - "[[concepts/buyer-psychology]]"
-  - "[[concepts/risk-aversion]]"
+  - "b2b-sales"
+  - "buyer-psychology"
+  - "risk-aversion"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

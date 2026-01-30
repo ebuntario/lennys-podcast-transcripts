@@ -2,9 +2,9 @@
 type: insight
 title: Build a reservoir of goodwill through specific, positive feedback
 concepts:
-  - "[[concepts/constructive-feedback]]"
-  - "[[concepts/employee-engagement]]"
-  - "[[concepts/trust-building]]"
+  - "constructive-feedback"
+  - "employee-engagement"
+  - "trust-building"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

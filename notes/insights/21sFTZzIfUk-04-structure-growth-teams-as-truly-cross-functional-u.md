@@ -2,9 +2,9 @@
 type: insight
 title: Structure growth teams as truly cross-functional units with aligned incentives
 concepts:
-  - "[[concepts/growth-team-structure]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/team-alignment]]"
+  - "growth-team-structure"
+  - "cross-functional-collaboration"
+  - "team-alignment"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

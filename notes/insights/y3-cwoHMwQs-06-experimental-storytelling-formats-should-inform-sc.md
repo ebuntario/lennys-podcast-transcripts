@@ -2,9 +2,9 @@
 type: insight
 title: Experimental storytelling formats should inform scalable product systems
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/product-platforms]]"
-  - "[[concepts/innovation-process]]"
+  - "experimentation"
+  - "product-platforms"
+  - "innovation-process"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

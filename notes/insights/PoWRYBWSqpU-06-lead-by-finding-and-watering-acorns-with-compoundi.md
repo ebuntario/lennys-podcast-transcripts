@@ -2,9 +2,9 @@
 type: insight
 title: Lead by finding and watering acorns with compounding potential
 concepts:
-  - "[[concepts/compounding-loops]]"
-  - "[[concepts/seed-planting]]"
-  - "[[concepts/leadership]]"
+  - "compounding-loops"
+  - "seed-planting"
+  - "leadership"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

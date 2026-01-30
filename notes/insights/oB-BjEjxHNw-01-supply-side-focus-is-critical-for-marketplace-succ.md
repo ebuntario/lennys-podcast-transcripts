@@ -2,9 +2,9 @@
 type: insight
 title: Supply-side focus is critical for marketplace success
 concepts:
-  - "[[concepts/marketplace-dynamics]]"
-  - "[[concepts/supply-acquisition]]"
-  - "[[concepts/network-effects]]"
+  - "marketplace-dynamics"
+  - "supply-acquisition"
+  - "network-effects"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

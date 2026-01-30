@@ -2,9 +2,9 @@
 type: insight
 title: Share Credit to Build Trust with Engineers
 concepts:
-  - "[[concepts/credit-sharing]]"
-  - "[[concepts/product-management]]"
-  - "[[concepts/engineering-relationships]]"
+  - "credit-sharing"
+  - "product-management"
+  - "engineering-relationships"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

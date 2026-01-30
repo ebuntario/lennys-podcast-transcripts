@@ -2,8 +2,8 @@
 type: insight
 title: Judge people by their strengths, not their worst failures
 concepts:
-  - "[[concepts/talent-evaluation]]"
-  - "[[concepts/investor-mindset]]"
+  - "talent-evaluation"
+  - "investor-mindset"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

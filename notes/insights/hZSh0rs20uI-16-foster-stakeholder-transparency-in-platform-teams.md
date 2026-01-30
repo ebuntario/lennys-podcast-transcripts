@@ -2,9 +2,9 @@
 type: insight
 title: Foster Stakeholder Transparency in Platform Teams
 concepts:
-  - "[[concepts/stakeholder-alignment]]"
-  - "[[concepts/internal-communication]]"
-  - "[[concepts/platform-adoption]]"
+  - "stakeholder-alignment"
+  - "internal-communication"
+  - "platform-adoption"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

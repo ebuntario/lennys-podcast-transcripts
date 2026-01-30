@@ -2,9 +2,9 @@
 type: insight
 title: Use winners to establish stakes and create urgency
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/sales-pitching]]"
-  - "[[concepts/urgency-creation]]"
+  - "strategic-narrative"
+  - "sales-pitching"
+  - "urgency-creation"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

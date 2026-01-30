@@ -2,9 +2,9 @@
 type: insight
 title: Start Platform Teams When Scaling Pain Becomes Evident
 concepts:
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/developer-productivity]]"
-  - "[[concepts/infrastructure-strategy]]"
+  - "organizational-design"
+  - "developer-productivity"
+  - "infrastructure-strategy"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

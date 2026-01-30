@@ -2,8 +2,8 @@
 type: insight
 title: Strategy has no intrinsic value without execution
 concepts:
-  - "[[concepts/execution]]"
-  - "[[concepts/strategy-definition]]"
+  - "execution"
+  - "strategy-definition"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

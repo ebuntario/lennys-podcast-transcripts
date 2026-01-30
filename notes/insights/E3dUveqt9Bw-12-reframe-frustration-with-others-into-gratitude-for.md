@@ -2,9 +2,9 @@
 type: insight
 title: Reframe frustration with others into gratitude for what you can learn
 concepts:
-  - "[[concepts/mindset-shifts]]"
-  - "[[concepts/emotional-intelligence]]"
-  - "[[concepts/continuous-learning]]"
+  - "mindset-shifts"
+  - "emotional-intelligence"
+  - "continuous-learning"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

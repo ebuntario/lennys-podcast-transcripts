@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/multi-agent-systems"))
+WHERE contains(concepts, "multi-agent-systems")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/ai-architecture]] (1 shared insights)
+- [[concepts/software-development]] (1 shared insights)

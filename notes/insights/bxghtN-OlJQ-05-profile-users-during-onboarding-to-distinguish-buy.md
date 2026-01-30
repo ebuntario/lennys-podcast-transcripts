@@ -2,9 +2,9 @@
 type: insight
 title: Profile users during onboarding to distinguish buyers from end users
 concepts:
-  - "[[concepts/user-profiling]]"
-  - "[[concepts/buyer-persona]]"
-  - "[[concepts/onboarding-optimization]]"
+  - "user-profiling"
+  - "buyer-persona"
+  - "onboarding-optimization"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Define "perfect world" criteria to align with buyers before pitching
 concepts:
-  - "[[concepts/sales-pitch-framework]]"
-  - "[[concepts/buyer-alignment]]"
-  - "[[concepts/positioning]]"
+  - "sales-pitch-framework"
+  - "buyer-alignment"
+  - "positioning"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

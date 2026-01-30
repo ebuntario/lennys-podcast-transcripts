@@ -2,9 +2,9 @@
 type: insight
 title: Deliver feedback with kindness, not just blunt honesty
 concepts:
-  - "[[concepts/feedback-delivery]]"
-  - "[[concepts/emotional-intelligence]]"
-  - "[[concepts/professional-regret]]"
+  - "feedback-delivery"
+  - "emotional-intelligence"
+  - "professional-regret"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

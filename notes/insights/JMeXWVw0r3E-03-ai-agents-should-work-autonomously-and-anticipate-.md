@@ -2,9 +2,9 @@
 type: insight
 title: AI agents should work autonomously and anticipate needs
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/proactive-automation]]"
-  - "[[concepts/autonomous-systems]]"
+  - "ai-agents"
+  - "proactive-automation"
+  - "autonomous-systems"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

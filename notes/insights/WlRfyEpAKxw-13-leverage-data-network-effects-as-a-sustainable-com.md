@@ -2,9 +2,9 @@
 type: insight
 title: Leverage Data Network Effects as a Sustainable Competitive Edge
 concepts:
-  - "[[concepts/data-network-effects]]"
-  - "[[concepts/product-advantage]]"
-  - "[[concepts/personalization]]"
+  - "data-network-effects"
+  - "product-advantage"
+  - "personalization"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

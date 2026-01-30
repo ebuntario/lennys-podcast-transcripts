@@ -2,9 +2,9 @@
 type: insight
 title: Founder-led growth precedes growth teams
 concepts:
-  - "[[concepts/founder-led-growth]]"
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/growth-team-hiring]]"
+  - "founder-led-growth"
+  - "product-market-fit"
+  - "growth-team-hiring"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

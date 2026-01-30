@@ -2,9 +2,9 @@
 type: insight
 title: AI compresses the talent stack, blurring role boundaries and increasing individual impact
 concepts:
-  - "[[concepts/future-of-work]]"
-  - "[[concepts/productivity]]"
-  - "[[concepts/cross-functional-skills]]"
+  - "future-of-work"
+  - "productivity"
+  - "cross-functional-skills"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

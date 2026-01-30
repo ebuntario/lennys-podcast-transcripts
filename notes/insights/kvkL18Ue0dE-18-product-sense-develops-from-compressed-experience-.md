@@ -2,9 +2,9 @@
 type: insight
 title: Product sense develops from compressed experience, not innate talent
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/pattern-recognition]]"
+  - "product-management"
+  - "skill-development"
+  - "pattern-recognition"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

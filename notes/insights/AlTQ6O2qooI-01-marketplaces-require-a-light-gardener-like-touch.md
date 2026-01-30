@@ -2,9 +2,9 @@
 type: insight
 title: Marketplaces require a light, gardener-like touch
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/ecosystem-management]]"
-  - "[[concepts/incentive-design]]"
+  - "marketplace-strategy"
+  - "ecosystem-management"
+  - "incentive-design"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

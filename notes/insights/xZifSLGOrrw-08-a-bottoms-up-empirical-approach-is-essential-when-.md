@@ -2,9 +2,9 @@
 type: insight
 title: A bottoms-up, empirical approach is essential when the future is highly uncertain
 concepts:
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/rapid-iteration]]"
+  - "organizational-structure"
+  - "decision-making"
+  - "rapid-iteration"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

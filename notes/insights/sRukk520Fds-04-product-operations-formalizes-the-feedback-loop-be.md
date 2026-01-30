@@ -2,9 +2,9 @@
 type: insight
 title: Product operations formalizes the feedback loop between centralized product and distributed operations
 concepts:
-  - "[[concepts/product-operations-function]]"
-  - "[[concepts/feedback-loops]]"
-  - "[[concepts/global-scalability]]"
+  - "product-operations-function"
+  - "feedback-loops"
+  - "global-scalability"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

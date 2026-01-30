@@ -2,9 +2,9 @@
 type: insight
 title: Coach as an explorer, not a lecturer
 concepts:
-  - "[[concepts/management]]"
-  - "[[concepts/coaching]]"
-  - "[[concepts/feedback]]"
+  - "management"
+  - "coaching"
+  - "feedback"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

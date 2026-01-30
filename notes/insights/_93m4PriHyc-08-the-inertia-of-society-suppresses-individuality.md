@@ -2,9 +2,9 @@
 type: insight
 title: The Inertia of Society Suppresses Individuality
 concepts:
-  - "[[concepts/individuality]]"
-  - "[[concepts/social-conditioning]]"
-  - "[[concepts/acceptance]]"
+  - "individuality"
+  - "social-conditioning"
+  - "acceptance"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

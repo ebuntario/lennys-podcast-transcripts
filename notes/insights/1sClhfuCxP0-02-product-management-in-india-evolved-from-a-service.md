@@ -2,9 +2,9 @@
 type: insight
 title: Product Management in India Evolved from a Services Back-Office Culture
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/india-market]]"
-  - "[[concepts/software-development-culture]]"
+  - "product-management"
+  - "india-market"
+  - "software-development-culture"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

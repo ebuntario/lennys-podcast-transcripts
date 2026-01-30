@@ -2,9 +2,9 @@
 type: insight
 title: True product differentiation requires being both different and better in a meaningful way
 concepts:
-  - "[[concepts/product-differentiation]]"
-  - "[[concepts/consumer-value]]"
-  - "[[concepts/competitive-advantage]]"
+  - "product-differentiation"
+  - "consumer-value"
+  - "competitive-advantage"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

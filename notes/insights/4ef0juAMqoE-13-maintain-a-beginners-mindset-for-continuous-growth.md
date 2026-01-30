@@ -2,9 +2,9 @@
 type: insight
 title: Maintain a beginner's mindset for continuous growth
 concepts:
-  - "[[concepts/learning]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/curiosity]]"
+  - "learning"
+  - "leadership"
+  - "curiosity"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

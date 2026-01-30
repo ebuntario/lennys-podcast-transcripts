@@ -2,9 +2,9 @@
 type: insight
 title: Product leaders must be hands-on problem solvers, not just task delegators
 concepts:
-  - "[[concepts/hands-on-leadership]]"
-  - "[[concepts/problem-solving]]"
-  - "[[concepts/execution-focus]]"
+  - "hands-on-leadership"
+  - "problem-solving"
+  - "execution-focus"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

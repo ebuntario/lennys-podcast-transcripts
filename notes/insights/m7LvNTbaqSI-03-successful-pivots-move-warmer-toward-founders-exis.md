@@ -2,9 +2,9 @@
 type: insight
 title: Successful pivots move "warmer" toward founders' existing expertise
 concepts:
-  - "[[concepts/pivoting]]"
-  - "[[concepts/startup-ideas]]"
-  - "[[concepts/founder-background]]"
+  - "pivoting"
+  - "startup-ideas"
+  - "founder-background"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Move from reactive to proactive AI agents
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/product-evolution]]"
+  - "ai-agents"
+  - "product-evolution"
 source_guest: Kiriti Badam
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

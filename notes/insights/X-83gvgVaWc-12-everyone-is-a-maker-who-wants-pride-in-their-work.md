@@ -2,9 +2,9 @@
 type: insight
 title: Everyone is a maker who wants pride in their work
 concepts:
-  - "[[concepts/maker-mindset]]"
-  - "[[concepts/team-pride]]"
-  - "[[concepts/cross-functional-respect]]"
+  - "maker-mindset"
+  - "team-pride"
+  - "cross-functional-respect"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

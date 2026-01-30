@@ -2,9 +2,9 @@
 type: insight
 title: "Bitchin' ain't switchin'"—Complaints don't predict action
 concepts:
-  - "[[concepts/customer-feedback]]"
-  - "[[concepts/behavioral-change]]"
-  - "[[concepts/forces-of-progress]]"
+  - "customer-feedback"
+  - "behavioral-change"
+  - "forces-of-progress"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

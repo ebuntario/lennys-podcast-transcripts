@@ -2,9 +2,9 @@
 type: insight
 title: World models enable creation, interaction, and reasoning in 3D spaces
 concepts:
-  - "[[concepts/world-models]]"
-  - "[[concepts/spatial-intelligence]]"
-  - "[[concepts/generative-ai]]"
+  - "world-models"
+  - "spatial-intelligence"
+  - "generative-ai"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

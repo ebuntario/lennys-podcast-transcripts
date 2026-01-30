@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/validate-before-scaling"))
+WHERE contains(concepts, "validate-before-scaling")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/lean-validation]] (1 shared insights)
+- [[concepts/business-model-testing]] (1 shared insights)
+- [[concepts/startup-mistakes]] (1 shared insights)

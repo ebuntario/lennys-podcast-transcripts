@@ -2,9 +2,9 @@
 type: insight
 title: Define Which Side of the Marketplace Your Company Serves
 concepts:
-  - "[[concepts/marketplaces]]"
-  - "[[concepts/company-vision]]"
-  - "[[concepts/decision-making]]"
+  - "marketplaces"
+  - "company-vision"
+  - "decision-making"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

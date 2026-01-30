@@ -2,9 +2,9 @@
 type: insight
 title: Look for directional momentum, not statistical significance, in early channel tests
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/growth-metrics]]"
-  - "[[concepts/early-testing]]"
+  - "experimentation"
+  - "growth-metrics"
+  - "early-testing"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

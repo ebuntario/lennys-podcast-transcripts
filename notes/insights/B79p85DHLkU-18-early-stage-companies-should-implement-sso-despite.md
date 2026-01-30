@@ -2,9 +2,9 @@
 type: insight
 title: Early-stage companies should implement SSO despite implementation costs
 concepts:
-  - "[[concepts/security]]"
-  - "[[concepts/future-proofing]]"
-  - "[[concepts/cost-benefit-analysis]]"
+  - "security"
+  - "future-proofing"
+  - "cost-benefit-analysis"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

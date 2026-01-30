@@ -2,9 +2,9 @@
 type: insight
 title: AI expands workforce capabilities through personalized agent stacks
 concepts:
-  - "[[concepts/skill-augmentation]]"
-  - "[[concepts/agent-stack]]"
-  - "[[concepts/workforce-development]]"
+  - "skill-augmentation"
+  - "agent-stack"
+  - "workforce-development"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

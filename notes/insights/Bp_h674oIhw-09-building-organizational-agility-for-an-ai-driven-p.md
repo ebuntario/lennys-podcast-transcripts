@@ -2,9 +2,9 @@
 type: insight
 title: Building organizational agility for an AI-driven pace
 concepts:
-  - "[[concepts/agile-development]]"
-  - "[[concepts/roadmap-planning]]"
-  - "[[concepts/strategic-adaptability]]"
+  - "agile-development"
+  - "roadmap-planning"
+  - "strategic-adaptability"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

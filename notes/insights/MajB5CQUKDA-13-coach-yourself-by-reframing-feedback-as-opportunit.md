@@ -2,9 +2,9 @@
 type: insight
 title: Coach yourself by reframing feedback as opportunity
 concepts:
-  - "[[concepts/feedback-processing]]"
-  - "[[concepts/coaching]]"
-  - "[[concepts/resilience]]"
+  - "feedback-processing"
+  - "coaching"
+  - "resilience"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

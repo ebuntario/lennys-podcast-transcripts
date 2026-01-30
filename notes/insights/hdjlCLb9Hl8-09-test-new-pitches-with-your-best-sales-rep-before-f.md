@@ -2,9 +2,9 @@
 type: insight
 title: Test new pitches with your best sales rep before full rollout
 concepts:
-  - "[[concepts/sales-enablement]]"
-  - "[[concepts/iteration]]"
-  - "[[concepts/sales-pitch-framework]]"
+  - "sales-enablement"
+  - "iteration"
+  - "sales-pitch-framework"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

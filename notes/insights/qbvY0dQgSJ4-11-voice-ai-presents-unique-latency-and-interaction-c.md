@@ -2,9 +2,9 @@
 type: insight
 title: Voice AI presents unique latency and interaction challenges
 concepts:
-  - "[[concepts/multimodal-ai]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/system-design]]"
+  - "multimodal-ai"
+  - "user-experience"
+  - "system-design"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

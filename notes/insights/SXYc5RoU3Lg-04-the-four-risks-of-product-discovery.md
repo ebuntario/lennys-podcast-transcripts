@@ -2,9 +2,9 @@
 type: insight
 title: The four risks of product discovery
 concepts:
-  - "[[concepts/product-discovery]]"
-  - "[[concepts/risk-assessment]]"
-  - "[[concepts/value-creation]]"
+  - "product-discovery"
+  - "risk-assessment"
+  - "value-creation"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Protect your core growth motion as you layer on traditional tactics
 concepts:
-  - "[[concepts/go-to-market-strategy]]"
-  - "[[concepts/scaling-growth]]"
+  - "go-to-market-strategy"
+  - "scaling-growth"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

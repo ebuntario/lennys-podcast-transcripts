@@ -2,9 +2,9 @@
 type: insight
 title: Simplifying pricing can require sacrificing short-term revenue for long-term health
 concepts:
-  - "[[concepts/pricing-strategy]]"
-  - "[[concepts/customer-obsession]]"
-  - "[[concepts/long-term-thinking]]"
+  - "pricing-strategy"
+  - "customer-obsession"
+  - "long-term-thinking"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

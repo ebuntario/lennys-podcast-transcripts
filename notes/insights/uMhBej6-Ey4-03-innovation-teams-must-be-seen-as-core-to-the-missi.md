@@ -2,9 +2,9 @@
 type: insight
 title: Innovation teams must be seen as core to the mission
 concepts:
-  - "[[concepts/innovation-teams]]"
-  - "[[concepts/organizational-alignment]]"
-  - "[[concepts/team-culture]]"
+  - "innovation-teams"
+  - "organizational-alignment"
+  - "team-culture"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

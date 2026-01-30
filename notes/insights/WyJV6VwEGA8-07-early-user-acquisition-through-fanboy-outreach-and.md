@@ -2,9 +2,9 @@
 type: insight
 title: Early user acquisition through fanboy outreach and feedback
 concepts:
-  - "[[concepts/early-adopters]]"
-  - "[[concepts/community-building]]"
-  - "[[concepts/user-feedback]]"
+  - "early-adopters"
+  - "community-building"
+  - "user-feedback"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

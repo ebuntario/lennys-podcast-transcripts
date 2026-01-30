@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize outcomes over being right in disagreements
 concepts:
-  - "[[concepts/conflict-resolution]]"
-  - "[[concepts/ego-management]]"
-  - "[[concepts/curiosity]]"
+  - "conflict-resolution"
+  - "ego-management"
+  - "curiosity"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

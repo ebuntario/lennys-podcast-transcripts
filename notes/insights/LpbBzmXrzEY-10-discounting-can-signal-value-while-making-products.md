@@ -2,9 +2,9 @@
 type: insight
 title: Discounting can signal value while making products accessible
 concepts:
-  - "[[concepts/pricing-strategy]]"
-  - "[[concepts/consumer-psychology]]"
-  - "[[concepts/growth-levers]]"
+  - "pricing-strategy"
+  - "consumer-psychology"
+  - "growth-levers"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

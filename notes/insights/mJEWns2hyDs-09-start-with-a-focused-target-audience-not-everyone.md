@@ -2,8 +2,8 @@
 type: insight
 title: Start with a focused target audience, not everyone
 concepts:
-  - "[[concepts/target-audience]]"
-  - "[[concepts/early-stage-strategy]]"
+  - "target-audience"
+  - "early-stage-strategy"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

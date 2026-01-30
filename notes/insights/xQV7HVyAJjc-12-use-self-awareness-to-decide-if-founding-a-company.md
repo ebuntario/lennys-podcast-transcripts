@@ -2,9 +2,9 @@
 type: insight
 title: Use self-awareness to decide if founding a company is right for you
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/career-prototyping]]"
+  - "founder-mindset"
+  - "self-awareness"
+  - "career-prototyping"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

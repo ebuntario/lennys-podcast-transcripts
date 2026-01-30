@@ -2,9 +2,9 @@
 type: insight
 title: Build human trust between growth and core product teams
 concepts:
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/collaboration]]"
-  - "[[concepts/team-dynamics]]"
+  - "organizational-structure"
+  - "collaboration"
+  - "team-dynamics"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

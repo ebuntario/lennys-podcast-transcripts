@@ -2,9 +2,9 @@
 type: insight
 title: Probabilistic attribution becomes essential as deterministic matching declines
 concepts:
-  - "[[concepts/attribution]]"
-  - "[[concepts/data-privacy]]"
-  - "[[concepts/probabilistic-modeling]]"
+  - "attribution"
+  - "data-privacy"
+  - "probabilistic-modeling"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

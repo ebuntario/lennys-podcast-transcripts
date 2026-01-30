@@ -2,9 +2,9 @@
 type: insight
 title: Dedication manifests as reliability, not just long hours
 concepts:
-  - "[[concepts/dedication]]"
-  - "[[concepts/reliability]]"
-  - "[[concepts/teamwork]]"
+  - "dedication"
+  - "reliability"
+  - "teamwork"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

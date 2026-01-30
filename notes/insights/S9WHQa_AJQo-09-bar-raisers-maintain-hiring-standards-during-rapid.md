@@ -2,9 +2,9 @@
 type: insight
 title: Bar Raisers maintain hiring standards during rapid growth
 concepts:
-  - "[[concepts/bar-raiser-program]]"
-  - "[[concepts/hiring-process]]"
-  - "[[concepts/cultural-fit]]"
+  - "bar-raiser-program"
+  - "hiring-process"
+  - "cultural-fit"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Liquidity is the primary metric for early-stage marketplaces
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/liquidity]]"
-  - "[[concepts/product-market-fit]]"
+  - "marketplace-strategy"
+  - "liquidity"
+  - "product-market-fit"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

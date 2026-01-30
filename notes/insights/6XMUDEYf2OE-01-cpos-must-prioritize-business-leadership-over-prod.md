@@ -2,9 +2,9 @@
 type: insight
 title: CPOs must prioritize business leadership over product leadership
 concepts:
-  - "[[concepts/executive-leadership]]"
-  - "[[concepts/cross-functional-alignment]]"
-  - "[[concepts/stakeholder-management]]"
+  - "executive-leadership"
+  - "cross-functional-alignment"
+  - "stakeholder-management"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

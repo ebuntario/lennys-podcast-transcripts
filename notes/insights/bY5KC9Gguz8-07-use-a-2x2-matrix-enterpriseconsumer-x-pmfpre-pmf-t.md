@@ -2,8 +2,8 @@
 type: insight
 title: Use a 2x2 matrix (Enterprise/Consumer x PMF/Pre-PMF) to choose your community strategy
 concepts:
-  - "[[concepts/community-strategy]]"
-  - "[[concepts/product-market-fit]]"
+  - "community-strategy"
+  - "product-market-fit"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

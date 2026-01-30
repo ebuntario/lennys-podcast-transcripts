@@ -2,9 +2,9 @@
 type: insight
 title: OKRs function as vitamins, not medicine for organizational health
 concepts:
-  - "[[concepts/organizational-health]]"
-  - "[[concepts/strategy-execution]]"
-  - "[[concepts/team-empowerment]]"
+  - "organizational-health"
+  - "strategy-execution"
+  - "team-empowerment"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

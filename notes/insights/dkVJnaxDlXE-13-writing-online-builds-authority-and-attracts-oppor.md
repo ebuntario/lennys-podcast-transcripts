@@ -2,9 +2,9 @@
 type: insight
 title: Writing online builds authority and attracts opportunity
 concepts:
-  - "[[concepts/content-creation]]"
-  - "[[concepts/personal-branding]]"
-  - "[[concepts/career-development]]"
+  - "content-creation"
+  - "personal-branding"
+  - "career-development"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

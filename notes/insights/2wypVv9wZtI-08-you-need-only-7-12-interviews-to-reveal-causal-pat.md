@@ -2,9 +2,9 @@
 type: insight
 title: You need only 7-12 interviews to reveal causal patterns
 concepts:
-  - "[[concepts/customer-interviews]]"
-  - "[[concepts/qualitative-research]]"
-  - "[[concepts/sample-size]]"
+  - "customer-interviews"
+  - "qualitative-research"
+  - "sample-size"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

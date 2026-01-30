@@ -2,9 +2,9 @@
 type: insight
 title: Product ops distinguishes itself through business and customer understanding
 concepts:
-  - "[[concepts/product-operations]]"
-  - "[[concepts/business-acumen]]"
-  - "[[concepts/program-management]]"
+  - "product-operations"
+  - "business-acumen"
+  - "program-management"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

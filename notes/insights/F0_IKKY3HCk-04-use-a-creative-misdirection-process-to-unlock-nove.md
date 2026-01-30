@@ -2,8 +2,8 @@
 type: insight
 title: Use a "creative misdirection" process to unlock novel ideas
 concepts:
-  - "[[concepts/creative-process]]"
-  - "[[concepts/innovation]]"
+  - "creative-process"
+  - "innovation"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

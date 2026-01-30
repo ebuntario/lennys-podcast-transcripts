@@ -2,9 +2,9 @@
 type: insight
 title: The current bottleneck for AI agent productivity is human validation speed
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/productivity-bottlenecks]]"
-  - "[[concepts/human-in-the-loop]]"
+  - "ai-agents"
+  - "productivity-bottlenecks"
+  - "human-in-the-loop"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

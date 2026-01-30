@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/disconfirming-evidence"))
+WHERE contains(concepts, "disconfirming-evidence")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/open-mindedness]] (1 shared insights)
+- [[concepts/ego-management]] (1 shared insights)
+- [[concepts/cognitive-flexibility]] (1 shared insights)

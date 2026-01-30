@@ -2,9 +2,9 @@
 type: insight
 title: Consistency and predictability are foundational for creator success
 concepts:
-  - "[[concepts/content-strategy]]"
-  - "[[concepts/audience-growth]]"
-  - "[[concepts/creator-discipline]]"
+  - "content-strategy"
+  - "audience-growth"
+  - "creator-discipline"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

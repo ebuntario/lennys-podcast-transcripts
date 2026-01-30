@@ -2,9 +2,9 @@
 type: insight
 title: Success in regulated industries often depends on network access, not just product merit
 concepts:
-  - "[[concepts/regulated-industries]]"
-  - "[[concepts/networking]]"
-  - "[[concepts/b2b-sales]]"
+  - "regulated-industries"
+  - "networking"
+  - "b2b-sales"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

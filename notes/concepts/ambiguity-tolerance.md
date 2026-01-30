@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/ambiguity-tolerance"))
+WHERE contains(concepts, "ambiguity-tolerance")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/ideation]] (1 shared insights)
+- [[concepts/low-fidelity-prototyping]] (1 shared insights)

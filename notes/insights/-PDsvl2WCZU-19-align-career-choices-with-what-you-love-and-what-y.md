@@ -2,9 +2,9 @@
 type: insight
 title: Align career choices with what you love and what you're good at
 concepts:
-  - "[[concepts/career-alignment]]"
-  - "[[concepts/strengths-assessment]]"
-  - "[[concepts/professional-fulfillment]]"
+  - "career-alignment"
+  - "strengths-assessment"
+  - "professional-fulfillment"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Use the "bar test" to ensure your messaging uses human language
 concepts:
-  - "[[concepts/messaging]]"
-  - "[[concepts/customer-communication]]"
+  - "messaging"
+  - "customer-communication"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

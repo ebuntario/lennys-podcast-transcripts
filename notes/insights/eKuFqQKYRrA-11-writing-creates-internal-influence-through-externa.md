@@ -2,9 +2,9 @@
 type: insight
 title: Writing creates internal influence through external credibility
 concepts:
-  - "[[concepts/writing]]"
-  - "[[concepts/influence]]"
-  - "[[concepts/trust-building]]"
+  - "writing"
+  - "influence"
+  - "trust-building"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

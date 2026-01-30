@@ -2,9 +2,9 @@
 type: insight
 title: Craft beginner experiences intentionally to overcome initial self-doubt and friction
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/user-psychology]]"
-  - "[[concepts/product-education]]"
+  - "onboarding"
+  - "user-psychology"
+  - "product-education"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

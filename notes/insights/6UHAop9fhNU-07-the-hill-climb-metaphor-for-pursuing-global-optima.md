@@ -2,9 +2,9 @@
 type: insight
 title: The hill climb metaphor for pursuing global optima
 concepts:
-  - "[[concepts/innovation]]"
-  - "[[concepts/risk-taking]]"
-  - "[[concepts/long-term-thinking]]"
+  - "innovation"
+  - "risk-taking"
+  - "long-term-thinking"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

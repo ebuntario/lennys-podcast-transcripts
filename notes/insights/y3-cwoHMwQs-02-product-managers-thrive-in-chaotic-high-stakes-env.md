@@ -2,9 +2,9 @@
 type: insight
 title: Product managers thrive in chaotic, high-stakes environments
 concepts:
-  - "[[concepts/product-leadership]]"
-  - "[[concepts/wartime-product-management]]"
-  - "[[concepts/prioritization]]"
+  - "product-leadership"
+  - "wartime-product-management"
+  - "prioritization"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Product-led sales requires a fundamental shift in internal collaboration
 concepts:
-  - "[[concepts/product-led-sales]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/pipeline-accountability]]"
+  - "product-led-sales"
+  - "cross-functional-collaboration"
+  - "pipeline-accountability"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

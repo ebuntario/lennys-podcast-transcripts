@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize making the human feel maximally accelerated, not just automating tasks
 concepts:
-  - "[[concepts/product-philosophy]]"
-  - "[[concepts/user-empowerment]]"
-  - "[[concepts/ai-agents]]"
+  - "product-philosophy"
+  - "user-empowerment"
+  - "ai-agents"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

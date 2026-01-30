@@ -2,8 +2,8 @@
 type: insight
 title: Economic downturns are opportunities for career growth by taking on new responsibilities
 concepts:
-  - "[[concepts/career-acceleration]]"
-  - "[[concepts/economic-downturn-strategy]]"
+  - "career-acceleration"
+  - "economic-downturn-strategy"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

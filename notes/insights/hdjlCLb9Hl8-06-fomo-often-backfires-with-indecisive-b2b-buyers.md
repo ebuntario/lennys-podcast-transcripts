@@ -2,9 +2,9 @@
 type: insight
 title: FOMO often backfires with indecisive B2B buyers
 concepts:
-  - "[[concepts/buyer-psychology]]"
-  - "[[concepts/b2b-sales]]"
-  - "[[concepts/risk-aversion]]"
+  - "buyer-psychology"
+  - "b2b-sales"
+  - "risk-aversion"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

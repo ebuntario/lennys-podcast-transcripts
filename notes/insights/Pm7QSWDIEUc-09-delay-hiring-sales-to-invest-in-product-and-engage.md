@@ -2,8 +2,8 @@
 type: insight
 title: Delay hiring sales to invest in product, and engage sales only with qualified, product-led signals
 concepts:
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/sales-strategy]]"
+  - "product-led-growth"
+  - "sales-strategy"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Defining product strategy as integrated choices for winning
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/market-segmentation]]"
-  - "[[concepts/winning-aspiration]]"
+  - "product-strategy"
+  - "market-segmentation"
+  - "winning-aspiration"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

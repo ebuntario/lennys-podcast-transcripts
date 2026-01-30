@@ -2,9 +2,9 @@
 type: insight
 title: Founder-led, top-down decision-making is essential for radical transformation
 concepts:
-  - "[[concepts/founder-leadership]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/cultural-change]]"
+  - "founder-leadership"
+  - "decision-making"
+  - "cultural-change"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

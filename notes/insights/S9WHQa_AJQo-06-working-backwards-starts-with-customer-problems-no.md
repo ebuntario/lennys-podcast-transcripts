@@ -2,9 +2,9 @@
 type: insight
 title: Working backwards starts with customer problems, not constraints
 concepts:
-  - "[[concepts/working-backwards]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/customer-needs]]"
+  - "working-backwards"
+  - "product-development"
+  - "customer-needs"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

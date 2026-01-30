@@ -2,9 +2,9 @@
 type: insight
 title: Approach zero-to-one projects with portfolio thinking
 concepts:
-  - "[[concepts/zero-to-one]]"
-  - "[[concepts/innovation-management]]"
-  - "[[concepts/portfolio-strategy]]"
+  - "zero-to-one"
+  - "innovation-management"
+  - "portfolio-strategy"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

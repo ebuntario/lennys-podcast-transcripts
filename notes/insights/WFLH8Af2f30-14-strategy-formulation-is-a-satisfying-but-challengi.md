@@ -2,8 +2,8 @@
 type: insight
 title: Strategy formulation is a satisfying but challenging process
 concepts:
-  - "[[concepts/strategy-process]]"
-  - "[[concepts/leadership]]"
+  - "strategy-process"
+  - "leadership"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

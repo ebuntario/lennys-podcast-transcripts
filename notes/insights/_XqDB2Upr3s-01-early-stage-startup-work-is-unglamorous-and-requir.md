@@ -2,9 +2,9 @@
 type: insight
 title: Early-stage startup work is unglamorous and requires immense personal sacrifice
 concepts:
-  - "[[concepts/startup-culture]]"
-  - "[[concepts/career-sacrifice]]"
-  - "[[concepts/operational-challenges]]"
+  - "startup-culture"
+  - "career-sacrifice"
+  - "operational-challenges"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

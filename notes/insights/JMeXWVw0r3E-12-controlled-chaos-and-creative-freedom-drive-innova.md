@@ -2,9 +2,9 @@
 type: insight
 title: Controlled chaos and creative freedom drive innovation
 concepts:
-  - "[[concepts/engineering-culture]]"
-  - "[[concepts/innovation]]"
-  - "[[concepts/autonomy]]"
+  - "engineering-culture"
+  - "innovation"
+  - "autonomy"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

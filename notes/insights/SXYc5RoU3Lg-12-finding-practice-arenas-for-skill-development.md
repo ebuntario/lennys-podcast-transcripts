@@ -2,9 +2,9 @@
 type: insight
 title: Finding practice arenas for skill development
 concepts:
-  - "[[concepts/coaching]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/collaborative-problem-solving]]"
+  - "coaching"
+  - "skill-development"
+  - "collaborative-problem-solving"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

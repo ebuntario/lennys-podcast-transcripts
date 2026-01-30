@@ -2,9 +2,9 @@
 type: insight
 title: Maturing OKRs from siloed to company-wide integrated planning
 concepts:
-  - "[[concepts/okrs]]"
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/company-alignment]]"
+  - "okrs"
+  - "strategic-planning"
+  - "company-alignment"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Aim to be someone's favorite, not everyone's okay
 concepts:
-  - "[[concepts/audience-engagement]]"
-  - "[[concepts/content-strategy]]"
-  - "[[concepts/niche-positioning]]"
+  - "audience-engagement"
+  - "content-strategy"
+  - "niche-positioning"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Betting strategy differs for startups versus established companies
 concepts:
-  - "[[concepts/startup-strategy]]"
-  - "[[concepts/corporate-strategy]]"
-  - "[[concepts/resource-allocation]]"
+  - "startup-strategy"
+  - "corporate-strategy"
+  - "resource-allocation"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

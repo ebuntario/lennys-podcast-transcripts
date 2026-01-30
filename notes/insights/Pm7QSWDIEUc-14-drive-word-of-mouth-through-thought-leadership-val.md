@@ -2,8 +2,8 @@
 type: insight
 title: Drive word-of-mouth through thought leadership, valuable content, and customer communities
 concepts:
-  - "[[concepts/word-of-mouth]]"
-  - "[[concepts/community-building]]"
+  - "word-of-mouth"
+  - "community-building"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

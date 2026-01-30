@@ -2,9 +2,9 @@
 type: insight
 title: Use a stable operating system to create calm amidst chaos
 concepts:
-  - "[[concepts/operating-system]]"
-  - "[[concepts/operational-cadence]]"
-  - "[[concepts/rituals]]"
+  - "operating-system"
+  - "operational-cadence"
+  - "rituals"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

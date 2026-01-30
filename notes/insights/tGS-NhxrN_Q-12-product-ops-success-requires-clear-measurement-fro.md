@@ -2,9 +2,9 @@
 type: insight
 title: Product ops success requires clear measurement from the start
 concepts:
-  - "[[concepts/performance-metrics]]"
-  - "[[concepts/role-definition]]"
-  - "[[concepts/accountability]]"
+  - "performance-metrics"
+  - "role-definition"
+  - "accountability"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

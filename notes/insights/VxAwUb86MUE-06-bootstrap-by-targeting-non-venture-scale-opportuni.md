@@ -2,9 +2,9 @@
 type: insight
 title: Bootstrap by Targeting Non-Venture-Scale Opportunities
 concepts:
-  - "[[concepts/bootstrapping]]"
-  - "[[concepts/business-model]]"
-  - "[[concepts/niche-markets]]"
+  - "bootstrapping"
+  - "business-model"
+  - "niche-markets"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

@@ -11,10 +11,14 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/ai-disruption"))
+WHERE contains(concepts, "ai-disruption")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/strategic-pivot]] (1 shared insights)
+- [[concepts/competitive-threat]] (1 shared insights)
+- [[concepts/workplace-automation]] (1 shared insights)
+- [[concepts/ai-agents]] (1 shared insights)
+- [[concepts/operational-efficiency]] (1 shared insights)

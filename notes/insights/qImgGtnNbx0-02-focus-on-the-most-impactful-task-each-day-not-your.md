@@ -2,9 +2,9 @@
 type: insight
 title: Focus on the most impactful task each day, not your preferred tasks
 concepts:
-  - "[[concepts/leadership-mindset]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/impact-maximization]]"
+  - "leadership-mindset"
+  - "career-development"
+  - "impact-maximization"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

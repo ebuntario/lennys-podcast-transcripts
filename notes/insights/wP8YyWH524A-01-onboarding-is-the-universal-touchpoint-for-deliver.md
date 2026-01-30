@@ -2,9 +2,9 @@
 type: insight
 title: Onboarding is the universal touchpoint for delivering brand promises
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/brand-promise]]"
-  - "[[concepts/customer-experience]]"
+  - "onboarding"
+  - "brand-promise"
+  - "customer-experience"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

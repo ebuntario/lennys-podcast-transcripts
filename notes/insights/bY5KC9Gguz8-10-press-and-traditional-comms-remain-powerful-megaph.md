@@ -2,8 +2,8 @@
 type: insight
 title: Press and traditional comms remain powerful megaphones for credibility and discovery
 concepts:
-  - "[[concepts/public-relations]]"
-  - "[[concepts/brand-credibility]]"
+  - "public-relations"
+  - "brand-credibility"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

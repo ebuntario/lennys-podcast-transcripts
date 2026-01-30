@@ -2,9 +2,9 @@
 type: insight
 title: Success is a chain of small, hard decisions
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/success-mindset]]"
-  - "[[concepts/sunk-cost-fallacy]]"
+  - "decision-making"
+  - "success-mindset"
+  - "sunk-cost-fallacy"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

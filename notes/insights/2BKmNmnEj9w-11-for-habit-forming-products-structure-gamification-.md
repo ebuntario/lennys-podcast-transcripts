@@ -2,9 +2,9 @@
 type: insight
 title: For habit-forming products, structure gamification around core loop, metagame, and profile
 concepts:
-  - "[[concepts/habit-formation]]"
-  - "[[concepts/gamification]]"
-  - "[[concepts/user-motivation]]"
+  - "habit-formation"
+  - "gamification"
+  - "user-motivation"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

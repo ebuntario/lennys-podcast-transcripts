@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize making a decision over making the perfect decision
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/experimentation]]"
-  - "[[concepts/speed]]"
+  - "decision-making"
+  - "experimentation"
+  - "speed"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

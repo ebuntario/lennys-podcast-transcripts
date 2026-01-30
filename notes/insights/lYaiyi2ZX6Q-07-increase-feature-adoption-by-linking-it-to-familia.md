@@ -2,9 +2,9 @@
 type: insight
 title: Increase feature adoption by linking it to familiar mental models
 concepts:
-  - "[[concepts/user-onboarding]]"
-  - "[[concepts/product-adoption]]"
-  - "[[concepts/consumer-psychology]]"
+  - "user-onboarding"
+  - "product-adoption"
+  - "consumer-psychology"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

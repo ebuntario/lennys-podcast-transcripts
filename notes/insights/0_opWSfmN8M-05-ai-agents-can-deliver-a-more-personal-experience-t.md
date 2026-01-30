@@ -2,9 +2,9 @@
 type: insight
 title: AI agents can deliver a more "personal" experience than inefficient human processes
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/customer-experience]]"
-  - "[[concepts/automation]]"
+  - "ai-agents"
+  - "customer-experience"
+  - "automation"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

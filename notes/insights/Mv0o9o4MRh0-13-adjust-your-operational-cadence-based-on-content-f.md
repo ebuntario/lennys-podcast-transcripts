@@ -2,9 +2,9 @@
 type: insight
 title: Adjust your operational cadence based on content freshness
 concepts:
-  - "[[concepts/operational-cadence]]"
-  - "[[concepts/metrics]]"
-  - "[[concepts/company-velocity]]"
+  - "operational-cadence"
+  - "metrics"
+  - "company-velocity"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Growth Has Two Phases: Kindle Strategies and Fire Strategies
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/scalable-acquisition]]"
-  - "[[concepts/early-stage-growth]]"
+  - "growth-strategy"
+  - "scalable-acquisition"
+  - "early-stage-growth"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

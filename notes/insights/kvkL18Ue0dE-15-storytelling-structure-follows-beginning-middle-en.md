@@ -2,9 +2,9 @@
 type: insight
 title: Storytelling structure follows beginning-middle-end with hooks and resolution
 concepts:
-  - "[[concepts/communication-skills]]"
-  - "[[concepts/presentation-techniques]]"
-  - "[[concepts/information-retention]]"
+  - "communication-skills"
+  - "presentation-techniques"
+  - "information-retention"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

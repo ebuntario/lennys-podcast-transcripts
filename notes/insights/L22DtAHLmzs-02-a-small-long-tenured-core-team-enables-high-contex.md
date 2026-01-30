@@ -2,9 +2,9 @@
 type: insight
 title: A small, long-tenured core team enables high-context decision-making during hypergrowth
 concepts:
-  - "[[concepts/team-dynamics]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/hypergrowth]]"
+  - "team-dynamics"
+  - "decision-making"
+  - "hypergrowth"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

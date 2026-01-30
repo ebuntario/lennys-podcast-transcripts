@@ -2,9 +2,9 @@
 type: insight
 title: Use a structured 30-60-90 day plan for new role success
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/listening-tours]]"
-  - "[[concepts/trust-building]]"
+  - "onboarding"
+  - "listening-tours"
+  - "trust-building"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

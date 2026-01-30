@@ -2,9 +2,9 @@
 type: insight
 title: Build relationships by providing value long before you need to hire someone
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/networking]]"
-  - "[[concepts/relationship-building]]"
+  - "hiring"
+  - "networking"
+  - "relationship-building"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

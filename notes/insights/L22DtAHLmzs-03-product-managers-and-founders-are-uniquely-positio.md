@@ -2,9 +2,9 @@
 type: insight
 title: Product managers and founders are uniquely positioned to thrive with AI development tools
 concepts:
-  - "[[concepts/ai-product-development]]"
-  - "[[concepts/product-management]]"
-  - "[[concepts/skill-evolution]]"
+  - "ai-product-development"
+  - "product-management"
+  - "skill-evolution"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

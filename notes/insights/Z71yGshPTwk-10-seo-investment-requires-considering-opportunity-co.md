@@ -2,9 +2,9 @@
 type: insight
 title: SEO investment requires considering opportunity costs
 concepts:
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/opportunity-cost]]"
-  - "[[concepts/channel-selection]]"
+  - "seo-strategy"
+  - "opportunity-cost"
+  - "channel-selection"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

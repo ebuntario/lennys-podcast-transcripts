@@ -2,9 +2,9 @@
 type: insight
 title: Embrace radical ownership to uncover hidden growth opportunities
 concepts:
-  - "[[concepts/growth-mindset]]"
-  - "[[concepts/ownership-mentality]]"
-  - "[[concepts/opportunity-identification]]"
+  - "growth-mindset"
+  - "ownership-mentality"
+  - "opportunity-identification"
 source_guest: Christopher Miller
 source_episode: Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller
 source: "[[guests/christopher-miller|Christopher Miller]]"

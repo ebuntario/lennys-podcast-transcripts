@@ -2,9 +2,9 @@
 type: insight
 title: Marketing technology goals should balance growth support with cost efficiency
 concepts:
-  - "[[concepts/goal-setting]]"
-  - "[[concepts/cost-optimization]]"
-  - "[[concepts/growth-metrics]]"
+  - "goal-setting"
+  - "cost-optimization"
+  - "growth-metrics"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

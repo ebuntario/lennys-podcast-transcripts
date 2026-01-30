@@ -2,9 +2,9 @@
 type: insight
 title: Hire for a learning mindset, not specific AI skills
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/learning-culture]]"
-  - "[[concepts/ai-adoption]]"
+  - "hiring"
+  - "learning-culture"
+  - "ai-adoption"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

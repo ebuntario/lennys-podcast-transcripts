@@ -2,9 +2,9 @@
 type: insight
 title: First principles thinking combines descriptive naming and deductive logic
 concepts:
-  - "[[concepts/first-principles-thinking]]"
-  - "[[concepts/scientific-method]]"
-  - "[[concepts/conceptual-vocabulary]]"
+  - "first-principles-thinking"
+  - "scientific-method"
+  - "conceptual-vocabulary"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

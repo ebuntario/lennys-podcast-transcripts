@@ -2,9 +2,9 @@
 type: insight
 title: Former product managers make strong product ops leaders due to firsthand pain point understanding
 concepts:
-  - "[[concepts/career-transition]]"
-  - "[[concepts/product-operations]]"
-  - "[[concepts/leadership]]"
+  - "career-transition"
+  - "product-operations"
+  - "leadership"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

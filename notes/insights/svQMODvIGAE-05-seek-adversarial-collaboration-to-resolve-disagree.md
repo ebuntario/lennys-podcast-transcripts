@@ -2,9 +2,9 @@
 type: insight
 title: Seek adversarial collaboration to resolve disagreements
 concepts:
-  - "[[concepts/collaboration]]"
-  - "[[concepts/open-mindedness]]"
-  - "[[concepts/truth-seeking]]"
+  - "collaboration"
+  - "open-mindedness"
+  - "truth-seeking"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

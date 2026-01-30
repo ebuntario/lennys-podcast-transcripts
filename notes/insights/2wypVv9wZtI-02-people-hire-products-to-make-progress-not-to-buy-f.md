@@ -2,9 +2,9 @@
 type: insight
 title: People hire products to make progress, not to buy features
 concepts:
-  - "[[concepts/jobs-to-be-done]]"
-  - "[[concepts/hiring-metaphor]]"
-  - "[[concepts/progress-theory]]"
+  - "jobs-to-be-done"
+  - "hiring-metaphor"
+  - "progress-theory"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

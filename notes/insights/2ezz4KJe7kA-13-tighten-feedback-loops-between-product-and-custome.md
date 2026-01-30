@@ -2,9 +2,9 @@
 type: insight
 title: Tighten feedback loops between product and customer-facing teams
 concepts:
-  - "[[concepts/customer-feedback]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/product-led-growth]]"
+  - "customer-feedback"
+  - "cross-functional-collaboration"
+  - "product-led-growth"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

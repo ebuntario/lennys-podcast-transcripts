@@ -2,9 +2,9 @@
 type: insight
 title: Decouple team goals to avoid "toddler soccer"
 concepts:
-  - "[[concepts/team-goals]]"
-  - "[[concepts/alignment]]"
-  - "[[concepts/metrics]]"
+  - "team-goals"
+  - "alignment"
+  - "metrics"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

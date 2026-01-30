@@ -2,9 +2,9 @@
 type: insight
 title: Public AI benchmarks are often gamed and misaligned with real-world performance
 concepts:
-  - "[[concepts/ai-benchmarks]]"
-  - "[[concepts/ai-evaluation]]"
-  - "[[concepts/incentive-misalignment]]"
+  - "ai-benchmarks"
+  - "ai-evaluation"
+  - "incentive-misalignment"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

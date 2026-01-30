@@ -2,9 +2,9 @@
 type: insight
 title: Conduct back-channel references on managers and companies before accepting offers
 concepts:
-  - "[[concepts/career-decision-framework]]"
-  - "[[concepts/company-evaluation]]"
-  - "[[concepts/reference-checking]]"
+  - "career-decision-framework"
+  - "company-evaluation"
+  - "reference-checking"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

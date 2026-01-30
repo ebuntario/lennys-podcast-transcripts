@@ -2,9 +2,9 @@
 type: insight
 title: Product Marketing as a Foundational Role
 concepts:
-  - "[[concepts/marketing-roles]]"
-  - "[[concepts/positioning]]"
-  - "[[concepts/cross-functional-collaboration]]"
+  - "marketing-roles"
+  - "positioning"
+  - "cross-functional-collaboration"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

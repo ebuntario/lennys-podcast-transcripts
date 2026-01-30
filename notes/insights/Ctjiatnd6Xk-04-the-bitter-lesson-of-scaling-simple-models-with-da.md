@@ -2,9 +2,9 @@
 type: insight
 title: The "bitter lesson" of scaling simple models with data
 concepts:
-  - "[[concepts/ai-scaling]]"
-  - "[[concepts/machine-learning]]"
-  - "[[concepts/algorithmic-development]]"
+  - "ai-scaling"
+  - "machine-learning"
+  - "algorithmic-development"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Founder conviction is essential when making non-consensus long-term bets
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/conviction]]"
-  - "[[concepts/decision-making]]"
+  - "founder-mindset"
+  - "conviction"
+  - "decision-making"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

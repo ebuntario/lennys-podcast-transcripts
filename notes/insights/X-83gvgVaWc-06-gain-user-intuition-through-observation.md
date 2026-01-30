@@ -2,9 +2,9 @@
 type: insight
 title: Gain user intuition through observation
 concepts:
-  - "[[concepts/user-observation]]"
-  - "[[concepts/exposure-hours]]"
-  - "[[concepts/cognitive-friction]]"
+  - "user-observation"
+  - "exposure-hours"
+  - "cognitive-friction"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

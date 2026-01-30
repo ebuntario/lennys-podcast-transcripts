@@ -2,9 +2,9 @@
 type: insight
 title: Jumpstart one side of the marketplace using existing channels
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/marketplace-liquidity]]"
-  - "[[concepts/hacking-growth]]"
+  - "growth-strategy"
+  - "marketplace-liquidity"
+  - "hacking-growth"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

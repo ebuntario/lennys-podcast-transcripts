@@ -2,9 +2,9 @@
 type: insight
 title: PMF framework evaluates companies through people, mission, and financials
 concepts:
-  - "[[concepts/career-decision-framework]]"
-  - "[[concepts/company-evaluation]]"
-  - "[[concepts/team-culture]]"
+  - "career-decision-framework"
+  - "company-evaluation"
+  - "team-culture"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

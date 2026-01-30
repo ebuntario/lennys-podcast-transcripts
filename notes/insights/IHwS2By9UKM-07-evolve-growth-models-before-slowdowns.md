@@ -2,9 +2,9 @@
 type: insight
 title: Evolve growth models before slowdowns
 concepts:
-  - "[[concepts/growth-model-evolution]]"
-  - "[[concepts/growth-loops]]"
-  - "[[concepts/product-led-growth]]"
+  - "growth-model-evolution"
+  - "growth-loops"
+  - "product-led-growth"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

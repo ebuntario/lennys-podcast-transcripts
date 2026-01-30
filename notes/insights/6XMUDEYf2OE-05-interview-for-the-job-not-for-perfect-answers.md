@@ -2,9 +2,9 @@
 type: insight
 title: Interview for the job, not for perfect answers
 concepts:
-  - "[[concepts/product-manager-interviewing]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/creativity]]"
+  - "product-manager-interviewing"
+  - "decision-making"
+  - "creativity"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

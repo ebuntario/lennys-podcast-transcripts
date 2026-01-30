@@ -2,9 +2,9 @@
 type: insight
 title: A company is design-led, not designer-led
 concepts:
-  - "[[concepts/design-culture]]"
-  - "[[concepts/organizational-alignment]]"
-  - "[[concepts/creative-tension]]"
+  - "design-culture"
+  - "organizational-alignment"
+  - "creative-tension"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

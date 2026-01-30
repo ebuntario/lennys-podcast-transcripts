@@ -2,9 +2,9 @@
 type: insight
 title: Combine product management with product marketing
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/product-marketing]]"
-  - "[[concepts/distribution]]"
+  - "product-management"
+  - "product-marketing"
+  - "distribution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

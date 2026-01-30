@@ -2,9 +2,9 @@
 type: insight
 title: Replace formal performance reviews with continuous feedback
 concepts:
-  - "[[concepts/performance-management]]"
-  - "[[concepts/radical-candor]]"
-  - "[[concepts/operational-rhythm]]"
+  - "performance-management"
+  - "radical-candor"
+  - "operational-rhythm"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

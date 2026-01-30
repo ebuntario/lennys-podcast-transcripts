@@ -2,9 +2,9 @@
 type: insight
 title: Reflect back what people say to ensure they feel heard
 concepts:
-  - "[[concepts/communication]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/group-dynamics]]"
+  - "communication"
+  - "leadership"
+  - "group-dynamics"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

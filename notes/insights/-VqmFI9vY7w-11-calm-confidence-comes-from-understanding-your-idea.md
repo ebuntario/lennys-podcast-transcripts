@@ -2,9 +2,9 @@
 type: insight
 title: Calm confidence comes from understanding your ideal customer fit
 concepts:
-  - "[[concepts/sales-mindset]]"
-  - "[[concepts/customer-segmentation]]"
-  - "[[concepts/positioning]]"
+  - "sales-mindset"
+  - "customer-segmentation"
+  - "positioning"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

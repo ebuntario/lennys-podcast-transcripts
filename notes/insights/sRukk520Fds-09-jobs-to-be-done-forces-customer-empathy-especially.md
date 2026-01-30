@@ -2,9 +2,9 @@
 type: insight
 title: Jobs to be done forces customer empathy, especially when you aren't the user
 concepts:
-  - "[[concepts/jobs-to-be-done]]"
-  - "[[concepts/customer-empathy]]"
-  - "[[concepts/product-frameworks]]"
+  - "jobs-to-be-done"
+  - "customer-empathy"
+  - "product-frameworks"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

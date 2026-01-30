@@ -2,9 +2,9 @@
 type: insight
 title: Product-Led Growth Requires Product Plus Marketing
 concepts:
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/go-to-market]]"
+  - "product-led-growth"
+  - "cross-functional-collaboration"
+  - "go-to-market"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

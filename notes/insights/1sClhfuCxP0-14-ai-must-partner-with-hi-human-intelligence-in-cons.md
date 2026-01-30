@@ -2,9 +2,9 @@
 type: insight
 title: AI Must Partner with HI (Human Intelligence) in Consumer Products
 concepts:
-  - "[[concepts/artificial-intelligence]]"
-  - "[[concepts/product-design]]"
-  - "[[concepts/behavioral-science]]"
+  - "artificial-intelligence"
+  - "product-design"
+  - "behavioral-science"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

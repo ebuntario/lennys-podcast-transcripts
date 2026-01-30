@@ -2,9 +2,9 @@
 type: insight
 title: Use memorable metrics to galvanize organizational action
 concepts:
-  - "[[concepts/metrics]]"
-  - "[[concepts/organizational-alignment]]"
-  - "[[concepts/goal-setting]]"
+  - "metrics"
+  - "organizational-alignment"
+  - "goal-setting"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

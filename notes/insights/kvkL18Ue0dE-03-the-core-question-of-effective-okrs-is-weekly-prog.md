@@ -2,9 +2,9 @@
 type: insight
 title: The core question of effective OKRs is weekly progress toward outcomes
 concepts:
-  - "[[concepts/outcome-orientation]]"
-  - "[[concepts/weekly-planning]]"
-  - "[[concepts/execution-focus]]"
+  - "outcome-orientation"
+  - "weekly-planning"
+  - "execution-focus"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

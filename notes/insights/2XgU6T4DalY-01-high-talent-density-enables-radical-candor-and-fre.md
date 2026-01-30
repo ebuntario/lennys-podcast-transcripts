@@ -2,9 +2,9 @@
 type: insight
 title: High talent density enables radical candor and freedom
 concepts:
-  - "[[concepts/talent-density]]"
-  - "[[concepts/radical-candor]]"
-  - "[[concepts/freedom-and-responsibility]]"
+  - "talent-density"
+  - "radical-candor"
+  - "freedom-and-responsibility"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

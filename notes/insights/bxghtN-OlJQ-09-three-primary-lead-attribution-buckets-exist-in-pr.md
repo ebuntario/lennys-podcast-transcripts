@@ -2,9 +2,9 @@
 type: insight
 title: Three primary lead attribution buckets exist in product-led sales
 concepts:
-  - "[[concepts/lead-attribution]]"
-  - "[[concepts/product-qualified-lead]]"
-  - "[[concepts/marketing-qualified-lead]]"
+  - "lead-attribution"
+  - "product-qualified-lead"
+  - "marketing-qualified-lead"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

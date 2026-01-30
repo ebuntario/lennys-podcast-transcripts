@@ -2,9 +2,9 @@
 type: insight
 title: Ask candidates about their personal involvement in DEI initiatives to test value alignment
 concepts:
-  - "[[concepts/hiring-practices]]"
-  - "[[concepts/company-culture]]"
-  - "[[concepts/values-alignment]]"
+  - "hiring-practices"
+  - "company-culture"
+  - "values-alignment"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Talk to AI development agents like you would write a ticket for a human developer
 concepts:
-  - "[[concepts/ai-interaction]]"
-  - "[[concepts/prompting]]"
-  - "[[concepts/product-development]]"
+  - "ai-interaction"
+  - "prompting"
+  - "product-development"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

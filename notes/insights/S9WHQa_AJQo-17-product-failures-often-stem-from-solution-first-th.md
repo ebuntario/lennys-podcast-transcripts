@@ -2,9 +2,9 @@
 type: insight
 title: Product failures often stem from solution-first thinking
 concepts:
-  - "[[concepts/solution-first-thinking]]"
-  - "[[concepts/product-validation]]"
-  - "[[concepts/customer-problems]]"
+  - "solution-first-thinking"
+  - "product-validation"
+  - "customer-problems"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The Product Lifecycle Demands a Fight Against Creeping Complexity
 concepts:
-  - "[[concepts/product-lifecycle]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/perceived-simplicity]]"
+  - "product-lifecycle"
+  - "user-experience"
+  - "perceived-simplicity"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

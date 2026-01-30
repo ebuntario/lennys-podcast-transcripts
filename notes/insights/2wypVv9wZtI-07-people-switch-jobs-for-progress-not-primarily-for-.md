@@ -2,9 +2,9 @@
 type: insight
 title: People switch jobs for progress, not primarily for money
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/progress-theory]]"
-  - "[[concepts/motivation]]"
+  - "career-development"
+  - "progress-theory"
+  - "motivation"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

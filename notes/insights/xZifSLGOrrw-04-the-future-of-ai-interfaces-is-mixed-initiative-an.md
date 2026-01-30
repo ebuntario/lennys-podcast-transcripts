@@ -2,9 +2,9 @@
 type: insight
 title: The future of AI interfaces is mixed-initiative and contextual, not just chat
 concepts:
-  - "[[concepts/product-design]]"
-  - "[[concepts/ai-interfaces]]"
-  - "[[concepts/user-experience]]"
+  - "product-design"
+  - "ai-interfaces"
+  - "user-experience"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

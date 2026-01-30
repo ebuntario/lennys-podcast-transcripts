@@ -2,9 +2,9 @@
 type: insight
 title: Visual communication is central to a visual product's culture
 concepts:
-  - "[[concepts/company-culture]]"
-  - "[[concepts/communication]]"
-  - "[[concepts/product-development]]"
+  - "company-culture"
+  - "communication"
+  - "product-development"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

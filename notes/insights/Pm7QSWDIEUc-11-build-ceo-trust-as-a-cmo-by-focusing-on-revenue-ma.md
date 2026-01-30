@@ -2,8 +2,8 @@
 type: insight
 title: Build CEO trust as a CMO by focusing on revenue, mastering metrics, and thinking strategically
 concepts:
-  - "[[concepts/executive-trust]]"
-  - "[[concepts/cmos]]"
+  - "executive-trust"
+  - "cmos"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

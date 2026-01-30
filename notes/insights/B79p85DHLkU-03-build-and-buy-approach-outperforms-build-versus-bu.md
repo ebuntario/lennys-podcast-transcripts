@@ -2,9 +2,9 @@
 type: insight
 title: Build-and-buy approach outperforms build-versus-buy for marketing technology solutions
 concepts:
-  - "[[concepts/technology-strategy]]"
-  - "[[concepts/cost-optimization]]"
-  - "[[concepts/platform-thinking]]"
+  - "technology-strategy"
+  - "cost-optimization"
+  - "platform-thinking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

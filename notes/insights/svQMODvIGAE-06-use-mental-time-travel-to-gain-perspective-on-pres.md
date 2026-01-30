@@ -2,9 +2,9 @@
 type: insight
 title: Use mental time travel to gain perspective on present decisions
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/perspective]]"
-  - "[[concepts/emotional-regulation]]"
+  - "decision-making"
+  - "perspective"
+  - "emotional-regulation"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

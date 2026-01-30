@@ -2,9 +2,9 @@
 type: insight
 title: Ambitious goals drive performance when they feel achievable
 concepts:
-  - "[[concepts/goal-setting]]"
-  - "[[concepts/team-motivation]]"
-  - "[[concepts/performance-psychology]]"
+  - "goal-setting"
+  - "team-motivation"
+  - "performance-psychology"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

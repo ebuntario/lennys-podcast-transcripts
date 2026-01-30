@@ -2,9 +2,9 @@
 type: insight
 title: Product managers act as connective tissue for teams
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/vision-execution]]"
+  - "product-management"
+  - "team-alignment"
+  - "vision-execution"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

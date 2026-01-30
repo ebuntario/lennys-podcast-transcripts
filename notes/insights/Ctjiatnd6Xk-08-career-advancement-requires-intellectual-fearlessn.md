@@ -2,9 +2,9 @@
 type: insight
 title: Career advancement requires intellectual fearlessness
 concepts:
-  - "[[concepts/career-advancement]]"
-  - "[[concepts/risk-taking]]"
-  - "[[concepts/passion-driven-work]]"
+  - "career-advancement"
+  - "risk-taking"
+  - "passion-driven-work"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

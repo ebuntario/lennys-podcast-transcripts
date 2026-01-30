@@ -2,9 +2,9 @@
 type: insight
 title: The 10-episode threshold for podcast success
 concepts:
-  - "[[concepts/podcast-launch]]"
-  - "[[concepts/consistency]]"
-  - "[[concepts/competitive-analysis]]"
+  - "podcast-launch"
+  - "consistency"
+  - "competitive-analysis"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

@@ -2,9 +2,9 @@
 type: insight
 title: High agency and fast learning often trump deep domain experience in hires
 concepts:
-  - "[[concepts/hiring-practices]]"
-  - "[[concepts/team-culture]]"
-  - "[[concepts/learning-speed]]"
+  - "hiring-practices"
+  - "team-culture"
+  - "learning-speed"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

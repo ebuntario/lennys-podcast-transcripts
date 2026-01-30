@@ -2,9 +2,9 @@
 type: insight
 title: Founder skills separate good PMs from great leaders
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/decision-making]]"
+  - "leadership"
+  - "career-development"
+  - "decision-making"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

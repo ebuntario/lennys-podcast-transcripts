@@ -2,9 +2,9 @@
 type: insight
 title: OKR meetings should focus on strategic conversations, not task reviews
 concepts:
-  - "[[concepts/meeting-effectiveness]]"
-  - "[[concepts/strategic-conversations]]"
-  - "[[concepts/leadership-trust]]"
+  - "meeting-effectiveness"
+  - "strategic-conversations"
+  - "leadership-trust"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

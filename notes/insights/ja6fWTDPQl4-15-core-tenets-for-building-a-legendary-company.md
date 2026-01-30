@@ -2,9 +2,9 @@
 type: insight
 title: Core Tenets for Building a Legendary Company
 concepts:
-  - "[[concepts/company-culture]]"
-  - "[[concepts/hyper-growth]]"
-  - "[[concepts/ambitious-goals]]"
+  - "company-culture"
+  - "hyper-growth"
+  - "ambitious-goals"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

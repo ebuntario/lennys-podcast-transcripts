@@ -2,9 +2,9 @@
 type: insight
 title: "Sizzle" features can create viral moments that drive initial adoption
 concepts:
-  - "[[concepts/product-launch]]"
-  - "[[concepts/user-acquisition]]"
-  - "[[concepts/product-marketing]]"
+  - "product-launch"
+  - "user-acquisition"
+  - "product-marketing"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

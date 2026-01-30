@@ -2,9 +2,9 @@
 type: insight
 title: Strategy salons use 'yes, and' to generate novel insights
 concepts:
-  - "[[concepts/strategy-salon]]"
-  - "[[concepts/psychological-safety]]"
-  - "[[concepts/idea-generation]]"
+  - "strategy-salon"
+  - "psychological-safety"
+  - "idea-generation"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

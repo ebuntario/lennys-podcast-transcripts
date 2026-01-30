@@ -2,9 +2,9 @@
 type: insight
 title: The applied AI market (agents) will resemble the SaaS landscape
 concepts:
-  - "[[concepts/ai-market-landscape]]"
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/software-as-a-service]]"
+  - "ai-market-landscape"
+  - "ai-agents"
+  - "software-as-a-service"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

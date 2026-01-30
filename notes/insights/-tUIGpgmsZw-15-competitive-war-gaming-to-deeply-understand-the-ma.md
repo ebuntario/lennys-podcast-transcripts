@@ -2,9 +2,9 @@
 type: insight
 title: Competitive "war gaming" to deeply understand the market
 concepts:
-  - "[[concepts/competitive-analysis]]"
-  - "[[concepts/team-culture]]"
-  - "[[concepts/strategic-planning]]"
+  - "competitive-analysis"
+  - "team-culture"
+  - "strategic-planning"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

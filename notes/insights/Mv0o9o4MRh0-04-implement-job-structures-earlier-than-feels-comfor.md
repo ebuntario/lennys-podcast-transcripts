@@ -2,9 +2,9 @@
 type: insight
 title: Implement job structures earlier than feels comfortable
 concepts:
-  - "[[concepts/career-ladders]]"
-  - "[[concepts/compensation]]"
-  - "[[concepts/scaling]]"
+  - "career-ladders"
+  - "compensation"
+  - "scaling"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Product Teams Are a Spectrum of Innovators and Executors
 concepts:
-  - "[[concepts/product-management-skills]]"
-  - "[[concepts/innovation]]"
-  - "[[concepts/execution]]"
+  - "product-management-skills"
+  - "innovation"
+  - "execution"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Evaluate AI applications based on return on investment
 concepts:
-  - "[[concepts/evaluation]]"
-  - "[[concepts/prioritization]]"
-  - "[[concepts/risk-management]]"
+  - "evaluation"
+  - "prioritization"
+  - "risk-management"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

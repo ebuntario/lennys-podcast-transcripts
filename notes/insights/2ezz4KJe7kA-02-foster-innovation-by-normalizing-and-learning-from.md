@@ -2,9 +2,9 @@
 type: insight
 title: Foster innovation by normalizing and learning from failure
 concepts:
-  - "[[concepts/innovation-culture]]"
-  - "[[concepts/psychological-safety]]"
-  - "[[concepts/experimentation]]"
+  - "innovation-culture"
+  - "psychological-safety"
+  - "experimentation"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

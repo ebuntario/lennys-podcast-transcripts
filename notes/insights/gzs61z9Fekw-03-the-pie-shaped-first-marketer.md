@@ -2,9 +2,9 @@
 type: insight
 title: The "Pie-Shaped" First Marketer
 concepts:
-  - "[[concepts/hiring-strategy]]"
-  - "[[concepts/marketing-roles]]"
-  - "[[concepts/generalist-vs-specialist]]"
+  - "hiring-strategy"
+  - "marketing-roles"
+  - "generalist-vs-specialist"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

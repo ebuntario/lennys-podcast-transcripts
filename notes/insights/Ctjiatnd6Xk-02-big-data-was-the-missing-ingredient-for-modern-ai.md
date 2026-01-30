@@ -2,9 +2,9 @@
 type: insight
 title: Big data was the missing ingredient for modern AI
 concepts:
-  - "[[concepts/ai-training]]"
-  - "[[concepts/data-strategy]]"
-  - "[[concepts/machine-learning]]"
+  - "ai-training"
+  - "data-strategy"
+  - "machine-learning"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

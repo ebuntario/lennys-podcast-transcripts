@@ -2,9 +2,9 @@
 type: insight
 title: It's always too early to fix governance until it's too late
 concepts:
-  - "[[concepts/corporate-governance]]"
-  - "[[concepts/founder-psychology]]"
-  - "[[concepts/decision-making]]"
+  - "corporate-governance"
+  - "founder-psychology"
+  - "decision-making"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

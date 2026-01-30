@@ -2,8 +2,8 @@
 type: insight
 title: AI can assist in preparation and generate mock strategies
 concepts:
-  - "[[concepts/ai-tools]]"
-  - "[[concepts/competitive-analysis]]"
+  - "ai-tools"
+  - "competitive-analysis"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

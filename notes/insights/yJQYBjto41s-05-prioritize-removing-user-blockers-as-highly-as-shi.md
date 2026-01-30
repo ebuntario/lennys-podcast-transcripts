@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize removing user blockers as highly as shipping innovative features
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/user-retention]]"
-  - "[[concepts/prioritization]]"
+  - "product-development"
+  - "user-retention"
+  - "prioritization"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

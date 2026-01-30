@@ -2,9 +2,9 @@
 type: insight
 title: Compete Against the Status Quo, Not Other Brands
 concepts:
-  - "[[concepts/competitive-strategy]]"
-  - "[[concepts/category-design]]"
-  - "[[concepts/marketing-strategy]]"
+  - "competitive-strategy"
+  - "category-design"
+  - "marketing-strategy"
 source_guest: Christopher Lochhead
 source_episode: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)
 source: "[[guests/christopher-lochhead|Christopher Lochhead]]"

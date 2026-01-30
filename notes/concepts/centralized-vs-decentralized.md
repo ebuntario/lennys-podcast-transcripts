@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/centralized-vs-decentralized"))
+WHERE contains(concepts, "centralized-vs-decentralized")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/organizational-structure]] (1 shared insights)
+- [[concepts/b2b-vs-b2c]] (1 shared insights)

@@ -2,9 +2,9 @@
 type: insight
 title: Structured reflection time fosters grounded leadership
 concepts:
-  - "[[concepts/self-reflection]]"
-  - "[[concepts/personal-energy]]"
-  - "[[concepts/leadership-development]]"
+  - "self-reflection"
+  - "personal-energy"
+  - "leadership-development"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

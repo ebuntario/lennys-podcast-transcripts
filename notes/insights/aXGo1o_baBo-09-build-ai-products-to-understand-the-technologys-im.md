@@ -2,9 +2,9 @@
 type: insight
 title: Build AI products to understand the technology's impact on your function
 concepts:
-  - "[[concepts/ai-product-management]]"
-  - "[[concepts/hands-on-learning]]"
-  - "[[concepts/innovation]]"
+  - "ai-product-management"
+  - "hands-on-learning"
+  - "innovation"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

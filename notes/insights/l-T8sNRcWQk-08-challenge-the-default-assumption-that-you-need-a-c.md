@@ -2,8 +2,8 @@
 type: insight
 title: Challenge the default assumption that you need a coach
 concepts:
-  - "[[concepts/coaching]]"
-  - "[[concepts/learning]]"
+  - "coaching"
+  - "learning"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

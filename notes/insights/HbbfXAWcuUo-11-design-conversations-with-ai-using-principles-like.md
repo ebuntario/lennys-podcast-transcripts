@@ -2,9 +2,9 @@
 type: insight
 title: Design conversations with AI using principles like progress indicators and follow-ups
 concepts:
-  - "[[concepts/ai-interaction-design]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/natural-language-interface]]"
+  - "ai-interaction-design"
+  - "user-experience"
+  - "natural-language-interface"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

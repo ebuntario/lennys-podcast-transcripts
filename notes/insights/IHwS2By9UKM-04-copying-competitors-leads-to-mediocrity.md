@@ -2,9 +2,9 @@
 type: insight
 title: Copying competitors leads to mediocrity
 concepts:
-  - "[[concepts/competitor-analysis]]"
-  - "[[concepts/ideation]]"
-  - "[[concepts/innovation]]"
+  - "competitor-analysis"
+  - "ideation"
+  - "innovation"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

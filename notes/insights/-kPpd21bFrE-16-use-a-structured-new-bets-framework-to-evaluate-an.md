@@ -2,9 +2,9 @@
 type: insight
 title: Use a structured new bets framework to evaluate and scale innovative ideas
 concepts:
-  - "[[concepts/innovation-framework]]"
-  - "[[concepts/idea-validation]]"
-  - "[[concepts/scaling-process]]"
+  - "innovation-framework"
+  - "idea-validation"
+  - "scaling-process"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

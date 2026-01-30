@@ -2,9 +2,9 @@
 type: insight
 title: Product ops professionals should embrace role evolution and automation
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/automation]]"
-  - "[[concepts/adaptability]]"
+  - "career-development"
+  - "automation"
+  - "adaptability"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

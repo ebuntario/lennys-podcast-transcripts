@@ -2,9 +2,9 @@
 type: insight
 title: AI dramatically accelerates skill acquisition for entry-level roles
 concepts:
-  - "[[concepts/skill-acceleration]]"
-  - "[[concepts/ai-mentorship]]"
-  - "[[concepts/career-development]]"
+  - "skill-acceleration"
+  - "ai-mentorship"
+  - "career-development"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

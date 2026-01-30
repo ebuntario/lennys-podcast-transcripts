@@ -2,9 +2,9 @@
 type: insight
 title: Distinguish between "trapdoor" and reversible decisions to move faster
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/process-design]]"
-  - "[[concepts/velocity]]"
+  - "decision-making"
+  - "process-design"
+  - "velocity"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

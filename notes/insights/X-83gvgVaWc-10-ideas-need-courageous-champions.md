@@ -2,9 +2,9 @@
 type: insight
 title: Ideas need courageous champions
 concepts:
-  - "[[concepts/idea-championing]]"
-  - "[[concepts/conviction]]"
-  - "[[concepts/radical-ideas]]"
+  - "idea-championing"
+  - "conviction"
+  - "radical-ideas"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

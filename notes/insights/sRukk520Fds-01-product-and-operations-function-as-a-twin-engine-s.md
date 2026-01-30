@@ -2,9 +2,9 @@
 type: insight
 title: Product and operations function as a twin-engine system
 concepts:
-  - "[[concepts/product-operations-synergy]]"
-  - "[[concepts/operational-leverage]]"
-  - "[[concepts/company-scaling]]"
+  - "product-operations-synergy"
+  - "operational-leverage"
+  - "company-scaling"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

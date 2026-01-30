@@ -2,9 +2,9 @@
 type: insight
 title: The adjacent possible guides strategy through small, safe steps
 concepts:
-  - "[[concepts/adjacent-possible]]"
-  - "[[concepts/risk-management]]"
-  - "[[concepts/north-star]]"
+  - "adjacent-possible"
+  - "risk-management"
+  - "north-star"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

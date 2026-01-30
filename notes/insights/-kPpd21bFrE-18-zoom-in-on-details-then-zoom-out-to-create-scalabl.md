@@ -2,9 +2,9 @@
 type: insight
 title: Zoom in on details then zoom out to create scalable processes
 concepts:
-  - "[[concepts/zoom-in-zoom-out]]"
-  - "[[concepts/process-creation]]"
-  - "[[concepts/scalable-systems]]"
+  - "zoom-in-zoom-out"
+  - "process-creation"
+  - "scalable-systems"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

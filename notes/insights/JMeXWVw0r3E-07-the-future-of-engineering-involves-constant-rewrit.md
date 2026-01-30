@@ -2,9 +2,9 @@
 type: insight
 title: The future of engineering involves constant rewriting, not refactoring
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/software-development]]"
-  - "[[concepts/rapid-prototyping]]"
+  - "ai-productivity"
+  - "software-development"
+  - "rapid-prototyping"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

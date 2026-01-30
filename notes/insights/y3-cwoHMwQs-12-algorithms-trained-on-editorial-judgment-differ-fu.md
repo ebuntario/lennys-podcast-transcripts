@@ -2,9 +2,9 @@
 type: insight
 title: Algorithms trained on editorial judgment differ fundamentally from engagement optimization
 concepts:
-  - "[[concepts/algorithm-design]]"
-  - "[[concepts/content-quality]]"
-  - "[[concepts/editorial-product-integration]]"
+  - "algorithm-design"
+  - "content-quality"
+  - "editorial-product-integration"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

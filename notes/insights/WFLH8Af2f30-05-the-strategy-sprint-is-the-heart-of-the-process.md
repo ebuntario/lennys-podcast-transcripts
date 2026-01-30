@@ -2,8 +2,8 @@
 type: insight
 title: The strategy sprint is the heart of the process
 concepts:
-  - "[[concepts/strategy-process]]"
-  - "[[concepts/decision-making]]"
+  - "strategy-process"
+  - "decision-making"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

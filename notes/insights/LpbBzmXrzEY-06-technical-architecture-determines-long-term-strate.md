@@ -2,9 +2,9 @@
 type: insight
 title: Technical architecture determines long-term strategy
 concepts:
-  - "[[concepts/technical-strategy]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/long-term-planning]]"
+  - "technical-strategy"
+  - "product-development"
+  - "long-term-planning"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

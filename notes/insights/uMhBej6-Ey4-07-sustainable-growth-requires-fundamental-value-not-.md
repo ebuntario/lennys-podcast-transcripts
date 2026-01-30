@@ -2,9 +2,9 @@
 type: insight
 title: Sustainable growth requires fundamental value, not just hacks
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/product-value]]"
-  - "[[concepts/user-retention]]"
+  - "growth-strategy"
+  - "product-value"
+  - "user-retention"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

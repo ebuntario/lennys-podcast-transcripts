@@ -2,9 +2,9 @@
 type: insight
 title: Founder confidence erosion follows a predictable failure pattern
 concepts:
-  - "[[concepts/founder-psychology]]"
-  - "[[concepts/ceo-mindset]]"
-  - "[[concepts/organizational-dynamics]]"
+  - "founder-psychology"
+  - "ceo-mindset"
+  - "organizational-dynamics"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Follow Passion to Discover Profitable Niches
 concepts:
-  - "[[concepts/business-idea-generation]]"
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/niche-markets]]"
+  - "business-idea-generation"
+  - "competitive-advantage"
+  - "niche-markets"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

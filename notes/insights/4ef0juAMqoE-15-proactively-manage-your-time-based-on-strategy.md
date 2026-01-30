@@ -2,9 +2,9 @@
 type: insight
 title: Proactively manage your time based on strategy
 concepts:
-  - "[[concepts/time-management]]"
-  - "[[concepts/strategy]]"
-  - "[[concepts/leadership]]"
+  - "time-management"
+  - "strategy"
+  - "leadership"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

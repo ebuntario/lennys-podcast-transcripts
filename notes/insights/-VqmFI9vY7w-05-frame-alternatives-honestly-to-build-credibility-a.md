@@ -2,9 +2,9 @@
 type: insight
 title: Frame alternatives honestly to build credibility and guide decisions
 concepts:
-  - "[[concepts/competitive-positioning]]"
-  - "[[concepts/sales-honesty]]"
-  - "[[concepts/buyer-trust]]"
+  - "competitive-positioning"
+  - "sales-honesty"
+  - "buyer-trust"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The value of peer communities for product leadership
 concepts:
-  - "[[concepts/leadership-development]]"
-  - "[[concepts/peer-support]]"
-  - "[[concepts/career-development]]"
+  - "leadership-development"
+  - "peer-support"
+  - "career-development"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

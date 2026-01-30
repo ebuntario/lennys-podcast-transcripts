@@ -2,9 +2,9 @@
 type: insight
 title: Prototyping with AI is essential for modern product development
 concepts:
-  - "[[concepts/ai-prototyping]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/rapid-iteration]]"
+  - "ai-prototyping"
+  - "product-development"
+  - "rapid-iteration"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

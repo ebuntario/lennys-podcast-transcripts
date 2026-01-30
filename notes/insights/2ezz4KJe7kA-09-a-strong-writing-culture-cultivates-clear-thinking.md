@@ -2,9 +2,9 @@
 type: insight
 title: A strong writing culture cultivates clear thinking
 concepts:
-  - "[[concepts/communication]]"
-  - "[[concepts/organizational-culture]]"
-  - "[[concepts/critical-thinking]]"
+  - "communication"
+  - "organizational-culture"
+  - "critical-thinking"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

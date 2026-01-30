@@ -2,9 +2,9 @@
 type: insight
 title: Post-training is where frontier AI labs now compete
 concepts:
-  - "[[concepts/model-training]]"
-  - "[[concepts/ai-advancement]]"
-  - "[[concepts/reinforcement-learning]]"
+  - "model-training"
+  - "ai-advancement"
+  - "reinforcement-learning"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

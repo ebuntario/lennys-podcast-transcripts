@@ -2,9 +2,9 @@
 type: insight
 title: Creating internal forums to share AI prompts and use cases drives adoption
 concepts:
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/internal-communication]]"
-  - "[[concepts/knowledge-sharing]]"
+  - "ai-adoption"
+  - "internal-communication"
+  - "knowledge-sharing"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

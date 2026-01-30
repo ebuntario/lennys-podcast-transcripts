@@ -2,9 +2,9 @@
 type: insight
 title: Sometimes you must rebuild a product that isn't operationally flexible
 concepts:
-  - "[[concepts/product-rebuilding]]"
-  - "[[concepts/operational-flexibility]]"
-  - "[[concepts/technical-debt]]"
+  - "product-rebuilding"
+  - "operational-flexibility"
+  - "technical-debt"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

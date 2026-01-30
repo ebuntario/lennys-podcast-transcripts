@@ -9,10 +9,14 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/transparency"))
+WHERE contains(concepts, "transparency")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/hiring]] (1 shared insights)
+- [[concepts/company-culture]] (1 shared insights)
+- [[concepts/continuous-learning]] (1 shared insights)
+- [[concepts/execution-focus]] (1 shared insights)
+- [[concepts/ai-management]] (1 shared insights)

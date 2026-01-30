@@ -2,9 +2,9 @@
 type: insight
 title: Monitor social media vibes, especially Reddit, for authentic user feedback on AI products
 concepts:
-  - "[[concepts/user-research]]"
-  - "[[concepts/product-iteration]]"
-  - "[[concepts/community-feedback]]"
+  - "user-research"
+  - "product-iteration"
+  - "community-feedback"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

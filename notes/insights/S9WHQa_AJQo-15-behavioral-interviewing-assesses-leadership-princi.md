@@ -2,9 +2,9 @@
 type: insight
 title: Behavioral interviewing assesses leadership principles alignment
 concepts:
-  - "[[concepts/behavioral-interviewing]]"
-  - "[[concepts/hiring-standards]]"
-  - "[[concepts/cultural-alignment]]"
+  - "behavioral-interviewing"
+  - "hiring-standards"
+  - "cultural-alignment"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

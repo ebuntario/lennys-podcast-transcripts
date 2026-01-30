@@ -2,9 +2,9 @@
 type: insight
 title: Object recognition is a foundational north star problem for AI
 concepts:
-  - "[[concepts/computer-vision]]"
-  - "[[concepts/ai-problems]]"
-  - "[[concepts/spatial-intelligence]]"
+  - "computer-vision"
+  - "ai-problems"
+  - "spatial-intelligence"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

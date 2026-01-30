@@ -2,9 +2,9 @@
 type: insight
 title: Invisible productivity involves making others better
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/team-dynamics]]"
-  - "[[concepts/management]]"
+  - "leadership"
+  - "team-dynamics"
+  - "management"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

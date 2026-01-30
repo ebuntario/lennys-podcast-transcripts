@@ -2,9 +2,9 @@
 type: insight
 title: High-quality AI data requires deep, subjective understanding, not just box-checking
 concepts:
-  - "[[concepts/ai-training-data]]"
-  - "[[concepts/quality-measurement]]"
-  - "[[concepts/human-evaluation]]"
+  - "ai-training-data"
+  - "quality-measurement"
+  - "human-evaluation"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Founders should spend at least 20-30% of their time talking to customers directly
 concepts:
-  - "[[concepts/customer-development]]"
-  - "[[concepts/founder-role]]"
+  - "customer-development"
+  - "founder-role"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

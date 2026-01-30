@@ -2,8 +2,8 @@
 type: insight
 title: Warm introductions to reporters are less critical than a well-crafted pitch
 concepts:
-  - "[[concepts/media-relationships]]"
-  - "[[concepts/pitching]]"
+  - "media-relationships"
+  - "pitching"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

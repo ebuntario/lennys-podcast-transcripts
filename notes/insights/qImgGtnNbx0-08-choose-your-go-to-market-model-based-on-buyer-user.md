@@ -2,9 +2,9 @@
 type: insight
 title: Choose your go-to-market model based on buyer-user alignment
 concepts:
-  - "[[concepts/go-to-market-strategy]]"
-  - "[[concepts/sales-models]]"
-  - "[[concepts/product-led-growth]]"
+  - "go-to-market-strategy"
+  - "sales-models"
+  - "product-led-growth"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

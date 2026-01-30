@@ -2,8 +2,8 @@
 type: insight
 title: Get your story straight before seeking PR
 concepts:
-  - "[[concepts/public-relations]]"
-  - "[[concepts/positioning]]"
+  - "public-relations"
+  - "positioning"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

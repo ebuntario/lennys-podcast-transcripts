@@ -2,9 +2,9 @@
 type: insight
 title: Preserve connection through intentional rituals like office hours
 concepts:
-  - "[[concepts/leadership-communication]]"
-  - "[[concepts/managerial-frameworks]]"
-  - "[[concepts/team-culture]]"
+  - "leadership-communication"
+  - "managerial-frameworks"
+  - "team-culture"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The goal of product ops is to build systems, then automate or delegate them
 concepts:
-  - "[[concepts/process-design]]"
-  - "[[concepts/automation]]"
-  - "[[concepts/strategic-thinking]]"
+  - "process-design"
+  - "automation"
+  - "strategic-thinking"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

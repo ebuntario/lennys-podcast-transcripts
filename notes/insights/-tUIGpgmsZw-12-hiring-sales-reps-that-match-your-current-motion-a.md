@@ -2,9 +2,9 @@
 type: insight
 title: Hiring sales reps that match your current motion and target buyer
 concepts:
-  - "[[concepts/sales-hiring]]"
-  - "[[concepts/business-model-transition]]"
-  - "[[concepts/target-buyer]]"
+  - "sales-hiring"
+  - "business-model-transition"
+  - "target-buyer"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Work on the most important company project or own a critical but unseen area
 concepts:
-  - "[[concepts/project-selection]]"
-  - "[[concepts/visibility]]"
-  - "[[concepts/impact]]"
+  - "project-selection"
+  - "visibility"
+  - "impact"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

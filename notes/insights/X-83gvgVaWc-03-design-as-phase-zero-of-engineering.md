@@ -2,9 +2,9 @@
 type: insight
 title: Design as phase zero of engineering
 concepts:
-  - "[[concepts/design-engineering-integration]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/creative-technologists]]"
+  - "design-engineering-integration"
+  - "cross-functional-collaboration"
+  - "creative-technologists"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

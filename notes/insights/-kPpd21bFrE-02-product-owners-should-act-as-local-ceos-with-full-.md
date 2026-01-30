@@ -2,9 +2,9 @@
 type: insight
 title: Product owners should act as local CEOs with full ownership and accountability
 concepts:
-  - "[[concepts/product-ownership]]"
-  - "[[concepts/team-structure]]"
-  - "[[concepts/autonomy]]"
+  - "product-ownership"
+  - "team-structure"
+  - "autonomy"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

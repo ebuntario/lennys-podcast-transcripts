@@ -2,9 +2,9 @@
 type: insight
 title: Winning in AI requires a wartime mentality and extreme effort
 concepts:
-  - "[[concepts/competitive-intensity]]"
-  - "[[concepts/operational-tempo]]"
-  - "[[concepts/ai-adoption]]"
+  - "competitive-intensity"
+  - "operational-tempo"
+  - "ai-adoption"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

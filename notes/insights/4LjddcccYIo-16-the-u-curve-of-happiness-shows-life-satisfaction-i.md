@@ -2,9 +2,9 @@
 type: insight
 title: The U-curve of happiness shows life satisfaction improves after 50
 concepts:
-  - "[[concepts/personal-development]]"
-  - "[[concepts/mindset]]"
-  - "[[concepts/life-transitions]]"
+  - "personal-development"
+  - "mindset"
+  - "life-transitions"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

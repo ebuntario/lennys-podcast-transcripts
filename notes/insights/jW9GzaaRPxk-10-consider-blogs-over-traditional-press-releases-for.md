@@ -2,8 +2,8 @@
 type: insight
 title: Consider blogs over traditional press releases for announcements
 concepts:
-  - "[[concepts/content-creation]]"
-  - "[[concepts/announcements]]"
+  - "content-creation"
+  - "announcements"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

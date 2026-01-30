@@ -2,9 +2,9 @@
 type: insight
 title: Facilitate a rapid learning cadence and socialize learnings widely
 concepts:
-  - "[[concepts/experimentation-culture]]"
-  - "[[concepts/knowledge-sharing]]"
-  - "[[concepts/data-driven-decisions]]"
+  - "experimentation-culture"
+  - "knowledge-sharing"
+  - "data-driven-decisions"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

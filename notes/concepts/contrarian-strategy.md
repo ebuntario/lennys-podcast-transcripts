@@ -11,7 +11,7 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/contrarian-strategy"))
+WHERE contains(concepts, "contrarian-strategy")
 SORT file.name ASC
 ```
 

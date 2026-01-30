@@ -2,9 +2,9 @@
 type: insight
 title: Innovation requires structural protection from organizational inertia
 concepts:
-  - "[[concepts/innovation-structures]]"
-  - "[[concepts/organizational-inertia]]"
-  - "[[concepts/experimental-teams]]"
+  - "innovation-structures"
+  - "organizational-inertia"
+  - "experimental-teams"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

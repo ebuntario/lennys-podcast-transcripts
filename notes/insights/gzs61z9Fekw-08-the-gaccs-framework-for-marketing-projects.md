@@ -2,9 +2,9 @@
 type: insight
 title: The GACCS Framework for Marketing Projects
 concepts:
-  - "[[concepts/process-design]]"
-  - "[[concepts/marketing-framework]]"
-  - "[[concepts/cross-functional-collaboration]]"
+  - "process-design"
+  - "marketing-framework"
+  - "cross-functional-collaboration"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

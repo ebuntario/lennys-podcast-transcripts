@@ -2,8 +2,8 @@
 type: insight
 title: Choose a PR agency that matches your startup's scrappy, experimental needs
 concepts:
-  - "[[concepts/pr-agency-selection]]"
-  - "[[concepts/startup-growth]]"
+  - "pr-agency-selection"
+  - "startup-growth"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

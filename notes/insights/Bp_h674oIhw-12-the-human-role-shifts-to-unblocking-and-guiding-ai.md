@@ -2,9 +2,9 @@
 type: insight
 title: The human role shifts to unblocking and guiding AI
 concepts:
-  - "[[concepts/ai-literacy]]"
-  - "[[concepts/debugging]]"
-  - "[[concepts/human-ai-collaboration]]"
+  - "ai-literacy"
+  - "debugging"
+  - "human-ai-collaboration"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

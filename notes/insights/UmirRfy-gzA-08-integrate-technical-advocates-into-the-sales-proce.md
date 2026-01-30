@@ -2,8 +2,8 @@
 type: insight
 title: Integrate technical advocates into the sales process for credibility
 concepts:
-  - "[[concepts/designer-advocates]]"
-  - "[[concepts/technical-sales]]"
+  - "designer-advocates"
+  - "technical-sales"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/probabilistic-modeling"))
+WHERE contains(concepts, "probabilistic-modeling")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/attribution]] (1 shared insights)
+- [[concepts/data-privacy]] (1 shared insights)

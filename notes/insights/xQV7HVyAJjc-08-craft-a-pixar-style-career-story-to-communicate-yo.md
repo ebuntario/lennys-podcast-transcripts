@@ -2,9 +2,9 @@
 type: insight
 title: Craft a Pixar-style career story to communicate your value
 concepts:
-  - "[[concepts/career-narrative]]"
-  - "[[concepts/job-interview]]"
-  - "[[concepts/personal-branding]]"
+  - "career-narrative"
+  - "job-interview"
+  - "personal-branding"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

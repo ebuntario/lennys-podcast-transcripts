@@ -2,9 +2,9 @@
 type: insight
 title: Cohort GMV is a better growth metric than retention for certain models
 concepts:
-  - "[[concepts/growth-metrics]]"
-  - "[[concepts/business-models]]"
-  - "[[concepts/power-law-distribution]]"
+  - "growth-metrics"
+  - "business-models"
+  - "power-law-distribution"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

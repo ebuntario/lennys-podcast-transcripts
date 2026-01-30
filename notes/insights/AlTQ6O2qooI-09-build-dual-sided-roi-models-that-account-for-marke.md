@@ -2,9 +2,9 @@
 type: insight
 title: Build dual-sided ROI models that account for marketplace dynamics
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/unit-economics]]"
-  - "[[concepts/customer-acquisition-cost]]"
+  - "marketplace-strategy"
+  - "unit-economics"
+  - "customer-acquisition-cost"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

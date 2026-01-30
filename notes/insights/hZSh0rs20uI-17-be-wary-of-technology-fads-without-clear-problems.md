@@ -2,9 +2,9 @@
 type: insight
 title: Be Wary of Technology Fads Without Clear Problems
 concepts:
-  - "[[concepts/technology-selection]]"
-  - "[[concepts/vendor-assessment]]"
-  - "[[concepts/systems-thinking]]"
+  - "technology-selection"
+  - "vendor-assessment"
+  - "systems-thinking"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

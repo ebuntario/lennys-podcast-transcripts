@@ -2,9 +2,9 @@
 type: insight
 title: The "hamster wheel" of content creation is a major challenge for sustainable careers
 concepts:
-  - "[[concepts/creator-burnout]]"
-  - "[[concepts/subscription-models]]"
-  - "[[concepts/platform-responsibility]]"
+  - "creator-burnout"
+  - "subscription-models"
+  - "platform-responsibility"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

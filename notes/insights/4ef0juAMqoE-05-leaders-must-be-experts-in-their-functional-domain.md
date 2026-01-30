@@ -2,9 +2,9 @@
 type: insight
 title: Leaders must be experts in their functional domain
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/accountability]]"
-  - "[[concepts/skill-development]]"
+  - "leadership"
+  - "accountability"
+  - "skill-development"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

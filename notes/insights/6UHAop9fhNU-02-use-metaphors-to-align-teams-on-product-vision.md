@@ -2,9 +2,9 @@
 type: insight
 title: Use metaphors to align teams on product vision
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/communication]]"
+  - "product-vision"
+  - "team-alignment"
+  - "communication"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

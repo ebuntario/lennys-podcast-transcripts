@@ -2,8 +2,8 @@
 type: insight
 title: Ask for top accomplishments to understand candidate values
 concepts:
-  - "[[concepts/interviewing]]"
-  - "[[concepts/candidate-evaluation]]"
+  - "interviewing"
+  - "candidate-evaluation"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

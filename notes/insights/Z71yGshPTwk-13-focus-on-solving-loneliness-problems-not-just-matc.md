@@ -2,9 +2,9 @@
 type: insight
 title: Focus on solving loneliness problems, not just matching keywords
 concepts:
-  - "[[concepts/user-journey]]"
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/problem-solving]]"
+  - "user-journey"
+  - "seo-strategy"
+  - "problem-solving"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

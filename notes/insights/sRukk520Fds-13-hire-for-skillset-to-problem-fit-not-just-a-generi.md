@@ -2,9 +2,9 @@
 type: insight
 title: Hire for skillset-to-problem fit, not just a generic "product manager"
 concepts:
-  - "[[concepts/hiring-for-fit]]"
-  - "[[concepts/product-team-composition]]"
-  - "[[concepts/skillset-diversity]]"
+  - "hiring-for-fit"
+  - "product-team-composition"
+  - "skillset-diversity"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

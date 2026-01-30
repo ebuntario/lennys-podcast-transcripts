@@ -2,9 +2,9 @@
 type: insight
 title: "Giving away your Legos" enables scaling and personal growth
 concepts:
-  - "[[concepts/scaling-organization]]"
-  - "[[concepts/delegation]]"
-  - "[[concepts/career-development]]"
+  - "scaling-organization"
+  - "delegation"
+  - "career-development"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

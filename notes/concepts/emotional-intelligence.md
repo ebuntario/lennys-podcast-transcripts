@@ -11,10 +11,14 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/emotional-intelligence"))
+WHERE contains(concepts, "emotional-intelligence")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/personal-development]] (3 shared insights)
+- [[concepts/mindset]] (2 shared insights)
+- [[concepts/leadership]] (1 shared insights)
+- [[concepts/ai-limitations]] (1 shared insights)
+- [[concepts/scientific-discovery]] (1 shared insights)

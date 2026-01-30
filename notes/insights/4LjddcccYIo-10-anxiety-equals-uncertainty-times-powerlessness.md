@@ -2,9 +2,9 @@
 type: insight
 title: Anxiety equals uncertainty times powerlessness
 concepts:
-  - "[[concepts/emotional-intelligence]]"
-  - "[[concepts/personal-development]]"
-  - "[[concepts/mindset]]"
+  - "emotional-intelligence"
+  - "personal-development"
+  - "mindset"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

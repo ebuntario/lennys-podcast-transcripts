@@ -2,9 +2,9 @@
 type: insight
 title: Parenting as a progression toward independence
 concepts:
-  - "[[concepts/parenting-philosophy]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/independence]]"
+  - "parenting-philosophy"
+  - "decision-making"
+  - "independence"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

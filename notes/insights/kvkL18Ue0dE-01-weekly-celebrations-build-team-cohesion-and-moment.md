@@ -2,9 +2,9 @@
 type: insight
 title: Weekly celebrations build team cohesion and momentum
 concepts:
-  - "[[concepts/team-building]]"
-  - "[[concepts/psychological-safety]]"
-  - "[[concepts/performance-culture]]"
+  - "team-building"
+  - "psychological-safety"
+  - "performance-culture"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

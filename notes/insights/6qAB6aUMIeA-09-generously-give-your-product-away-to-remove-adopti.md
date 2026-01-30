@@ -2,9 +2,9 @@
 type: insight
 title: Generously give your product away to remove adoption barriers
 concepts:
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/freemium-model]]"
-  - "[[concepts/growth-loops]]"
+  - "product-led-growth"
+  - "freemium-model"
+  - "growth-loops"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

@@ -2,9 +2,9 @@
 type: insight
 title: A deterministic domain like software engineering is ideal for rapid LLM improvement
 concepts:
-  - "[[concepts/llm-training]]"
-  - "[[concepts/software-engineering]]"
-  - "[[concepts/ai-advancement]]"
+  - "llm-training"
+  - "software-engineering"
+  - "ai-advancement"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

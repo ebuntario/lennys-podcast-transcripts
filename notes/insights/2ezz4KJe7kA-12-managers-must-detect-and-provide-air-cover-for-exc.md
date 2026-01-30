@@ -2,9 +2,9 @@
 type: insight
 title: Managers must detect and provide air cover for exceptional talent
 concepts:
-  - "[[concepts/talent-management]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/high-performers]]"
+  - "talent-management"
+  - "leadership"
+  - "high-performers"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

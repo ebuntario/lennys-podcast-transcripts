@@ -2,9 +2,9 @@
 type: insight
 title: Simplify only to reduce cognitive load
 concepts:
-  - "[[concepts/onboarding-simplification]]"
-  - "[[concepts/cognitive-friction]]"
-  - "[[concepts/growth-roadmaps]]"
+  - "onboarding-simplification"
+  - "cognitive-friction"
+  - "growth-roadmaps"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

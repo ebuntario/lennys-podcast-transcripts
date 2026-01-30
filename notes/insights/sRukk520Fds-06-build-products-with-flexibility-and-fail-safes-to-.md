@@ -2,9 +2,9 @@
 type: insight
 title: Build products with flexibility and fail-safes to account for real-world entropy
 concepts:
-  - "[[concepts/real-world-entropy]]"
-  - "[[concepts/product-resilience]]"
-  - "[[concepts/human-factors]]"
+  - "real-world-entropy"
+  - "product-resilience"
+  - "human-factors"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

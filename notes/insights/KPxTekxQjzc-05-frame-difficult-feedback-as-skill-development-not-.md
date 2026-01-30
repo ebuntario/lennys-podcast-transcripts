@@ -2,9 +2,9 @@
 type: insight
 title: Frame difficult feedback as skill development, not character attacks
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/management-communication]]"
-  - "[[concepts/performance-management]]"
+  - "leadership"
+  - "management-communication"
+  - "performance-management"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

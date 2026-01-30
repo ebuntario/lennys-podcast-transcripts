@@ -2,8 +2,8 @@
 type: insight
 title: A bold or contrarian opinion can make your pitch stand out
 concepts:
-  - "[[concepts/pitching]]"
-  - "[[concepts/thought-leadership]]"
+  - "pitching"
+  - "thought-leadership"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

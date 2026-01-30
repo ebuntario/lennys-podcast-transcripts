@@ -2,9 +2,9 @@
 type: insight
 title: Impact as the primary career optimization metric
 concepts:
-  - "[[concepts/career-growth]]"
-  - "[[concepts/impact-measurement]]"
-  - "[[concepts/compensation-philosophy]]"
+  - "career-growth"
+  - "impact-measurement"
+  - "compensation-philosophy"
 source_guest: Bangaly Kaba
 source_episode: Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)
 source: "[[guests/bangaly-kaba|Bangaly Kaba]]"

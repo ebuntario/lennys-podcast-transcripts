@@ -2,8 +2,8 @@
 type: insight
 title: Generate thousands of ideas before evaluating
 concepts:
-  - "[[concepts/creative-process]]"
-  - "[[concepts/ideation]]"
+  - "creative-process"
+  - "ideation"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

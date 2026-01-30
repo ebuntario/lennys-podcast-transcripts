@@ -2,9 +2,9 @@
 type: insight
 title: Be a force for positive momentum
 concepts:
-  - "[[concepts/career-advancement]]"
-  - "[[concepts/impact]]"
-  - "[[concepts/operating-principles]]"
+  - "career-advancement"
+  - "impact"
+  - "operating-principles"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

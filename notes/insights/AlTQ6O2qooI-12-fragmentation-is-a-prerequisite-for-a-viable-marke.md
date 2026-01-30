@@ -2,9 +2,9 @@
 type: insight
 title: Fragmentation is a prerequisite for a viable marketplace
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/market-analysis]]"
-  - "[[concepts/unit-economics]]"
+  - "marketplace-strategy"
+  - "market-analysis"
+  - "unit-economics"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

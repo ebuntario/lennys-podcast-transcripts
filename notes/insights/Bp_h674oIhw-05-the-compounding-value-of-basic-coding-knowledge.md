@@ -2,9 +2,9 @@
 type: insight
 title: The compounding value of basic coding knowledge
 concepts:
-  - "[[concepts/ai-literacy]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/software-democratization]]"
+  - "ai-literacy"
+  - "skill-development"
+  - "software-democratization"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

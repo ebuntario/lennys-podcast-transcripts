@@ -9,10 +9,12 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/announcements"))
+WHERE contains(concepts, "announcements")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/content-creation]] (1 shared insights)
+- [[concepts/media-planning]] (1 shared insights)
+- [[concepts/media-outreach]] (1 shared insights)

@@ -2,9 +2,9 @@
 type: insight
 title: News organizations must balance platform distribution with destination experiences
 concepts:
-  - "[[concepts/subscription-models]]"
-  - "[[concepts/product-bundling]]"
-  - "[[concepts/direct-customer-relationships]]"
+  - "subscription-models"
+  - "product-bundling"
+  - "direct-customer-relationships"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

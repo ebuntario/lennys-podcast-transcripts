@@ -2,9 +2,9 @@
 type: insight
 title: Balance your experiment portfolio between cannonballs and lead bullets
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/product-portfolio]]"
-  - "[[concepts/impact-vs-optimization]]"
+  - "experimentation"
+  - "product-portfolio"
+  - "impact-vs-optimization"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

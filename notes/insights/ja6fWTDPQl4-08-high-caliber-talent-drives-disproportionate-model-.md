@@ -2,9 +2,9 @@
 type: insight
 title: High-Caliber Talent Drives Disproportionate Model Improvement
 concepts:
-  - "[[concepts/talent-density]]"
-  - "[[concepts/ai-training-data]]"
-  - "[[concepts/expert-networks]]"
+  - "talent-density"
+  - "ai-training-data"
+  - "expert-networks"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

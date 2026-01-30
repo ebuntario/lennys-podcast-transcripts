@@ -2,9 +2,9 @@
 type: insight
 title: Break into product management from an adjacent role within your company
 concepts:
-  - "[[concepts/career-transitions]]"
-  - "[[concepts/product-management]]"
-  - "[[concepts/internal-mobility]]"
+  - "career-transitions"
+  - "product-management"
+  - "internal-mobility"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Marketplaces evolve by taking on more of the value chain
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/business-model-evolution]]"
-  - "[[concepts/commission-models]]"
+  - "marketplace-strategy"
+  - "business-model-evolution"
+  - "commission-models"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

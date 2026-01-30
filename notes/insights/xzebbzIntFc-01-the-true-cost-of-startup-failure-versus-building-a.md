@@ -2,9 +2,9 @@
 type: insight
 title: The true cost of startup failure versus building a company you hate
 concepts:
-  - "[[concepts/founder-mental-health]]"
-  - "[[concepts/company-values]]"
-  - "[[concepts/startup-failure]]"
+  - "founder-mental-health"
+  - "company-values"
+  - "startup-failure"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

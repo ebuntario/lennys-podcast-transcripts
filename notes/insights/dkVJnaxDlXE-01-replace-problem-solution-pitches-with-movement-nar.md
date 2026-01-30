@@ -2,9 +2,9 @@
 type: insight
 title: Replace problem-solution pitches with movement narratives
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/sales-pitching]]"
-  - "[[concepts/category-creation]]"
+  - "strategic-narrative"
+  - "sales-pitching"
+  - "category-creation"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

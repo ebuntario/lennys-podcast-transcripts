@@ -2,9 +2,9 @@
 type: insight
 title: Therapy can uncover deeper motivations behind work habits
 concepts:
-  - "[[concepts/mental-health]]"
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/career-satisfaction]]"
+  - "mental-health"
+  - "self-awareness"
+  - "career-satisfaction"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

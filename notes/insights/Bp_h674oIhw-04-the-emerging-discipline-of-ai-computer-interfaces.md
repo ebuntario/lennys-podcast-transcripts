@@ -2,9 +2,9 @@
 type: insight
 title: The emerging discipline of AI-computer interfaces
 concepts:
-  - "[[concepts/ai-interfaces]]"
-  - "[[concepts/developer-tools]]"
-  - "[[concepts/ai-agents]]"
+  - "ai-interfaces"
+  - "developer-tools"
+  - "ai-agents"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Your life partner significantly impacts career trajectory
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/work-life-balance]]"
-  - "[[concepts/personal-foundation]]"
+  - "career-development"
+  - "work-life-balance"
+  - "personal-foundation"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

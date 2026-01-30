@@ -2,9 +2,9 @@
 type: insight
 title: CEO adoption of AI is the top predictor of company-wide AI integration
 concepts:
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/leadership]]"
-  - "[[concepts/organizational-change]]"
+  - "ai-adoption"
+  - "leadership"
+  - "organizational-change"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Calm leadership under pressure prevents team tension and yields better outcomes
 concepts:
-  - "[[concepts/leadership-composure]]"
-  - "[[concepts/team-dynamics]]"
-  - "[[concepts/crisis-management]]"
+  - "leadership-composure"
+  - "team-dynamics"
+  - "crisis-management"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

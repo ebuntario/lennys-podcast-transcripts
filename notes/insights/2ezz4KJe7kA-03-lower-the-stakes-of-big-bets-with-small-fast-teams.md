@@ -2,9 +2,9 @@
 type: insight
 title: Lower the stakes of big bets with small, fast teams
 concepts:
-  - "[[concepts/innovation-culture]]"
-  - "[[concepts/team-structure]]"
-  - "[[concepts/experimentation]]"
+  - "innovation-culture"
+  - "team-structure"
+  - "experimentation"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

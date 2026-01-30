@@ -2,9 +2,9 @@
 type: insight
 title: Focus on early user retention and the new user experience, even for power-user tools
 concepts:
-  - "[[concepts/user-retention]]"
-  - "[[concepts/product-metrics]]"
-  - "[[concepts/user-onboarding]]"
+  - "user-retention"
+  - "product-metrics"
+  - "user-onboarding"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

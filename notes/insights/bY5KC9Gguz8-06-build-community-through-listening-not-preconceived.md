@@ -2,8 +2,8 @@
 type: insight
 title: Build community through listening, not preconceived programs
 concepts:
-  - "[[concepts/community-building]]"
-  - "[[concepts/user-research]]"
+  - "community-building"
+  - "user-research"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

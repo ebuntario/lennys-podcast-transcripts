@@ -2,9 +2,9 @@
 type: insight
 title: Create programmatic SEO assets as scalable acquisition loops
 concepts:
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/content-loops]]"
-  - "[[concepts/acquisition]]"
+  - "seo-strategy"
+  - "content-loops"
+  - "acquisition"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

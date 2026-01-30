@@ -2,9 +2,9 @@
 type: insight
 title: Wait to draw the picture
 concepts:
-  - "[[concepts/ideation]]"
-  - "[[concepts/ambiguity-tolerance]]"
-  - "[[concepts/low-fidelity-prototyping]]"
+  - "ideation"
+  - "ambiguity-tolerance"
+  - "low-fidelity-prototyping"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

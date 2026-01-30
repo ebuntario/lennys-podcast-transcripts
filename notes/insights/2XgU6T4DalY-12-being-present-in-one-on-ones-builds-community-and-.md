@@ -2,9 +2,9 @@
 type: insight
 title: Being present in one-on-ones builds community and trust
 concepts:
-  - "[[concepts/presence]]"
-  - "[[concepts/relationship-building]]"
-  - "[[concepts/trust]]"
+  - "presence"
+  - "relationship-building"
+  - "trust"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

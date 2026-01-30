@@ -2,8 +2,8 @@
 type: insight
 title: Your brand is who people think you are, not just your logo
 concepts:
-  - "[[concepts/brand-strategy]]"
-  - "[[concepts/brand-perception]]"
+  - "brand-strategy"
+  - "brand-perception"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

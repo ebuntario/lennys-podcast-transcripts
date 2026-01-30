@@ -2,9 +2,9 @@
 type: insight
 title: Evaluate new channels by aligning customer needs, business goals, and channel strengths
 concepts:
-  - "[[concepts/channel-evaluation]]"
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/customer-alignment]]"
+  - "channel-evaluation"
+  - "growth-strategy"
+  - "customer-alignment"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

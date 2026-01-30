@@ -2,8 +2,8 @@
 type: insight
 title: The irrational desire to build is the only valid reason to start a company
 concepts:
-  - "[[concepts/founder-motivation]]"
-  - "[[concepts/startup-psychology]]"
+  - "founder-motivation"
+  - "startup-psychology"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

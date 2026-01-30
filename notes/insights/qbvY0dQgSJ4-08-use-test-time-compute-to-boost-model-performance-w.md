@@ -2,9 +2,9 @@
 type: insight
 title: Use "test time compute" to boost model performance without retraining
 concepts:
-  - "[[concepts/model-inference]]"
-  - "[[concepts/ai-application-performance]]"
-  - "[[concepts/cost-optimization]]"
+  - "model-inference"
+  - "ai-application-performance"
+  - "cost-optimization"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

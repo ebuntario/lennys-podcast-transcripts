@@ -2,9 +2,9 @@
 type: insight
 title: Define agents by autonomy, complexity, and natural interaction
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/task-delegation]]"
-  - "[[concepts/human-ai-collaboration]]"
+  - "ai-agents"
+  - "task-delegation"
+  - "human-ai-collaboration"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

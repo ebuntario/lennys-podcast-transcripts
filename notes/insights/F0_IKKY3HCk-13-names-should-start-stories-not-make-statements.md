@@ -2,8 +2,8 @@
 type: insight
 title: Names should start stories, not make statements
 concepts:
-  - "[[concepts/brand-naming]]"
-  - "[[concepts/storytelling]]"
+  - "brand-naming"
+  - "storytelling"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (Stripe)
 source: "[[guests/david-placek|David Placek]]"

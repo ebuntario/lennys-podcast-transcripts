@@ -2,8 +2,8 @@
 type: insight
 title: Startups most commonly fail when founders lose hope, not when they run out of money
 concepts:
-  - "[[concepts/startup-survival]]"
-  - "[[concepts/founder-resilience]]"
+  - "startup-survival"
+  - "founder-resilience"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

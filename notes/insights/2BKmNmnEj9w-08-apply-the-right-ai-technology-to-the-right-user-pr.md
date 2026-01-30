@@ -2,9 +2,9 @@
 type: insight
 title: Apply the right AI technology to the right user problem, not just the hype
 concepts:
-  - "[[concepts/ai-strategy]]"
-  - "[[concepts/user-centric-design]]"
-  - "[[concepts/technology-selection]]"
+  - "ai-strategy"
+  - "user-centric-design"
+  - "technology-selection"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

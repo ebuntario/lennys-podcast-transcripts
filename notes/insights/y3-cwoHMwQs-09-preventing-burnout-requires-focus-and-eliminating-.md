@@ -2,9 +2,9 @@
 type: insight
 title: Preventing burnout requires focus and eliminating context switching
 concepts:
-  - "[[concepts/team-health]]"
-  - "[[concepts/prioritization]]"
-  - "[[concepts/remote-work]]"
+  - "team-health"
+  - "prioritization"
+  - "remote-work"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

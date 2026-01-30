@@ -2,9 +2,9 @@
 type: insight
 title: Marketing technologists operate at the intersection of technical architecture and business persuasion
 concepts:
-  - "[[concepts/marketing-technology]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/systems-thinking]]"
+  - "marketing-technology"
+  - "cross-functional-collaboration"
+  - "systems-thinking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

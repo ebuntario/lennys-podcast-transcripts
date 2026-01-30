@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize raw intellect and hunger over extensive experience when hiring product leaders
 concepts:
-  - "[[concepts/hiring-strategy]]"
-  - "[[concepts/product-leadership]]"
-  - "[[concepts/career-acceleration]]"
+  - "hiring-strategy"
+  - "product-leadership"
+  - "career-acceleration"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

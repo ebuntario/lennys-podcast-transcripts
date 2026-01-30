@@ -2,9 +2,9 @@
 type: insight
 title: AI agents as collaborative developers
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/software-development]]"
-  - "[[concepts/prototyping]]"
+  - "ai-agents"
+  - "software-development"
+  - "prototyping"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

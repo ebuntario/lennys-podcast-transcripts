@@ -2,9 +2,9 @@
 type: insight
 title: Define the object of the new game as a rallying cry
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/messaging]]"
-  - "[[concepts/company-mission]]"
+  - "strategic-narrative"
+  - "messaging"
+  - "company-mission"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

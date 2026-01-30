@@ -2,9 +2,9 @@
 type: insight
 title: Taking ethical action in the face of high uncertainty
 concepts:
-  - "[[concepts/ethical-action]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/long-term-thinking]]"
+  - "ethical-action"
+  - "decision-making"
+  - "long-term-thinking"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

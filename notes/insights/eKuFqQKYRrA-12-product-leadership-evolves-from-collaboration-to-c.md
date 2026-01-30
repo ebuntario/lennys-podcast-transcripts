@@ -2,9 +2,9 @@
 type: insight
 title: Product leadership evolves from collaboration to conviction
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/accountability]]"
+  - "leadership"
+  - "decision-making"
+  - "accountability"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

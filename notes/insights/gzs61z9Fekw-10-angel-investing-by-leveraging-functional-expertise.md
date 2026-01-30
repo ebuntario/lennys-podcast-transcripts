@@ -2,9 +2,9 @@
 type: insight
 title: Angel Investing by Leveraging Functional Expertise
 concepts:
-  - "[[concepts/angel-investing]]"
-  - "[[concepts/startup-advising]]"
-  - "[[concepts/niche-expertise]]"
+  - "angel-investing"
+  - "startup-advising"
+  - "niche-expertise"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

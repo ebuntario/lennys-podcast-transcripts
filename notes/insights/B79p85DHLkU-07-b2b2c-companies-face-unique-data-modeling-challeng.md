@@ -2,9 +2,9 @@
 type: insight
 title: B2B2C companies face unique data modeling challenges at the user-company intersection
 concepts:
-  - "[[concepts/b2b2c]]"
-  - "[[concepts/data-modeling]]"
-  - "[[concepts/customer-relationship-management]]"
+  - "b2b2c"
+  - "data-modeling"
+  - "customer-relationship-management"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

@@ -9,10 +9,11 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/gamification"))
+WHERE contains(concepts, "gamification")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/habit-formation]] (1 shared insights)
+- [[concepts/user-motivation]] (1 shared insights)

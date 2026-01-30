@@ -2,9 +2,9 @@
 type: insight
 title: Client-side compute architecture enables a permissive free tier and insane scalability
 concepts:
-  - "[[concepts/software-architecture]]"
-  - "[[concepts/product-growth]]"
-  - "[[concepts/free-tier]]"
+  - "software-architecture"
+  - "product-growth"
+  - "free-tier"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

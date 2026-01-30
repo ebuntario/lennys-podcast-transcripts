@@ -2,8 +2,8 @@
 type: insight
 title: In early stages, prioritize signal and intuition over optimizing metrics
 concepts:
-  - "[[concepts/early-stage-metrics]]"
-  - "[[concepts/product-market-fit-signals]]"
+  - "early-stage-metrics"
+  - "product-market-fit-signals"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

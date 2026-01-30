@@ -2,9 +2,9 @@
 type: insight
 title: Build rapport with key partners by knowing their personal motivations
 concepts:
-  - "[[concepts/relationship-building]]"
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/leadership]]"
+  - "relationship-building"
+  - "team-alignment"
+  - "leadership"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Cross-functional missions with embedded editors create unique product advantages
 concepts:
-  - "[[concepts/cross-functional-teams]]"
-  - "[[concepts/editorial-product-integration]]"
-  - "[[concepts/organizational-structure]]"
+  - "cross-functional-teams"
+  - "editorial-product-integration"
+  - "organizational-structure"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

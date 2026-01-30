@@ -2,9 +2,9 @@
 type: insight
 title: PR/FAQ process creates product funnels, not tunnels
 concepts:
-  - "[[concepts/pr-faq-process]]"
-  - "[[concepts/idea-validation]]"
-  - "[[concepts/product-funnel]]"
+  - "pr-faq-process"
+  - "idea-validation"
+  - "product-funnel"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

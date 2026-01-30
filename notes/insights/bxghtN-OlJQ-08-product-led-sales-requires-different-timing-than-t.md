@@ -2,9 +2,9 @@
 type: insight
 title: Product-led sales requires different timing than traditional sales outreach
 concepts:
-  - "[[concepts/sales-timing]]"
-  - "[[concepts/customer-journey]]"
-  - "[[concepts/product-qualified-account]]"
+  - "sales-timing"
+  - "customer-journey"
+  - "product-qualified-account"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

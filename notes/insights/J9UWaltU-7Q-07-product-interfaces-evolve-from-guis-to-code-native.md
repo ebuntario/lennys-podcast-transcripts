@@ -2,9 +2,9 @@
 type: insight
 title: Product interfaces evolve from GUIs to code-native and composable systems
 concepts:
-  - "[[concepts/code-native-interface]]"
-  - "[[concepts/product-composability]]"
-  - "[[concepts/agent-interaction]]"
+  - "code-native-interface"
+  - "product-composability"
+  - "agent-interaction"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

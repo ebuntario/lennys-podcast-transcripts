@@ -2,9 +2,9 @@
 type: insight
 title: Structure hiring decisions with explicit rubrics to improve accuracy
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/structured-processes]]"
+  - "hiring"
+  - "decision-making"
+  - "structured-processes"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 source: "[[guests/annie-duke|Annie Duke]]"

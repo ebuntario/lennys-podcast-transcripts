@@ -2,9 +2,9 @@
 type: insight
 title: Suffering as the Catalyst for Seeking Truth
 concepts:
-  - "[[concepts/suffering]]"
-  - "[[concepts/rock-bottom]]"
-  - "[[concepts/change-catalyst]]"
+  - "suffering"
+  - "rock-bottom"
+  - "change-catalyst"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

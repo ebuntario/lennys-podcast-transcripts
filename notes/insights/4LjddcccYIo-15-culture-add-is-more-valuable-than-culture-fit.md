@@ -2,9 +2,9 @@
 type: insight
 title: Culture add is more valuable than culture fit
 concepts:
-  - "[[concepts/company-culture]]"
-  - "[[concepts/diversity-inclusion]]"
-  - "[[concepts/hiring]]"
+  - "company-culture"
+  - "diversity-inclusion"
+  - "hiring"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

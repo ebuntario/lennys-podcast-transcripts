@@ -2,9 +2,9 @@
 type: insight
 title: The core trigger for product ops is organizational growth and scaling pains
 concepts:
-  - "[[concepts/organizational-scaling]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/cross-functional-alignment]]"
+  - "organizational-scaling"
+  - "product-led-growth"
+  - "cross-functional-alignment"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

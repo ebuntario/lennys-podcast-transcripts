@@ -2,9 +2,9 @@
 type: insight
 title: Concentric circle reviews refine ideas through progressive feedback
 concepts:
-  - "[[concepts/feedback-loops]]"
-  - "[[concepts/idea-refinement]]"
-  - "[[concepts/collaborative-review]]"
+  - "feedback-loops"
+  - "idea-refinement"
+  - "collaborative-review"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

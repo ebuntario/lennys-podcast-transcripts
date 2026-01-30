@@ -2,10 +2,10 @@
 type: insight
 title: The market will shift towards AI agents and outcomes-based pricing
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/outcomes-based-pricing]]"
-  - "[[concepts/software-business-models]]"
-  - "[[concepts/productivity-gains]]"
+  - "ai-agents"
+  - "outcomes-based-pricing"
+  - "software-business-models"
+  - "productivity-gains"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

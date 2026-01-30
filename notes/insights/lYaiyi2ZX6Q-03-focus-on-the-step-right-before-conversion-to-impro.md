@@ -2,9 +2,9 @@
 type: insight
 title: Focus on the step right before conversion to improve retention
 concepts:
-  - "[[concepts/user-retention]]"
-  - "[[concepts/conversion-optimization]]"
-  - "[[concepts/user-journey]]"
+  - "user-retention"
+  - "conversion-optimization"
+  - "user-journey"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

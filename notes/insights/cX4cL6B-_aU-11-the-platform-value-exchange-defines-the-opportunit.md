@@ -2,9 +2,9 @@
 type: insight
 title: The platform value exchange defines the opportunity window
 concepts:
-  - "[[concepts/platform-strategy]]"
-  - "[[concepts/value-exchange]]"
-  - "[[concepts/distribution-platforms]]"
+  - "platform-strategy"
+  - "value-exchange"
+  - "distribution-platforms"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

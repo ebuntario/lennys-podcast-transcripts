@@ -2,9 +2,9 @@
 type: insight
 title: Integrations with existing workflows (Figma, Slack) are key to product adoption
 concepts:
-  - "[[concepts/product-integration]]"
-  - "[[concepts/user-adoption]]"
-  - "[[concepts/workflow-tools]]"
+  - "product-integration"
+  - "user-adoption"
+  - "workflow-tools"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

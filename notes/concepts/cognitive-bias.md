@@ -11,10 +11,13 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/cognitive-bias"))
+WHERE contains(concepts, "cognitive-bias")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/founder-mindset]] (1 shared insights)
+- [[concepts/problem-diagnosis]] (1 shared insights)
+- [[concepts/founder-psychology]] (1 shared insights)
+- [[concepts/experimentation]] (1 shared insights)

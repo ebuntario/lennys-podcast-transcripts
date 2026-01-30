@@ -2,9 +2,9 @@
 type: insight
 title: Realize AI productivity gains now requires systematic root cause analysis
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/ai-implementation]]"
-  - "[[concepts/continuous-improvement]]"
+  - "ai-productivity"
+  - "ai-implementation"
+  - "continuous-improvement"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

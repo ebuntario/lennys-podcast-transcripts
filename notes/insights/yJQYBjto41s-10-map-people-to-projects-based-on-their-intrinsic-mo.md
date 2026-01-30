@@ -2,9 +2,9 @@
 type: insight
 title: Map people to projects based on their intrinsic motivation for maximum performance
 concepts:
-  - "[[concepts/team-management]]"
-  - "[[concepts/employee-engagement]]"
-  - "[[concepts/operational-efficiency]]"
+  - "team-management"
+  - "employee-engagement"
+  - "operational-efficiency"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

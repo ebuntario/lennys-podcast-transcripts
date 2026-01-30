@@ -2,9 +2,9 @@
 type: insight
 title: SEO strategy must connect search intent to a complete product experience
 concepts:
-  - "[[concepts/seo-growth]]"
-  - "[[concepts/jobs-to-be-done]]"
-  - "[[concepts/user-journey]]"
+  - "seo-growth"
+  - "jobs-to-be-done"
+  - "user-journey"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

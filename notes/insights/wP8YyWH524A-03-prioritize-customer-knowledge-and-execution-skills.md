@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize customer knowledge and execution skills when hiring junior growth talent
 concepts:
-  - "[[concepts/hiring-frameworks]]"
-  - "[[concepts/growth-execution]]"
-  - "[[concepts/customer-knowledge]]"
+  - "hiring-frameworks"
+  - "growth-execution"
+  - "customer-knowledge"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

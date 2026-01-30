@@ -2,9 +2,9 @@
 type: insight
 title: Distinguish burnout from depression by observing motivation across life domains
 concepts:
-  - "[[concepts/burnout]]"
-  - "[[concepts/depression]]"
-  - "[[concepts/mental-health-awareness]]"
+  - "burnout"
+  - "depression"
+  - "mental-health-awareness"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

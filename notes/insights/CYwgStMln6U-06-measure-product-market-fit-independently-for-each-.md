@@ -2,9 +2,9 @@
 type: insight
 title: Measure product-market fit independently for each side of the marketplace
 concepts:
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/value-proposition]]"
+  - "product-market-fit"
+  - "marketplace-strategy"
+  - "value-proposition"
 source_guest: Benjamin Lauzier
 source_episode: How marketmarkets win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

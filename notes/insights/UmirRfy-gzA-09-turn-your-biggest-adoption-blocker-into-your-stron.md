@@ -2,8 +2,8 @@
 type: insight
 title: Turn your biggest adoption blocker into your strongest growth lever
 concepts:
-  - "[[concepts/enterprise-adoption]]"
-  - "[[concepts/design-systems]]"
+  - "enterprise-adoption"
+  - "design-systems"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

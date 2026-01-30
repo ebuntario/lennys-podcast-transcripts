@@ -2,8 +2,8 @@
 type: insight
 title: Category creation is validated by competition entering the space
 concepts:
-  - "[[concepts/category-creation]]"
-  - "[[concepts/competitive-landscape]]"
+  - "category-creation"
+  - "competitive-landscape"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

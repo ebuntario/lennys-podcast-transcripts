@@ -2,9 +2,9 @@
 type: insight
 title: Company culture directly shapes how and what products are built
 concepts:
-  - "[[concepts/product-culture]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/decision-making]]"
+  - "product-culture"
+  - "organizational-design"
+  - "decision-making"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

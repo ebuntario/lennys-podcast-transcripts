@@ -2,9 +2,9 @@
 type: insight
 title: Default to ownership in decision-making
 concepts:
-  - "[[concepts/decision-making]]"
-  - "[[concepts/ownership]]"
-  - "[[concepts/company-velocity]]"
+  - "decision-making"
+  - "ownership"
+  - "company-velocity"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

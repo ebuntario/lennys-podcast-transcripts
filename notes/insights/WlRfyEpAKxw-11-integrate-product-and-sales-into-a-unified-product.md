@@ -2,9 +2,9 @@
 type: insight
 title: Integrate Product and Sales into a Unified "Product-Led Sales" Loop
 concepts:
-  - "[[concepts/product-led-sales]]"
-  - "[[concepts/growth-loops]]"
-  - "[[concepts/b2b-growth]]"
+  - "product-led-sales"
+  - "growth-loops"
+  - "b2b-growth"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

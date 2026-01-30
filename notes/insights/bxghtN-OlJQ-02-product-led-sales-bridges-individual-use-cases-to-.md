@@ -2,9 +2,9 @@
 type: insight
 title: Product-led sales bridges individual use cases to enterprise-level solutions
 concepts:
-  - "[[concepts/product-led-sales]]"
-  - "[[concepts/enterprise-value-proposition]]"
-  - "[[concepts/self-serve-monetization]]"
+  - "product-led-sales"
+  - "enterprise-value-proposition"
+  - "self-serve-monetization"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

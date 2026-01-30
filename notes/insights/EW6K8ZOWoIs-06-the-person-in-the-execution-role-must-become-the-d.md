@@ -2,9 +2,9 @@
 type: insight
 title: The person in the execution role must become the domain expert, not just manage the process
 concepts:
-  - "[[concepts/execution]]"
-  - "[[concepts/ownership]]"
-  - "[[concepts/first-principles-thinking]]"
+  - "execution"
+  - "ownership"
+  - "first-principles-thinking"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

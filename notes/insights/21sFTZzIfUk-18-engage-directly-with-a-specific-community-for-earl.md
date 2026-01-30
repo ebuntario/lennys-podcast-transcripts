@@ -2,9 +2,9 @@
 type: insight
 title: Engage directly with a specific community for early evangelism
 concepts:
-  - "[[concepts/community-led-growth]]"
-  - "[[concepts/early-adopters]]"
-  - "[[concepts/developer-marketing]]"
+  - "community-led-growth"
+  - "early-adopters"
+  - "developer-marketing"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Long-term investments require clear communication during downturns
 concepts:
-  - "[[concepts/strategic-communication]]"
-  - "[[concepts/long-term-investment]]"
-  - "[[concepts/business-cycles]]"
+  - "strategic-communication"
+  - "long-term-investment"
+  - "business-cycles"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

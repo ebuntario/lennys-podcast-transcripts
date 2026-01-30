@@ -2,9 +2,9 @@
 type: insight
 title: Frame career communication as education, not self-promotion
 concepts:
-  - "[[concepts/career-communication]]"
-  - "[[concepts/introvert-success]]"
-  - "[[concepts/team-advocacy]]"
+  - "career-communication"
+  - "introvert-success"
+  - "team-advocacy"
 source_guest: Deb Liu
 source_episode: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 source: "[[guests/deb-liu|Deb Liu]]"

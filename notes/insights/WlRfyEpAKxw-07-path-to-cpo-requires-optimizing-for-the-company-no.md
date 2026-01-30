@@ -2,9 +2,9 @@
 type: insight
 title: Path to CPO Requires Optimizing for the Company, Not Just Your Function
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/company-leadership]]"
-  - "[[concepts/executive-mindset]]"
+  - "career-development"
+  - "company-leadership"
+  - "executive-mindset"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

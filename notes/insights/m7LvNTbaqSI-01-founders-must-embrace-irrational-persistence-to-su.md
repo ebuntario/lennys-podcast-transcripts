@@ -2,9 +2,9 @@
 type: insight
 title: Founders must embrace irrational persistence to survive near-death experiences
 concepts:
-  - "[[concepts/founder-resilience]]"
-  - "[[concepts/startup-survival]]"
-  - "[[concepts/pivoting]]"
+  - "founder-resilience"
+  - "startup-survival"
+  - "pivoting"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

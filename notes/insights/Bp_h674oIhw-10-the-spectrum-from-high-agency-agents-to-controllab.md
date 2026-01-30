@@ -2,9 +2,9 @@
 type: insight
 title: The spectrum from high-agency agents to controllable assistants
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/developer-tools]]"
-  - "[[concepts/user-control]]"
+  - "ai-agents"
+  - "developer-tools"
+  - "user-control"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

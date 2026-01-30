@@ -2,9 +2,9 @@
 type: insight
 title: Building in public and employee socials are core organic growth channels
 concepts:
-  - "[[concepts/organic-growth]]"
-  - "[[concepts/building-in-public]]"
-  - "[[concepts/word-of-mouth]]"
+  - "organic-growth"
+  - "building-in-public"
+  - "word-of-mouth"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

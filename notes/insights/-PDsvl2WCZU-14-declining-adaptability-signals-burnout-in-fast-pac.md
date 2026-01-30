@@ -2,9 +2,9 @@
 type: insight
 title: Declining adaptability signals burnout in fast-paced environments
 concepts:
-  - "[[concepts/burnout]]"
-  - "[[concepts/adaptability]]"
-  - "[[concepts/team-dynamics]]"
+  - "burnout"
+  - "adaptability"
+  - "team-dynamics"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

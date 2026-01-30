@@ -2,8 +2,8 @@
 type: insight
 title: Define brand personality using five dimensions and tension statements
 concepts:
-  - "[[concepts/brand-personality]]"
-  - "[[concepts/brand-attributes]]"
+  - "brand-personality"
+  - "brand-attributes"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

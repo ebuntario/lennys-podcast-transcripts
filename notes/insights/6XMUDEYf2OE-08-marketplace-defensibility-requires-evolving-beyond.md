@@ -2,9 +2,9 @@
 type: insight
 title: Marketplace defensibility requires evolving beyond cross-side network effects
 concepts:
-  - "[[concepts/network-effects]]"
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/data-network-effects]]"
+  - "network-effects"
+  - "marketplace-strategy"
+  - "data-network-effects"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite
 source: "[[guests/casey-winters|Casey Winters]]"

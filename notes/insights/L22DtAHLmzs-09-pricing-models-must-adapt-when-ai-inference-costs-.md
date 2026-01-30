@@ -2,9 +2,9 @@
 type: insight
 title: Pricing models must adapt when AI inference costs are high and value is clear
 concepts:
-  - "[[concepts/pricing-strategy]]"
-  - "[[concepts/subscription-models]]"
-  - "[[concepts/ai-economics]]"
+  - "pricing-strategy"
+  - "subscription-models"
+  - "ai-economics"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

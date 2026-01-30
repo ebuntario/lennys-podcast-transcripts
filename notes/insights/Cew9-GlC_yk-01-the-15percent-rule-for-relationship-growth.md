@@ -2,9 +2,9 @@
 type: insight
 title: The 15% rule for relationship growth
 concepts:
-  - "[[concepts/vulnerability]]"
-  - "[[concepts/relationship-development]]"
-  - "[[concepts/comfort-zone]]"
+  - "vulnerability"
+  - "relationship-development"
+  - "comfort-zone"
 source_guest: Carole Robin
 source_episode: How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)
 source: "[[guests/carole-robin|Carole Robin]]"

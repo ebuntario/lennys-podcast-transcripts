@@ -2,9 +2,9 @@
 type: insight
 title: Cultural transformation requires deliberate values and performance processes
 concepts:
-  - "[[concepts/cultural-transformation]]"
-  - "[[concepts/performance-management]]"
-  - "[[concepts/company-values]]"
+  - "cultural-transformation"
+  - "performance-management"
+  - "company-values"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

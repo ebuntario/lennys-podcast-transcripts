@@ -2,9 +2,9 @@
 type: insight
 title: Outcomes-based pricing transforms vendor relationships into partnerships
 concepts:
-  - "[[concepts/outcomes-based-pricing]]"
-  - "[[concepts/customer-alignment]]"
-  - "[[concepts/value-measurement]]"
+  - "outcomes-based-pricing"
+  - "customer-alignment"
+  - "value-measurement"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

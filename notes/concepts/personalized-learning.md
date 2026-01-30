@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/personalized-learning"))
+WHERE contains(concepts, "personalized-learning")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/ai-in-education]] (1 shared insights)
+- [[concepts/democratizing-education]] (1 shared insights)

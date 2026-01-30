@@ -2,9 +2,9 @@
 type: insight
 title: Measure productivity gains from AI tools at the executive level
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/business-metrics]]"
-  - "[[concepts/organizational-structure]]"
+  - "ai-productivity"
+  - "business-metrics"
+  - "organizational-structure"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

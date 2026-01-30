@@ -2,9 +2,9 @@
 type: insight
 title: AI's ability to judge quality unlocks self-improving systems
 concepts:
-  - "[[concepts/ai-evaluation]]"
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/autonomous-systems]]"
+  - "ai-evaluation"
+  - "ai-agents"
+  - "autonomous-systems"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Use summarization and "one-click better" thinking to develop strategy
 concepts:
-  - "[[concepts/strategic-thinking]]"
-  - "[[concepts/facilitation]]"
-  - "[[concepts/communication]]"
+  - "strategic-thinking"
+  - "facilitation"
+  - "communication"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

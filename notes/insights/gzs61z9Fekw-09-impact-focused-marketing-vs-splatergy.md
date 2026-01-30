@@ -2,9 +2,9 @@
 type: insight
 title: Impact-Focused Marketing vs. "Splatergy"
 concepts:
-  - "[[concepts/performance-measurement]]"
-  - "[[concepts/marketing-strategy]]"
-  - "[[concepts/operational-excellence]]"
+  - "performance-measurement"
+  - "marketing-strategy"
+  - "operational-excellence"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

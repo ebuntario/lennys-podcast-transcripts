@@ -2,9 +2,9 @@
 type: insight
 title: Automate Knowledge Work with AI Agents
 concepts:
-  - "[[concepts/automation]]"
-  - "[[concepts/artificial-intelligence]]"
-  - "[[concepts/productivity]]"
+  - "automation"
+  - "artificial-intelligence"
+  - "productivity"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 source: "[[guests/andrew-wilkinson|Andrew Wilkinson]]"

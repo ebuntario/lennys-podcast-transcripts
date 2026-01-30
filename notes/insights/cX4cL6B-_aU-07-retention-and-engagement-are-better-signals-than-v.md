@@ -2,9 +2,9 @@
 type: insight
 title: Retention and engagement are better signals than vanity metrics
 concepts:
-  - "[[concepts/metrics]]"
-  - "[[concepts/platform-evaluation]]"
-  - "[[concepts/user-engagement]]"
+  - "metrics"
+  - "platform-evaluation"
+  - "user-engagement"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

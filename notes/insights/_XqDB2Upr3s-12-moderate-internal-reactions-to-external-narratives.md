@@ -2,9 +2,9 @@
 type: insight
 title: Moderate internal reactions to external narratives using your own expertise
 concepts:
-  - "[[concepts/external-narratives]]"
-  - "[[concepts/internal-calm]]"
-  - "[[concepts/gell-mann-amnesia]]"
+  - "external-narratives"
+  - "internal-calm"
+  - "gell-mann-amnesia"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

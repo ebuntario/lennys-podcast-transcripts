@@ -2,9 +2,9 @@
 type: insight
 title: Being strategic requires both a compelling "why" and championing hard change
 concepts:
-  - "[[concepts/strategic-thinking]]"
-  - "[[concepts/change-management]]"
-  - "[[concepts/communication]]"
+  - "strategic-thinking"
+  - "change-management"
+  - "communication"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Behavioral signals like admin changes or terms of use visits indicate buying intent
 concepts:
-  - "[[concepts/behavioral-signals]]"
-  - "[[concepts/buying-intent]]"
-  - "[[concepts/product-qualified-account]]"
+  - "behavioral-signals"
+  - "buying-intent"
+  - "product-qualified-account"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

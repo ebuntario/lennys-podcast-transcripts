@@ -2,9 +2,9 @@
 type: insight
 title: Organizational kayfabe is an emergent, systemic force
 concepts:
-  - "[[concepts/organizational-kayfabe]]"
-  - "[[concepts/ground-truth]]"
-  - "[[concepts/systemic-dysfunction]]"
+  - "organizational-kayfabe"
+  - "ground-truth"
+  - "systemic-dysfunction"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

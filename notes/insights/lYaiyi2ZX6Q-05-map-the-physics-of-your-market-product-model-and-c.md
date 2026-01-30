@@ -2,9 +2,9 @@
 type: insight
 title: Map the "physics" of your market, product, model, and channels for growth
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/business-model]]"
-  - "[[concepts/market-analysis]]"
+  - "growth-strategy"
+  - "business-model"
+  - "market-analysis"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

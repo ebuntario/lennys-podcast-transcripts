@@ -2,9 +2,9 @@
 type: insight
 title: Assess existing budget and language before attempting category creation
 concepts:
-  - "[[concepts/category-creation]]"
-  - "[[concepts/market-research]]"
-  - "[[concepts/buyer-personas]]"
+  - "category-creation"
+  - "market-research"
+  - "buyer-personas"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

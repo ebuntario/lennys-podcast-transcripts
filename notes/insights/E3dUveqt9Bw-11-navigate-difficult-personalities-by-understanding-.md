@@ -2,9 +2,9 @@
 type: insight
 title: Navigate difficult personalities by understanding their core motivations
 concepts:
-  - "[[concepts/stakeholder-management]]"
-  - "[[concepts/influence]]"
-  - "[[concepts/empathy]]"
+  - "stakeholder-management"
+  - "influence"
+  - "empathy"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

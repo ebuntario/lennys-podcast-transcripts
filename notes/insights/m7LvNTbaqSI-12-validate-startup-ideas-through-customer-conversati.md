@@ -2,8 +2,8 @@
 type: insight
 title: Validate startup ideas through customer conversations before writing code
 concepts:
-  - "[[concepts/idea-validation]]"
-  - "[[concepts/customer-development]]"
+  - "idea-validation"
+  - "customer-development"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Color optimizations are negligible growth levers
 concepts:
-  - "[[concepts/optimization-prioritization]]"
-  - "[[concepts/growth-tactics]]"
-  - "[[concepts/accessibility]]"
+  - "optimization-prioritization"
+  - "growth-tactics"
+  - "accessibility"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

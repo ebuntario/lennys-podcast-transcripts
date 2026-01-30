@@ -2,9 +2,9 @@
 type: insight
 title: Effective sales pitches start with market insight, not product features
 concepts:
-  - "[[concepts/sales-pitch-framework]]"
-  - "[[concepts/positioning]]"
-  - "[[concepts/buyer-education]]"
+  - "sales-pitch-framework"
+  - "positioning"
+  - "buyer-education"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

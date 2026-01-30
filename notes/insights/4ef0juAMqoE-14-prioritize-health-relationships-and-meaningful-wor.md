@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize health, relationships, and meaningful work
 concepts:
-  - "[[concepts/work-life-balance]]"
-  - "[[concepts/burnout-prevention]]"
-  - "[[concepts/personal-growth]]"
+  - "work-life-balance"
+  - "burnout-prevention"
+  - "personal-growth"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

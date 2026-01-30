@@ -2,9 +2,9 @@
 type: insight
 title: AI as a management technology that changes organizational dynamics
 concepts:
-  - "[[concepts/ai-management]]"
-  - "[[concepts/organizational-values]]"
-  - "[[concepts/transparency]]"
+  - "ai-management"
+  - "organizational-values"
+  - "transparency"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

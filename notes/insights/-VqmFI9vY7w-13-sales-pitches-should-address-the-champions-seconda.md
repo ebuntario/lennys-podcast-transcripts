@@ -2,9 +2,9 @@
 type: insight
 title: Sales pitches should address the champion's secondary job: not getting fired
 concepts:
-  - "[[concepts/buyer-psychology]]"
-  - "[[concepts/risk-mitigation]]"
-  - "[[concepts/b2b-sales]]"
+  - "buyer-psychology"
+  - "risk-mitigation"
+  - "b2b-sales"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

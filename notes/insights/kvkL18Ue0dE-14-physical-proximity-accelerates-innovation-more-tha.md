@@ -2,9 +2,9 @@
 type: insight
 title: Physical proximity accelerates innovation more than remote tools
 concepts:
-  - "[[concepts/team-collaboration]]"
-  - "[[concepts/innovation-environment]]"
-  - "[[concepts/cognitive-load]]"
+  - "team-collaboration"
+  - "innovation-environment"
+  - "cognitive-load"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

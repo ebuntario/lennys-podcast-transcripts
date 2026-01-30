@@ -2,9 +2,9 @@
 type: insight
 title: Bring a clear recommendation to executives, not just data
 concepts:
-  - "[[concepts/executive-communication]]"
-  - "[[concepts/product-reviews]]"
-  - "[[concepts/accountability]]"
+  - "executive-communication"
+  - "product-reviews"
+  - "accountability"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

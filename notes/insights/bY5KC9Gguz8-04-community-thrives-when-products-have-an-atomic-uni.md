@@ -2,9 +2,9 @@
 type: insight
 title: Community thrives when products have an "atomic unit of sharing"
 concepts:
-  - "[[concepts/community-building]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/user-generated-content]]"
+  - "community-building"
+  - "product-led-growth"
+  - "user-generated-content"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

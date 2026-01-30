@@ -2,9 +2,9 @@
 type: insight
 title: Current AI lacks capabilities for deep scientific and emotional reasoning
 concepts:
-  - "[[concepts/ai-limitations]]"
-  - "[[concepts/scientific-discovery]]"
-  - "[[concepts/emotional-intelligence]]"
+  - "ai-limitations"
+  - "scientific-discovery"
+  - "emotional-intelligence"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

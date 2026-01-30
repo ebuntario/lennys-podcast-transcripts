@@ -2,9 +2,9 @@
 type: insight
 title: Limit One-on-Ones to Preserve Focus and Scale
 concepts:
-  - "[[concepts/meeting-culture]]"
-  - "[[concepts/time-management]]"
-  - "[[concepts/manager-effectiveness]]"
+  - "meeting-culture"
+  - "time-management"
+  - "manager-effectiveness"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

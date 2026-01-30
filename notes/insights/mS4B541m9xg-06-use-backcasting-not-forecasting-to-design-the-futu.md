@@ -2,9 +2,9 @@
 type: insight
 title: Use Backcasting, Not Forecasting, to Design the Future
 concepts:
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/innovation]]"
-  - "[[concepts/entrepreneurial-mindset]]"
+  - "strategic-planning"
+  - "innovation"
+  - "entrepreneurial-mindset"
 source_guest: Christopher Lochhead
 source_episode: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)
 source: "[[guests/christopher-lochhead|Christopher Lochhead]]"

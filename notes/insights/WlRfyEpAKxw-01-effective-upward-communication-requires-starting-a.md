@@ -2,9 +2,9 @@
 type: insight
 title: Effective Upward Communication Requires Starting at the Right Chapter
 concepts:
-  - "[[concepts/upward-communication]]"
-  - "[[concepts/storytelling]]"
-  - "[[concepts/executive-alignment]]"
+  - "upward-communication"
+  - "storytelling"
+  - "executive-alignment"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

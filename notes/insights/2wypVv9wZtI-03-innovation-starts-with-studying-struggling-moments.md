@@ -2,9 +2,9 @@
 type: insight
 title: Innovation starts with studying struggling moments, not building products
 concepts:
-  - "[[concepts/struggling-moment]]"
-  - "[[concepts/innovation]]"
-  - "[[concepts/customer-centricity]]"
+  - "struggling-moment"
+  - "innovation"
+  - "customer-centricity"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Extend 'Working Backwards' Beyond the Customer to the Full Launch Machinery
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/go-to-market]]"
-  - "[[concepts/alignment]]"
+  - "product-strategy"
+  - "go-to-market"
+  - "alignment"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Revisit onboarding only when you have new fundamental insights about customers
 concepts:
-  - "[[concepts/onboarding]]"
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/customer-insights]]"
+  - "onboarding"
+  - "product-strategy"
+  - "customer-insights"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

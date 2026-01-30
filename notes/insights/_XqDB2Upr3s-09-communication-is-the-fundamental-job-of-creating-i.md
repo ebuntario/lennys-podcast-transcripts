@@ -2,9 +2,9 @@
 type: insight
 title: Communication is the fundamental job of creating impact
 concepts:
-  - "[[concepts/communication-as-job]]"
-  - "[[concepts/impact-creation]]"
-  - "[[concepts/extreme-ownership]]"
+  - "communication-as-job"
+  - "impact-creation"
+  - "extreme-ownership"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

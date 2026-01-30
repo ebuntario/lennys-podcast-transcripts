@@ -2,9 +2,9 @@
 type: insight
 title: Build a product you are passionate about and would use yourself
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/market-selection]]"
+  - "founder-mindset"
+  - "product-development"
+  - "market-selection"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

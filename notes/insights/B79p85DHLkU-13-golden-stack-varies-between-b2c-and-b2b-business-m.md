@@ -2,9 +2,9 @@
 type: insight
 title: Golden stack varies between B2C and B2B business models
 concepts:
-  - "[[concepts/technology-stack]]"
-  - "[[concepts/b2b-vs-b2c]]"
-  - "[[concepts/tool-selection]]"
+  - "technology-stack"
+  - "b2b-vs-b2c"
+  - "tool-selection"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

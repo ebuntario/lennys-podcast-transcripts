@@ -2,9 +2,9 @@
 type: insight
 title: Reward learning, not just outcomes, to foster a culture of smart risk-taking
 concepts:
-  - "[[concepts/team-culture]]"
-  - "[[concepts/experimentation]]"
-  - "[[concepts/psychological-safety]]"
+  - "team-culture"
+  - "experimentation"
+  - "psychological-safety"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Hire specialists like SEO experts only after establishing foundational growth capabilities
 concepts:
-  - "[[concepts/hiring-frameworks]]"
-  - "[[concepts/specialist-vs-generalist]]"
-  - "[[concepts/growth-execution]]"
+  - "hiring-frameworks"
+  - "specialist-vs-generalist"
+  - "growth-execution"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

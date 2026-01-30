@@ -2,9 +2,9 @@
 type: insight
 title: A "human copilot" service emerges to unblock AI when it gets stuck
 concepts:
-  - "[[concepts/ai-limitations]]"
-  - "[[concepts/customer-support]]"
-  - "[[concepts/future-of-work]]"
+  - "ai-limitations"
+  - "customer-support"
+  - "future-of-work"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Aim to be loved, not just liked, by caring for the human behind the role
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/team-culture]]"
-  - "[[concepts/authentic-feedback]]"
+  - "leadership"
+  - "team-culture"
+  - "authentic-feedback"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

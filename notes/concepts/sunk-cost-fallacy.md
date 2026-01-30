@@ -11,10 +11,14 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/sunk-cost-fallacy"))
+WHERE contains(concepts, "sunk-cost-fallacy")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/decision-making]] (3 shared insights)
+- [[concepts/success-mindset]] (1 shared insights)
+- [[concepts/risk-management]] (1 shared insights)
+- [[concepts/project-planning]] (1 shared insights)
+- [[concepts/quitting]] (1 shared insights)

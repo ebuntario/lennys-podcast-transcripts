@@ -2,9 +2,9 @@
 type: insight
 title: Leadership principles become real through reinforcement processes
 concepts:
-  - "[[concepts/leadership-principles]]"
-  - "[[concepts/cultural-reinforcement]]"
-  - "[[concepts/operational-processes]]"
+  - "leadership-principles"
+  - "cultural-reinforcement"
+  - "operational-processes"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

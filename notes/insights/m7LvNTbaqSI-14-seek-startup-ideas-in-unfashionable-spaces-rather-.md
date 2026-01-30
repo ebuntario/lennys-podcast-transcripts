@@ -2,8 +2,8 @@
 type: insight
 title: Seek startup ideas in unfashionable spaces rather than following trends
 concepts:
-  - "[[concepts/startup-ideas]]"
-  - "[[concepts/market-opportunity]]"
+  - "startup-ideas"
+  - "market-opportunity"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

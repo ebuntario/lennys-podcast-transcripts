@@ -2,9 +2,9 @@
 type: insight
 title: Vibe coding emerges as a critical new skill across roles
 concepts:
-  - "[[concepts/ai-skills]]"
-  - "[[concepts/workforce-development]]"
-  - "[[concepts/product-development]]"
+  - "ai-skills"
+  - "workforce-development"
+  - "product-development"
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source_guest: Elena Verna
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

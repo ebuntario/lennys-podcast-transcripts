@@ -2,9 +2,9 @@
 type: insight
 title: Building a business around your core passion ("writing") can be a strategic advantage
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/business-models]]"
-  - "[[concepts/personal-alignment]]"
+  - "founder-mindset"
+  - "business-models"
+  - "personal-alignment"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

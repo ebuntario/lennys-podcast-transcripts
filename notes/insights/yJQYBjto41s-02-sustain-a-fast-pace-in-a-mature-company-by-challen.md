@@ -2,9 +2,9 @@
 type: insight
 title: Sustain a fast pace in a mature company by challenging timeline assumptions and managing path dependency
 concepts:
-  - "[[concepts/operational-efficiency]]"
-  - "[[concepts/team-management]]"
-  - "[[concepts/technical-debt]]"
+  - "operational-efficiency"
+  - "team-management"
+  - "technical-debt"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

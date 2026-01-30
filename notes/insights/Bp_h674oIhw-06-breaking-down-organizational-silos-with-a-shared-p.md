@@ -2,9 +2,9 @@
 type: insight
 title: Breaking down organizational silos with a shared prototype language
 concepts:
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/prototyping]]"
-  - "[[concepts/communication]]"
+  - "cross-functional-collaboration"
+  - "prototyping"
+  - "communication"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

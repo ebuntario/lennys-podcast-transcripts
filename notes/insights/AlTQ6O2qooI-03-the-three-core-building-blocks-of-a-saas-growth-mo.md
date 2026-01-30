@@ -2,9 +2,9 @@
 type: insight
 title: The three core building blocks of a SaaS growth model
 concepts:
-  - "[[concepts/growth-model]]"
-  - "[[concepts/saas-metrics]]"
-  - "[[concepts/business-modeling]]"
+  - "growth-model"
+  - "saas-metrics"
+  - "business-modeling"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

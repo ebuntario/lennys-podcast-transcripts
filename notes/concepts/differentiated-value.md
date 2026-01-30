@@ -11,10 +11,14 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/differentiated-value"))
+WHERE contains(concepts, "differentiated-value")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/competitive-advantage]] (2 shared insights)
+- [[concepts/product-positioning]] (1 shared insights)
+- [[concepts/cross-functional-collaboration]] (1 shared insights)
+- [[concepts/product-marketing]] (1 shared insights)
+- [[concepts/sales-alignment]] (1 shared insights)

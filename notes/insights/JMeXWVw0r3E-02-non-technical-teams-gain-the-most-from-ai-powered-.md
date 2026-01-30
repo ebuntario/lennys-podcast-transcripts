@@ -2,9 +2,9 @@
 type: insight
 title: Non-technical teams gain the most from AI-powered software creation
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/low-code-no-code]]"
-  - "[[concepts/cross-functional-productivity]]"
+  - "ai-agents"
+  - "low-code-no-code"
+  - "cross-functional-productivity"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Executives are often disconnected from ground-level AI adoption
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/executive-awareness]]"
+  - "leadership"
+  - "ai-adoption"
+  - "executive-awareness"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

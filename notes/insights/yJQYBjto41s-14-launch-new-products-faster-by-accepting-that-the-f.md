@@ -2,9 +2,9 @@
 type: insight
 title: Launch new products faster by accepting that the first version needs vision, not perfection
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/go-to-market]]"
-  - "[[concepts/startup-advice]]"
+  - "product-development"
+  - "go-to-market"
+  - "startup-advice"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

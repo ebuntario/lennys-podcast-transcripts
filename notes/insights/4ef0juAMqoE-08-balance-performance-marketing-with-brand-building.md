@@ -2,9 +2,9 @@
 type: insight
 title: Balance performance marketing with brand building
 concepts:
-  - "[[concepts/marketing]]"
-  - "[[concepts/growth]]"
-  - "[[concepts/brand-building]]"
+  - "marketing"
+  - "growth"
+  - "brand-building"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Achieve Technical Mastery Before Moving into Management
 concepts:
-  - "[[concepts/engineering-career-paths]]"
-  - "[[concepts/technical-competence]]"
-  - "[[concepts/management-transition]]"
+  - "engineering-career-paths"
+  - "technical-competence"
+  - "management-transition"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

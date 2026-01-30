@@ -9,10 +9,14 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/conviction"))
+WHERE contains(concepts, "conviction")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/founder-mindset]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)
+- [[concepts/idea-championing]] (1 shared insights)
+- [[concepts/radical-ideas]] (1 shared insights)
+- [[concepts/product-launch]] (1 shared insights)

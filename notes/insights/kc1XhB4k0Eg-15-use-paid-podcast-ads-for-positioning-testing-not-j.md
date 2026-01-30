@@ -2,9 +2,9 @@
 type: insight
 title: Use paid podcast ads for positioning testing, not just acquisition
 concepts:
-  - "[[concepts/market-testing]]"
-  - "[[concepts/podcast-monetization]]"
-  - "[[concepts/positioning]]"
+  - "market-testing"
+  - "podcast-monetization"
+  - "positioning"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

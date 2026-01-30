@@ -2,9 +2,9 @@
 type: insight
 title: Product experience, not subsidies, wins marketplace expansion races
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/liquidity]]"
+  - "marketplace-strategy"
+  - "product-led-growth"
+  - "liquidity"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

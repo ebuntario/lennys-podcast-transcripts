@@ -2,9 +2,9 @@
 type: insight
 title: Founders often misdiagnose problems by favoring their own skill set
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/problem-diagnosis]]"
-  - "[[concepts/cognitive-bias]]"
+  - "founder-mindset"
+  - "problem-diagnosis"
+  - "cognitive-bias"
 source_guest: Bret Taylor
 source_episode: He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)
 source: "[[guests/bret-taylor|Bret Taylor]]"

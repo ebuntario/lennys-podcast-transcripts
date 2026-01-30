@@ -2,9 +2,9 @@
 type: insight
 title: Collaboration accelerates audience growth for creators
 concepts:
-  - "[[concepts/cross-promotion]]"
-  - "[[concepts/audience-growth]]"
-  - "[[concepts/creator-community]]"
+  - "cross-promotion"
+  - "audience-growth"
+  - "creator-community"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

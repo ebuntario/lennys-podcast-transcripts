@@ -2,9 +2,9 @@
 type: insight
 title: Recalibrate values, not behaviors, when changing cultures
 concepts:
-  - "[[concepts/cultural-immigration]]"
-  - "[[concepts/values-vs-behaviors]]"
-  - "[[concepts/career-transitions]]"
+  - "cultural-immigration"
+  - "values-vs-behaviors"
+  - "career-transitions"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 source: "[[guests/bob-baxley|Bob Baxley]]"

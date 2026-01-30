@@ -2,9 +2,9 @@
 type: insight
 title: Deliver disappointing news directly, then provide hope for the future
 concepts:
-  - "[[concepts/difficult-conversations]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/employee-morale]]"
+  - "difficult-conversations"
+  - "career-development"
+  - "employee-morale"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

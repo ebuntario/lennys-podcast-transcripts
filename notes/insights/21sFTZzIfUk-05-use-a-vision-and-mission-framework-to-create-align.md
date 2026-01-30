@@ -2,9 +2,9 @@
 type: insight
 title: Use a vision and mission framework to create alignment at all levels
 concepts:
-  - "[[concepts/strategic-alignment]]"
-  - "[[concepts/vision-mission]]"
-  - "[[concepts/team-clarity]]"
+  - "strategic-alignment"
+  - "vision-mission"
+  - "team-clarity"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Adopt a problem-first, not tool-first, mindset
 concepts:
-  - "[[concepts/problem-first-approach]]"
-  - "[[concepts/product-strategy]]"
+  - "problem-first-approach"
+  - "product-strategy"
 source_guest: Kiriti Badam
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

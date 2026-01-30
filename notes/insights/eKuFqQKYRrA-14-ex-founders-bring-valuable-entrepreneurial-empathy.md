@@ -2,9 +2,9 @@
 type: insight
 title: Ex-founders bring valuable entrepreneurial empathy to product teams
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/entrepreneurial-mindset]]"
-  - "[[concepts/customer-empathy]]"
+  - "hiring"
+  - "entrepreneurial-mindset"
+  - "customer-empathy"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

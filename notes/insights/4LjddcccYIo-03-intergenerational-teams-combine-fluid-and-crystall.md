@@ -2,9 +2,9 @@
 type: insight
 title: Intergenerational teams combine fluid and crystallized intelligence
 concepts:
-  - "[[concepts/age-diversity]]"
-  - "[[concepts/team-dynamics]]"
-  - "[[concepts/cognitive-diversity]]"
+  - "age-diversity"
+  - "team-dynamics"
+  - "cognitive-diversity"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

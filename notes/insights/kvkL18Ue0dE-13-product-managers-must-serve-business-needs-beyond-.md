@@ -2,9 +2,9 @@
 type: insight
 title: Product managers must serve business needs beyond user experience
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/business-acumen]]"
-  - "[[concepts/team-dynamics]]"
+  - "product-management"
+  - "business-acumen"
+  - "team-dynamics"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

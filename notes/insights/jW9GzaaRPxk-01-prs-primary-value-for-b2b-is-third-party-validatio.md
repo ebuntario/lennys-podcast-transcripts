@@ -2,9 +2,9 @@
 type: insight
 title: PR's primary value for B2B is third-party validation, not direct growth
 concepts:
-  - "[[concepts/public-relations]]"
-  - "[[concepts/b2b-marketing]]"
-  - "[[concepts/credibility-signaling]]"
+  - "public-relations"
+  - "b2b-marketing"
+  - "credibility-signaling"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

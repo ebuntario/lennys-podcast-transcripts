@@ -2,8 +2,8 @@
 type: insight
 title: Pitch podcasts and newsletters as core parts of your PR strategy
 concepts:
-  - "[[concepts/podcast-outreach]]"
-  - "[[concepts/media-strategy]]"
+  - "podcast-outreach"
+  - "media-strategy"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Differentiated value must answer "why pick us over alternatives"
 concepts:
-  - "[[concepts/differentiated-value]]"
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/product-positioning]]"
+  - "differentiated-value"
+  - "competitive-advantage"
+  - "product-positioning"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

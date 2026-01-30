@@ -2,9 +2,9 @@
 type: insight
 title: Build a support network for transparent mental health conversations
 concepts:
-  - "[[concepts/mental-health]]"
-  - "[[concepts/support-network]]"
-  - "[[concepts/vulnerability]]"
+  - "mental-health"
+  - "support-network"
+  - "vulnerability"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

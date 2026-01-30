@@ -2,9 +2,9 @@
 type: insight
 title: Prepare for defensive reactions by pausing and reaffirming intent
 concepts:
-  - "[[concepts/difficult-conversations]]"
-  - "[[concepts/emotional-regulation]]"
-  - "[[concepts/conflict-management]]"
+  - "difficult-conversations"
+  - "emotional-regulation"
+  - "conflict-management"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Four paths to transition into product management from other fields
 concepts:
-  - "[[concepts/career-transition]]"
-  - "[[concepts/associate-product-manager]]"
-  - "[[concepts/internal-transfer]]"
+  - "career-transition"
+  - "associate-product-manager"
+  - "internal-transfer"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

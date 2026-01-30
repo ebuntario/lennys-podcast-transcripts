@@ -2,9 +2,9 @@
 type: insight
 title: Implement product-led sales through pilot programs before scaling
 concepts:
-  - "[[concepts/pilot-programs]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/evolution-not-revolution]]"
+  - "pilot-programs"
+  - "cross-functional-collaboration"
+  - "evolution-not-revolution"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

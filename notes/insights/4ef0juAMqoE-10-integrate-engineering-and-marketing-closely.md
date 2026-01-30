@@ -2,9 +2,9 @@
 type: insight
 title: Integrate engineering and marketing closely
 concepts:
-  - "[[concepts/collaboration]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/product-development]]"
+  - "collaboration"
+  - "organizational-design"
+  - "product-development"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

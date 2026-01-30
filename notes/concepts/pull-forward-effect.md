@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/pull-forward-effect"))
+WHERE contains(concepts, "pull-forward-effect")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/growth-metrics]] (1 shared insights)
+- [[concepts/data-driven-decisions]] (1 shared insights)

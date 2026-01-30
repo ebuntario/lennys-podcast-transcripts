@@ -2,9 +2,9 @@
 type: insight
 title: Build communities with momentum through small seeds and FOMO
 concepts:
-  - "[[concepts/community-building]]"
-  - "[[concepts/momentum]]"
-  - "[[concepts/norms]]"
+  - "community-building"
+  - "momentum"
+  - "norms"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

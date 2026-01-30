@@ -2,9 +2,9 @@
 type: insight
 title: Run toward organizational fear to prevent hesitation
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/ceo-mindset]]"
+  - "leadership"
+  - "decision-making"
+  - "ceo-mindset"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

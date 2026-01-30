@@ -2,9 +2,9 @@
 type: insight
 title: Democratizing software development through abstraction
 concepts:
-  - "[[concepts/software-democratization]]"
-  - "[[concepts/developer-tools]]"
-  - "[[concepts/abstraction]]"
+  - "software-democratization"
+  - "developer-tools"
+  - "abstraction"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

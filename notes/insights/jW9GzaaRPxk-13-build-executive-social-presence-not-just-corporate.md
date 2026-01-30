@@ -2,8 +2,8 @@
 type: insight
 title: Build executive social presence, not just corporate channels
 concepts:
-  - "[[concepts/social-media-strategy]]"
-  - "[[concepts/personal-branding]]"
+  - "social-media-strategy"
+  - "personal-branding"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

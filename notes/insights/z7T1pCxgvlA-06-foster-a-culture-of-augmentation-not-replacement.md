@@ -2,8 +2,8 @@
 type: insight
 title: Foster a culture of augmentation, not replacement
 concepts:
-  - "[[concepts/organizational-culture]]"
-  - "[[concepts/ai-transformation]]"
+  - "organizational-culture"
+  - "ai-transformation"
 source_guest: Aishwarya Naresh Reganti
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

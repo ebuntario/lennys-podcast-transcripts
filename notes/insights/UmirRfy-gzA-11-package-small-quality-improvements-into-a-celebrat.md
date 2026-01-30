@@ -2,8 +2,8 @@
 type: insight
 title: Package small quality improvements into a celebrated launch
 concepts:
-  - "[[concepts/product-quality]]"
-  - "[[concepts/user-feedback]]"
+  - "product-quality"
+  - "user-feedback"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

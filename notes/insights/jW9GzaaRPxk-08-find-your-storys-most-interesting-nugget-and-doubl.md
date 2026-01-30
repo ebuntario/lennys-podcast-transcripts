@@ -2,8 +2,8 @@
 type: insight
 title: Find your story's most interesting nugget and double down on it
 concepts:
-  - "[[concepts/storytelling]]"
-  - "[[concepts/messaging]]"
+  - "storytelling"
+  - "messaging"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

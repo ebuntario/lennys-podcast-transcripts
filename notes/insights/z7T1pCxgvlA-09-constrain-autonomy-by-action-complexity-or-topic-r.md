@@ -2,8 +2,8 @@
 type: insight
 title: Constrain autonomy by action complexity or topic risk
 concepts:
-  - "[[concepts/risk-management]]"
-  - "[[concepts/agency-control-tradeoff]]"
+  - "risk-management"
+  - "agency-control-tradeoff"
 source_guest: Aishwarya Naresh Reganti
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 source: "[[guests/aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]"

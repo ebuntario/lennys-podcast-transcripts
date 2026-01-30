@@ -2,8 +2,8 @@
 type: insight
 title: Accelerate career growth by working harder and taking on extra responsibilities
 concepts:
-  - "[[concepts/career-acceleration]]"
-  - "[[concepts/executive-mindset]]"
+  - "career-acceleration"
+  - "executive-mindset"
 source_guest: Carilu Dietrich
 source_episode: How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)
 source: "[[guests/carilu-dietrich|Carilu Dietrich]]"

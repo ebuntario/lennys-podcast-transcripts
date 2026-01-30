@@ -2,9 +2,9 @@
 type: insight
 title: Content must achieve "content-market fit" by solving audience pain points
 concepts:
-  - "[[concepts/content-marketing]]"
-  - "[[concepts/audience-research]]"
-  - "[[concepts/jobs-to-be-done]]"
+  - "content-marketing"
+  - "audience-research"
+  - "jobs-to-be-done"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

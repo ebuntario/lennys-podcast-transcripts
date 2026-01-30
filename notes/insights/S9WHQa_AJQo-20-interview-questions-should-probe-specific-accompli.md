@@ -2,9 +2,9 @@
 type: insight
 title: Interview questions should probe specific accomplishments
 concepts:
-  - "[[concepts/interview-techniques]]"
-  - "[[concepts/behavioral-assessment]]"
-  - "[[concepts/hiring-standards]]"
+  - "interview-techniques"
+  - "behavioral-assessment"
+  - "hiring-standards"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

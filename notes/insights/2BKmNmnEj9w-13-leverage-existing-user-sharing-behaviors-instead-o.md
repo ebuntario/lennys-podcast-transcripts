@@ -2,9 +2,9 @@
 type: insight
 title: Leverage existing user sharing behaviors instead of forcing new viral mechanics
 concepts:
-  - "[[concepts/viral-growth]]"
-  - "[[concepts/user-behavior]]"
-  - "[[concepts/product-moments]]"
+  - "viral-growth"
+  - "user-behavior"
+  - "product-moments"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

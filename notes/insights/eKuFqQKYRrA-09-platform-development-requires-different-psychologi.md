@@ -2,9 +2,9 @@
 type: insight
 title: Platform development requires different psychological preparation
 concepts:
-  - "[[concepts/platform-strategy]]"
-  - "[[concepts/product-development-cycles]]"
-  - "[[concepts/team-motivation]]"
+  - "platform-strategy"
+  - "product-development-cycles"
+  - "team-motivation"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

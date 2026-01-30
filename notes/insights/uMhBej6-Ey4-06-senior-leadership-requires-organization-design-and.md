@@ -2,9 +2,9 @@
 type: insight
 title: Senior leadership requires organization design and empathy
 concepts:
-  - "[[concepts/leadership-development]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/empathy]]"
+  - "leadership-development"
+  - "organizational-design"
+  - "empathy"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

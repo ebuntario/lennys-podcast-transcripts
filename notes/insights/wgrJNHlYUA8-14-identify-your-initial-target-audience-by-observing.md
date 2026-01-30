@@ -2,9 +2,9 @@
 type: insight
 title: Identify your initial target audience by observing who gets most excited
 concepts:
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/user-research]]"
-  - "[[concepts/go-to-market]]"
+  - "product-market-fit"
+  - "user-research"
+  - "go-to-market"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams
 source: "[[guests/cam-adams|Cam Adams]]"

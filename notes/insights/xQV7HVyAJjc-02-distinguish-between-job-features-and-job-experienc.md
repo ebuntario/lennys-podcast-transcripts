@@ -2,9 +2,9 @@
 type: insight
 title: Distinguish between job features and job experiences to find fulfillment
 concepts:
-  - "[[concepts/job-features-vs-experiences]]"
-  - "[[concepts/compensation-motivation]]"
-  - "[[concepts/career-fulfillment]]"
+  - "job-features-vs-experiences"
+  - "compensation-motivation"
+  - "career-fulfillment"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

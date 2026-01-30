@@ -2,9 +2,9 @@
 type: insight
 title: Product thinking requires understanding what customers truly value
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/customer-understanding]]"
-  - "[[concepts/communication]]"
+  - "product-strategy"
+  - "customer-understanding"
+  - "communication"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

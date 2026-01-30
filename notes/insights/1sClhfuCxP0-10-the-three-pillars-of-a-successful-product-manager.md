@@ -2,9 +2,9 @@
 type: insight
 title: The Three Pillars of a Successful Product Manager
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/career-development]]"
-  - "[[concepts/influence]]"
+  - "product-management"
+  - "career-development"
+  - "influence"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

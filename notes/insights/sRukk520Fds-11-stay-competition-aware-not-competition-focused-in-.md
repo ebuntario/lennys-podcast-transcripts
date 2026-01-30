@@ -2,9 +2,9 @@
 type: insight
 title: Stay competition-aware, not competition-focused, in large, non-saturated markets
 concepts:
-  - "[[concepts/competitive-strategy]]"
-  - "[[concepts/market-focus]]"
-  - "[[concepts/customer-centricity]]"
+  - "competitive-strategy"
+  - "market-focus"
+  - "customer-centricity"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

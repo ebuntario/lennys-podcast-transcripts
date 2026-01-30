@@ -2,9 +2,9 @@
 type: insight
 title: Frame your story by referencing known incumbents, not creating new categories
 concepts:
-  - "[[concepts/pitching]]"
-  - "[[concepts/messaging]]"
-  - "[[concepts/positioning]]"
+  - "pitching"
+  - "messaging"
+  - "positioning"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

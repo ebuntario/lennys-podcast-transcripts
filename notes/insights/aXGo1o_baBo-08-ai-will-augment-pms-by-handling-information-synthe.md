@@ -2,9 +2,9 @@
 type: insight
 title: AI will augment PMs by handling information synthesis, not relationship leadership
 concepts:
-  - "[[concepts/ai-product-management]]"
-  - "[[concepts/future-of-work]]"
-  - "[[concepts/communication]]"
+  - "ai-product-management"
+  - "future-of-work"
+  - "communication"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Cross-functional positioning creates better sales pitches
 concepts:
-  - "[[concepts/positioning]]"
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/product-marketing]]"
+  - "positioning"
+  - "cross-functional-collaboration"
+  - "product-marketing"
 source_guest: April Dunford
 source_episode: How to nail your product positioning | April Dunford (Obviously Awesome)
 source: "[[guests/april-dunford-20|April Dunford 2.0]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Fitness functions obscure actionable insights through aggregation
 concepts:
-  - "[[concepts/metric-aggregation]]"
-  - "[[concepts/performance-measurement]]"
-  - "[[concepts/decision-making]]"
+  - "metric-aggregation"
+  - "performance-measurement"
+  - "decision-making"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

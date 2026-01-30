@@ -2,9 +2,9 @@
 type: insight
 title: Create specialized product owner roles while maintaining core competency overlap
 concepts:
-  - "[[concepts/role-specialization]]"
-  - "[[concepts/product-skills]]"
-  - "[[concepts/cross-functional-expertise]]"
+  - "role-specialization"
+  - "product-skills"
+  - "cross-functional-expertise"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

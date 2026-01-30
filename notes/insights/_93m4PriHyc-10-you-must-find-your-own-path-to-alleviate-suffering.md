@@ -2,9 +2,9 @@
 type: insight
 title: You Must Find Your Own Path to Alleviate Suffering
 concepts:
-  - "[[concepts/personal-journey]]"
-  - "[[concepts/uniqueness]]"
-  - "[[concepts/self-discovery]]"
+  - "personal-journey"
+  - "uniqueness"
+  - "self-discovery"
 source_guest: Andy Johns
 source_episode: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 source: "[[guests/andy-johns|Andy Johns]]"

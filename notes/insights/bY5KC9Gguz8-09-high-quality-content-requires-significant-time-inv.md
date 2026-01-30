@@ -2,8 +2,8 @@
 type: insight
 title: High-quality content requires significant time investment for connection and synthesis
 concepts:
-  - "[[concepts/content-creation]]"
-  - "[[concepts/thought-leadership]]"
+  - "content-creation"
+  - "thought-leadership"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts
 source: "[[guests/camille-ricketts|Camille Ricketts]]"

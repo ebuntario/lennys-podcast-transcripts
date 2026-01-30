@@ -2,9 +2,9 @@
 type: insight
 title: Embed marketing functions close to their primary outcomes
 concepts:
-  - "[[concepts/organizational-structure]]"
-  - "[[concepts/growth-marketing]]"
-  - "[[concepts/brand-strategy]]"
+  - "organizational-structure"
+  - "growth-marketing"
+  - "brand-strategy"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

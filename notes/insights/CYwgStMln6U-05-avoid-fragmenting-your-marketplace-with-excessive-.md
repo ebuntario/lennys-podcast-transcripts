@@ -2,9 +2,9 @@
 type: insight
 title: Avoid fragmenting your marketplace with excessive user choice
 concepts:
-  - "[[concepts/marketplace-liquidity]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/product-strategy]]"
+  - "marketplace-liquidity"
+  - "user-experience"
+  - "product-strategy"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

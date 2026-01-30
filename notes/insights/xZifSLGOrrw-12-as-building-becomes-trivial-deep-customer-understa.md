@@ -2,9 +2,9 @@
 type: insight
 title: As building becomes trivial, deep customer understanding becomes the primary competitive advantage
 concepts:
-  - "[[concepts/competitive-advantage]]"
-  - "[[concepts/customer-centricity]]"
-  - "[[concepts/vertical-software]]"
+  - "competitive-advantage"
+  - "customer-centricity"
+  - "vertical-software"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

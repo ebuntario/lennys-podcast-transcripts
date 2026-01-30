@@ -2,9 +2,9 @@
 type: insight
 title: Management is a Service Role, Not a Command Position
 concepts:
-  - "[[concepts/servant-leadership]]"
-  - "[[concepts/management-expectations]]"
-  - "[[concepts/team-dynamics]]"
+  - "servant-leadership"
+  - "management-expectations"
+  - "team-dynamics"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Founder mode requires clear alignment and credibility-building
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/credibility]]"
-  - "[[concepts/communication]]"
+  - "leadership"
+  - "credibility"
+  - "communication"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

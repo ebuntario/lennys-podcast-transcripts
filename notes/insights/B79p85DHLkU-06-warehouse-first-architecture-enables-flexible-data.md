@@ -2,9 +2,9 @@
 type: insight
 title: Warehouse-first architecture enables flexible data activation through reverse ETL
 concepts:
-  - "[[concepts/data-architecture]]"
-  - "[[concepts/reverse-etl]]"
-  - "[[concepts/customer-data-platform]]"
+  - "data-architecture"
+  - "reverse-etl"
+  - "customer-data-platform"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

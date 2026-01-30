@@ -2,9 +2,9 @@
 type: insight
 title: Proactively leverage your leaders and managers to unblock work
 concepts:
-  - "[[concepts/manager-leverage]]"
-  - "[[concepts/communication-framing]]"
-  - "[[concepts/execution-blockers]]"
+  - "manager-leverage"
+  - "communication-framing"
+  - "execution-blockers"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

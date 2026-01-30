@@ -2,9 +2,9 @@
 type: insight
 title: Say the thing you think you cannot say
 concepts:
-  - "[[concepts/communication]]"
-  - "[[concepts/feedback]]"
-  - "[[concepts/psychological-safety]]"
+  - "communication"
+  - "feedback"
+  - "psychological-safety"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

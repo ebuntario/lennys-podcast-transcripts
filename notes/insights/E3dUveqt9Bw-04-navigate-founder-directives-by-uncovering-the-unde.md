@@ -2,9 +2,9 @@
 type: insight
 title: Navigate founder directives by uncovering the underlying objective
 concepts:
-  - "[[concepts/founder-dynamics]]"
-  - "[[concepts/strategic-alignment]]"
-  - "[[concepts/communication]]"
+  - "founder-dynamics"
+  - "strategic-alignment"
+  - "communication"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

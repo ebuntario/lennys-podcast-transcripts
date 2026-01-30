@@ -2,9 +2,9 @@
 type: insight
 title: Evals as Sales Collateral and Capability Demonstrators
 concepts:
-  - "[[concepts/ai-evals]]"
-  - "[[concepts/model-capabilities]]"
-  - "[[concepts/product-positioning]]"
+  - "ai-evals"
+  - "model-capabilities"
+  - "product-positioning"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

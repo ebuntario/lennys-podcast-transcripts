@@ -2,9 +2,9 @@
 type: insight
 title: AI enables a new "sip seed" fundraising model for capital-efficient startups
 concepts:
-  - "[[concepts/startup-funding]]"
-  - "[[concepts/capital-efficiency]]"
-  - "[[concepts/ai-leverage]]"
+  - "startup-funding"
+  - "capital-efficiency"
+  - "ai-leverage"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

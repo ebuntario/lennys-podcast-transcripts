@@ -2,9 +2,9 @@
 type: insight
 title: Customer focus is the ultimate shortcut to product success
 concepts:
-  - "[[concepts/customer-focus]]"
-  - "[[concepts/product-development]]"
-  - "[[concepts/alignment]]"
+  - "customer-focus"
+  - "product-development"
+  - "alignment"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

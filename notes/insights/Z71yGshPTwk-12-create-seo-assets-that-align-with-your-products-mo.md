@@ -2,9 +2,9 @@
 type: insight
 title: Create SEO assets that align with your product's monetization path
 concepts:
-  - "[[concepts/seo-strategy]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/content-strategy]]"
+  - "seo-strategy"
+  - "product-led-growth"
+  - "content-strategy"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Choose radical transparency, especially during crises
 concepts:
-  - "[[concepts/brand-transparency]]"
-  - "[[concepts/crisis-communication]]"
+  - "brand-transparency"
+  - "crisis-communication"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Build a company only you could build, driven by unique insight and mission
 concepts:
-  - "[[concepts/founder-mindset]]"
-  - "[[concepts/company-building]]"
-  - "[[concepts/mission-driven]]"
+  - "founder-mindset"
+  - "company-building"
+  - "mission-driven"
 source_guest: Edwin Chen
 source_episode: The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen
 source: "[[guests/edwin-chen|Edwin Chen]]"

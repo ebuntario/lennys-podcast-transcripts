@@ -2,9 +2,9 @@
 type: insight
 title: Create a Personal Operating Manual to improve team collaboration
 concepts:
-  - "[[concepts/team-alignment]]"
-  - "[[concepts/communication-styles]]"
-  - "[[concepts/working-style]]"
+  - "team-alignment"
+  - "communication-styles"
+  - "working-style"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

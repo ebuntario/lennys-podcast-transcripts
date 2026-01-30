@@ -2,9 +2,9 @@
 type: insight
 title: Product sense is a muscle built through curiosity and exposure
 concepts:
-  - "[[concepts/product-sense]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/continuous-learning]]"
+  - "product-sense"
+  - "skill-development"
+  - "continuous-learning"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

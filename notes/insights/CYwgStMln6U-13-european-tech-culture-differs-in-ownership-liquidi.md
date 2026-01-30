@@ -2,9 +2,9 @@
 type: insight
 title: European tech culture differs in ownership, liquidity, and equity value
 concepts:
-  - "[[concepts/cultural-differences]]"
-  - "[[concepts/ownership-mindset]]"
-  - "[[concepts/compensation]]"
+  - "cultural-differences"
+  - "ownership-mindset"
+  - "compensation"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

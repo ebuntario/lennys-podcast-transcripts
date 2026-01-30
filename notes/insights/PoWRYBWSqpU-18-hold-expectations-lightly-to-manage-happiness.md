@@ -2,9 +2,9 @@
 type: insight
 title: Hold expectations lightly to manage happiness
 concepts:
-  - "[[concepts/expectation-management]]"
-  - "[[concepts/happiness]]"
-  - "[[concepts/resilience]]"
+  - "expectation-management"
+  - "happiness"
+  - "resilience"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

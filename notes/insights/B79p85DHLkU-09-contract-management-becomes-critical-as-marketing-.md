@@ -2,9 +2,9 @@
 type: insight
 title: Contract management becomes critical as marketing technology scales
 concepts:
-  - "[[concepts/vendor-management]]"
-  - "[[concepts/cost-optimization]]"
-  - "[[concepts/contract-strategy]]"
+  - "vendor-management"
+  - "cost-optimization"
+  - "contract-strategy"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

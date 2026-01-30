@@ -2,9 +2,9 @@
 type: insight
 title: Treat Functional Ops Roles as Temporary Hacks to Root Out Inefficiency
 concepts:
-  - "[[concepts/operational-efficiency]]"
-  - "[[concepts/process-automation]]"
-  - "[[concepts/team-structure]]"
+  - "operational-efficiency"
+  - "process-automation"
+  - "team-structure"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

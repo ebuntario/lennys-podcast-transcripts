@@ -2,8 +2,8 @@
 type: insight
 title: Make the implicit explicit in meetings
 concepts:
-  - "[[concepts/meetings]]"
-  - "[[concepts/decision-making]]"
+  - "meetings"
+  - "decision-making"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

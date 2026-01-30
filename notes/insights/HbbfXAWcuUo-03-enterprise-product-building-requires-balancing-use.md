@@ -2,9 +2,9 @@
 type: insight
 title: Enterprise product building requires balancing user experience with governance
 concepts:
-  - "[[concepts/enterprise-product]]"
-  - "[[concepts/user-experience]]"
-  - "[[concepts/governance]]"
+  - "enterprise-product"
+  - "user-experience"
+  - "governance"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

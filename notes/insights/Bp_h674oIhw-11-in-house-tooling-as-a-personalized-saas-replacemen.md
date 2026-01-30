@@ -2,9 +2,9 @@
 type: insight
 title: In-house tooling as a personalized SaaS replacement
 concepts:
-  - "[[concepts/internal-tools]]"
-  - "[[concepts/software-democratization]]"
-  - "[[concepts/customization]]"
+  - "internal-tools"
+  - "software-democratization"
+  - "customization"
 source_guest: Amjad Masad
 source_episode: Behind the product: Replit | Amjad Masad (co-founder and CEO)
 source: "[[guests/amjad-masad|Amjad Masad]]"

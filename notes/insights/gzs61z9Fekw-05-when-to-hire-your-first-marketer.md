@@ -2,9 +2,9 @@
 type: insight
 title: When to Hire Your First Marketer
 concepts:
-  - "[[concepts/hiring-strategy]]"
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/go-to-market]]"
+  - "hiring-strategy"
+  - "product-market-fit"
+  - "go-to-market"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

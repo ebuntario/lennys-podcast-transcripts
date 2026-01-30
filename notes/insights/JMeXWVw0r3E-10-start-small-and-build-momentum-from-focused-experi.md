@@ -2,9 +2,9 @@
 type: insight
 title: Start small and build momentum from focused experiments
 concepts:
-  - "[[concepts/innovation]]"
-  - "[[concepts/experimentation]]"
-  - "[[concepts/startup-mindset]]"
+  - "innovation"
+  - "experimentation"
+  - "startup-mindset"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

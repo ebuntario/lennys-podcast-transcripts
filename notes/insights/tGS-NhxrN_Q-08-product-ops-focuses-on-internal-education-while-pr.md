@@ -2,9 +2,9 @@
 type: insight
 title: Product ops focuses on internal education while product marketing focuses on external positioning
 concepts:
-  - "[[concepts/product-operations]]"
-  - "[[concepts/product-marketing]]"
-  - "[[concepts/internal-communication]]"
+  - "product-operations"
+  - "product-marketing"
+  - "internal-communication"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

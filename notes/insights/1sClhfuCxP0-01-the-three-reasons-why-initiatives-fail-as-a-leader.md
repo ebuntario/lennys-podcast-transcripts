@@ -2,9 +2,9 @@
 type: insight
 title: The Three Reasons Why Initiatives Fail as a Leader
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/performance-management]]"
-  - "[[concepts/team-setup]]"
+  - "leadership"
+  - "performance-management"
+  - "team-setup"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

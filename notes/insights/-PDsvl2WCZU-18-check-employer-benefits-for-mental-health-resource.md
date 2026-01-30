@@ -2,9 +2,9 @@
 type: insight
 title: Check employer benefits for mental health resources like therapy coverage
 concepts:
-  - "[[concepts/mental-health-resources]]"
-  - "[[concepts/employee-benefits]]"
-  - "[[concepts/workplace-wellness]]"
+  - "mental-health-resources"
+  - "employee-benefits"
+  - "workplace-wellness"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

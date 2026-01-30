@@ -2,9 +2,9 @@
 type: insight
 title: Model diversity and ensemble approaches outperform single-model strategies
 concepts:
-  - "[[concepts/model-diversity]]"
-  - "[[concepts/ensemble-models]]"
-  - "[[concepts/use-case-optimization]]"
+  - "model-diversity"
+  - "ensemble-models"
+  - "use-case-optimization"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Spend one focused week building with AI tools to reach top 1% proficiency
 concepts:
-  - "[[concepts/ai-tools]]"
-  - "[[concepts/skill-development]]"
-  - "[[concepts/practical-learning]]"
+  - "ai-tools"
+  - "skill-development"
+  - "practical-learning"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

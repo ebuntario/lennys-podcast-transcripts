@@ -2,9 +2,9 @@
 type: insight
 title: Future-proof attribution requires collecting first and last touch data from day one
 concepts:
-  - "[[concepts/attribution]]"
-  - "[[concepts/data-architecture]]"
-  - "[[concepts/user-tracking]]"
+  - "attribution"
+  - "data-architecture"
+  - "user-tracking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

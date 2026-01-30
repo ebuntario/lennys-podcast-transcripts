@@ -2,9 +2,9 @@
 type: insight
 title: Functional countermeasures preserve expertise in decentralized teams
 concepts:
-  - "[[concepts/functional-excellence]]"
-  - "[[concepts/organizational-design]]"
-  - "[[concepts/cross-functional-teams]]"
+  - "functional-excellence"
+  - "organizational-design"
+  - "cross-functional-teams"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

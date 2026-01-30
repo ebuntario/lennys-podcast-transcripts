@@ -2,9 +2,9 @@
 type: insight
 title: Everyone has a role in shaping the AI-augmented future
 concepts:
-  - "[[concepts/human-agency]]"
-  - "[[concepts/ai-impact]]"
-  - "[[concepts/technology-adoption]]"
+  - "human-agency"
+  - "ai-impact"
+  - "technology-adoption"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

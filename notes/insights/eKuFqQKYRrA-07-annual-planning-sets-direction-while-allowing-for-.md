@@ -2,9 +2,9 @@
 type: insight
 title: Annual planning sets direction while allowing for chaotic execution
 concepts:
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/agile-execution]]"
-  - "[[concepts/team-autonomy]]"
+  - "strategic-planning"
+  - "agile-execution"
+  - "team-autonomy"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Start product management before you have the title by analyzing products daily
 concepts:
-  - "[[concepts/skill-development]]"
-  - "[[concepts/product-sense]]"
-  - "[[concepts/career-development]]"
+  - "skill-development"
+  - "product-sense"
+  - "career-development"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

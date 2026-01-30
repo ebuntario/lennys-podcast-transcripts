@@ -2,9 +2,9 @@
 type: insight
 title: One-off emails never drive meaningful lift
 concepts:
-  - "[[concepts/email-strategy]]"
-  - "[[concepts/growth-experiments]]"
-  - "[[concepts/communication-series]]"
+  - "email-strategy"
+  - "growth-experiments"
+  - "communication-series"
 source_guest: Elena Verna
 source_episode: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 source: "[[guests/elena-verna|Elena Verna]]"

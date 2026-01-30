@@ -2,9 +2,9 @@
 type: insight
 title: Use a simple "once upon a time" story framework to craft a vision narrative
 concepts:
-  - "[[concepts/storytelling]]"
-  - "[[concepts/product-vision]]"
-  - "[[concepts/communication]]"
+  - "storytelling"
+  - "product-vision"
+  - "communication"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

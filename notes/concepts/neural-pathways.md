@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/neural-pathways"))
+WHERE contains(concepts, "neural-pathways")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/self-compassion]] (1 shared insights)
+- [[concepts/conditioned-behavior]] (1 shared insights)

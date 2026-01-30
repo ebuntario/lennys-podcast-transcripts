@@ -2,8 +2,8 @@
 type: insight
 title: Expecting fairness is a psychological trap
 concepts:
-  - "[[concepts/success-mindset]]"
-  - "[[concepts/psychological-resilience]]"
+  - "success-mindset"
+  - "psychological-resilience"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

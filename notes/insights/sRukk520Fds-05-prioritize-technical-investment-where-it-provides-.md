@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize technical investment where it provides the highest leverage for the business
 concepts:
-  - "[[concepts/technical-leverage]]"
-  - "[[concepts/resource-allocation]]"
-  - "[[concepts/product-strategy]]"
+  - "technical-leverage"
+  - "resource-allocation"
+  - "product-strategy"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

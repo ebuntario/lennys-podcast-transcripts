@@ -2,9 +2,9 @@
 type: insight
 title: Codify founding documents when new hires start asking "why"
 concepts:
-  - "[[concepts/company-culture]]"
-  - "[[concepts/mission-vision]]"
-  - "[[concepts/onboarding]]"
+  - "company-culture"
+  - "mission-vision"
+  - "onboarding"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

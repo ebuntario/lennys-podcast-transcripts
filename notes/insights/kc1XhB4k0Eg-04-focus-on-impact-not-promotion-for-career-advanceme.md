@@ -2,9 +2,9 @@
 type: insight
 title: Focus on impact, not promotion, for career advancement
 concepts:
-  - "[[concepts/career-development]]"
-  - "[[concepts/performance-metrics]]"
-  - "[[concepts/company-culture]]"
+  - "career-development"
+  - "performance-metrics"
+  - "company-culture"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

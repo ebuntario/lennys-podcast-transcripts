@@ -2,9 +2,9 @@
 type: insight
 title: Name the shift from an old game to a new game
 concepts:
-  - "[[concepts/strategic-narrative]]"
-  - "[[concepts/messaging]]"
-  - "[[concepts/category-creation]]"
+  - "strategic-narrative"
+  - "messaging"
+  - "category-creation"
 source_guest: Andy Raskin
 source_episode: The power of strategic narrative | Andy Raskin
 source: "[[guests/andy-raskin|Andy Raskin]]"

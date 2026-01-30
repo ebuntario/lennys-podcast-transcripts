@@ -2,9 +2,9 @@
 type: insight
 title: Vertically integrating software and operations enables unique consumer experiences
 concepts:
-  - "[[concepts/vertical-integration]]"
-  - "[[concepts/consumer-experience]]"
-  - "[[concepts/product-strategy]]"
+  - "vertical-integration"
+  - "consumer-experience"
+  - "product-strategy"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

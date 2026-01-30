@@ -2,9 +2,9 @@
 type: insight
 title: Start product-led sales with manual processes before automating
 concepts:
-  - "[[concepts/data-sales-fit]]"
-  - "[[concepts/evolution-not-revolution]]"
-  - "[[concepts/pilot-programs]]"
+  - "data-sales-fit"
+  - "evolution-not-revolution"
+  - "pilot-programs"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

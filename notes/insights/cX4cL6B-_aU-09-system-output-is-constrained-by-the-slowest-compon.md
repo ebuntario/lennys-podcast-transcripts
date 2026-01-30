@@ -2,9 +2,9 @@
 type: insight
 title: System output is constrained by the slowest component
 concepts:
-  - "[[concepts/systems-thinking]]"
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/bottlenecks]]"
+  - "systems-thinking"
+  - "ai-adoption"
+  - "bottlenecks"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

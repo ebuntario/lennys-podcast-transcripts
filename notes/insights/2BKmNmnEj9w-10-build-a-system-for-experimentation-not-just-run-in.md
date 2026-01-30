@@ -2,9 +2,9 @@
 type: insight
 title: Build a system for experimentation, not just run individual experiments
 concepts:
-  - "[[concepts/experimentation-culture]]"
-  - "[[concepts/growth-model]]"
-  - "[[concepts/instrumentation]]"
+  - "experimentation-culture"
+  - "growth-model"
+  - "instrumentation"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

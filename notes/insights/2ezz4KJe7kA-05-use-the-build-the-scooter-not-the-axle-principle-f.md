@@ -2,9 +2,9 @@
 type: insight
 title: Use the "build the scooter, not the axle" principle for MVPs
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/minimum-viable-product]]"
-  - "[[concepts/customer-value]]"
+  - "product-development"
+  - "minimum-viable-product"
+  - "customer-value"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

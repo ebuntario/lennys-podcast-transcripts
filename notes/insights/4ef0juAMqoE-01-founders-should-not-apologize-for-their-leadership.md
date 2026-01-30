@@ -2,9 +2,9 @@
 type: insight
 title: Founders should not apologize for their leadership style
 concepts:
-  - "[[concepts/leadership]]"
-  - "[[concepts/decision-making]]"
-  - "[[concepts/company-culture]]"
+  - "leadership"
+  - "decision-making"
+  - "company-culture"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

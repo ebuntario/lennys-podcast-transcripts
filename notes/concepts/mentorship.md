@@ -9,10 +9,14 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/mentorship"))
+WHERE contains(concepts, "mentorship")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/age-diversity]] (2 shared insights)
+- [[concepts/skill-development]] (2 shared insights)
+- [[concepts/humility]] (1 shared insights)
+- [[concepts/company-culture]] (1 shared insights)
+- [[concepts/ecosystem-building]] (1 shared insights)

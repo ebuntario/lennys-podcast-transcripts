@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/specialization-overlap"))
+WHERE contains(concepts, "specialization-overlap")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/role-specialization]] (1 shared insights)
+- [[concepts/product-skills]] (1 shared insights)
+- [[concepts/cross-functional-expertise]] (1 shared insights)

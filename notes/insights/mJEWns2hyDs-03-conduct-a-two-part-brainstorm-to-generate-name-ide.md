@@ -2,8 +2,8 @@
 type: insight
 title: Conduct a two-part brainstorm to generate name ideas
 concepts:
-  - "[[concepts/company-naming]]"
-  - "[[concepts/creative-brainstorming]]"
+  - "company-naming"
+  - "creative-brainstorming"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

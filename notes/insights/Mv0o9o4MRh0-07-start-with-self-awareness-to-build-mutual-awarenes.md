@@ -2,9 +2,9 @@
 type: insight
 title: Start with self-awareness to build mutual awareness
 concepts:
-  - "[[concepts/self-awareness]]"
-  - "[[concepts/management]]"
-  - "[[concepts/feedback]]"
+  - "self-awareness"
+  - "management"
+  - "feedback"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

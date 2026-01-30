@@ -2,9 +2,9 @@
 type: insight
 title: Intellectual curiosity and technical scrappiness define successful marketing technologists
 concepts:
-  - "[[concepts/hiring]]"
-  - "[[concepts/technical-skills]]"
-  - "[[concepts/continuous-learning]]"
+  - "hiring"
+  - "technical-skills"
+  - "continuous-learning"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

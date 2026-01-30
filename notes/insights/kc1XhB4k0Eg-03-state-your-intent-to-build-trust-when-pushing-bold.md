@@ -2,9 +2,9 @@
 type: insight
 title: State your intent to build trust when pushing bold ideas
 concepts:
-  - "[[concepts/influence]]"
-  - "[[concepts/communication]]"
-  - "[[concepts/team-dynamics]]"
+  - "influence"
+  - "communication"
+  - "team-dynamics"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

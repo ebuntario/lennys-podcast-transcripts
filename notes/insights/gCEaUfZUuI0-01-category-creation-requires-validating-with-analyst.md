@@ -2,9 +2,9 @@
 type: insight
 title: Category creation requires validating with analysts and educating buyers
 concepts:
-  - "[[concepts/category-creation]]"
-  - "[[concepts/thought-leadership]]"
-  - "[[concepts/buyer-education]]"
+  - "category-creation"
+  - "thought-leadership"
+  - "buyer-education"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

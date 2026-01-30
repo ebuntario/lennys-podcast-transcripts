@@ -2,9 +2,9 @@
 type: insight
 title: Use Rituals and Boundaries to Maintain Focus
 concepts:
-  - "[[concepts/personal-productivity]]"
-  - "[[concepts/focus-techniques]]"
-  - "[[concepts/work-habits]]"
+  - "personal-productivity"
+  - "focus-techniques"
+  - "work-habits"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 source: "[[guests/camille-fournier|Camille Fournier]]"

@@ -2,9 +2,9 @@
 type: insight
 title: LLMs as magical duct tape change foundational assumptions
 concepts:
-  - "[[concepts/llm-impact]]"
-  - "[[concepts/cost-structure]]"
-  - "[[concepts/disruptive-technology]]"
+  - "llm-impact"
+  - "cost-structure"
+  - "disruptive-technology"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Update your priors about AI capabilities to avoid missed opportunities
 concepts:
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/mental-models]]"
-  - "[[concepts/innovation]]"
+  - "ai-adoption"
+  - "mental-models"
+  - "innovation"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

@@ -2,9 +2,9 @@
 type: insight
 title: The evolution from manual ops to scalable tech follows a clear pattern of increasing volume
 concepts:
-  - "[[concepts/operational-scaling]]"
-  - "[[concepts/automation-tipping-point]]"
-  - "[[concepts/process-optimization]]"
+  - "operational-scaling"
+  - "automation-tipping-point"
+  - "process-optimization"
 source_guest: Brian Tolkin
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brian-tolkin|Brian Tolkin]]"

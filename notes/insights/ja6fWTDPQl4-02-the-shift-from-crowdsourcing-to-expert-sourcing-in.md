@@ -2,9 +2,9 @@
 type: insight
 title: The Shift from Crowdsourcing to Expert Sourcing in AI Training
 concepts:
-  - "[[concepts/ai-training-data]]"
-  - "[[concepts/labor-marketplaces]]"
-  - "[[concepts/expert-networks]]"
+  - "ai-training-data"
+  - "labor-marketplaces"
+  - "expert-networks"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

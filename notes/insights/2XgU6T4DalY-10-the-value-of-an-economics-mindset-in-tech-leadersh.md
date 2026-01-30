@@ -2,9 +2,9 @@
 type: insight
 title: The value of an economics mindset in tech leadership
 concepts:
-  - "[[concepts/economics-mindset]]"
-  - "[[concepts/incentive-design]]"
-  - "[[concepts/systems-thinking]]"
+  - "economics-mindset"
+  - "incentive-design"
+  - "systems-thinking"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

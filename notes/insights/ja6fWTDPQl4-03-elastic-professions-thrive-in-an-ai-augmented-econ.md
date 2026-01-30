@@ -2,9 +2,9 @@
 type: insight
 title: Elastic Professions Thrive in an AI-Augmented Economy
 concepts:
-  - "[[concepts/future-of-work]]"
-  - "[[concepts/ai-augmentation]]"
-  - "[[concepts/elastic-demand]]"
+  - "future-of-work"
+  - "ai-augmentation"
+  - "elastic-demand"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

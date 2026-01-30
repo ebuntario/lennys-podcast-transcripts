@@ -2,9 +2,9 @@
 type: insight
 title: The Modern Elder combines wisdom with curiosity
 concepts:
-  - "[[concepts/mentorship]]"
-  - "[[concepts/age-diversity]]"
-  - "[[concepts/humility]]"
+  - "mentorship"
+  - "age-diversity"
+  - "humility"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

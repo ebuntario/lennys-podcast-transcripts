@@ -2,9 +2,9 @@
 type: insight
 title: Replace identity threat with curiosity during disagreements
 concepts:
-  - "[[concepts/identity-threat]]"
-  - "[[concepts/curiosity]]"
-  - "[[concepts/conflict-resolution]]"
+  - "identity-threat"
+  - "curiosity"
+  - "conflict-resolution"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 source: "[[guests/boz|Boz]]"

@@ -2,9 +2,9 @@
 type: insight
 title: A macro-vision is evergreen; micro-visions address nearer-term problems
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/strategic-planning]]"
-  - "[[concepts/roadmapping]]"
+  - "product-vision"
+  - "strategic-planning"
+  - "roadmapping"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

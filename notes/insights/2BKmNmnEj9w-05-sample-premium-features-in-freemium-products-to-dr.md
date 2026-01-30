@@ -2,9 +2,9 @@
 type: insight
 title: Sample premium features in freemium products to dramatically increase upgrades
 concepts:
-  - "[[concepts/freemium-model]]"
-  - "[[concepts/product-led-growth]]"
-  - "[[concepts/user-perception]]"
+  - "freemium-model"
+  - "product-led-growth"
+  - "user-perception"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 source: "[[guests/albert-cheng|Albert Cheng]]"

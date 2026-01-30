@@ -2,9 +2,9 @@
 type: insight
 title: Launch with a limited season to test commitment
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/podcast-launch]]"
-  - "[[concepts/risk-management]]"
+  - "experimentation"
+  - "podcast-launch"
+  - "risk-management"
 source_guest: Chris Hutchins
 source_episode: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 source: "[[guests/chris-hutchins|Chris Hutchins]]"

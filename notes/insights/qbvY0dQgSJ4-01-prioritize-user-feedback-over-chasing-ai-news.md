@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize user feedback over chasing AI news
 concepts:
-  - "[[concepts/ai-product-development]]"
-  - "[[concepts/user-research]]"
-  - "[[concepts/prioritization]]"
+  - "ai-product-development"
+  - "user-research"
+  - "prioritization"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

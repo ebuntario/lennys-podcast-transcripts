@@ -2,9 +2,9 @@
 type: insight
 title: Key results should triangulate between quantitative, qualitative, and business metrics
 concepts:
-  - "[[concepts/metrics-selection]]"
-  - "[[concepts/measurement-framework]]"
-  - "[[concepts/business-outcomes]]"
+  - "metrics-selection"
+  - "measurement-framework"
+  - "business-outcomes"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

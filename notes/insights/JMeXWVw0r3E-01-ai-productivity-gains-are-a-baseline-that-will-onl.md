@@ -2,9 +2,9 @@
 type: insight
 title: AI productivity gains are a baseline that will only improve
 concepts:
-  - "[[concepts/ai-productivity]]"
-  - "[[concepts/ai-adoption]]"
-  - "[[concepts/continuous-improvement]]"
+  - "ai-productivity"
+  - "ai-adoption"
+  - "continuous-improvement"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Evangelize vision through concentric circles: team, stakeholders, leadership
 concepts:
-  - "[[concepts/product-vision]]"
-  - "[[concepts/stakeholder-alignment]]"
-  - "[[concepts/communication]]"
+  - "product-vision"
+  - "stakeholder-alignment"
+  - "communication"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

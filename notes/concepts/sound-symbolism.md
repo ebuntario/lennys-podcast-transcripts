@@ -11,10 +11,11 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/sound-symbolism"))
+WHERE contains(concepts, "sound-symbolism")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/linguistics]] (1 shared insights)
+- [[concepts/brand-naming]] (1 shared insights)

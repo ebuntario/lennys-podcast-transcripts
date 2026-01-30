@@ -2,9 +2,9 @@
 type: insight
 title: Pitch funding announcements concisely and offer exclusives
 concepts:
-  - "[[concepts/pitching]]"
-  - "[[concepts/fundraising]]"
-  - "[[concepts/media-outreach]]"
+  - "pitching"
+  - "fundraising"
+  - "media-outreach"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

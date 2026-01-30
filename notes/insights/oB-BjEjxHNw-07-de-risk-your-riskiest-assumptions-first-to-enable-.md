@@ -2,9 +2,9 @@
 type: insight
 title: De-risk your riskiest assumptions first to enable innovation
 concepts:
-  - "[[concepts/product-discovery]]"
-  - "[[concepts/risk-prioritization]]"
-  - "[[concepts/agile-frameworks]]"
+  - "product-discovery"
+  - "risk-prioritization"
+  - "agile-frameworks"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

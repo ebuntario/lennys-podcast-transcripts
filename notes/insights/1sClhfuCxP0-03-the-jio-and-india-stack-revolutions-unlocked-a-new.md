@@ -2,9 +2,9 @@
 type: insight
 title: The Jio and India Stack Revolutions Unlocked a New Internet Population
 concepts:
-  - "[[concepts/india-market]]"
-  - "[[concepts/digital-infrastructure]]"
-  - "[[concepts/market-complexity]]"
+  - "india-market"
+  - "digital-infrastructure"
+  - "market-complexity"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

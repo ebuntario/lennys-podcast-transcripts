@@ -2,9 +2,9 @@
 type: insight
 title: The keeper test as a tool for maintaining high standards
 concepts:
-  - "[[concepts/performance-management]]"
-  - "[[concepts/radical-candor]]"
-  - "[[concepts/managerial-frameworks]]"
+  - "performance-management"
+  - "radical-candor"
+  - "managerial-frameworks"
 source_guest: Elizabeth Stone
 source_episode: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 source: "[[guests/elizabeth-stone|Elizabeth Stone]]"

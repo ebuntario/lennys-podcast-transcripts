@@ -2,9 +2,9 @@
 type: insight
 title: Calendly's viral growth engine and the shift to team-based expansion
 concepts:
-  - "[[concepts/viral-growth]]"
-  - "[[concepts/product-qualified-leads]]"
-  - "[[concepts/enterprise-expansion]]"
+  - "viral-growth"
+  - "product-qualified-leads"
+  - "enterprise-expansion"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Weekly status updates should focus on learning from obstacles
 concepts:
-  - "[[concepts/continuous-learning]]"
-  - "[[concepts/transparency]]"
-  - "[[concepts/execution-focus]]"
+  - "continuous-learning"
+  - "transparency"
+  - "execution-focus"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

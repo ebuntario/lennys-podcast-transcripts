@@ -2,8 +2,8 @@
 type: insight
 title: Early-stage startups should avoid complex growth hacking and focus on foundational customer acquisition
 concepts:
-  - "[[concepts/growth-strategy]]"
-  - "[[concepts/customer-development]]"
+  - "growth-strategy"
+  - "customer-development"
 source_guest: Dalton Caldwell
 source_episode: Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)
 source: "[[guests/dalton-caldwell|Dalton Caldwell]]"

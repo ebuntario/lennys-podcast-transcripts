@@ -2,9 +2,9 @@
 type: insight
 title: Focus on early user experience, not resurrection, to improve retention
 concepts:
-  - "[[concepts/retention]]"
-  - "[[concepts/onboarding]]"
-  - "[[concepts/customer-journey]]"
+  - "retention"
+  - "onboarding"
+  - "customer-journey"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

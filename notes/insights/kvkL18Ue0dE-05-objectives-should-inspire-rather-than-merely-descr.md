@@ -2,9 +2,9 @@
 type: insight
 title: Objectives should inspire rather than merely describe tasks
 concepts:
-  - "[[concepts/goal-setting]]"
-  - "[[concepts/team-motivation]]"
-  - "[[concepts/strategic-alignment]]"
+  - "goal-setting"
+  - "team-motivation"
+  - "strategic-alignment"
 source_guest: Christina Wodtke
 source_episode: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 source: "[[guests/christina-wodtke|Christina Wodtke]]"

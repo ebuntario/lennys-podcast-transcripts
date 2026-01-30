@@ -11,10 +11,12 @@ aliases:
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE any(concepts, (c) => contains(c, "concepts/information-distortion"))
+WHERE contains(concepts, "information-distortion")
 SORT file.name ASC
 ```
 
 ## Related Concepts
 
-<!-- Add related concept links here -->
+- [[concepts/communication-efficiency]] (1 shared insights)
+- [[concepts/stakeholder-management]] (1 shared insights)
+- [[concepts/operational-overhead]] (1 shared insights)

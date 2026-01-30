@@ -2,9 +2,9 @@
 type: insight
 title: Permission automation prevents security incidents and scales administration
 concepts:
-  - "[[concepts/security]]"
-  - "[[concepts/automation]]"
-  - "[[concepts/access-control]]"
+  - "security"
+  - "automation"
+  - "access-control"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

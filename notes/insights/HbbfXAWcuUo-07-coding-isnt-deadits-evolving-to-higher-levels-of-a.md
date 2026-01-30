@@ -2,9 +2,9 @@
 type: insight
 title: Coding isn't dead—it's evolving to higher levels of abstraction
 concepts:
-  - "[[concepts/software-development]]"
-  - "[[concepts/ai-tools]]"
-  - "[[concepts/computer-science]]"
+  - "software-development"
+  - "ai-tools"
+  - "computer-science"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

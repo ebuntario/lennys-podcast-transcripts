@@ -2,9 +2,9 @@
 type: insight
 title: Clear Ownership Drives Product-Marketing Collaboration
 concepts:
-  - "[[concepts/cross-functional-collaboration]]"
-  - "[[concepts/operational-excellence]]"
-  - "[[concepts/process-design]]"
+  - "cross-functional-collaboration"
+  - "operational-excellence"
+  - "process-design"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

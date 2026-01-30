@@ -2,9 +2,9 @@
 type: insight
 title: Gardening over building for exponential value
 concepts:
-  - "[[concepts/gardening-mindset]]"
-  - "[[concepts/builder-mindset]]"
-  - "[[concepts/emergent-strategy]]"
+  - "gardening-mindset"
+  - "builder-mindset"
+  - "emergent-strategy"
 source_guest: Alex Komoroske
 source_episode: Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske
 source: "[[guests/alex-komoroske|Alex Komoroske]]"

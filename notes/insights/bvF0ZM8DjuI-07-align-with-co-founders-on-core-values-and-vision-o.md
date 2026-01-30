@@ -2,9 +2,9 @@
 type: insight
 title: Align with co-founders on core values and vision of success early
 concepts:
-  - "[[concepts/co-founder-alignment]]"
-  - "[[concepts/company-culture]]"
-  - "[[concepts/values-clarification]]"
+  - "co-founder-alignment"
+  - "company-culture"
+  - "values-clarification"
 source_guest: Alisa Cohn
 source_episode: Scripts for navigating difficult conversations | Alisa Cohn (executive coach)
 source: "[[guests/alisa-cohn|Alisa Cohn]]"

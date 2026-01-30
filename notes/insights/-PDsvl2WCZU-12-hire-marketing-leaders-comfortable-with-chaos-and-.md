@@ -2,9 +2,9 @@
 type: insight
 title: Hire marketing leaders comfortable with chaos and willing to do hands-on work
 concepts:
-  - "[[concepts/hiring-marketing]]"
-  - "[[concepts/startup-culture]]"
-  - "[[concepts/leadership-adaptability]]"
+  - "hiring-marketing"
+  - "startup-culture"
+  - "leadership-adaptability"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

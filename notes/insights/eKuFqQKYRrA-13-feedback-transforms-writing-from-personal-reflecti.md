@@ -2,9 +2,9 @@
 type: insight
 title: Feedback transforms writing from personal reflection to effective communication
 concepts:
-  - "[[concepts/writing]]"
-  - "[[concepts/feedback]]"
-  - "[[concepts/communication]]"
+  - "writing"
+  - "feedback"
+  - "communication"
 source_guest: Brandon Chu
 source_episode: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 source: "[[guests/brandon-chu|Brandon Chu]]"

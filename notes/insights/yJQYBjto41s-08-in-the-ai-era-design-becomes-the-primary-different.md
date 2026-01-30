@@ -2,9 +2,9 @@
 type: insight
 title: In the AI era, design becomes the primary differentiator for software products
 concepts:
-  - "[[concepts/ai-strategy]]"
-  - "[[concepts/design-principles]]"
-  - "[[concepts/future-of-work]]"
+  - "ai-strategy"
+  - "design-principles"
+  - "future-of-work"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

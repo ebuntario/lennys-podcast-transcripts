@@ -2,9 +2,9 @@
 type: insight
 title: Product Managers Are Full-Stack Influencers
 concepts:
-  - "[[concepts/product-management]]"
-  - "[[concepts/influence]]"
-  - "[[concepts/stakeholder-management]]"
+  - "product-management"
+  - "influence"
+  - "stakeholder-management"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

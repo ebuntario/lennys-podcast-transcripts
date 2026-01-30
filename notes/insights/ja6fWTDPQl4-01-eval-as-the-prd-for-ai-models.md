@@ -2,9 +2,9 @@
 type: insight
 title: Eval as the PRD for AI Models
 concepts:
-  - "[[concepts/ai-evals]]"
-  - "[[concepts/model-training]]"
-  - "[[concepts/product-requirements]]"
+  - "ai-evals"
+  - "model-training"
+  - "product-requirements"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

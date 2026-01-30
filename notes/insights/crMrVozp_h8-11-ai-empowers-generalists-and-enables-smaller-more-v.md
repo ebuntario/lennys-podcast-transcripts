@@ -2,9 +2,9 @@
 type: insight
 title: AI empowers generalists and enables smaller, more versatile teams
 concepts:
-  - "[[concepts/generalists]]"
-  - "[[concepts/team-leverage]]"
-  - "[[concepts/ai-tools]]"
+  - "generalists"
+  - "team-leverage"
+  - "ai-tools"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)
 source: "[[guests/dan-shipper|Dan Shipper]]"

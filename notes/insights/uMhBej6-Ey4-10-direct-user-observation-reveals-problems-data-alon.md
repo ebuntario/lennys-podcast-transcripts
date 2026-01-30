@@ -2,9 +2,9 @@
 type: insight
 title: Direct user observation reveals problems data alone cannot
 concepts:
-  - "[[concepts/user-research]]"
-  - "[[concepts/data-driven-decisions]]"
-  - "[[concepts/product-friction]]"
+  - "user-research"
+  - "data-driven-decisions"
+  - "product-friction"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

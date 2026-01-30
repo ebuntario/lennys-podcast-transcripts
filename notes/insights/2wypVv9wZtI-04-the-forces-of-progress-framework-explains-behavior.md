@@ -2,9 +2,9 @@
 type: insight
 title: The Forces of Progress framework explains behavioral change
 concepts:
-  - "[[concepts/forces-of-progress]]"
-  - "[[concepts/behavioral-change]]"
-  - "[[concepts/anxiety]]"
+  - "forces-of-progress"
+  - "behavioral-change"
+  - "anxiety"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Prioritize processing fluency over complexity
 concepts:
-  - "[[concepts/cognitive-science]]"
-  - "[[concepts/brand-naming]]"
+  - "cognitive-science"
+  - "brand-naming"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

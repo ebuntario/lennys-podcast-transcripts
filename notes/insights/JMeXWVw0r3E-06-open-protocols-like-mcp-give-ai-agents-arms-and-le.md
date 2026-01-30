@@ -2,9 +2,9 @@
 type: insight
 title: Open protocols like MCP give AI agents "arms and legs" in the digital world
 concepts:
-  - "[[concepts/ai-agents]]"
-  - "[[concepts/open-source]]"
-  - "[[concepts/interoperability]]"
+  - "ai-agents"
+  - "open-source"
+  - "interoperability"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

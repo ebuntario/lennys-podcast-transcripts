@@ -2,9 +2,9 @@
 type: insight
 title: Expand your product portfolio by following the user's workflow, not just market size
 concepts:
-  - "[[concepts/product-expansion]]"
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/user-centric-design]]"
+  - "product-expansion"
+  - "product-strategy"
+  - "user-centric-design"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

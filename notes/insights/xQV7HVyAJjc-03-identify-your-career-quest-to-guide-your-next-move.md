@@ -2,9 +2,9 @@
 type: insight
 title: Identify your career quest to guide your next move
 concepts:
-  - "[[concepts/career-quests]]"
-  - "[[concepts/job-transition-triggers]]"
-  - "[[concepts/career-strategy]]"
+  - "career-quests"
+  - "job-transition-triggers"
+  - "career-strategy"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 source: "[[guests/bob-moesta-20|Bob Moesta 2.0]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Successful zero-to-one products require at least two of three inflection points
 concepts:
-  - "[[concepts/product-strategy]]"
-  - "[[concepts/market-timing]]"
-  - "[[concepts/innovation]]"
+  - "product-strategy"
+  - "market-timing"
+  - "innovation"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada
 source: "[[guests/aparna-chennapragada|Aparna Chennapragada]]"

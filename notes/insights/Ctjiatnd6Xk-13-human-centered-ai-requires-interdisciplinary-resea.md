@@ -2,9 +2,9 @@
 type: insight
 title: Human-centered AI requires interdisciplinary research and policy engagement
 concepts:
-  - "[[concepts/human-centered-ai]]"
-  - "[[concepts/ai-policy]]"
-  - "[[concepts/interdisciplinary-research]]"
+  - "human-centered-ai"
+  - "ai-policy"
+  - "interdisciplinary-research"
 source_guest: Dr. Fei-Fei Li
 source_episode: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li
 source: "[[guests/dr-fei-fei-li|Dr. Fei Fei Li]]"

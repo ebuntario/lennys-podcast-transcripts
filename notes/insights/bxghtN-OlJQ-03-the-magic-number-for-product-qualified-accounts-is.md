@@ -2,9 +2,9 @@
 type: insight
 title: The magic number for product-qualified accounts is often seven users
 concepts:
-  - "[[concepts/product-qualified-account]]"
-  - "[[concepts/network-effects]]"
-  - "[[concepts/behavioral-signals]]"
+  - "product-qualified-account"
+  - "network-effects"
+  - "behavioral-signals"
 source_guest: Elena Verna
 source_episode: The ultimate guide to product-led sales | Elena Verna
 source: "[[guests/elena-verna-20|Elena Verna 2.0]]"

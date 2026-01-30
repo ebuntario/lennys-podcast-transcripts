@@ -2,9 +2,9 @@
 type: insight
 title: Payment failure interventions often have no long-term value
 concepts:
-  - "[[concepts/experimentation]]"
-  - "[[concepts/customer-retention]]"
-  - "[[concepts/growth-metrics]]"
+  - "experimentation"
+  - "customer-retention"
+  - "growth-metrics"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

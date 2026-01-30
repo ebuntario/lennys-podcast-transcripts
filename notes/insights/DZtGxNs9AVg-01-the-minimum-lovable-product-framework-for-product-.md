@@ -2,9 +2,9 @@
 type: insight
 title: The "Minimum Lovable Product" framework for product development
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/ai-tools]]"
-  - "[[concepts/startup-growth]]"
+  - "product-development"
+  - "ai-tools"
+  - "startup-growth"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

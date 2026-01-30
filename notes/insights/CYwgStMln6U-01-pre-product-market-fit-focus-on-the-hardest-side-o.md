@@ -2,9 +2,9 @@
 type: insight
 title: Pre-product-market-fit, focus on the hardest side of the marketplace
 concepts:
-  - "[[concepts/marketplace-strategy]]"
-  - "[[concepts/product-market-fit]]"
-  - "[[concepts/growth-strategy]]"
+  - "marketplace-strategy"
+  - "product-market-fit"
+  - "growth-strategy"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

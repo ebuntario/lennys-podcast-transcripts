@@ -2,9 +2,9 @@
 type: insight
 title: The power of internal transfers and demonstrating product skills
 concepts:
-  - "[[concepts/internal-transfer]]"
-  - "[[concepts/product-aptitude]]"
-  - "[[concepts/career-development]]"
+  - "internal-transfer"
+  - "product-aptitude"
+  - "career-development"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

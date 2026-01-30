@@ -2,8 +2,8 @@
 type: insight
 title: Structure your free tier to maximize sharing, not limit collaboration
 concepts:
-  - "[[concepts/freemium-model]]"
-  - "[[concepts/product-led-growth]]"
+  - "freemium-model"
+  - "product-led-growth"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)
 source: "[[guests/claire-butler|Claire Butler]]"

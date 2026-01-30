@@ -2,9 +2,9 @@
 type: insight
 title: Code quality has little correlation with product success
 concepts:
-  - "[[concepts/product-development]]"
-  - "[[concepts/engineering-culture]]"
-  - "[[concepts/outcome-over-process]]"
+  - "product-development"
+  - "engineering-culture"
+  - "outcome-over-process"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 source: "[[guests/dhanji-r-prasanna|Dhanji R. Prasanna]]"

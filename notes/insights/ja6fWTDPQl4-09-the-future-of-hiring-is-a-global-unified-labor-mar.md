@@ -2,9 +2,9 @@
 type: insight
 title: The Future of Hiring is a Global, Unified Labor Marketplace
 concepts:
-  - "[[concepts/labor-marketplaces]]"
-  - "[[concepts/ai-automation]]"
-  - "[[concepts/future-of-work]]"
+  - "labor-marketplaces"
+  - "ai-automation"
+  - "future-of-work"
 source_guest: Brendan Foody
 source_episode: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 source: "[[guests/brendan-foody|Brendan Foody]]"

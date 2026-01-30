@@ -2,9 +2,9 @@
 type: insight
 title: Reduce team size and increase seniority for speed
 concepts:
-  - "[[concepts/team-structure]]"
-  - "[[concepts/efficiency]]"
-  - "[[concepts/execution]]"
+  - "team-structure"
+  - "efficiency"
+  - "execution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"
