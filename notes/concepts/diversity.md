@@ -9,7 +9,7 @@ type: concept
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE contains(concepts, this.file.link)
+WHERE any(concepts, (c) => contains(c, "concepts/diversity"))
 SORT file.name ASC
 ```
 

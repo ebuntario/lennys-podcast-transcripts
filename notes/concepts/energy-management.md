@@ -1,0 +1,20 @@
+---
+type: concept
+aliases:
+  - "energy management"
+---
+
+# Energy Management
+
+## Insights
+
+```dataview
+LIST
+FROM "notes/insights"
+WHERE any(concepts, (c) => contains(c, "concepts/energy-management"))
+SORT file.name ASC
+```
+
+## Related Concepts
+
+<!-- Add related concept links here -->

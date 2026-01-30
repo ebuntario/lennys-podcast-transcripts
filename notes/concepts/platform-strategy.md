@@ -1,0 +1,20 @@
+---
+type: concept
+aliases:
+  - "platform strategy"
+---
+
+# Platform Strategy
+
+## Insights
+
+```dataview
+LIST
+FROM "notes/insights"
+WHERE any(concepts, (c) => contains(c, "concepts/platform-strategy"))
+SORT file.name ASC
+```
+
+## Related Concepts
+
+<!-- Add related concept links here -->
