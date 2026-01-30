@@ -1,16 +1,16 @@
 ---
 type: concept
 aliases:
-  - "happiness"
+  - "market strategy"
 ---
 
-# Happiness
+# Market Strategy
 
 ## Insights
 
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE contains(concepts, "Happiness")
+WHERE contains(concepts, "market-strategy")
 SORT file.name ASC
 ```

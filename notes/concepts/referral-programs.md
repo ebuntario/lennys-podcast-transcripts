@@ -1,16 +1,16 @@
 ---
 type: concept
 aliases:
-  - "happiness"
+  - "referral programs"
 ---
 
-# Happiness
+# Referral Programs
 
 ## Insights
 
 ```dataview
 LIST
 FROM "notes/insights"
-WHERE contains(concepts, "Happiness")
+WHERE contains(concepts, "referral-programs")
 SORT file.name ASC
 ```
