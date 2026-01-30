@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/growth-hiring]] (1 shared insights)
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)

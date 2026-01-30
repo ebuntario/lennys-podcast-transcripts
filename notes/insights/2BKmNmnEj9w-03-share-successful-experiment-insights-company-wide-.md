@@ -2,7 +2,7 @@
 type: insight
 title: Share successful experiment insights company-wide to multiply impact
 concepts:
-  - "experimentation"
+  - "testing"
   - "knowledge-sharing"
   - "product-psychology"
 source_guest: Albert Cheng

@@ -18,4 +18,4 @@ SORT file.name ASC
 - [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/software-development]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)

@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/trust-building]] (2 shared insights)
-- [[concepts/product-management]] (1 shared insights)
-- [[concepts/relationship-building]] (1 shared insights)
+- [[concepts/trust]] (2 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
+- [[concepts/networking]] (1 shared insights)
 - [[concepts/learning]] (1 shared insights)

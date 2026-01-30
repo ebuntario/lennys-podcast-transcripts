@@ -2,7 +2,7 @@
 type: insight
 title: Frame product pricing against the user's alternative cost
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "user-psychology"
   - "product-discovery"
 source_guest: Ravi Mehta

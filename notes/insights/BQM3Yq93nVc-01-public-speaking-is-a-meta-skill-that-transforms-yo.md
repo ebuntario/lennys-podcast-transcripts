@@ -5,7 +5,7 @@ concepts:
   - "meta-skills"
   - "confidence"
   - "self-consciousness"
-  - "personal-development"
+  - "personal-growth"
 source_guest: Tristan de Montebello
 source_episode: Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello
 source: "[[guests/tristan-de-montebello|Tristan de Montebello]]"

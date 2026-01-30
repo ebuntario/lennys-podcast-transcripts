@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/discovery]] (1 shared insights)
-- [[concepts/customer-development]] (1 shared insights)
+- [[concepts/customer-discovery]] (1 shared insights)
 - [[concepts/early-stage-growth]] (1 shared insights)
-- [[concepts/customer-obsession]] (1 shared insights)
+- [[concepts/user-centric-design]] (1 shared insights)

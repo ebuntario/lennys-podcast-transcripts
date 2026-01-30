@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/resilience]] (2 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/coaching]] (1 shared insights)

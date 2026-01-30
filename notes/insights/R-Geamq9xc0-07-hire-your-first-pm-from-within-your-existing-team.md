@@ -3,8 +3,8 @@ type: insight
 title: Hire your first PM from within your existing team
 concepts:
   - "hiring"
-  - "product-management"
-  - "company-culture"
+  - "product-leadership"
+  - "organizational-culture"
 source_guest: Gokul Rajaram
 source_episode: What AI means for your product strategy | Paul Adams (CPO of Intercom)
 source: "[[guests/gokul-rajaram|Gokul Rajaram]]"

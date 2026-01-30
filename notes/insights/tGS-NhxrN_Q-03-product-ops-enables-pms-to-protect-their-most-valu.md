@@ -2,9 +2,9 @@
 type: insight
 title: Product ops enables PMs to protect their most valuable asset: time with customers and engineers
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "time-management"
-  - "customer-development"
+  - "customer-discovery"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

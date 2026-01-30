@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/email-strategy]] (1 shared insights)
-- [[concepts/growth-experiments]] (1 shared insights)
+- [[concepts/email-marketing]] (1 shared insights)
+- [[concepts/growth-experimentation]] (1 shared insights)

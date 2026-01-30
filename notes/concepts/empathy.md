@@ -15,8 +15,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/perspective-taking]] (1 shared insights)
-- [[concepts/stakeholder-management]] (1 shared insights)
-- [[concepts/influence]] (1 shared insights)
+- [[concepts/relationship-management]] (1 shared insights)
+- [[concepts/persuasion]] (1 shared insights)
 - [[concepts/leadership-development]] (1 shared insights)

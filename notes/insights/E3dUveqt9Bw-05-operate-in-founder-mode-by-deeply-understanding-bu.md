@@ -3,8 +3,8 @@ type: insight
 title: Operate in "founder mode" by deeply understanding business details
 concepts:
   - "organizational-excellence"
-  - "strategic-thinking"
-  - "leadership"
+  - "systems-thinking"
+  - "team-leadership"
 source_guest: Anneka Gupta
 source_episode: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 source: "[[guests/anneka-gupta|Anneka Gupta]]"

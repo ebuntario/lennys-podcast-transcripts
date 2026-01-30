@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/ownership]] (1 shared insights)
 - [[concepts/operational-cadence]] (1 shared insights)
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)

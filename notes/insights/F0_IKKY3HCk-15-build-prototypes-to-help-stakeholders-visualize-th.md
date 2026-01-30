@@ -3,7 +3,7 @@ type: insight
 title: Build prototypes to help stakeholders visualize the name's potential
 concepts:
   - "presentation-strategy"
-  - "stakeholder-alignment"
+  - "stakeholder-buy-in"
 source_guest: David Placek
 source_episode: Building a culture of excellence | David Singleton (CTO of Stripe)
 source: "[[guests/david-placek|David Placek]]"

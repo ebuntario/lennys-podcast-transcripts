@@ -3,7 +3,7 @@ type: insight
 title: Involve founders in a U-shaped engagement curve for major projects
 concepts:
   - "product-development"
-  - "stakeholder-management"
+  - "relationship-management"
   - "executive-alignment"
 source_guest: Noah Weiss
 source_episode: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)

@@ -2,7 +2,7 @@
 type: insight
 title: Implement features with considerate rollout strategies
 concepts:
-  - "product-launch"
+  - "launch-strategy"
   - "change-management"
   - "user-control"
 source_guest: Stewart Butterfield

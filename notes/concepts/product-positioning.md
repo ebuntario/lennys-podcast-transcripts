@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-onboarding]] (2 shared insights)
+- [[concepts/onboarding]] (2 shared insights)
 - [[concepts/differentiated-value]] (1 shared insights)
 - [[concepts/product-market-leadership]] (1 shared insights)
-- [[concepts/behavioral-science]] (1 shared insights)
-- [[concepts/ai-evals]] (1 shared insights)
+- [[concepts/behavioral-economics]] (1 shared insights)
+- [[concepts/ai-evaluation]] (1 shared insights)

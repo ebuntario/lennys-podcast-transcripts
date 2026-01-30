@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/founder-dynamics]] (1 shared insights)
-- [[concepts/influence]] (1 shared insights)
+- [[concepts/persuasion]] (1 shared insights)

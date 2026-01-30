@@ -3,7 +3,7 @@ type: insight
 title: Look for passion and hard work, not just "working smart"
 concepts:
   - "hiring-criteria"
-  - "company-culture"
+  - "organizational-culture"
   - "team-dynamics"
   - "work-ethic"
 source_guest: "Varun Mohan"

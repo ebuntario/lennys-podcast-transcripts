@@ -3,7 +3,7 @@ type: insight
 title: The right sales persona for crossing the chasm
 concepts:
   - "sales-hiring"
-  - "sales-strategy"
+  - "sales-enablement"
   - "chasm-crossing"
   - "problem-discovery"
 source_guest: Geoffrey Moore

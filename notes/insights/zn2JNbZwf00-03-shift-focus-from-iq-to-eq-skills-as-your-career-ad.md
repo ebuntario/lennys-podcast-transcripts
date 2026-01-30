@@ -2,7 +2,7 @@
 type: insight
 title: Shift focus from IQ to EQ skills as your career advances
 concepts:
-  - "career-advancement"
+  - "professional-growth"
   - "emotional-intelligence"
   - "product-management-skills"
 source_guest: Jules Walter

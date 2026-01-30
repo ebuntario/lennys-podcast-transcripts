@@ -2,7 +2,7 @@
 type: insight
 title: Start with self-leadership to effectively lead others
 concepts:
-  - "self-leadership"
+  - "self-management"
   - "leadership-development"
   - "personal-purpose"
 source_guest: Donna Lichaw

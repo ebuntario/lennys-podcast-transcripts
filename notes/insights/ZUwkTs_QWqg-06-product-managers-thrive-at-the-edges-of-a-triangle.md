@@ -2,7 +2,7 @@
 type: insight
 title: Product managers thrive at the edges of a triangle of core skills
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "skill-development"
   - "career-advice"
 source_guest: "Hari Srinivasan"

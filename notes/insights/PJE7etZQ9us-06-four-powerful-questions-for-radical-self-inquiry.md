@@ -4,7 +4,7 @@ title: Four powerful questions for radical self-inquiry
 concepts:
   - "radical-self-inquiry"
   - "journaling"
-  - "communication"
+  - "team-communication"
   - "self-awareness"
 source_guest: Jerry Colonna
 source_episode: How have I have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna

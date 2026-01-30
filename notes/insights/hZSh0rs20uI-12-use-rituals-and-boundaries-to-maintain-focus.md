@@ -2,7 +2,7 @@
 type: insight
 title: Use Rituals and Boundaries to Maintain Focus
 concepts:
-  - "personal-productivity"
+  - "productivity"
   - "focus-techniques"
   - "work-habits"
 source_guest: Camille Fournier

@@ -2,8 +2,8 @@
 type: insight
 title: Be wary of applying mature metrics too early in zero-to-one products
 concepts:
-  - "metrics"
-  - "early-stage"
+  - "success-metrics"
+  - "early-stage-startups"
   - "product-development"
 source_guest: Aparna Chennapragada
 source_episode: Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada

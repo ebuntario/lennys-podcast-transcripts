@@ -2,7 +2,7 @@
 type: insight
 title: Write a future press headline to force focus on impact and clarity
 concepts:
-  - "storytelling"
+  - "narrative"
   - "organizational-product-strategy"
   - "strategic-priorities"
 source_guest: Ebi Atawodi

@@ -3,8 +3,8 @@ type: insight
 title: Systematically increase product-market fit by focusing on the "somewhat disappointed" segment
 concepts:
   - "product-market-fit"
-  - "user-feedback"
-  - "product-roadmapping"
+  - "qualitative-feedback"
+  - "roadmap-planning"
 source_guest: Rahul Vohra
 source_episode: Superhuman's secret to success | Rahul Vohra (CEO and founder)
 source: "[[guests/rahul-vohra|Rahul Vohra]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Career Advancement Through Conviction and Impact
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "motivation"
   - "impact"
 source_guest: Tomer Cohen

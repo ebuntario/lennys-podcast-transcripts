@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/freemium-model]] (1 shared insights)
+- [[concepts/freemium-strategy]] (1 shared insights)
 - [[concepts/product-led-growth]] (1 shared insights)

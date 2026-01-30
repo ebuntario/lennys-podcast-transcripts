@@ -4,7 +4,7 @@ title: Use deliberate mock interviews to overcome the interview feedback gap
 concepts:
   - "interview-skills"
   - "deliberate-practice"
-  - "career-advancement"
+  - "professional-growth"
 source_guest: Jules Walter
 source_episode: Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)
 source: "[[guests/jules-walter|Jules Walter]]"

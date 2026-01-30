@@ -3,7 +3,7 @@ type: insight
 title: Build new interfaces for new paradigms
 concepts:
   - "product-design"
-  - "user-experience"
+  - "customer-experience"
   - "ai-interaction"
   - "developer-tools"
 source_guest: "Varun Mohan"

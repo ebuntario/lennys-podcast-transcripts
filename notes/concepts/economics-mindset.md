@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/incentive-design]] (1 shared insights)
+- [[concepts/incentive-alignment]] (1 shared insights)
 - [[concepts/systems-thinking]] (1 shared insights)

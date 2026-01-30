@@ -2,9 +2,9 @@
 type: insight
 title: AI product metrics must value depth over frequency and meaningful moments over engagement
 concepts:
-  - "product-metrics"
+  - "product-analytics"
   - "ai-ethics"
-  - "user-experience"
+  - "customer-experience"
 source_guest: "Mike Krieger"
 source_episode: "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"
 source: "[[guests/mike-krieger|Mike Krieger]]"

@@ -3,8 +3,8 @@ type: insight
 title: Work on problems with 10x impact by being in the details
 concepts:
   - "high-leverage-work"
-  - "execution"
-  - "leadership"
+  - "strategy-execution"
+  - "team-leadership"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"
 source: "[[guests/mayur-kamat|Mayur Kamat]]"

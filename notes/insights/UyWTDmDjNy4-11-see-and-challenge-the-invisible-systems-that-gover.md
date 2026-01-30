@@ -4,7 +4,7 @@ title: See and challenge the invisible systems that govern behavior
 concepts:
   - "systems-thinking"
   - "strategy"
-  - "culture"
+  - "organizational-culture"
 source_guest: "Seth Godin"
 source_episode: "Seth Godin's best tactics for building remarkable products, strategies, brands and more"
 source: "[[guests/seth-godin|Seth Godin]]"

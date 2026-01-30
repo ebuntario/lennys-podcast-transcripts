@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/technology-strategy]] (1 shared insights)
 - [[concepts/cost-optimization]] (1 shared insights)
-- [[concepts/platform-thinking]] (1 shared insights)
+- [[concepts/platform-strategy]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: The three-step product foundation remains unchanged
 concepts:
   - "product-fundamentals"
-  - "problem-solving"
+  - "creative-problem-solving"
   - "technology-application"
   - "user-acquisition"
 source_guest: Gaurav Misra

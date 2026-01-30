@@ -2,7 +2,7 @@
 type: insight
 title: Propagate Messages in Concentric Circles Starting from Your Desk
 concepts:
-  - "messaging-strategy"
+  - "messaging"
   - "internal-communication"
   - "influencer-outreach"
 source_guest: Lulu Cheng Meservey

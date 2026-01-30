@@ -4,7 +4,7 @@ title: Use agencies to start, with a plan to transition in-house
 concepts:
   - "agency-management"
   - "in-house-teams"
-  - "partnerships"
+  - "strategic-partnerships"
   - "scaling-strategy"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)

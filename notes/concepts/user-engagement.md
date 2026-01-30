@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)
 - [[concepts/platform-evaluation]] (1 shared insights)

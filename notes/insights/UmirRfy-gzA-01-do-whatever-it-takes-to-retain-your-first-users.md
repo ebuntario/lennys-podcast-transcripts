@@ -3,7 +3,7 @@ type: insight
 title: Do whatever it takes to retain your first users
 concepts:
   - "early-stage-growth"
-  - "customer-obsession"
+  - "user-centric-design"
   - "doing-things-that-dont-scale"
 source_guest: Claire Butler
 source_episode: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)

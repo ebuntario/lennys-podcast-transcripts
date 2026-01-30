@@ -4,7 +4,7 @@ title: Be shamelessly inspired by others, but execute with your own context
 concepts:
   - "innovation"
   - "competitive-strategy"
-  - "execution"
+  - "strategy-execution"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 source: "[[guests/kayvon-beykpour|Kayvon Beykpour]]"

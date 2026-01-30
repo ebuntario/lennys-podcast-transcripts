@@ -2,9 +2,9 @@
 type: insight
 title: Shift from solution pitching to problem diagnosis
 concepts:
-  - "sales-strategy"
+  - "sales-enablement"
   - "problem-discovery"
-  - "customer-empathy"
+  - "empathy"
   - "chasm-crossing"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market

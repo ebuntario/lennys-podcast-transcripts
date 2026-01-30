@@ -3,7 +3,7 @@ type: insight
 title: Product managers must define the human-algorithm partnership
 concepts:
   - "algorithmic-products"
-  - "product-management"
+  - "product-leadership"
   - "human-in-the-loop"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)

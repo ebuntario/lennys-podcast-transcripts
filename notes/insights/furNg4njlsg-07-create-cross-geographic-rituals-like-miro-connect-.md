@@ -2,7 +2,7 @@
 type: insight
 title: Create cross-geographic rituals like Miro Connect to spark unexpected collaboration
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "innovation"
   - "collaboration-tools"
 source_guest: Varun Parmar

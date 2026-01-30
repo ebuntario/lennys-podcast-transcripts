@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/competitive-intensity]] (1 shared insights)
 - [[concepts/ai-adoption]] (1 shared insights)
-- [[concepts/execution]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Create separate structures for speculative bets to protect them
 concepts:
   - "innovation"
-  - "organizational-structure"
-  - "experimentation"
+  - "organizational-design"
+  - "testing"
   - "risk-taking"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour

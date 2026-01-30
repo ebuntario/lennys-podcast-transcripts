@@ -16,4 +16,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/burnout]] (1 shared insights)
-- [[concepts/mental-health-awareness]] (1 shared insights)
+- [[concepts/mental-health]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Create the "dummy explanation" to escape your company bubble
 concepts:
-  - "customer-empathy"
+  - "empathy"
   - "messaging"
   - "simplicity"
 source_guest: "Raaz Herzberg"

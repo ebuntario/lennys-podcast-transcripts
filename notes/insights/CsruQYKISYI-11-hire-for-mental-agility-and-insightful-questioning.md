@@ -3,7 +3,7 @@ type: insight
 title: Hire for mental agility and insightful questioning, not just frameworks
 concepts:
   - "hiring"
-  - "product-management"
+  - "product-leadership"
   - "interviewing"
   - "critical-thinking"
 source_guest: Jeremy Henrickson

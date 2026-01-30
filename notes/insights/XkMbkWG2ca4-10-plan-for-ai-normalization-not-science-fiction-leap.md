@@ -4,7 +4,7 @@ title: Plan for AI normalization, not science-fiction leaps
 concepts:
   - "future-prediction"
   - "ai-expectations"
-  - "product-roadmapping"
+  - "roadmap-planning"
 source_guest: Logan Kilpatrick
 source_episode: Inside OpenAI | Logan Kilpatrick (head of developer relations)
 source: "[[guests/logan-kilpatrick|Logan Kilpatrick]]"

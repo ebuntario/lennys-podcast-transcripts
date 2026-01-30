@@ -2,7 +2,7 @@
 type: insight
 title: Impact is not correlated with team size or management scope
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "impact"
   - "team-structure"
 source_guest: Keith Coleman

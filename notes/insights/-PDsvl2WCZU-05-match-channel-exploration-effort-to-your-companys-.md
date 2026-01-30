@@ -4,7 +4,7 @@ title: Match channel exploration effort to your company's risk profile and team 
 concepts:
   - "risk-assessment"
   - "resource-allocation"
-  - "experimentation"
+  - "testing"
 source_guest: Adam Grenier
 source_episode: When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)
 source: "[[guests/adam-grenier|Adam Grenier]]"

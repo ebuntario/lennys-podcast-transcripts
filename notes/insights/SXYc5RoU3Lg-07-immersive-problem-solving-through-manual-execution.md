@@ -4,7 +4,7 @@ title: Immersive problem-solving through manual execution
 concepts:
   - "discovery"
   - "doing-things-that-dont-scale"
-  - "customer-development"
+  - "customer-discovery"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

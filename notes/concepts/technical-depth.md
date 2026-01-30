@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-empathy]] (1 shared insights)
+- [[concepts/empathy]] (1 shared insights)
 - [[concepts/regulatory-compliance]] (1 shared insights)

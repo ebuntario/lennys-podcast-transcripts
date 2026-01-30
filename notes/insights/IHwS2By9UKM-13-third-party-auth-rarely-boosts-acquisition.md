@@ -2,7 +2,7 @@
 type: insight
 title: Third-party auth rarely boosts acquisition
 concepts:
-  - "customer-acquisition"
+  - "user-acquisition"
   - "signup-friction"
   - "developer-experience"
 source_guest: Elena Verna

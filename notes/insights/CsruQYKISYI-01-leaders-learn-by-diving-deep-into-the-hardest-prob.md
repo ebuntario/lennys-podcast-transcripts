@@ -2,10 +2,10 @@
 type: insight
 title: Leaders learn by diving deep into the hardest problems
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "decision-making"
   - "team-management"
-  - "operational-excellence"
+  - "operational-efficiency"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)
 source: "[[guests/jeremy-henrickson|Jeremy Henrickson]]"

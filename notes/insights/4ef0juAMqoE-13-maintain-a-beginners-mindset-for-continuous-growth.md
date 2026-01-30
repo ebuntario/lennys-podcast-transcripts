@@ -3,7 +3,7 @@ type: insight
 title: Maintain a beginner's mindset for continuous growth
 concepts:
   - "learning"
-  - "leadership"
+  - "team-leadership"
   - "curiosity"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook

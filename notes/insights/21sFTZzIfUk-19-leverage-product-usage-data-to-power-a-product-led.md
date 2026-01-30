@@ -4,7 +4,7 @@ title: Leverage product usage data to power a product-led sales motion
 concepts:
   - "product-led-growth"
   - "data-driven-sales"
-  - "go-to-market-strategy"
+  - "go-to-market"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

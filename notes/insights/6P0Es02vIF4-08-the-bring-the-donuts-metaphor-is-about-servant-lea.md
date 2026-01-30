@@ -4,7 +4,7 @@ title: The "bring the donuts" metaphor is about servant leadership
 concepts:
   - "servant-leadership"
   - "team-culture"
-  - "product-management"
+  - "product-leadership"
 source_guest: Ken Norton
 source_episode: How to unlock your product leadership skills | Ken Norton, Ex-Google
 source: "[[guests/ken-norton|Ken Norton]]"

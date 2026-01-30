@@ -2,7 +2,7 @@
 type: insight
 title: Writing is a critical tool for developing clear thinking
 concepts:
-  - "communication"
+  - "team-communication"
   - "critical-thinking"
   - "personal-effectiveness"
 source_guest: "Marty Cagan"

@@ -4,8 +4,8 @@ title: The evolution of digital platforms from curation to recommendation to gen
 concepts:
   - "product-evolution"
   - "ai-generation"
-  - "user-experience"
-  - "business-model-innovation"
+  - "customer-experience"
+  - "business-strategy"
 source_guest: Gustav Söderström
 source_episode: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 source: "[[guests/gustav-soderstrom|Gustav Söderström]]"

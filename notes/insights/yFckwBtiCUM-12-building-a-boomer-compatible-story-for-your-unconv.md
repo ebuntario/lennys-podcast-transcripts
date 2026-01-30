@@ -4,7 +4,7 @@ title: Building a "Boomer-Compatible" Story for Your Unconventional Path
 concepts:
   - "personal-narrative"
   - "social-expectations"
-  - "communication"
+  - "team-communication"
 source_guest: Paul Millerd
 source_episode: Redefining success, money, and belonging | Paul Millerd (The Pathless Path)
 source: "[[guests/paul-millerd|Paul Millerd]]"

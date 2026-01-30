@@ -2,7 +2,7 @@
 type: insight
 title: Redefine the CEO role to maximize time in your zone of genius
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "time-management"
   - "organizational-design"
   - "executive-functions"

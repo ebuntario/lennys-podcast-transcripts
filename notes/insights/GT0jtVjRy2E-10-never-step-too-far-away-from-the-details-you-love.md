@@ -2,7 +2,7 @@
 type: insight
 title: Never step too far away from the details you love
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "founder-mindset"
   - "product-passion"
 source_guest: Howie Liu

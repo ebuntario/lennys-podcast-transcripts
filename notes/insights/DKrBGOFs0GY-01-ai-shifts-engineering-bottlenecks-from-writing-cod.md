@@ -3,7 +3,7 @@ type: insight
 title: AI shifts engineering bottlenecks from writing code to decision-making and deployment
 concepts:
   - "ai-assisted-development"
-  - "product-development-process"
+  - "product-development"
   - "bottleneck-identification"
 source_guest: "Mike Krieger"
 source_episode: "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"

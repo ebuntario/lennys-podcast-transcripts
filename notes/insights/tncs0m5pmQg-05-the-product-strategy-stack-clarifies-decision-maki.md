@@ -3,8 +3,8 @@ type: insight
 title: The Product Strategy Stack clarifies decision-making hierarchy
 concepts:
   - "product-strategy"
-  - "strategic-planning"
-  - "decision-frameworks"
+  - "scenario-planning"
+  - "decision-making"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

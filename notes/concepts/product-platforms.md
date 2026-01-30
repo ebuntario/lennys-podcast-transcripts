@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)
 - [[concepts/product-innovation-strategy]] (1 shared insights)

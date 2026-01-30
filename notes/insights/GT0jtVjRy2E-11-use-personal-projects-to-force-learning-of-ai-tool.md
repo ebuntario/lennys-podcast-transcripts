@@ -4,7 +4,7 @@ title: Use personal projects to force learning of AI tools
 concepts:
   - "skill-development"
   - "ai-literacy"
-  - "experimentation"
+  - "testing"
 source_guest: Howie Liu
 source_episode: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)
 source: "[[guests/howie-liu|Howie Liu]]"

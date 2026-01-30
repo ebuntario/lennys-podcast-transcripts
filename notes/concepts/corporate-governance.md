@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/company-values]] (1 shared insights)
 - [[concepts/long-term-thinking]] (1 shared insights)
-- [[concepts/founder-psychology]] (1 shared insights)
+- [[concepts/founder-mindset]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)

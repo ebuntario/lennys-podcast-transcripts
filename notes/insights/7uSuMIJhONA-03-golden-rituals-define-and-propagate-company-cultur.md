@@ -2,9 +2,9 @@
 type: insight
 title: Golden rituals define and propagate company culture
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "team-rituals"
-  - "operational-excellence"
+  - "operational-efficiency"
   - "onboarding"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

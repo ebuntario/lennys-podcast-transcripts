@@ -3,7 +3,7 @@ type: insight
 title: AI-assisted development risks creating generic products
 concepts:
   - "ai-development"
-  - "product-differentiation"
+  - "product-positioning"
   - "prototyping"
 source_guest: John Zeratsky
 source_episode: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)

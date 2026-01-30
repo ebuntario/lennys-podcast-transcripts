@@ -4,7 +4,7 @@ title: A strong brand is an expectation of quality across all customer touchpoin
 concepts:
   - "brand-trust"
   - "customer-experience"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Krithika Shankarraman
 source_episode: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman
 source: "[[guests/krithika-shankarraman|Krithika Shankarraman]]"

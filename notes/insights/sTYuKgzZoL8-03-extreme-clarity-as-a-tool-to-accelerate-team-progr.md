@@ -2,9 +2,9 @@
 type: insight
 title: Extreme clarity as a tool to accelerate team progress
 concepts:
-  - "communication"
+  - "team-communication"
   - "decision-making"
-  - "meeting-efficiency"
+  - "meeting-effectiveness"
 source_guest: Naomi Gleit
 source_episode: Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit
 source: "[[guests/naomi-gleit|Naomi Gleit]]"

@@ -4,7 +4,7 @@ title: The Rule of Three: Explore Divergent Options Before Committing
 concepts:
   - "decision-making"
   - "ideation"
-  - "leadership"
+  - "team-leadership"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

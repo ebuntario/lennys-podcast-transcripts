@@ -4,7 +4,7 @@ title: The true driver of virality is word-of-mouth, not viral mechanics
 concepts:
   - "virality"
   - "word-of-mouth"
-  - "growth-strategy"
+  - "startup-growth"
   - "brand-building"
 source_guest: Rahul Vohra
 source_episode: Superhuman's secret to success | Rahul Vohra (CEO and founder)

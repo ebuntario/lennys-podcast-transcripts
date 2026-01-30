@@ -3,7 +3,7 @@ type: insight
 title: Fast-growing companies often succeed on instinct before building data infrastructure
 concepts:
   - "data-maturity"
-  - "growth-strategy"
+  - "startup-growth"
   - "business-observability"
 source_guest: "Julie Zhuo"
 source_episode: "How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024"

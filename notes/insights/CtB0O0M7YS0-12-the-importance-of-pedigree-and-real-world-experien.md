@@ -3,7 +3,7 @@ type: insight
 title: The importance of pedigree and real-world experience for credibility
 concepts:
   - "credibility-building"
-  - "career-development"
+  - "professional-growth"
   - "expertise"
 source_guest: Gergely Orosz
 source_episode: Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)

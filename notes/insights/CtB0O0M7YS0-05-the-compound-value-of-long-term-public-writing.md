@@ -2,7 +2,7 @@
 type: insight
 title: The compound value of long-term public writing
 concepts:
-  - "content-strategy"
+  - "thought-leadership"
   - "personal-branding"
   - "career-capital"
 source_guest: Gergely Orosz

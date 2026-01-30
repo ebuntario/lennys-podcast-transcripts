@@ -3,7 +3,7 @@ type: insight
 title: High-quality swag can be a powerful word-of-mouth catalyst
 concepts:
   - "brand-advocacy"
-  - "community-engagement"
+  - "community-building"
   - "growth-hacking"
 source_guest: Zoelle Egner
 source_episode: Lessons from Airtable’s unconventional growth strategy | Zoelle Egner

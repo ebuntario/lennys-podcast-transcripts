@@ -3,7 +3,7 @@ type: insight
 title: Keep initial outreach pitches to three sentences
 concepts:
   - "pitching"
-  - "communication"
+  - "team-communication"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Grow communities slowly to preserve intimacy and engagement
 concepts:
-  - "community-management"
+  - "community-building"
   - "community-building"
 source_guest: Camille Ricketts
 source_episode: How Notion leveraged community to build a $10B business | Camille Ricketts

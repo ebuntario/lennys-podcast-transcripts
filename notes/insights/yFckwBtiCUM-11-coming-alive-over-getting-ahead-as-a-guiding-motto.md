@@ -2,7 +2,7 @@
 type: insight
 title: Coming Alive Over Getting Ahead as a Guiding Motto
 concepts:
-  - "intrinsic-motivation"
+  - "motivation"
   - "success-metrics"
   - "personal-values"
 source_guest: Paul Millerd

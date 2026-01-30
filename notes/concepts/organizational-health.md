@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/strategy-execution]] (1 shared insights)
 - [[concepts/team-empowerment]] (1 shared insights)
 - [[concepts/cross-functional-alignment]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/product-operations]] (1 shared insights)

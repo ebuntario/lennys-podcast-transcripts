@@ -3,7 +3,7 @@ type: insight
 title: A marketplace's brand is defined by its supply and policies
 concepts:
   - "brand-strategy"
-  - "marketplace-dynamics"
+  - "marketplace-strategy"
   - "trust-and-safety"
 source_guest: Tim Holley
 source_episode: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)

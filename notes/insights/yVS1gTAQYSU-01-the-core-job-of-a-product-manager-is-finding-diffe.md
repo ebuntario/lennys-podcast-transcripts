@@ -2,8 +2,8 @@
 type: insight
 title: The core job of a product manager is finding differentiated value
 concepts:
-  - "product-management"
-  - "value-creation"
+  - "product-leadership"
+  - "value-proposition"
   - "customer-perspective"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)

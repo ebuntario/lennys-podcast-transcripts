@@ -2,9 +2,9 @@
 type: insight
 title: For novel solutions, consider selling a service contract before the technology
 concepts:
-  - "enterprise-sales"
-  - "sales-strategy"
-  - "customer-onboarding"
+  - "b2b-sales"
+  - "sales-enablement"
+  - "onboarding"
 source_guest: Jen Abel
 source_episode: The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)
 source: "[[guests/jen-abel|Jen Abel]]"

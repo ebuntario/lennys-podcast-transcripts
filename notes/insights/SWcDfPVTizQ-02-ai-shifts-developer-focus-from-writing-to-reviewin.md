@@ -3,7 +3,7 @@ type: insight
 title: AI shifts developer focus from writing to reviewing and evaluating
 concepts:
   - "ai-trust"
-  - "developer-workflow"
+  - "developer-experience"
   - "code-review"
 source_guest: "Nicole Forsgren"
 source_episode: "How to measure AI developer productivity in 2025 | Nicole Forsgren"

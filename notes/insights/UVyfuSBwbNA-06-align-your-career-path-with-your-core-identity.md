@@ -2,9 +2,9 @@
 type: insight
 title: Align your career path with your core identity
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "self-awareness"
-  - "work-life-integration"
+  - "work-life-balance"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"
 source: "[[guests/mayur-kamat|Mayur Kamat]]"

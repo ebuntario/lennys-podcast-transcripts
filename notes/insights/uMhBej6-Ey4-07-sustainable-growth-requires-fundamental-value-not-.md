@@ -4,7 +4,7 @@ title: Sustainable growth requires fundamental value, not just hacks
 concepts:
   - "strategic-growth-management"
   - "product-value"
-  - "customer-retention"
+  - "retention"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

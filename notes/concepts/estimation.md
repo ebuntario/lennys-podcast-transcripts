@@ -16,4 +16,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-development]] (1 shared insights)
-- [[concepts/roadmapping]] (1 shared insights)
+- [[concepts/roadmap-planning]] (1 shared insights)

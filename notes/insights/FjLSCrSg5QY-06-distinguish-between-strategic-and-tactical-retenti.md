@@ -2,8 +2,8 @@
 type: insight
 title: Distinguish between strategic and tactical retention
 concepts:
-  - "customer-retention"
-  - "churn-prevention"
+  - "retention"
+  - "churn-reduction"
   - "product-strategy"
 source_guest: Patrick Campbell
 source_episode: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)

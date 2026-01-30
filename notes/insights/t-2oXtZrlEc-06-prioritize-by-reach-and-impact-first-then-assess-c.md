@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize by reach and impact first, then assess confidence and effort
 concepts:
-  - "prioritization-frameworks"
+  - "prioritization"
   - "rice-framework"
   - "innovation-management"
 source_guest: "Vijay Iyengar"

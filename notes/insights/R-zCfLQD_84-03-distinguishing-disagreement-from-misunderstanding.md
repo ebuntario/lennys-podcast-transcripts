@@ -2,7 +2,7 @@
 type: insight
 title: Distinguishing Disagreement from Misunderstanding
 concepts:
-  - "communication"
+  - "team-communication"
   - "feedback"
   - "team-dynamics"
 source_guest: Tomer Cohen

@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/operating-system]] (1 shared insights)
 - [[concepts/rituals]] (1 shared insights)
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)
 - [[concepts/company-velocity]] (1 shared insights)
 - [[concepts/internal-communication]] (1 shared insights)

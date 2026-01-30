@@ -3,7 +3,7 @@ type: insight
 title: Education and awareness are critical first steps in mitigating AI risk
 concepts:
   - "ai-security"
-  - "risk-mitigation"
+  - "risk-management"
 source_guest: "Sander Schulhoff"
 source_episode: "Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO"
 source: "[[guests/sander-schulhoff-20|Sander Schulhoff 2.0]]"

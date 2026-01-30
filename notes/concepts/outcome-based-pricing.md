@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-value]] (1 shared insights)
-- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/user-value]] (1 shared insights)
+- [[concepts/value-based-pricing]] (1 shared insights)

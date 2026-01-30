@@ -4,7 +4,7 @@ title: The maintenance mindset for product longevity
 concepts:
   - "product-maintenance"
   - "technical-debt"
-  - "user-experience"
+  - "customer-experience"
 source_guest: "Matt Mullenweg"
 source_episode: "The one question that saves product careers | Matt LeMay"
 source: "[[guests/matt-mullenweg|Matt Mullenweg]]"

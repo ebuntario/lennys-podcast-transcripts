@@ -2,7 +2,7 @@
 type: insight
 title: Hire only when "dehydrated"
 concepts:
-  - "hiring-strategy"
+  - "hiring-process"
   - "organizational-design"
   - "ruthless-prioritization"
   - "startup-culture"

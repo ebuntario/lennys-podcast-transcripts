@@ -3,7 +3,7 @@ type: insight
 title: Build an operational cadence for account management
 concepts:
   - "operational-cadence"
-  - "process-optimization"
+  - "workflow-optimization"
   - "account-management"
   - "team-structure"
 source_guest: Timothy Davis

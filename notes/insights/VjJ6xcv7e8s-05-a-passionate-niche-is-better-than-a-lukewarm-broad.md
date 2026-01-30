@@ -3,7 +3,7 @@ type: insight
 title: A passionate niche is better than a lukewarm broad market
 concepts:
   - "product-strategy"
-  - "customer-segmentation"
+  - "segmentation"
   - "market-positioning"
 source_guest: "Sean Ellis"
 source_episode: "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)"

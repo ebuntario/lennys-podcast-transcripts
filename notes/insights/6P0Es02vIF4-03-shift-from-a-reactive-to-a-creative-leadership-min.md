@@ -2,7 +2,7 @@
 type: insight
 title: Shift from a reactive to a creative leadership mindset
 concepts:
-  - "leadership-mindset"
+  - "team-leadership"
   - "creative-leadership"
   - "reactive-leadership"
 source_guest: Ken Norton

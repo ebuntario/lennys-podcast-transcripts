@@ -17,5 +17,5 @@ SORT file.name ASC
 
 - [[concepts/startup-vision]] (1 shared insights)
 - [[concepts/self-discovery]] (1 shared insights)
-- [[concepts/decision-frameworks]] (1 shared insights)
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)

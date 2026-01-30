@@ -2,9 +2,9 @@
 type: insight
 title: Storytelling is a critical tool for internal and external alignment
 concepts:
-  - "communication"
-  - "leadership"
-  - "vision"
+  - "team-communication"
+  - "team-leadership"
+  - "vision-communication"
   - "product-strategy"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour

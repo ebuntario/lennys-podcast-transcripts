@@ -4,7 +4,7 @@ title: Diagnose with data, treat with design
 concepts:
   - "data-driven-decisions"
   - "product-design"
-  - "user-research"
+  - "customer-research"
 source_guest: "Julie Zhuo"
 source_episode: "How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024"
 source: "[[guests/julie-zhuo-20|Julie Zhuo 2.0]]"

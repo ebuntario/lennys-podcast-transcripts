@@ -4,7 +4,7 @@ title: Treat operational control as a first-order product requirement
 concepts:
   - "operational-products"
   - "product-design"
-  - "marketplace-dynamics"
+  - "marketplace-strategy"
 source_guest: Adriel Frederick
 source_episode: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)
 source: "[[guests/adriel-frederick|Adriel Frederick]]"

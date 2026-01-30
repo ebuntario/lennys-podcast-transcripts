@@ -4,7 +4,7 @@ title: Use a gated stage process to incubate new product ideas
 concepts:
   - "innovation"
   - "product-development"
-  - "experimentation"
+  - "testing"
   - "startup-mindset"
 source_guest: Megan Cook
 source_episode: Lessons from Atlassian | Megan Cook (Head of Product, Jira)

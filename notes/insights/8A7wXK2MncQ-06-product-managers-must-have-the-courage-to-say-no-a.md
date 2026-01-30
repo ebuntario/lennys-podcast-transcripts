@@ -2,10 +2,10 @@
 type: insight
 title: Product managers must have the courage to say "no" and not scale prematurely
 concepts:
-  - "product-management"
-  - "leadership"
+  - "product-leadership"
+  - "team-leadership"
   - "risk-management"
-  - "scaling"
+  - "scalable-systems"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"
 source: "[[guests/jag-duggal|Jag Duggal]]"

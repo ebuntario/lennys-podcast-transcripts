@@ -2,7 +2,7 @@
 type: insight
 title: Interview for a candidate's attraction to complexity and ability to simplify
 concepts:
-  - "hiring-strategy"
+  - "hiring-process"
   - "talent-assessment"
   - "systems-thinking"
 source_guest: "Hari Srinivasan"

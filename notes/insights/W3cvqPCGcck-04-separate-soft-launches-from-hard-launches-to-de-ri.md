@@ -2,7 +2,7 @@
 type: insight
 title: Separate soft launches from hard launches to de-risk marketing
 concepts:
-  - "product-launch"
+  - "launch-strategy"
   - "go-to-market"
   - "marketing-collaboration"
 source_guest: Janna Bastow

@@ -2,7 +2,7 @@
 type: insight
 title: Frame advice requests to be specific and low-cognitive-load
 concepts:
-  - "communication"
+  - "team-communication"
   - "advice-seeking"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi

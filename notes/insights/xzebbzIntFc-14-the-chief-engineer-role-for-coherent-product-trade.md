@@ -4,7 +4,7 @@ title: The chief engineer role for coherent product trade-off decisions
 concepts:
   - "product-leadership-strategy"
   - "decision-making"
-  - "organizational-structure"
+  - "organizational-design"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

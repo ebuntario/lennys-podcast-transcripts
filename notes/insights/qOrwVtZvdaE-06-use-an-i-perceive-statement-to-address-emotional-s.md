@@ -4,7 +4,7 @@ title: Use an "I perceive" statement to address emotional states
 concepts:
   - "emotional-intelligence"
   - "feedback"
-  - "communication"
+  - "team-communication"
   - "self-awareness"
 source_guest: Matt Mochary
 source_episode: Are your fears giving you terrible advice? | Matt Mochary

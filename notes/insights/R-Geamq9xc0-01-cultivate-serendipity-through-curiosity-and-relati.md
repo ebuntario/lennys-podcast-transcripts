@@ -2,7 +2,7 @@
 type: insight
 title: Cultivate serendipity through curiosity and relationship-building
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "networking"
   - "opportunity-creation"
 source_guest: Gokul Rajaram

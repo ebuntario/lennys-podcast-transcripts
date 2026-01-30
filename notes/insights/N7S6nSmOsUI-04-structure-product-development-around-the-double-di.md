@@ -4,7 +4,7 @@ title: Structure product development around the Double Diamond process
 concepts:
   - "product-development"
   - "decision-making"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 source: "[[guests/paige-costello|Paige Costello]]"

@@ -3,7 +3,7 @@ type: insight
 title: Use a market health metric as a predictor of liquidity
 concepts:
   - "marketplace-liquidity"
-  - "metrics"
+  - "success-metrics"
   - "actionable-insights"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)

@@ -3,8 +3,8 @@ type: insight
 title: Focus on reversible decisions and move fast
 concepts:
   - "decision-making"
-  - "execution"
-  - "experimentation-culture"
+  - "strategy-execution"
+  - "testing"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"
 source: "[[guests/mayur-kamat|Mayur Kamat]]"

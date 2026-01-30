@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-advancement]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/impact]] (1 shared insights)

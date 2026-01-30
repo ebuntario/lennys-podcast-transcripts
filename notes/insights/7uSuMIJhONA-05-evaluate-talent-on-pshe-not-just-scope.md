@@ -3,8 +3,8 @@ type: insight
 title: Evaluate talent on PSHE, not just scope
 concepts:
   - "talent-evaluation"
-  - "career-development"
-  - "product-management"
+  - "professional-growth"
+  - "product-leadership"
   - "performance-calibration"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

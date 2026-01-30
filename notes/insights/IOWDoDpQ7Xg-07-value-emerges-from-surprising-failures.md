@@ -2,7 +2,7 @@
 type: insight
 title: Value emerges from surprising failures
 concepts:
-  - "experimentation"
+  - "testing"
   - "learning-from-failure"
   - "serendipity"
 source_guest: Sam Schillace

@@ -3,7 +3,7 @@ type: insight
 title: Calibrate Feedback with Flash Tags
 concepts:
   - "feedback-culture"
-  - "communication"
+  - "team-communication"
   - "prioritization"
 source_guest: Lane Shackleton
 source_episode: What sets great teams apart | Lane Shackleton (CPO of Coda)

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-intuition]] (1 shared insights)
-- [[concepts/decision-frameworks]] (1 shared insights)
+- [[concepts/product-sense]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)

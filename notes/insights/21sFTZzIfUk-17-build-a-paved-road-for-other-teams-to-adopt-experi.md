@@ -2,7 +2,7 @@
 type: insight
 title: Build a "paved road" for other teams to adopt experimentation and analytics
 concepts:
-  - "experimentation-culture"
+  - "testing"
   - "internal-tooling"
   - "knowledge-sharing"
 source_guest: Ben Williams

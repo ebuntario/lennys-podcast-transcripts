@@ -2,9 +2,9 @@
 type: insight
 title: Live usability tests in a shared thread to build team empathy
 concepts:
-  - "user-research"
+  - "customer-research"
   - "team-collaboration"
-  - "product-iteration"
+  - "product-innovation"
 source_guest: Noah Weiss
 source_episode: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)
 source: "[[guests/noah-weiss|Noah Weiss]]"

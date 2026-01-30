@@ -2,7 +2,7 @@
 type: insight
 title: Different go-to-market playbooks for each lifecycle stage
 concepts:
-  - "go-to-market-strategy"
+  - "go-to-market"
   - "product-lifecycle"
   - "sales-model"
   - "market-adaptation"

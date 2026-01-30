@@ -2,8 +2,8 @@
 type: insight
 title: Use natural, sensory language instead of business jargon in stories
 concepts:
-  - "storytelling"
-  - "communication"
+  - "narrative"
+  - "team-communication"
   - "audience-engagement"
   - "simplicity"
 source_guest: Petra Wille

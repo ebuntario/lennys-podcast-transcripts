@@ -4,7 +4,7 @@ title: Start DevEx improvements by listening, not by building tools
 concepts:
   - "developer-experience"
   - "process-improvement"
-  - "user-research"
+  - "customer-research"
 source_guest: Nicole Forsgren
 source_episode: How to measure AI developer productivity in 2025 | Nicole Forsgren
 source: "[[guests/nicole-forsgren|Nicole Forsgren]]"

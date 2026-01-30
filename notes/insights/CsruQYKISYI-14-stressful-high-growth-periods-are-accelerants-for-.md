@@ -2,9 +2,9 @@
 type: insight
 title: Stressful, high-growth periods are accelerants for personal learning
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "resilience"
-  - "growth-mindset"
+  - "mindset"
   - "teamwork"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)

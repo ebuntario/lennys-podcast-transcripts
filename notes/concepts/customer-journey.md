@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/retention]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)
 - [[concepts/growth-funnels]] (1 shared insights)
 - [[concepts/attribution-modeling]] (1 shared insights)
 - [[concepts/sales-timing]] (1 shared insights)

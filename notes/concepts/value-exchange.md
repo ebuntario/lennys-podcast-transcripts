@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/platform-strategy]] (1 shared insights)
 - [[concepts/distribution-platforms]] (1 shared insights)
 - [[concepts/creator-psychology]] (1 shared insights)
-- [[concepts/creator-monetization]] (1 shared insights)
+- [[concepts/creator-economy]] (1 shared insights)

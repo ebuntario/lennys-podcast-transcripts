@@ -4,7 +4,7 @@ title: The financial upside of creator businesses versus corporate roles
 concepts:
   - "creator-economy"
   - "career-transitions"
-  - "recurring-revenue"
+  - "subscription-models"
   - "compensation-structures"
 source_guest: Gergely Orosz
 source_episode: Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)

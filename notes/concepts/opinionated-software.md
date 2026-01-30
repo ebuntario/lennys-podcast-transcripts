@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/design-tenets]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
-- [[concepts/product-philosophy]] (1 shared insights)
+- [[concepts/product-principles]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Treat vocal feedback as a canary in the coal mine
 concepts:
   - "customer-feedback"
   - "product-insights"
-  - "data-informed-decisions"
+  - "data-driven-decisions"
 source_guest: Yuhki Yamashita
 source_episode: An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)
 source: "[[guests/yamashata|Yamashata]]"

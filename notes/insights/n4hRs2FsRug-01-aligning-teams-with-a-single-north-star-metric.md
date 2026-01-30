@@ -4,7 +4,7 @@ title: Aligning teams with a single north star metric
 concepts:
   - "north-star-metric"
   - "organizational-alignment"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: Tim Holley
 source_episode: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)
 source: "[[guests/tim-holley|Tim Holley]]"

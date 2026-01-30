@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/vision]] (2 shared insights)
+- [[concepts/vision-communication]] (2 shared insights)

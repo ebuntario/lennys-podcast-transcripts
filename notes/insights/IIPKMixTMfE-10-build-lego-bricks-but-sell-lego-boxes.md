@@ -3,7 +3,7 @@ type: insight
 title: Build Lego bricks, but sell Lego boxes
 concepts:
   - "product-packaging"
-  - "enterprise-sales"
+  - "b2b-sales"
   - "user-psychology"
 source_guest: Ivan Zhao
 source_episode: Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal

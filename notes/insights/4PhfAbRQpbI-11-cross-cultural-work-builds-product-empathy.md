@@ -2,9 +2,9 @@
 type: insight
 title: Cross-cultural work builds product empathy
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "empathy"
-  - "career-development"
+  - "professional-growth"
 source_guest: Nikita Miller
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller
 source: "[[guests/nikita-miller|Nikita Miller]]"

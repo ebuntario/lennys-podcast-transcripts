@@ -2,7 +2,7 @@
 type: insight
 title: Hire marketing when you have product-market fit and know which fuel to add to the fire
 concepts:
-  - "hiring-strategy"
+  - "hiring-process"
   - "product-market-fit"
   - "marketing-functions"
 source_guest: Krithika Shankarraman

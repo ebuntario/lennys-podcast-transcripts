@@ -2,7 +2,7 @@
 type: insight
 title: The Three Reasons Why Initiatives Fail as a Leader
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "performance-management"
   - "team-setup"
 source_guest: Anuj Rathi

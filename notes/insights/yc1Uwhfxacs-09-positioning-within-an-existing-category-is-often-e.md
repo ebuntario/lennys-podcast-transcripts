@@ -4,7 +4,7 @@ title: Positioning within an existing category is often easier than creating a n
 concepts:
   - "positioning"
   - "category-creation"
-  - "gTM-strategy"
+  - "go-to-market"
   - "b2b-saas"
 source_guest: Todd Jackson
 source_episode: A framework for finding product-market fit | Todd Jackson (First Round Capital)

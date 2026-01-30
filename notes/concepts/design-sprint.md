@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)

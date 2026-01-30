@@ -3,7 +3,7 @@ type: insight
 title: Product leaders must be hands-on problem solvers, not just task delegators
 concepts:
   - "hands-on-leadership"
-  - "problem-solving"
+  - "creative-problem-solving"
   - "growth-strategy-execution"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

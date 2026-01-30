@@ -4,7 +4,7 @@ title: Use a structured naming brief to guide the naming process
 concepts:
   - "company-naming"
   - "positioning"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

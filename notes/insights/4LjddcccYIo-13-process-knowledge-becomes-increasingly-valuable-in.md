@@ -3,7 +3,7 @@ type: insight
 title: Process knowledge becomes increasingly valuable in complex organizations
 concepts:
   - "organizational-dynamics"
-  - "career-development"
+  - "professional-growth"
   - "age-diversity"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)

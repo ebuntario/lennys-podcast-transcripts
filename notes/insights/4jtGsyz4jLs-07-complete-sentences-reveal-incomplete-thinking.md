@@ -3,7 +3,7 @@ type: insight
 title: Complete sentences reveal incomplete thinking
 concepts:
   - "critical-thinking"
-  - "written-communication"
+  - "writing"
   - "clarity"
 source_guest: Wes Kao
 source_episode: Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)

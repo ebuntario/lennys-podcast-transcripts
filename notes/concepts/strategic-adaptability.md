@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/agile-methodology]] (1 shared insights)
+- [[concepts/agile-methodologies]] (1 shared insights)
 - [[concepts/roadmap-planning]] (1 shared insights)

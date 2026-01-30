@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-design]] (1 shared insights)
-- [[concepts/engineering-leadership]] (1 shared insights)
+- [[concepts/technical-leadership]] (1 shared insights)
 - [[concepts/technical-leadership]] (1 shared insights)

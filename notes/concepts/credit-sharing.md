@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/engineering-relationships]] (1 shared insights)
 - [[concepts/team-dynamics]] (1 shared insights)

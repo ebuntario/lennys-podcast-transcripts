@@ -4,7 +4,7 @@ title: AI makes experiential product discovery essential
 concepts:
   - "product-discovery"
   - "ai-ux"
-  - "user-feedback"
+  - "qualitative-feedback"
 source_guest: Howie Liu
 source_episode: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)
 source: "[[guests/howie-liu|Howie Liu]]"

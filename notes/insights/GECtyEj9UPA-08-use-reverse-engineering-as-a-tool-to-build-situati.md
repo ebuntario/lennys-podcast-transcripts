@@ -3,8 +3,8 @@ type: insight
 title: Use reverse engineering as a tool to build situational awareness and improve decisions
 concepts:
   - "situational-awareness"
-  - "problem-solving"
-  - "strategic-thinking"
+  - "creative-problem-solving"
+  - "systems-thinking"
 source_guest: "Evan LaPointe"
 source_episode: "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
 source: "[[guests/evan-lapointe|Evan LaPointe]]"

@@ -4,7 +4,7 @@ title: Normalize healthy tension from different team incentives
 concepts:
   - "team-dynamics"
   - "conflict-resolution"
-  - "alignment"
+  - "team-alignment"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

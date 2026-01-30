@@ -2,9 +2,9 @@
 type: insight
 title: Regular project reviews surface bottlenecks
 concepts:
-  - "execution"
+  - "strategy-execution"
   - "accountability"
-  - "leadership"
+  - "team-leadership"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

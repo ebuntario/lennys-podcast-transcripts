@@ -4,7 +4,7 @@ title: The transition to leadership is like going from playing to designing the 
 concepts:
   - "leadership-transition"
   - "mindset-shift"
-  - "career-development"
+  - "professional-growth"
 source_guest: Ken Norton
 source_episode: How to unlock your product leadership skills | Ken Norton, Ex-Google
 source: "[[guests/ken-norton|Ken Norton]]"

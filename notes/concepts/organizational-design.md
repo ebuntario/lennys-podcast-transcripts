@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/culture-fit]] (1 shared insights)
 - [[concepts/team-building]] (1 shared insights)
 - [[concepts/software-architecture]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/organizational-culture]] (1 shared insights)

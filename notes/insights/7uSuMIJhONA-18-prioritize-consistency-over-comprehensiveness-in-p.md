@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize consistency over comprehensiveness in platform markets
 concepts:
-  - "platform-thinking"
+  - "platform-strategy"
   - "product-strategy"
-  - "user-experience"
+  - "customer-experience"
   - "strategic-tradeoffs"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

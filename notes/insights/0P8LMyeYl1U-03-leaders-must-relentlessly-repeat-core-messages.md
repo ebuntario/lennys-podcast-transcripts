@@ -3,7 +3,7 @@ type: insight
 title: Leaders must relentlessly repeat core messages
 concepts:
   - "internal-communication"
-  - "leadership"
+  - "team-leadership"
   - "team-alignment"
 source_guest: Zoelle Egner
 source_episode: Lessons from Airtable’s unconventional growth strategy | Zoelle Egner

@@ -2,7 +2,7 @@
 type: insight
 title: Tools shape us as much as we shape them
 concepts:
-  - "product-philosophy"
+  - "product-principles"
   - "human-centered-design"
   - "long-term-thinking"
 source_guest: Ivan Zhao

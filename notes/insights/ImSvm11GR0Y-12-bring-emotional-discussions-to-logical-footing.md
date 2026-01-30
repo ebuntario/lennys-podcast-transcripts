@@ -3,8 +3,8 @@ type: insight
 title: Bring emotional discussions to logical footing
 concepts:
   - "conflict-resolution"
-  - "stakeholder-management"
-  - "communication-techniques"
+  - "relationship-management"
+  - "communication-skills"
 source_guest: Vikrama Dhiman
 source_episode: A framework for PM skill development | Vikrama Dhiman (Gojek)
 source: "[[guests/vikrama-dhiman|Vikrama Dhiman]]"

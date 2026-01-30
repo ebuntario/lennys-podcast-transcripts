@@ -3,7 +3,7 @@ type: insight
 title: Protect nascent product teams from mature product processes
 concepts:
   - "innovation"
-  - "organizational-structure"
+  - "organizational-design"
   - "startup-mindset"
   - "product-development"
 source_guest: Megan Cook

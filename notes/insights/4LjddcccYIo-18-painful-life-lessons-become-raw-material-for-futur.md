@@ -2,7 +2,7 @@
 type: insight
 title: Painful life lessons become raw material for future wisdom
 concepts:
-  - "personal-development"
+  - "personal-growth"
   - "resilience"
   - "mindset"
 source_guest: Chip Conley

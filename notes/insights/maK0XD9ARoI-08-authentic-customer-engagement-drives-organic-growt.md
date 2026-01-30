@@ -2,9 +2,9 @@
 type: insight
 title: Authentic customer engagement drives organic growth
 concepts:
-  - "customer-engagement"
+  - "user-engagement"
   - "word-of-mouth"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)
 source: "[[guests/tom-conrad|Tom Conrad]]"

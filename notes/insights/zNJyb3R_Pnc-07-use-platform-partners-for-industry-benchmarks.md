@@ -4,8 +4,8 @@ title: Use platform partners for industry benchmarks
 concepts:
   - "benchmarking"
   - "platform-partners"
-  - "competitive-analysis"
-  - "performance-evaluation"
+  - "benchmarking"
+  - "performance-management"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)
 source: "[[guests/timothy-davis|Timothy Davis]]"

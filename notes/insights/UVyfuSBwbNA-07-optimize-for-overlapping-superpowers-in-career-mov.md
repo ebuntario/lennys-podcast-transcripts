@@ -3,7 +3,7 @@ type: insight
 title: Optimize for overlapping superpowers in career moves
 concepts:
   - "strengths-based-work"
-  - "career-development"
+  - "professional-growth"
   - "self-awareness"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"

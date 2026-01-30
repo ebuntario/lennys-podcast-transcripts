@@ -2,7 +2,7 @@
 type: insight
 title: Pursue J-curve careers by jumping off cliffs, not climbing stairs
 concepts:
-  - "career-growth"
+  - "professional-growth"
   - "risk-taking"
   - "learning-mindset"
 source_guest: Molly Graham

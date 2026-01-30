@@ -5,7 +5,7 @@ concepts:
   - "company-values"
   - "brand-building"
   - "product-design"
-  - "growth-strategy"
+  - "startup-growth"
 source_guest: Rahul Vohra
 source_episode: Superhuman's secret to success | Rahul Vohra (CEO and founder)
 source: "[[guests/rahul-vohra|Rahul Vohra]]"

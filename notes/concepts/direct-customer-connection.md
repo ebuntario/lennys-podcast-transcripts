@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/customer-feedback]] (1 shared insights)
 - [[concepts/product-empathy]] (1 shared insights)
-- [[concepts/user-research]] (1 shared insights)
+- [[concepts/customer-research]] (1 shared insights)

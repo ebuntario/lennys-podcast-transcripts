@@ -2,8 +2,8 @@
 type: insight
 title: Effective storytelling requires significant time investment and planning
 concepts:
-  - "storytelling"
-  - "communication"
+  - "narrative"
+  - "team-communication"
   - "preparation"
   - "product-strategy"
 source_guest: Petra Wille

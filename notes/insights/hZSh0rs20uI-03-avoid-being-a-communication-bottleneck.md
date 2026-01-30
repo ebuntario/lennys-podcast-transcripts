@@ -3,7 +3,7 @@ type: insight
 title: Avoid Being a Communication Bottleneck
 concepts:
   - "communication-efficiency"
-  - "stakeholder-management"
+  - "relationship-management"
   - "operational-overhead"
 source_guest: Camille Fournier
 source_episode: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)

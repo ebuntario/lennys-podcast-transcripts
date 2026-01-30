@@ -2,8 +2,8 @@
 type: insight
 title: Prepare your core story in three distinct formats and lengths
 concepts:
-  - "storytelling"
-  - "communication"
+  - "narrative"
+  - "team-communication"
   - "audience-adaptation"
   - "preparation"
 source_guest: Petra Wille

@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize foundational website performance before paid acquisition
 concepts:
-  - "growth-strategy"
+  - "startup-growth"
   - "website-optimization"
   - "paid-acquisition"
   - "customer-experience"

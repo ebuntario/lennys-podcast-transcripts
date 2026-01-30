@@ -3,7 +3,7 @@ type: insight
 title: Product-led sales turns product usage data into revenue expansion
 concepts:
   - "product-led-sales"
-  - "sales-strategy"
+  - "sales-enablement"
   - "data-driven-decisions"
   - "revenue-expansion"
 source_guest: Naomi Ionita

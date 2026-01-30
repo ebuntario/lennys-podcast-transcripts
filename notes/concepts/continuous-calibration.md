@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/iterative-development]] (1 shared insights)
+- [[concepts/iteration]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Explore the solution space by building extreme versions first
 concepts:
   - "creative-process"
   - "product-ideation"
-  - "rapid-prototyping"
+  - "prototyping"
 source_guest: "Nan Yu"
 source_episode: "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"
 source: "[[guests/nan-yu|Nan Yu]]"

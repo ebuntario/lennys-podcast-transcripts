@@ -4,7 +4,7 @@ title: Use the "day one vs. day 100" framework for feature packaging
 concepts:
   - "feature-packaging"
   - "pricing-tiers"
-  - "user-journey"
+  - "customer-journey"
   - "upsell-strategy"
 source_guest: Naomi Ionita
 source_episode: How to price your product | Naomi Ionita (Menlo Ventures)

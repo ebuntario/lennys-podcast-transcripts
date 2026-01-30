@@ -3,7 +3,7 @@ type: insight
 title: Embrace accountability for things outside your control
 concepts:
   - "mindset"
-  - "career-development"
+  - "professional-growth"
   - "business-impact"
 source_guest: Matt LeMay
 source_episode: The one question that saves product careers | Matt LeMay

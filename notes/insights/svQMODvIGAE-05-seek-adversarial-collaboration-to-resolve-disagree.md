@@ -2,7 +2,7 @@
 type: insight
 title: Seek adversarial collaboration to resolve disagreements
 concepts:
-  - "collaboration"
+  - "team-collaboration"
   - "open-mindedness"
   - "truth-seeking"
 source_guest: Annie Duke

@@ -3,7 +3,7 @@ type: insight
 title: You're always wrong about products initially
 concepts:
   - "product-development"
-  - "user-feedback"
+  - "qualitative-feedback"
   - "humility"
 source_guest: Sam Schillace
 source_episode: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)

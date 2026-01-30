@@ -5,7 +5,7 @@ concepts:
   - "product-onboarding"
   - "cross-functional-alignment"
   - "customer-experience"
-  - "organizational-structure"
+  - "organizational-design"
 source_guest: "Georgiana Laudi"
 source_episode: "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
 source: "[[guests/gia-laudi|Gia Laudi]]"

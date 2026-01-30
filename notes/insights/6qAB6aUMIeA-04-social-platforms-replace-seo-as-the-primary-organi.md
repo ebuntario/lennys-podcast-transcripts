@@ -3,7 +3,7 @@ type: insight
 title: Social platforms replace SEO as the primary organic marketing strategy
 concepts:
   - "organic-growth"
-  - "marketing-channels"
+  - "marketing-strategy"
   - "b2b-saas"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year

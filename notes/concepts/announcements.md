@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/content-creation]] (1 shared insights)
+- [[concepts/thought-leadership]] (1 shared insights)
 - [[concepts/media-planning]] (1 shared insights)
 - [[concepts/media-outreach]] (1 shared insights)

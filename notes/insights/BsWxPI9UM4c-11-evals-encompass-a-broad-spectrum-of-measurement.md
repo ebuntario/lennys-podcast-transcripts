@@ -2,9 +2,9 @@
 type: insight
 title: Evals encompass a broad spectrum of measurement
 concepts:
-  - "ai-evals"
+  - "ai-evaluation"
   - "definition"
-  - "measurement"
+  - "success-metrics"
 source_guest: Shreya Shankar
 source_episode: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar
 source: "[[guests/hamel-husain-and-shreya-shankar|Hamel Husain & Shreya Shankar]]"

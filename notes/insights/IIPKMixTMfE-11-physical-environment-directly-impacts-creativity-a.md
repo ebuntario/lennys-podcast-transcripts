@@ -3,7 +3,7 @@ type: insight
 title: Physical environment directly impacts creativity and output
 concepts:
   - "workplace-design"
-  - "company-culture"
+  - "organizational-culture"
   - "craftsmanship"
 source_guest: Ivan Zhao
 source_episode: Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal

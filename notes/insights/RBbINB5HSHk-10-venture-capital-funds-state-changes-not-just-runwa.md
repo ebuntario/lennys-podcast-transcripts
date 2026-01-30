@@ -4,7 +4,7 @@ title: Venture capital funds state changes, not just runway
 concepts:
   - "venture-funding"
   - "startup-valuation"
-  - "fundraising-strategy"
+  - "fundraising"
   - "business-milestones"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market

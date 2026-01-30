@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/internal-mobility]] (1 shared insights)
 - [[concepts/cultural-immigration]] (1 shared insights)
 - [[concepts/values-vs-behaviors]] (1 shared insights)

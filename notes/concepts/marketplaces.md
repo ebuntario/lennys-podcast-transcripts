@@ -17,5 +17,5 @@ SORT file.name ASC
 
 - [[concepts/okrs]] (1 shared insights)
 - [[concepts/strategy-execution]] (1 shared insights)
-- [[concepts/company-vision]] (1 shared insights)
+- [[concepts/vision-communication]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)

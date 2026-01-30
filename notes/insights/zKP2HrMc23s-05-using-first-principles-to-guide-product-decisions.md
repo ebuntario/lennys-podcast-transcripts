@@ -2,7 +2,7 @@
 type: insight
 title: Using First Principles to Guide Product Decisions
 concepts:
-  - "product-philosophy"
+  - "product-principles"
   - "user-control"
   - "principled-decision-making"
 source_guest: Sachin Monga

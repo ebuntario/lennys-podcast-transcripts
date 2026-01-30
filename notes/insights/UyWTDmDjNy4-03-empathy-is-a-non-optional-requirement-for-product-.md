@@ -4,7 +4,7 @@ title: Empathy is a non-optional requirement for product builders
 concepts:
   - "empathy"
   - "product-development"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: "Seth Godin"
 source_episode: "Seth Godin's best tactics for building remarkable products, strategies, brands and more"
 source: "[[guests/seth-godin|Seth Godin]]"

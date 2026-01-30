@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-acquisition]] (1 shared insights)
+- [[concepts/user-acquisition]] (1 shared insights)
 - [[concepts/developer-experience]] (1 shared insights)

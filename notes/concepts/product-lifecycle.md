@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/perceived-simplicity]] (1 shared insights)
 - [[concepts/process-design]] (1 shared insights)
-- [[concepts/agile-methodology]] (1 shared insights)
+- [[concepts/agile-methodologies]] (1 shared insights)
 - [[concepts/product-operations]] (1 shared insights)

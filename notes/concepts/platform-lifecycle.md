@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/distribution-platforms]] (1 shared insights)
-- [[concepts/monetization]] (1 shared insights)
+- [[concepts/monetization-strategy]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Startups should delay hiring product managers until after product-market 
 concepts:
   - "startups"
   - "hiring"
-  - "product-management"
+  - "product-leadership"
 source_guest: "Marty Cagan"
 source_episode: "The disease of process people | Marty Cagan"
 source: "[[guests/marty-cagan-20|Marty Cagan 2.0]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize making the human feel maximally accelerated, not just automating tasks
 concepts:
-  - "product-philosophy"
+  - "product-principles"
   - "user-empowerment"
   - "ai-agents"
 source_guest: Alexander Embiricos

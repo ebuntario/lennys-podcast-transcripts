@@ -2,7 +2,7 @@
 type: insight
 title: Transform customer success insights into scalable content
 concepts:
-  - "content-creation"
+  - "thought-leadership"
   - "customer-feedback"
   - "scaling-processes"
 source_guest: Zoelle Egner

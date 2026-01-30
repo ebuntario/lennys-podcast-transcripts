@@ -3,7 +3,7 @@ type: insight
 title: Use cultural tensions and your brand's best self to articulate purpose
 concepts:
   - "brand-purpose"
-  - "strategic-frameworks"
+  - "strategy"
 source_guest: Arielle Jackson
 source_episode: The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)
 source: "[[guests/arielle-jackson|Arielle Jackson]]"

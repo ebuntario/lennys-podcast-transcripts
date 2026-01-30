@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/growth-strategy-execution]] (1 shared insights)
 - [[concepts/service-architecture]] (1 shared insights)
 - [[concepts/technical-debt]] (1 shared insights)
-- [[concepts/strategic-thinking]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)

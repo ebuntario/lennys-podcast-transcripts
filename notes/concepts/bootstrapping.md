@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/business-models]] (1 shared insights)
+- [[concepts/business-model]] (1 shared insights)
 - [[concepts/niche-markets]] (1 shared insights)
 - [[concepts/team-structure]] (1 shared insights)
 - [[concepts/organizational-effectiveness]] (1 shared insights)

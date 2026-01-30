@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/network-effects]] (1 shared insights)
 - [[concepts/platform-strategy]] (1 shared insights)
-- [[concepts/trust-building]] (1 shared insights)
+- [[concepts/trust]] (1 shared insights)
 - [[concepts/brand-strategy]] (1 shared insights)

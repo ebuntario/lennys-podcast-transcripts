@@ -4,7 +4,7 @@ title: Lower the stakes of big bets with small, fast teams
 concepts:
   - "organizational-innovation"
   - "team-structure"
-  - "experimentation"
+  - "testing"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

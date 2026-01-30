@@ -4,7 +4,7 @@ title: Embrace failure as a necessary part of innovation
 concepts:
   - "failure-tolerance"
   - "innovation"
-  - "experimentation"
+  - "testing"
 source_guest: "Uri Levine"
 source_episode: "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
 source: "[[guests/uri-levine|Uri Levine]]"

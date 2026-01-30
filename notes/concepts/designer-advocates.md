@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/go-to-market-strategy]] (1 shared insights)
+- [[concepts/go-to-market]] (1 shared insights)
 - [[concepts/technical-sales]] (1 shared insights)

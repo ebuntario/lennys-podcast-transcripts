@@ -4,7 +4,7 @@ title: Design for the most complex use case first, not the MVP
 concepts:
   - "product-strategy"
   - "technical-architecture"
-  - "mvp"
+  - "minimum-viable-product"
   - "differentiation"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)

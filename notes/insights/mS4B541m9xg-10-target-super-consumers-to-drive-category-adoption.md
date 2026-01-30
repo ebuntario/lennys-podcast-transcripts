@@ -2,7 +2,7 @@
 type: insight
 title: Target Super Consumers to Drive Category Adoption
 concepts:
-  - "customer-segmentation"
+  - "segmentation"
   - "strategic-growth-management"
   - "word-of-mouth"
 source_guest: Christopher Lochhead

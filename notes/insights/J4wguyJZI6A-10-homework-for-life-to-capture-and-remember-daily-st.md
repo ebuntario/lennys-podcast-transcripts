@@ -3,7 +3,7 @@ type: insight
 title: Homework for Life to capture and remember daily stories
 concepts:
   - "story-ideas"
-  - "self-reflection"
+  - "self-awareness"
   - "memory"
 source_guest: "Matthew Dicks"
 source_episode: "How to tell better stories | Matthew Dicks (Storyworthy)"

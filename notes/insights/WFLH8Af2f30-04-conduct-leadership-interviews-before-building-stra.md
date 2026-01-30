@@ -2,7 +2,7 @@
 type: insight
 title: Conduct leadership interviews before building strategy
 concepts:
-  - "stakeholder-management"
+  - "relationship-management"
   - "strategy-process"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)

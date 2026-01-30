@@ -2,7 +2,7 @@
 type: insight
 title: The power of perseverance in career navigation
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "persistence"
   - "opportunity-creation"
 source_guest: Naomi Gleit

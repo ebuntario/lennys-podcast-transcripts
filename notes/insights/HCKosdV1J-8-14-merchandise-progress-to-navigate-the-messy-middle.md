@@ -3,7 +3,7 @@ type: insight
 title: Merchandise progress to navigate the messy middle
 concepts:
   - "team-motivation"
-  - "leadership"
+  - "team-leadership"
   - "messy-middle"
 source_guest: Scott Belsky
 source_episode: Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)

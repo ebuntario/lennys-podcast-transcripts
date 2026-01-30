@@ -2,8 +2,8 @@
 type: insight
 title: Segment pricing based on user personas and perceived value
 concepts:
-  - "pricing-strategy"
-  - "customer-segmentation"
+  - "value-based-pricing"
+  - "segmentation"
   - "value-based-pricing"
   - "willingness-to-pay"
 source_guest: Naomi Ionita

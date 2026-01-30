@@ -4,7 +4,7 @@ title: Prioritize ideas using ICE (Impact, Confidence, Ease) to move beyond opin
 concepts:
   - "prioritization"
   - "idea-evaluation"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: "Itamar Gilad"
 source_episode: "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)"
 source: "[[guests/itamar-gilad|Itamar Gilad]]"

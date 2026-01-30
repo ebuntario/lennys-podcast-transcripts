@@ -5,7 +5,7 @@ concepts:
   - "product-led-growth"
   - "sales-model"
   - "market-expansion"
-  - "enterprise-sales"
+  - "b2b-sales"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market
 source: "[[guests/geoffrey-moore|Geoffrey Moore]]"

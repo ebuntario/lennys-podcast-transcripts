@@ -4,7 +4,7 @@ title: Treat experts like experts to drive retention and quality
 concepts:
   - "expert-networks"
   - "talent-retention"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Garrett Lord
 source_episode: Inside the expert network training every frontier AI model | Garrett Lord
 source: "[[guests/garrett-lord|Garrett Lord]]"

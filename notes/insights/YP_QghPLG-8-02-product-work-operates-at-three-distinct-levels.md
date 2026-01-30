@@ -2,7 +2,7 @@
 type: insight
 title: Product work operates at three distinct levels
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "team-alignment"
   - "organizational-dynamics"
 source_guest: Shreyas Doshi

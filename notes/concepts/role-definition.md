@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-metrics]] (1 shared insights)
+- [[concepts/product-analytics]] (1 shared insights)
 - [[concepts/accountability]] (1 shared insights)
 - [[concepts/product-operations]] (1 shared insights)

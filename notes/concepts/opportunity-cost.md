@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/seo-strategy]] (1 shared insights)
-- [[concepts/channel-selection]] (1 shared insights)
+- [[concepts/channel-strategy]] (1 shared insights)

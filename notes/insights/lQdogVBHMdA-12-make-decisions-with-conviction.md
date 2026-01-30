@@ -2,7 +2,7 @@
 type: insight
 title: Make Decisions with Conviction
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "decision-making"
   - "team-management"
 source_guest: "Uri Levine"

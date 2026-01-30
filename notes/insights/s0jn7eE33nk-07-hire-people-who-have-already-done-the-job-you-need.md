@@ -3,7 +3,7 @@ type: insight
 title: Hire people who have already done the job you need done next
 concepts:
   - "hiring"
-  - "talent-acquisition"
+  - "hiring"
   - "role-clarity"
 source_guest: Jonathan Lowenhar
 source_episode: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)

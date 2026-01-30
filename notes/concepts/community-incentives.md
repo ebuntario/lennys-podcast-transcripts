@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ecosystem-development]] (1 shared insights)
+- [[concepts/ecosystem-building]] (1 shared insights)

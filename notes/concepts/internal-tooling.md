@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation-culture]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)
 - [[concepts/knowledge-sharing]] (1 shared insights)
 - [[concepts/data-driven-decisions]] (1 shared insights)

@@ -2,11 +2,11 @@
 type: insight
 title: Customer focus is the ultimate shortcut to product success
 concepts:
-  - "customer-focus"
+  - "user-centric-design"
   - "product-development"
-  - "alignment"
+  - "team-alignment"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"
 ---
-Amid organizational complexity and internal politics, the most reliable guide is the customer. Continuously talk to users, advocate for their needs, and let their problems dictate priorities. This [[concepts/customer-focus|customer-centric]] approach cuts through noise, creates alignment, and directly drives value creation.
+Amid organizational complexity and internal politics, the most reliable guide is the customer. Continuously talk to users, advocate for their needs, and let their problems dictate priorities. This [[concepts/user-centric-design|customer-centric]] approach cuts through noise, creates alignment, and directly drives value creation.

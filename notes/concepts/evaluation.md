@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/prioritization]] (1 shared insights)
 - [[concepts/risk-management]] (1 shared insights)
-- [[concepts/organizational-structure]] (1 shared insights)
+- [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)
 - [[concepts/production-monitoring]] (1 shared insights)

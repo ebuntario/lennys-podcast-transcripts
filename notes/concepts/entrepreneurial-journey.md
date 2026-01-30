@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/risk-management]] (2 shared insights)
 - [[concepts/business-idea-generation]] (1 shared insights)
-- [[concepts/business-models]] (1 shared insights)
+- [[concepts/business-model]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
-- [[concepts/entrepreneurial-mindset]] (1 shared insights)
+- [[concepts/entrepreneurship]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Word-of-mouth growth requires high frequency or coolness
 concepts:
-  - "growth-strategy"
+  - "startup-growth"
   - "word-of-mouth"
   - "product-usage"
 source_guest: "Uri Levine"

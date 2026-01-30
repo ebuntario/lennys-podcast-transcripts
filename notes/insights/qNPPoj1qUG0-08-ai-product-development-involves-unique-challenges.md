@@ -2,9 +2,9 @@
 type: insight
 title: AI product development involves unique challenges
 concepts:
-  - "ai-product-development"
+  - "ai-development"
   - "project-uncertainty"
-  - "career-growth"
+  - "professional-growth"
 source_guest: Marily Nika
 source_episode: AI and product management | Marily Nika (Meta, Google)
 source: "[[guests/marily-nika|Marily Nika]]"

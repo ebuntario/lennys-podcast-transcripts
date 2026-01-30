@@ -2,7 +2,7 @@
 type: insight
 title: Build a tightly integrated product and research team to accelerate agent development
 concepts:
-  - "cross-functional-teams"
+  - "cross-functional-collaboration"
   - "rapid-iteration"
   - "ai-model-development"
 source_guest: Alexander Embiricos

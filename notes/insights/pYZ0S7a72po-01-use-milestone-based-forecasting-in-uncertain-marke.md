@@ -3,7 +3,7 @@ type: insight
 title: Use milestone-based forecasting in uncertain markets
 concepts:
   - "forecasting"
-  - "revenue-planning"
+  - "revenue-optimization"
   - "conservative-planning"
   - "market-volatility"
 source_guest: "Sahil Mansuri"

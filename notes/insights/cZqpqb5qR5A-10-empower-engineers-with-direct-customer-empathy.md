@@ -2,8 +2,8 @@
 type: insight
 title: Empower engineers with direct customer empathy
 concepts:
-  - "product-teams"
-  - "customer-empathy"
+  - "product-team"
+  - "empathy"
   - "engineering-culture"
   - "cross-functional-collaboration"
 source_guest: Tanguy Crusson

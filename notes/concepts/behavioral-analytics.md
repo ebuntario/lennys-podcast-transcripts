@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/data-infrastructure]] (1 shared insights)
+- [[concepts/data-strategy]] (1 shared insights)
 - [[concepts/experimentation-platform]] (1 shared insights)

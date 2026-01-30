@@ -4,7 +4,7 @@ title: Maintain a swipe file of effective communication
 concepts:
   - "skill-development"
   - "observation"
-  - "continuous-learning"
+  - "learning"
 source_guest: Wes Kao
 source_episode: Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)
 source: "[[guests/wes-kao-20|Wes Kao 2.0]]"

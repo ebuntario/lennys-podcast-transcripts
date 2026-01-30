@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/economics-mindset]] (1 shared insights)
-- [[concepts/incentive-design]] (1 shared insights)
+- [[concepts/incentive-alignment]] (1 shared insights)
 - [[concepts/marketing-technology]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)

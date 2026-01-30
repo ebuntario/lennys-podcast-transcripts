@@ -3,7 +3,7 @@ type: insight
 title: The data warehouse is the new center of gravity for analytics
 concepts:
   - "data-warehouse"
-  - "data-infrastructure"
+  - "data-strategy"
   - "single-source-of-truth"
 source_guest: "Vijay Iyengar"
 source_episode: "An inside look at Mixpanel’s product journey | Vijay Iyengar"

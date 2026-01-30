@@ -5,8 +5,8 @@ concepts:
   - "evaluation"
   - "product-development"
   - "model-training"
-  - "measurement"
-  - "iterative-improvement"
+  - "success-metrics"
+  - "iteration"
 source_guest: Karina Nguyen
 source_episode: OpenAI researcher on why soft skills are the future of work | Karina Nguyen
 source: "[[guests/karina-nguyen|Karina Nguyen]]"

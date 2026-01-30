@@ -4,7 +4,7 @@ title: Small, senior, tightly-knit teams are optimal for building new ventures w
 concepts:
   - "team-building"
   - "startup-within-a-startup"
-  - "execution"
+  - "strategy-execution"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 source: "[[guests/ayo-omojola|Ayo Omojola]]"

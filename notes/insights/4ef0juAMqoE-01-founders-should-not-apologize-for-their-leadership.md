@@ -2,7 +2,7 @@
 type: insight
 title: Founders should not apologize for their leadership style
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "decision-making"
   - "organizational-culture"
 source_guest: Brian Chesky

@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (4 shared insights)
+- [[concepts/team-leadership]] (4 shared insights)
 - [[concepts/coaching]] (3 shared insights)
 - [[concepts/feedback]] (2 shared insights)
 - [[concepts/decision-making]] (2 shared insights)

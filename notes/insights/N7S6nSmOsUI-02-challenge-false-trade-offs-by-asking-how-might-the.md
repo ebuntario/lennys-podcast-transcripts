@@ -4,7 +4,7 @@ title: Challenge false trade-offs by asking "How might the opposite be true?"
 concepts:
   - "decision-making"
   - "mindset"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 source: "[[guests/paige-costello|Paige Costello]]"

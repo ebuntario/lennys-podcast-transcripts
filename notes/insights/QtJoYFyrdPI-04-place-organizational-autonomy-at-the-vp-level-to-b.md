@@ -2,10 +2,10 @@
 type: insight
 title: Place organizational autonomy at the VP level to balance speed and coherence
 concepts:
-  - "organizational-structure"
+  - "organizational-design"
   - "autonomy"
   - "decision-making"
-  - "leadership"
+  - "team-leadership"
 source_guest: Gustav Söderström
 source_episode: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 source: "[[guests/gustav-soderstrom|Gustav Söderström]]"

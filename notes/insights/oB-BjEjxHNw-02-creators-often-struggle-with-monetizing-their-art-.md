@@ -4,7 +4,7 @@ title: Creators often struggle with monetizing their art due to emotional attach
 concepts:
   - "creator-psychology"
   - "value-exchange"
-  - "creator-monetization"
+  - "creator-economy"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

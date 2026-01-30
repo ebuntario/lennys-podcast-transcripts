@@ -3,7 +3,7 @@ type: insight
 title: Start with a narrow, deep focus to validate product-market fit
 concepts:
   - "product-market-fit"
-  - "community-led-growth"
+  - "community-strategy"
   - "developer-tools"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)

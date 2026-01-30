@@ -2,7 +2,7 @@
 type: insight
 title: Practice empathy through questioning to understand decisions, not judge them
 concepts:
-  - "communication"
+  - "team-communication"
   - "team-culture"
   - "decision-making"
 source_guest: Varun Parmar

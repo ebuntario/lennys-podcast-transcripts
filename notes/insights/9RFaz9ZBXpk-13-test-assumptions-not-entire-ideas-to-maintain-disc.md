@@ -3,7 +3,7 @@ type: insight
 title: Test assumptions, not entire ideas, to maintain discovery velocity
 concepts:
   - "assumption-testing"
-  - "experimentation"
+  - "testing"
   - "continuous-cadence"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres

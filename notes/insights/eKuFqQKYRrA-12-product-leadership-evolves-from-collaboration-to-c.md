@@ -2,7 +2,7 @@
 type: insight
 title: Product leadership evolves from collaboration to conviction
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "decision-making"
   - "accountability"
 source_guest: Brandon Chu

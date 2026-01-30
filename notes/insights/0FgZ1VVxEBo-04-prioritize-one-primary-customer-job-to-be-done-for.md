@@ -4,8 +4,8 @@ title: Prioritize one primary customer job to be done for maximum impact
 concepts:
   - "jobs-to-be-done"
   - "product-positioning"
-  - "customer-segmentation"
-  - "go-to-market-strategy"
+  - "segmentation"
+  - "go-to-market"
 source_guest: "Georgiana Laudi"
 source_episode: "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
 source: "[[guests/gia-laudi|Gia Laudi]]"

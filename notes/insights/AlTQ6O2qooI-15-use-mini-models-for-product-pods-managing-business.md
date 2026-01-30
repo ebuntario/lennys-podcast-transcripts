@@ -4,7 +4,7 @@ title: Use mini-models for product pods managing business tensions
 concepts:
   - "growth-loops"
   - "team-structure"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

@@ -4,7 +4,7 @@ title: The most impactful product changes come from founder-type engineers with 
 concepts:
   - "technical-leadership"
   - "product-development"
-  - "organizational-structure"
+  - "organizational-design"
 source_guest: "Mike Krieger"
 source_episode: "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"
 source: "[[guests/mike-krieger|Mike Krieger]]"

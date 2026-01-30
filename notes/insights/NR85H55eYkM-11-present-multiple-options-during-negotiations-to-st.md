@@ -2,7 +2,7 @@
 type: insight
 title: Present multiple options during negotiations to steer the conversation toward value
 concepts:
-  - "negotiation-strategy"
+  - "negotiation"
   - "value-selling"
   - "pricing-options"
   - "anchoring"

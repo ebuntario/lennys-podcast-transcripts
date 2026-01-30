@@ -3,7 +3,7 @@ type: insight
 title: Building buffers for unpredictable stakeholder schedules
 concepts:
   - "project-planning"
-  - "stakeholder-management"
+  - "relationship-management"
   - "agile-methodologies"
   - "contingency-planning"
 source_guest: Upasna Gautam

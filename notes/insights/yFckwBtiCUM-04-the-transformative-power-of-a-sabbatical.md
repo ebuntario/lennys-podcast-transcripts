@@ -3,7 +3,7 @@ type: insight
 title: The Transformative Power of a Sabbatical
 concepts:
   - "sabbatical"
-  - "career-transition"
+  - "career-transitions"
   - "burnout-recovery"
 source_guest: Paul Millerd
 source_episode: Redefining success, money, and belonging | Paul Millerd (The Pathless Path)

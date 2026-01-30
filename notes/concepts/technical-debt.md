@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/service-architecture]] (1 shared insights)
 - [[concepts/team-autonomy]] (1 shared insights)
 - [[concepts/product-investment]] (1 shared insights)
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)
 - [[concepts/product-simplicity]] (1 shared insights)

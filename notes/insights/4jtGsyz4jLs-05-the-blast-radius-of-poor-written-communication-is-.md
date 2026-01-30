@@ -2,7 +2,7 @@
 type: insight
 title: The blast radius of poor written communication is vast
 concepts:
-  - "written-communication"
+  - "writing"
   - "operational-efficiency"
   - "review-processes"
 source_guest: Wes Kao

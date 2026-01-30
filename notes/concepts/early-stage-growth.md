@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-obsession]] (1 shared insights)
+- [[concepts/user-centric-design]] (1 shared insights)
 - [[concepts/doing-things-that-dont-scale]] (1 shared insights)
 - [[concepts/strategic-growth-management]] (1 shared insights)
 - [[concepts/scalable-acquisition]] (1 shared insights)

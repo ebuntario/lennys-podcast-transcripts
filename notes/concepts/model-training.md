@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-evals]] (3 shared insights)
+- [[concepts/ai-evaluation]] (3 shared insights)
 - [[concepts/reinforcement-learning]] (3 shared insights)
 - [[concepts/product-requirements]] (1 shared insights)
 - [[concepts/agi-timeline]] (1 shared insights)

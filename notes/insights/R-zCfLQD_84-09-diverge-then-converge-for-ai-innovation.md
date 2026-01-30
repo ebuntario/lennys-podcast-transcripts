@@ -3,7 +3,7 @@ type: insight
 title: Diverge Then Converge for AI Innovation
 concepts:
   - "innovation"
-  - "experimentation"
+  - "testing"
   - "resource-allocation"
 source_guest: Tomer Cohen
 source_episode: Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)

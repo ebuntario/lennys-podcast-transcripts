@@ -2,7 +2,7 @@
 type: insight
 title: Leaders must be experts in their functional domain
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "accountability"
   - "skill-development"
 source_guest: Brian Chesky

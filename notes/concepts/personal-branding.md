@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/content-creation]] (2 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/thought-leadership]] (2 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/social-media-strategy]] (1 shared insights)
 - [[concepts/networking]] (1 shared insights)
 - [[concepts/guest-recruitment]] (1 shared insights)

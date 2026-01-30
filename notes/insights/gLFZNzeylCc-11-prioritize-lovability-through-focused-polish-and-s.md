@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize lovability through focused polish and strategic "pixie dust"
 concepts:
-  - "user-experience"
+  - "customer-experience"
   - "product-quality"
   - "feature-scoping"
 source_guest: Jiaona Zhang

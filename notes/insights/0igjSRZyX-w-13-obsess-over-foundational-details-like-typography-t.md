@@ -4,7 +4,7 @@ title: Obsess over foundational details like typography to create a superior exp
 concepts:
   - "product-design"
   - "attention-to-detail"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Rahul Vohra
 source_episode: Superhuman's secret to success | Rahul Vohra (CEO and founder)
 source: "[[guests/rahul-vohra|Rahul Vohra]]"

@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-research]] (1 shared insights)
-- [[concepts/alignment]] (1 shared insights)
+- [[concepts/customer-research]] (1 shared insights)
+- [[concepts/team-alignment]] (1 shared insights)
 - [[concepts/artificial-intelligence]] (1 shared insights)
-- [[concepts/behavioral-science]] (1 shared insights)
-- [[concepts/customer-segmentation]] (1 shared insights)
+- [[concepts/behavioral-economics]] (1 shared insights)
+- [[concepts/segmentation]] (1 shared insights)

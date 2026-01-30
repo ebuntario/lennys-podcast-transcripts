@@ -2,9 +2,9 @@
 type: insight
 title: Focus on solving the problem, not cost savings
 concepts:
-  - "product-philosophy"
-  - "mission"
-  - "stakeholder-management"
+  - "product-principles"
+  - "purpose"
+  - "relationship-management"
 source_guest: Keith Coleman
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter
 source: "[[guests/keith-coleman-and-jay-baxter|Keith Coleman & Jay Baxter]]"

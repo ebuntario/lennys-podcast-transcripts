@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/process-design]] (3 shared insights)
 - [[concepts/cross-functional-alignment]] (3 shared insights)
-- [[concepts/product-management]] (2 shared insights)
+- [[concepts/product-leadership]] (2 shared insights)
 - [[concepts/automation]] (2 shared insights)
 - [[concepts/organizational-scaling]] (1 shared insights)

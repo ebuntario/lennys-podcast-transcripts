@@ -3,7 +3,7 @@ type: insight
 title: The RIDE Framework for Decision-Making Clarity
 concepts:
   - "decision-making"
-  - "organizational-clarity"
+  - "organizational-alignment"
   - "change-management"
 source_guest: Heidi Helfand
 source_episode: The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)

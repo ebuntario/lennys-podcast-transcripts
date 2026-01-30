@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ai-evals]] (1 shared insights)
+- [[concepts/ai-evaluation]] (1 shared insights)
 - [[concepts/product-positioning]] (1 shared insights)

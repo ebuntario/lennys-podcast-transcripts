@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/product-development]] (2 shared insights)
 - [[concepts/technical-leadership]] (1 shared insights)
 - [[concepts/customer-experience]] (1 shared insights)
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)

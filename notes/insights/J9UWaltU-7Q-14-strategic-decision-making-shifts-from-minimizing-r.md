@@ -2,9 +2,9 @@
 type: insight
 title: Strategic decision-making shifts from minimizing regret to maximizing option value
 concepts:
-  - "decision-frameworks"
+  - "decision-making"
   - "long-term-thinking"
-  - "personal-development"
+  - "personal-growth"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

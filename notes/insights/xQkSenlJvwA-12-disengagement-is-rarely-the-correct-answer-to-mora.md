@@ -3,7 +3,7 @@ type: insight
 title: Disengagement is rarely the correct answer to moral complexity
 concepts:
   - "ethical-decision-making"
-  - "mission-alignment"
+  - "purpose"
   - "societal-impact"
 source_guest: Nabeel S. Qureshi
 source_episode: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)

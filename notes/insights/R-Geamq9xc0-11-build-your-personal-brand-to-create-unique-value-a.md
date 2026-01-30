@@ -4,7 +4,7 @@ title: Build your personal brand to create unique value and deal flow
 concepts:
   - "personal-branding"
   - "angel-investing"
-  - "career-development"
+  - "professional-growth"
 source_guest: Gokul Rajaram
 source_episode: What AI means for your product strategy | Paul Adams (CPO of Intercom)
 source: "[[guests/gokul-rajaram|Gokul Rajaram]]"

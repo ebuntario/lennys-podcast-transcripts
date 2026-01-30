@@ -3,7 +3,7 @@ type: insight
 title: Rigorously contextualize data points before presenting them
 concepts:
   - "data-analysis"
-  - "experimentation"
+  - "testing"
   - "business-metrics"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)

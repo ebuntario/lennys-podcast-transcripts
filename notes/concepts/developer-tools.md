@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/ai-agents]] (2 shared insights)
 - [[concepts/product-market-fit]] (1 shared insights)
-- [[concepts/community-led-growth]] (1 shared insights)
+- [[concepts/community-strategy]] (1 shared insights)
 - [[concepts/software-democratization]] (1 shared insights)
 - [[concepts/abstraction]] (1 shared insights)

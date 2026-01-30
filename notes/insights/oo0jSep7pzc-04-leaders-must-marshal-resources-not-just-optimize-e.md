@@ -2,7 +2,7 @@
 type: insight
 title: Leaders must marshal resources, not just optimize existing ones
 concepts:
-  - "leadership-mindset"
+  - "team-leadership"
   - "resource-advocacy"
   - "strategic-impact"
 source_guest: Fareed Mosavat

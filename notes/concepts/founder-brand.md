@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/authentic-communication]] (1 shared insights)
+- [[concepts/authenticity]] (1 shared insights)

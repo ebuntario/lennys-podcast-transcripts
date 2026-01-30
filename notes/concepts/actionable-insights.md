@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/marketplace-liquidity]] (1 shared insights)
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)

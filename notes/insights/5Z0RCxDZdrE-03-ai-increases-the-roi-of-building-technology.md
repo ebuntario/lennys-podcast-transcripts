@@ -3,7 +3,7 @@ type: insight
 title: AI increases the ROI of building technology
 concepts:
   - "ai-impact"
-  - "engineering-productivity"
+  - "engineering-culture"
   - "business-strategy"
   - "resource-allocation"
 source_guest: "Varun Mohan"

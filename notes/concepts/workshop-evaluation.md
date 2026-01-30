@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/advisor-networks]] (1 shared insights)
+- [[concepts/advisor-role]] (1 shared insights)
 - [[concepts/career-acceleration]] (1 shared insights)

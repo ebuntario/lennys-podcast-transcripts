@@ -4,7 +4,7 @@ title: Use eigenquestions to simplify complex decisions
 concepts:
   - "decision-making"
   - "problem-framing"
-  - "strategic-thinking"
+  - "systems-thinking"
   - "prioritization"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

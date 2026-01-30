@@ -3,7 +3,7 @@ type: insight
 title: Study the reasoning behind advice, not just the recommendation
 concepts:
   - "decision-making"
-  - "leadership"
+  - "team-leadership"
   - "critical-thinking"
 source_guest: Howie Liu
 source_episode: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)

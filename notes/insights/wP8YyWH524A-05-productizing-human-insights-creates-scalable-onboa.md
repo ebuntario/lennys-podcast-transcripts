@@ -3,8 +3,8 @@ type: insight
 title: Productizing human insights creates scalable onboarding improvements
 concepts:
   - "productizing-learnings"
-  - "user-onboarding"
-  - "scalability"
+  - "onboarding"
+  - "scalable-systems"
 source_guest: Adam Fishman
 source_episode: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 source: "[[guests/adam-fishman|Adam Fishman]]"

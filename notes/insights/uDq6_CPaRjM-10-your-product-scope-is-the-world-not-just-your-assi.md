@@ -4,7 +4,7 @@ title: Your product scope is the world, not just your assigned project
 concepts:
   - "product-strategy"
   - "entrepreneurship"
-  - "career-development"
+  - "professional-growth"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"
 source: "[[guests/mihika-kapoor|Mihika Kapoor]]"

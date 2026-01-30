@@ -2,7 +2,7 @@
 type: insight
 title: The U-curve of happiness shows life satisfaction improves after 50
 concepts:
-  - "personal-development"
+  - "personal-growth"
   - "mindset"
   - "life-transitions"
 source_guest: Chip Conley

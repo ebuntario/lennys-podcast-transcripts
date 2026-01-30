@@ -3,7 +3,7 @@ type: insight
 title: Design for future users, not just the vocal minority
 concepts:
   - "product-strategy"
-  - "user-feedback"
+  - "qualitative-feedback"
   - "change-management"
 source_guest: Tamar Yehoshua
 source_episode: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua

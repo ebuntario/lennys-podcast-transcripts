@@ -3,7 +3,7 @@ type: insight
 title: Pre-warn before difficult conversations
 concepts:
   - "difficult-conversations"
-  - "communication"
+  - "team-communication"
   - "emotional-regulation"
 source_guest: Matt Mochary
 source_episode: Are your fears giving you terrible advice? | Matt Mochary

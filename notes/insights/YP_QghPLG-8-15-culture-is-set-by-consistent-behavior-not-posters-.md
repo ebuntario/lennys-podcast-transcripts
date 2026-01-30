@@ -3,7 +3,7 @@ type: insight
 title: Culture is set by consistent behavior, not posters or values statements
 concepts:
   - "organizational-culture"
-  - "leadership"
+  - "team-leadership"
   - "behavioral-modeling"
 source_guest: Shreyas Doshi
 source_episode: The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)

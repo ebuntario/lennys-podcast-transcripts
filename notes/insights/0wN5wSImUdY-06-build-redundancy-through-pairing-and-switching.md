@@ -4,7 +4,7 @@ title: Build Redundancy Through Pairing and Switching
 concepts:
   - "knowledge-sharing"
   - "team-resilience"
-  - "career-development"
+  - "professional-growth"
 source_guest: Heidi Helfand
 source_episode: The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)
 source: "[[guests/heidi-helfand|Heidi Helfand]]"

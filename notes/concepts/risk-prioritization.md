@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-discovery]] (1 shared insights)
-- [[concepts/agile-methodology]] (1 shared insights)
+- [[concepts/agile-methodologies]] (1 shared insights)

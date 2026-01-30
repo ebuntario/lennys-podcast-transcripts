@@ -4,7 +4,7 @@ title: Individual contributors have agency to transform their roles and teams
 concepts:
   - "career-agency"
   - "skill-development"
-  - "bottom-up-change"
+  - "bottom-up-growth"
   - "product-manager-skills"
 source_guest: Marty Cagan
 source_episode: Product management theater | Marty Cagan (Silicon Valley Product Group)

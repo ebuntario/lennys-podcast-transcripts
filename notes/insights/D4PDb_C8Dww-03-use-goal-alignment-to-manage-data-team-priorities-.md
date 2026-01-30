@@ -3,7 +3,7 @@ type: insight
 title: Use goal alignment to manage data team priorities and pushback
 concepts:
   - "prioritization"
-  - "stakeholder-management"
+  - "relationship-management"
   - "goal-setting"
 source_guest: "Jessica Lachs"
 source_episode: "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"

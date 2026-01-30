@@ -4,7 +4,7 @@ title: Identify and over-invest in champion personas early
 concepts:
   - "customer-success"
   - "product-led-growth"
-  - "user-research"
+  - "customer-research"
 source_guest: Zoelle Egner
 source_episode: Lessons from Airtable’s unconventional growth strategy | Zoelle Egner
 source: "[[guests/zoelle-egner|Zoelle Egner]]"

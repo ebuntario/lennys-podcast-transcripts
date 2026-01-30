@@ -3,7 +3,7 @@ type: insight
 title: Innovation requires bandwidth for experimentation and failure
 concepts:
   - "innovation-culture"
-  - "experimentation"
+  - "testing"
   - "failure-tolerance"
 source_guest: Inbal Shani
 source_episode: The future of AI in software development | Inbal Shani (CPO of GitHub)

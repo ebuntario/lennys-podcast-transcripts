@@ -3,7 +3,7 @@ type: insight
 title: Centralized data teams drive higher talent and consistency
 concepts:
   - "data-org-structure"
-  - "talent-management"
+  - "talent-development"
   - "organizational-design"
 source_guest: "Jessica Lachs"
 source_episode: "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"

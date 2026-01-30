@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-segmentation]] (2 shared insights)
+- [[concepts/segmentation]] (2 shared insights)
 - [[concepts/positioning]] (2 shared insights)

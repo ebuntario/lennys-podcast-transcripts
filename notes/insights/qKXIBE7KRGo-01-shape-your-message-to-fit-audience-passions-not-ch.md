@@ -2,7 +2,7 @@
 type: insight
 title: Shape Your Message to Fit Audience Passions, Not Change Them
 concepts:
-  - "messaging-strategy"
+  - "messaging"
   - "audience-understanding"
   - "cultural-erogenous-zones"
 source_guest: Lulu Cheng Meservey

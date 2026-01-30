@@ -5,7 +5,7 @@ concepts:
   - "growth-loops"
   - "product-strategy"
   - "viral-mechanics"
-  - "platform-thinking"
+  - "platform-strategy"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft
 source: "[[guests/shishir-mehrotra|Shishir Mehrotra]]"

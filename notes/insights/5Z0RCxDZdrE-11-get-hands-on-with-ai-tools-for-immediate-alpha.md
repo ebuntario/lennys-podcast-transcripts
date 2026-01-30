@@ -2,7 +2,7 @@
 type: insight
 title: Get hands-on with AI tools for immediate alpha
 concepts:
-  - "skill-building"
+  - "skill-development"
   - "ai-adoption"
   - "productivity"
   - "career-advice"

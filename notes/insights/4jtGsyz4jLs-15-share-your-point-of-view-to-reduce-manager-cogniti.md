@@ -4,7 +4,7 @@ title: Share your point of view to reduce manager cognitive load
 concepts:
   - "proactive-contribution"
   - "manager-effectiveness"
-  - "strategic-thinking"
+  - "systems-thinking"
 source_guest: "Wes Kao"
 source_episode: "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)"
 source: "[[guests/wes-kao|Wes Kao]]"

@@ -4,7 +4,7 @@ title: Start with Google Search for user-driven intent
 concepts:
   - "paid-search"
   - "user-intent"
-  - "channel-selection"
+  - "channel-strategy"
   - "performance-marketing"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)

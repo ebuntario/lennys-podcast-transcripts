@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/user-innovation]] (1 shared insights)
 - [[concepts/ai-applications]] (1 shared insights)
 - [[concepts/risk-assessment]] (1 shared insights)
-- [[concepts/product-roadmaps]] (1 shared insights)
+- [[concepts/roadmap-planning]] (1 shared insights)

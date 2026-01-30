@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-design]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/growth-product-strategy]] (1 shared insights)
 - [[concepts/free-tier]] (1 shared insights)

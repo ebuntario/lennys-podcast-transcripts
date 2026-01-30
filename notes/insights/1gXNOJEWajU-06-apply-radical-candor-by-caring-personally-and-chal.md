@@ -5,7 +5,7 @@ concepts:
   - "feedback"
   - "management"
   - "team-culture"
-  - "leadership"
+  - "team-leadership"
 source_guest: Maya Prohovnik
 source_episode: Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)
 source: "[[guests/maya-prohovnik|Maya Prohovnik]]"

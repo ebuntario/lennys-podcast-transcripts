@@ -4,7 +4,7 @@ title: Match discovery rigor to solution risk and importance
 concepts:
   - "risk-assessment"
   - "discovery-scoping"
-  - "product-differentiation"
+  - "product-positioning"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres
 source: "[[guests/teresa-torres|Teresa Torres]]"

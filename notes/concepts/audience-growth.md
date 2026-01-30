@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/content-strategy]] (1 shared insights)
+- [[concepts/thought-leadership]] (1 shared insights)
 - [[concepts/creator-discipline]] (1 shared insights)
 - [[concepts/cross-promotion]] (1 shared insights)
 - [[concepts/creator-community]] (1 shared insights)

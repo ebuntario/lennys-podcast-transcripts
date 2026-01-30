@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/vision]] (1 shared insights)
+- [[concepts/vision-communication]] (1 shared insights)
 - [[concepts/intentionality]] (1 shared insights)

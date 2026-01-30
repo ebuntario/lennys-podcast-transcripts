@@ -4,7 +4,7 @@ title: Disagree and commit requires understanding before alignment
 concepts:
   - "disagree-and-commit"
   - "decision-making"
-  - "leadership-principles"
+  - "leadership-development"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)
 source: "[[guests/bill-carr|Bill Carr]]"

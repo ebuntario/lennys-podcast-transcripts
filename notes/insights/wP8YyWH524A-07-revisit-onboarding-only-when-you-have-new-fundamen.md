@@ -2,7 +2,7 @@
 type: insight
 title: Revisit onboarding only when you have new fundamental insights about customers
 concepts:
-  - "user-onboarding"
+  - "onboarding"
   - "organizational-product-strategy"
   - "customer-insights"
 source_guest: Adam Fishman

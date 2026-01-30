@@ -2,7 +2,7 @@
 type: insight
 title: People switch jobs for progress, not primarily for money
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "progress-theory"
   - "motivation"
 source_guest: Bob Moesta

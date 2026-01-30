@@ -4,7 +4,7 @@ title: Tie feature debates back to specific, real people
 concepts:
   - "customer-discovery"
   - "product-decision-making"
-  - "user-research"
+  - "customer-research"
 source_guest: "Nan Yu"
 source_episode: "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"
 source: "[[guests/nan-yu|Nan Yu]]"

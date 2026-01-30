@@ -3,7 +3,7 @@ type: insight
 title: Sometimes you must pivot away from a working product to achieve a larger mission
 concepts:
   - "product-strategy"
-  - "vision"
+  - "vision-communication"
   - "pivoting"
   - "startup-growth"
 source_guest: Maya Prohovnik

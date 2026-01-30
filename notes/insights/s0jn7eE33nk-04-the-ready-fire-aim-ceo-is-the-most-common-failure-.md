@@ -3,7 +3,7 @@ type: insight
 title: The "ready, fire, aim" CEO is the most common failure mode
 concepts:
   - "planning"
-  - "operational-excellence"
+  - "operational-efficiency"
   - "decision-making"
 source_guest: Jonathan Lowenhar
 source_episode: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)

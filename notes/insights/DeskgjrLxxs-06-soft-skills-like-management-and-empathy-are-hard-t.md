@@ -6,7 +6,7 @@ concepts:
   - "management"
   - "emotional-intelligence"
   - "automation-resistance"
-  - "collaboration"
+  - "team-collaboration"
 source_guest: Karina Nguyen
 source_episode: OpenAI researcher on why soft skills are the future of work | Karina Nguyen
 source: "[[guests/karina-nguyen|Karina Nguyen]]"

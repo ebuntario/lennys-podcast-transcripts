@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/burnout]] (1 shared insights)
 - [[concepts/team-dynamics]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/automation]] (1 shared insights)
 - [[concepts/product-operations]] (1 shared insights)

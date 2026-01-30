@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/psychological-resilience]] (2 shared insights)
+- [[concepts/resilience]] (2 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/sunk-cost-fallacy]] (1 shared insights)

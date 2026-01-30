@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/work-life-balance]] (1 shared insights)

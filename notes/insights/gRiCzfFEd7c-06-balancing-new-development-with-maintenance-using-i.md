@@ -3,7 +3,7 @@ type: insight
 title: Balancing new development with maintenance using intuitive prioritization
 concepts:
   - "prioritization"
-  - "product-roadmapping"
+  - "roadmap-planning"
   - "incident-management"
   - "workflow-optimization"
 source_guest: Upasna Gautam

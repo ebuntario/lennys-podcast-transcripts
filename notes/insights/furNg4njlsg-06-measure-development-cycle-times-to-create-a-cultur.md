@@ -2,7 +2,7 @@
 type: insight
 title: Measure development cycle times to create a culture of competing against yourself
 concepts:
-  - "product-metrics"
+  - "product-analytics"
   - "development-process"
   - "continuous-improvement"
 source_guest: Varun Parmar

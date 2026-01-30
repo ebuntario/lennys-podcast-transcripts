@@ -2,7 +2,7 @@
 type: insight
 title: Strategic planning shifts from fixed roadmaps to adaptable seasons based on secular changes
 concepts:
-  - "strategic-thinking"
+  - "systems-thinking"
   - "agile-roadmapping"
   - "technology-cycles"
 source_guest: Asha Sharma

@@ -4,7 +4,7 @@ title: Channelize stakeholder feedback into specific skill development
 concepts:
   - "feedback-processing"
   - "skill-development"
-  - "career-growth"
+  - "professional-growth"
 source_guest: Vikrama Dhiman
 source_episode: A framework for PM skill development | Vikrama Dhiman (Gojek)
 source: "[[guests/vikrama-dhiman|Vikrama Dhiman]]"

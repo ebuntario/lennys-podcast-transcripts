@@ -2,7 +2,7 @@
 type: insight
 title: Plan Your Career as a Map, Not a Ladder
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "mindset"
   - "risk-taking"
 source_guest: Jason Shah

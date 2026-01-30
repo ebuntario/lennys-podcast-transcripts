@@ -15,8 +15,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-development]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/product-passion]] (1 shared insights)
 - [[concepts/problem-focus]] (1 shared insights)
 - [[concepts/candidate-evaluation]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: Advice is like cotton candy—lacking lasting nutritional value
 concepts:
   - "coaching"
-  - "mentorship"
+  - "coaching"
   - "personal-growth"
 source_guest: Ken Norton
 source_episode: How to unlock your product leadership skills | Ken Norton, Ex-Google

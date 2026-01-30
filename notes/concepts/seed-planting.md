@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/compounding-loops]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)

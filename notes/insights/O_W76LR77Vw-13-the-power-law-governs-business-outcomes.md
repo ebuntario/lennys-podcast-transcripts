@@ -4,7 +4,7 @@ title: The Power Law Governs Business Outcomes
 concepts:
   - "business-outcomes"
   - "performance-distribution"
-  - "competitive-dynamics"
+  - "competitive-landscape"
 source_guest: "Matt MacInnis"
 source_episode: "I deliberately understaff every project | Leadership lessons from Rippling's $16B journey"
 source: "[[guests/matt-macinnis|Matt MacInnis]]"

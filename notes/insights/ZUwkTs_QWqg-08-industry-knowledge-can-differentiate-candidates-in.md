@@ -2,8 +2,8 @@
 type: insight
 title: Industry knowledge can differentiate candidates in competitive job markets
 concepts:
-  - "career-development"
-  - "hiring-strategy"
+  - "professional-growth"
+  - "hiring-process"
   - "competitive-advantage"
 source_guest: "Hari Srinivasan"
 source_episode: "LinkedIn’s product evolution and the art of building complex systems"

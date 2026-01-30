@@ -3,8 +3,8 @@ type: insight
 title: Use the "mock press release" technique to force clarity on customer value
 concepts:
   - "product-definition"
-  - "customer-value"
-  - "communication"
+  - "user-value"
+  - "team-communication"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"
 source: "[[guests/jag-duggal|Jag Duggal]]"

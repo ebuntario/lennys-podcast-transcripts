@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)
 - [[concepts/user-psychology]] (1 shared insights)

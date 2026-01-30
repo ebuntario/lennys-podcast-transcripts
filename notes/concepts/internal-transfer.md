@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/career-transitions]] (1 shared insights)
 - [[concepts/associate-product-manager]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/product-aptitude]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)

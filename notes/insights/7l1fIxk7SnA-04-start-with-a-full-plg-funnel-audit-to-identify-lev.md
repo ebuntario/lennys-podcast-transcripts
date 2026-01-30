@@ -4,7 +4,7 @@ title: Start with a full PLG funnel audit to identify leverage points
 concepts:
   - "funnel-audit"
   - "growth-levers"
-  - "user-onboarding"
+  - "onboarding"
 source_guest: Hila Qu
 source_episode: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
 source: "[[guests/hila-qu|Hila Qu]]"

@@ -3,7 +3,7 @@ type: insight
 title: Manage the agency-control trade-off by starting small
 concepts:
   - "agency-control-tradeoff"
-  - "iterative-development"
+  - "iteration"
   - "risk-management"
 source_guest: Kiriti Badam
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon

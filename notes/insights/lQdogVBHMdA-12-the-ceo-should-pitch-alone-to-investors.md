@@ -3,8 +3,8 @@ type: insight
 title: The CEO should pitch alone to investors
 concepts:
   - "fundraising"
-  - "leadership"
-  - "storytelling"
+  - "team-leadership"
+  - "narrative"
 source_guest: "Uri Levine"
 source_episode: "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
 source: "[[guests/uri-levine|Uri Levine]]"

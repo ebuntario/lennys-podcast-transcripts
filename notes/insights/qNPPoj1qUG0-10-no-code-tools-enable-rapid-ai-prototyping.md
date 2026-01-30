@@ -3,7 +3,7 @@ type: insight
 title: No-code tools enable rapid AI prototyping
 concepts:
   - "no-code-tools"
-  - "rapid-prototyping"
+  - "prototyping"
   - "ai-applications"
 source_guest: Marily Nika
 source_episode: AI and product management | Marily Nika (Meta, Google)

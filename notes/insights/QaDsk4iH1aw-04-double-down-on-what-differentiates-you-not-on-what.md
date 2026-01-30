@@ -3,7 +3,7 @@ type: insight
 title: Double down on what differentiates you, not on what competitors are doing
 concepts:
   - "competitive-advantage"
-  - "brand-positioning"
+  - "positioning"
   - "customer-marketing"
 source_guest: Krithika Shankarraman
 source_episode: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman

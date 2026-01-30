@@ -2,7 +2,7 @@
 type: insight
 title: High agency and comfort with ambiguity are key traits for PMs in fast-moving AI companies
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "leadership-traits"
   - "organizational-culture"
 source_guest: Kevin Weil

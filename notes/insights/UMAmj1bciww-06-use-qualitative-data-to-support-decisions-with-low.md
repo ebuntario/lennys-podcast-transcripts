@@ -3,7 +3,7 @@ type: insight
 title: Use qualitative data to support decisions with lower statistical confidence
 concepts:
   - "data-driven-decisions"
-  - "experimentation"
+  - "testing"
   - "qualitative-research"
 source_guest: Laura Schaffer
 source_episode: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)

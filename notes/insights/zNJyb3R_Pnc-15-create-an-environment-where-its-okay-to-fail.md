@@ -2,10 +2,10 @@
 type: insight
 title: Create an environment where it's okay to fail
 concepts:
-  - "experimentation-culture"
+  - "testing"
   - "psychological-safety"
   - "learning-from-failure"
-  - "growth-mindset"
+  - "mindset"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)
 source: "[[guests/timothy-davis|Timothy Davis]]"

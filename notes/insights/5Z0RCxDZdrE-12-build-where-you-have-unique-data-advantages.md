@@ -5,7 +5,7 @@ concepts:
   - "competitive-moat"
   - "ai-training"
   - "data-strategy"
-  - "product-differentiation"
+  - "product-positioning"
 source_guest: "Varun Mohan"
 source_episode: "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf"
 source: "[[guests/varun-mohan|Varun Mohan]]"

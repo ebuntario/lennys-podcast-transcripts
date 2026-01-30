@@ -3,7 +3,7 @@ type: insight
 title: The CAMEL framework restricts agent permissions at runtime
 concepts:
   - "permissioning"
-  - "agentic-ai"
+  - "ai-agents"
   - "ai-security"
 source_guest: "Sander Schulhoff"
 source_episode: "Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO"

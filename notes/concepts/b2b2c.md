@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-thinking]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/product-design]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/data-modeling]] (1 shared insights)
 - [[concepts/customer-relationship-management]] (1 shared insights)

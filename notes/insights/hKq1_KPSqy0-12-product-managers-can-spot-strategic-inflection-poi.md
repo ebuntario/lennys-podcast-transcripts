@@ -2,8 +2,8 @@
 type: insight
 title: Product managers can spot strategic inflection points from the weeds
 concepts:
-  - "product-management"
-  - "strategic-thinking"
+  - "product-leadership"
+  - "systems-thinking"
   - "innovation"
 source_guest: Hamilton Helmer
 source_episode: Business strategy with Hamilton Helmer (author of 7 Powers)

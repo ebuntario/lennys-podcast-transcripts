@@ -5,7 +5,7 @@ concepts:
   - "product-onboarding"
   - "product-activation"
   - "jobs-to-be-done"
-  - "user-experience"
+  - "customer-experience"
 source_guest: "Georgiana Laudi"
 source_episode: "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
 source: "[[guests/gia-laudi|Gia Laudi]]"

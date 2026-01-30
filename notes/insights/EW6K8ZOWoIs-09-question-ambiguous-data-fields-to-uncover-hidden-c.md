@@ -3,7 +3,7 @@ type: insight
 title: Question ambiguous data fields to uncover hidden complexity and exceptions
 concepts:
   - "data-quality"
-  - "execution"
+  - "strategy-execution"
   - "systems-thinking"
 source_guest: Ayo Omojola
 source_episode: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola

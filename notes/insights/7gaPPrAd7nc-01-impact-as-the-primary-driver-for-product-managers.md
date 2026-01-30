@@ -2,8 +2,8 @@
 type: insight
 title: Impact as the primary driver for product managers
 concepts:
-  - "product-management"
-  - "career-growth"
+  - "product-leadership"
+  - "professional-growth"
   - "impact-driven-work"
 source_guest: Ian McAllister
 source_episode: What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)

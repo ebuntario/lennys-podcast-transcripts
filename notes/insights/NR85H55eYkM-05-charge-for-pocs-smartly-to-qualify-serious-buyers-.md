@@ -4,7 +4,7 @@ title: Charge for POCs smartly to qualify serious buyers and avoid tire-kickers
 concepts:
   - "proof-of-concept"
   - "lead-qualification"
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "value-proposition"
 source_guest: "Madhavan Ramanujam"
 source_episode: "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam"

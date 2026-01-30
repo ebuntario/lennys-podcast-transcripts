@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-product-strategy]] (1 shared insights)
-- [[concepts/strategic-thinking]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)

@@ -2,9 +2,9 @@
 type: insight
 title: Choose jobs based on emotional fit, not just a career spreadsheet
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "authenticity"
-  - "trust"
+  - "psychological-safety"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 source: "[[guests/ami-vora|Ami Vora]]"

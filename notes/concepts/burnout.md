@@ -16,7 +16,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/depression]] (1 shared insights)
-- [[concepts/mental-health-awareness]] (1 shared insights)
+- [[concepts/mental-health]] (1 shared insights)
 - [[concepts/adaptability]] (1 shared insights)
 - [[concepts/team-dynamics]] (1 shared insights)
 - [[concepts/mental-health]] (1 shared insights)

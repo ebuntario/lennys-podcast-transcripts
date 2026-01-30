@@ -3,7 +3,7 @@ type: insight
 title: Stress-test inflections with three questions
 concepts:
   - "inflection-analysis"
-  - "opportunity-evaluation"
+  - "opportunity-identification"
 source_guest: "Mike Maples Jr"
 source_episode: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"
 source: "[[guests/mike-maples-jr|Mike Maples Jr]]"

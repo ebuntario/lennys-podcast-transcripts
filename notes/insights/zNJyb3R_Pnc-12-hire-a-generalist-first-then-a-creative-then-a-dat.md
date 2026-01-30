@@ -4,7 +4,7 @@ title: Hire a generalist first, then a creative, then a data scientist
 concepts:
   - "team-building"
   - "hiring-sequence"
-  - "growth-marketing"
+  - "startup-growth"
   - "skill-specialization"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)

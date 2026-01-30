@@ -4,7 +4,7 @@ title: Leverage your best users to scale onboarding and activation
 concepts:
   - "growth-levers"
   - "community-building"
-  - "scaling"
+  - "scalable-systems"
 source_guest: Benjamin Lauzier
 source_episode: How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 source: "[[guests/benjamin-lauzier|Benjamin Lauzier]]"

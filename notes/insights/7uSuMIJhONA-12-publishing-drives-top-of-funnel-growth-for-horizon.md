@@ -3,7 +3,7 @@ type: insight
 title: Publishing drives top-of-funnel growth for horizontal products
 concepts:
   - "growth-loops"
-  - "content-strategy"
+  - "thought-leadership"
   - "user-acquisition"
   - "product-led-growth"
 source_guest: Shishir Mehrotra

@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize reducing user thinking over reducing clicks
 concepts:
-  - "user-experience"
+  - "customer-experience"
   - "cognitive-load"
   - "product-design"
 source_guest: Stewart Butterfield

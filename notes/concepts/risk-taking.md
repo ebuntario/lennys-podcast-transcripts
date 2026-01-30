@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/innovation]] (1 shared insights)
 - [[concepts/long-term-thinking]] (1 shared insights)
 - [[concepts/product-frameworks]] (1 shared insights)
-- [[concepts/strategic-thinking]] (1 shared insights)
-- [[concepts/career-advancement]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Apply a Product Mindset to Hiring
 concepts:
   - "hiring"
-  - "recruiting"
-  - "talent-management"
+  - "hiring"
+  - "talent-development"
 source_guest: Jason Shah
 source_episode: Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)
 source: "[[guests/jason-shah|Jason Shah]]"

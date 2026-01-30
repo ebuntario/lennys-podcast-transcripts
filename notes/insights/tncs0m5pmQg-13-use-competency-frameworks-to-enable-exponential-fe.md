@@ -3,7 +3,7 @@ type: insight
 title: Use competency frameworks to enable exponential feedback
 concepts:
   - "feedback-culture"
-  - "career-development"
+  - "professional-growth"
   - "performance-management"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)

@@ -2,9 +2,9 @@
 type: insight
 title: Discovery and delivery are parallel, not sequential activities
 concepts:
-  - "continuous-discovery"
+  - "product-discovery"
   - "delivery-cadence"
-  - "risk-mitigation"
+  - "risk-management"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres
 source: "[[guests/teresa-torres|Teresa Torres]]"

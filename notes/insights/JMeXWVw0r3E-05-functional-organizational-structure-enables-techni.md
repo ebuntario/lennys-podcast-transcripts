@@ -3,7 +3,7 @@ type: insight
 title: Functional organizational structure enables technical depth and AI adoption
 concepts:
   - "organizational-design"
-  - "engineering-leadership"
+  - "technical-leadership"
   - "technical-leadership"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna

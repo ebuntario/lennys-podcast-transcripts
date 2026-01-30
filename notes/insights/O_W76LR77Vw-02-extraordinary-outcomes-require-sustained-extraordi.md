@@ -3,7 +3,7 @@ type: insight
 title: Extraordinary Outcomes Require Sustained Extraordinary Effort
 concepts:
   - "high-performance"
-  - "leadership-principles"
+  - "leadership-development"
   - "competitive-advantage"
   - "team-culture"
 source_guest: "Matt MacInnis"

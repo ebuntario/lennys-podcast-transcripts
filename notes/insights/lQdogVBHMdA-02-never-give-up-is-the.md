@@ -2,7 +2,7 @@
 type: insight
 title: Never Give Up is the #1 CEO Behavior
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "resilience"
   - "founder-mindset"
 source_guest: "Uri Levine"

@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/operating-system]] (1 shared insights)
-- [[concepts/scaling]] (1 shared insights)
+- [[concepts/scalable-systems]] (1 shared insights)
 - [[concepts/founder-mindset]] (1 shared insights)
 - [[concepts/mission-driven]] (1 shared insights)

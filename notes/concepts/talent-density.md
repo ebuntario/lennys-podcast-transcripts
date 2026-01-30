@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/hiring-strategy]] (2 shared insights)
+- [[concepts/hiring-process]] (2 shared insights)
 - [[concepts/radical-candor]] (1 shared insights)
 - [[concepts/freedom-and-responsibility]] (1 shared insights)
 - [[concepts/team-composition]] (1 shared insights)

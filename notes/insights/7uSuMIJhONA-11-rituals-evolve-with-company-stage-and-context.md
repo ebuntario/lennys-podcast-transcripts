@@ -4,7 +4,7 @@ title: Rituals evolve with company stage and context
 concepts:
   - "team-rituals"
   - "organizational-design"
-  - "scaling"
+  - "scalable-systems"
   - "change-management"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

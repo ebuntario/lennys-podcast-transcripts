@@ -3,7 +3,7 @@ type: insight
 title: Ignore feedback to "build less brand" and instead signal your capabilities publicly
 concepts:
   - "personal-branding"
-  - "career-advancement"
+  - "professional-growth"
   - "self-promotion"
 source_guest: Sriram Krishnan
 source_episode: Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi

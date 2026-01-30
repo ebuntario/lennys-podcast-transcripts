@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/community-led-growth]] (1 shared insights)
-- [[concepts/content-strategy]] (1 shared insights)
+- [[concepts/community-strategy]] (1 shared insights)
+- [[concepts/thought-leadership]] (1 shared insights)

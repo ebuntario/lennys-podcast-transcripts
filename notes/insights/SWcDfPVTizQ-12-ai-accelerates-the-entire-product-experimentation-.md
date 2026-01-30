@@ -2,7 +2,7 @@
 type: insight
 title: AI accelerates the entire product experimentation cycle
 concepts:
-  - "rapid-prototyping"
+  - "prototyping"
   - "customer-feedback"
   - "experimentation-velocity"
 source_guest: "Nicole Forsgren"

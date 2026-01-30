@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/cross-functional-collaboration]] (2 shared insights)
 - [[concepts/sales-alignment]] (1 shared insights)
 - [[concepts/differentiated-value]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/distribution]] (1 shared insights)

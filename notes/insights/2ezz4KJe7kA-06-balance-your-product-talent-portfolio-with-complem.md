@@ -2,9 +2,9 @@
 type: insight
 title: Balance your product talent portfolio with complementary skills
 concepts:
-  - "talent-management"
+  - "talent-development"
   - "team-building"
-  - "product-management"
+  - "product-leadership"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)
 source: "[[guests/eeke-de-milliano|Eeke de Milliano]]"

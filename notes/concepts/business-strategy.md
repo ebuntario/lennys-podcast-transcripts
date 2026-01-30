@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-obsession]] (1 shared insights)
+- [[concepts/user-centric-design]] (1 shared insights)
 - [[concepts/long-term-thinking]] (1 shared insights)
 - [[concepts/ai-strategy]] (1 shared insights)
 - [[concepts/future-of-work]] (1 shared insights)

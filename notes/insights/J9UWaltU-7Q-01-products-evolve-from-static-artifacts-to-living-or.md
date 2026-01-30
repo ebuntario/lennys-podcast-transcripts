@@ -4,7 +4,7 @@ title: Products evolve from static artifacts to living organisms
 concepts:
   - "product-as-organism"
   - "continuous-feedback"
-  - "ai-product-development"
+  - "ai-development"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

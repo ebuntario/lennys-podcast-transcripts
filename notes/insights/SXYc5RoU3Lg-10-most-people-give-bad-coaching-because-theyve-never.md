@@ -3,7 +3,7 @@ type: insight
 title: Most people give bad coaching because they've never received it
 concepts:
   - "coaching"
-  - "leadership"
+  - "team-leadership"
   - "management"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)

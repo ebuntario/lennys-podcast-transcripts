@@ -3,7 +3,7 @@ type: insight
 title: Define product quality through continuous classification, not lengthy documentation
 concepts:
   - "product-quality"
-  - "design-process"
+  - "design-thinking"
   - "feedback-loops"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)

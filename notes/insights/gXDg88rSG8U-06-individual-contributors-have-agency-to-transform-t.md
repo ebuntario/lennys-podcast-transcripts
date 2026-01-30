@@ -2,9 +2,9 @@
 type: insight
 title: Individual contributors have agency to transform their teams from within
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "organizational-change"
-  - "product-management"
+  - "product-leadership"
 source_guest: "Marty Cagan"
 source_episode: "The disease of process people | Marty Cagan"
 source: "[[guests/marty-cagan-20|Marty Cagan 2.0]]"

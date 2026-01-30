@@ -5,7 +5,7 @@ concepts:
   - "buyer-personas"
   - "chasm-crossing"
   - "customer-references"
-  - "sales-strategy"
+  - "sales-enablement"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market
 source: "[[guests/geoffrey-moore|Geoffrey Moore]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Invisible productivity involves making others better
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "team-dynamics"
   - "management"
 source_guest: Chip Conley

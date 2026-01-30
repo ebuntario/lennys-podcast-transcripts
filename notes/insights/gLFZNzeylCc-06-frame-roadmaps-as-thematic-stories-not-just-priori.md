@@ -2,7 +2,7 @@
 type: insight
 title: Frame roadmaps as thematic stories, not just prioritized spreadsheets
 concepts:
-  - "roadmapping"
+  - "roadmap-planning"
   - "strategic-communication"
   - "product-leadership"
 source_guest: Jiaona Zhang

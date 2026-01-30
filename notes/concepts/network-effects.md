@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/marketplace-strategy]] (3 shared insights)
 - [[concepts/retention]] (2 shared insights)
 - [[concepts/professional-reputation]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/data-network-effects]] (1 shared insights)

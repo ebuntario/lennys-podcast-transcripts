@@ -4,7 +4,7 @@ title: Global salary parity in distributed companies
 concepts:
   - "remote-work"
   - "compensation-strategy"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: "Matt Mullenweg"
 source_episode: "The one question that saves product careers | Matt LeMay"
 source: "[[guests/matt-mullenweg|Matt Mullenweg]]"

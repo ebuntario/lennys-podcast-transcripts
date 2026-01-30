@@ -2,7 +2,7 @@
 type: insight
 title: Reduce time-to-value by guiding users to a "warm start"
 concepts:
-  - "user-onboarding"
+  - "onboarding"
   - "time-to-value"
   - "product-experience"
 source_guest: Hila Qu

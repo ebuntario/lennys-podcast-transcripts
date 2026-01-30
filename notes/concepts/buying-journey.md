@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/demand-side-sales]] (1 shared insights)
-- [[concepts/customer-centricity]] (1 shared insights)
+- [[concepts/user-centric-design]] (1 shared insights)

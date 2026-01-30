@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/product-market-fit-signals]] (1 shared insights)
+- [[concepts/product-market-fit]] (1 shared insights)

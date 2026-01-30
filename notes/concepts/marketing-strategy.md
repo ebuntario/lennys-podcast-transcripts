@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/performance-measurement]] (1 shared insights)
+- [[concepts/performance-metrics]] (1 shared insights)
 - [[concepts/organizational-excellence]] (1 shared insights)
 - [[concepts/brand-building]] (1 shared insights)
 - [[concepts/company-naming]] (1 shared insights)

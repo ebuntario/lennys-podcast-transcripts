@@ -3,7 +3,7 @@ type: insight
 title: Focus discussion on points of disagreement, not agreement
 concepts:
   - "meetings"
-  - "communication"
+  - "team-communication"
   - "group-dynamics"
 source_guest: Annie Duke
 source_episode: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)

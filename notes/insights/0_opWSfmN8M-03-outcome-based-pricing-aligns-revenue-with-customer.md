@@ -3,8 +3,8 @@ type: insight
 title: Outcome-based pricing aligns revenue with customer value
 concepts:
   - "outcome-based-pricing"
-  - "customer-value"
-  - "pricing-strategy"
+  - "user-value"
+  - "value-based-pricing"
 source_guest: Eoghan McCabe
 source_episode: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 source: "[[guests/eoghan-mccabe|Eoghan McCabe]]"

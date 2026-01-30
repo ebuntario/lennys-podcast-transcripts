@@ -2,7 +2,7 @@
 type: insight
 title: Use a Now, Next, Later framework to embrace uncertainty
 concepts:
-  - "roadmapping"
+  - "roadmap-planning"
   - "product-planning"
   - "cone-of-uncertainty"
 source_guest: Janna Bastow

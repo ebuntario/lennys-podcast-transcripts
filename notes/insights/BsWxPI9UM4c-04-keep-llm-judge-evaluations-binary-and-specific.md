@@ -2,9 +2,9 @@
 type: insight
 title: Keep LLM judge evaluations binary and specific
 concepts:
-  - "ai-evals"
+  - "ai-evaluation"
   - "llm-applications"
-  - "measurement"
+  - "success-metrics"
 source_guest: Hamel Husain
 source_episode: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar
 source: "[[guests/hamel-husain-and-shreya-shankar|Hamel Husain & Shreya Shankar]]"

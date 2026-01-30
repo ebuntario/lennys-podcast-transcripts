@@ -2,9 +2,9 @@
 type: insight
 title: Optimism functions as a renewable leadership resource for sustaining mission energy
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "organizational-culture"
-  - "mission-alignment"
+  - "purpose"
 source_guest: Asha Sharma
 source_episode: How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma
 source: "[[guests/asha-sharma|Asha Sharma]]"

@@ -3,7 +3,7 @@ type: insight
 title: The core metric for product development should be time to outcome, not time to launch
 concepts:
   - "product-development"
-  - "metrics"
+  - "success-metrics"
   - "speed-vs-learning"
 source_guest: "Itamar Gilad"
 source_episode: "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)"

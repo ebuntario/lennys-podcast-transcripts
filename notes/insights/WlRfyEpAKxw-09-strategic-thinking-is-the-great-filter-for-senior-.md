@@ -2,8 +2,8 @@
 type: insight
 title: Strategic Thinking is the Great Filter for Senior Product Leadership
 concepts:
-  - "strategic-thinking"
-  - "career-advancement"
+  - "systems-thinking"
+  - "professional-growth"
   - "organizational-product-strategy"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters

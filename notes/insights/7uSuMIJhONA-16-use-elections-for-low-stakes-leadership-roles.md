@@ -3,7 +3,7 @@ type: insight
 title: Use elections for low-stakes leadership roles
 concepts:
   - "organizational-design"
-  - "leadership"
+  - "team-leadership"
   - "team-dynamics"
   - "decision-making"
 source_guest: Shishir Mehrotra

@@ -4,8 +4,8 @@ title: Treat major redesigns as high-risk, high-reward experiments requiring sig
 concepts:
   - "product-experimentation"
   - "risk-management"
-  - "mvp"
-  - "user-feedback"
+  - "minimum-viable-product"
+  - "qualitative-feedback"
 source_guest: Gustav Söderström
 source_episode: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 source: "[[guests/gustav-soderstrom|Gustav Söderström]]"

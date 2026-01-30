@@ -3,7 +3,7 @@ type: insight
 title: SEO success depends on ending the user's search, not keyword stuffing
 concepts:
   - "seo-strategy"
-  - "content-creation"
+  - "thought-leadership"
   - "user-intent"
   - "search-optimization"
 source_guest: Meltem Kuran Berkowitz

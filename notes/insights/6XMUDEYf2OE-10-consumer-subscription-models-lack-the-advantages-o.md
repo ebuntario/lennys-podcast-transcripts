@@ -3,7 +3,7 @@ type: insight
 title: Consumer subscription models lack the advantages of B2B SaaS
 concepts:
   - "consumer-subscription"
-  - "business-models"
+  - "business-model"
   - "retention"
 source_guest: Casey Winters
 source_episode: How to sell your ideas and rise within your company | Casey Winters, Eventbrite

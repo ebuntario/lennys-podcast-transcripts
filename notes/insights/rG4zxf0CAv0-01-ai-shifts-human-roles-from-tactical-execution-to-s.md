@@ -4,7 +4,7 @@ title: AI shifts human roles from tactical execution to strategic oversight
 concepts:
   - "ai-in-marketing"
   - "workforce-displacement"
-  - "strategic-thinking"
+  - "systems-thinking"
 source_guest: Jonathan Becker
 source_episode: The crazy story of landing Uber as a client | Jonathan Becker (Thrive Digital)
 source: "[[guests/jonathan-becker|Jonathan Becker]]"

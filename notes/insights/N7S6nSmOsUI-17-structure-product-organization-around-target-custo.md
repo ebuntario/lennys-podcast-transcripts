@@ -2,8 +2,8 @@
 type: insight
 title: Structure product organization around target customers and problem spaces
 concepts:
-  - "organizational-structure"
-  - "product-management"
+  - "organizational-design"
+  - "product-leadership"
   - "accountability"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)

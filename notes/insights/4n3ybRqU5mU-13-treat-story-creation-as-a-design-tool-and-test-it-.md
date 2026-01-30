@@ -2,7 +2,7 @@
 type: insight
 title: Treat story creation as a design tool and test it iteratively
 concepts:
-  - "storytelling"
+  - "narrative"
   - "iteration"
   - "feedback"
   - "product-communication"

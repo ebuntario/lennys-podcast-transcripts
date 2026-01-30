@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-mindset]] (1 shared insights)
+- [[concepts/mindset]] (1 shared insights)
 - [[concepts/opportunity-identification]] (1 shared insights)

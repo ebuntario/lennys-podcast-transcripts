@@ -4,7 +4,7 @@ title: Identify your strengths by noticing what others praise that you undervalu
 concepts:
   - "strengths-based-development"
   - "self-awareness"
-  - "career-advancement"
+  - "professional-growth"
 source_guest: Jules Walter
 source_episode: Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)
 source: "[[guests/jules-walter|Jules Walter]]"

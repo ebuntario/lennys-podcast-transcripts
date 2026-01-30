@@ -3,7 +3,7 @@ type: insight
 title: Use 'Head of Product' for early-stage roles to allow flexibility
 concepts:
   - "job-titles"
-  - "organizational-structure"
+  - "organizational-design"
   - "startup-hiring"
 source_guest: Lauren Ipsen
 source_episode: Lessons from one of the world’s top executive recruiters

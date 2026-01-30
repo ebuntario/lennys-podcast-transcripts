@@ -4,7 +4,7 @@ title: Product leaders set strategy, empowered teams solve problems
 concepts:
   - "product-strategy"
   - "team-empowerment"
-  - "leadership"
+  - "team-leadership"
 source_guest: "Marty Cagan"
 source_episode: "The disease of process people | Marty Cagan"
 source: "[[guests/marty-cagan-20|Marty Cagan 2.0]]"

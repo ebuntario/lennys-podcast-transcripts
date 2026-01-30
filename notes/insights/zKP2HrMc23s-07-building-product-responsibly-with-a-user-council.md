@@ -2,7 +2,7 @@
 type: insight
 title: Building Product Responsibly with a User Council
 concepts:
-  - "user-research"
+  - "customer-research"
   - "product-development"
   - "beta-testing"
 source_guest: Sachin Monga

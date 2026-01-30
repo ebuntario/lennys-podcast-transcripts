@@ -2,8 +2,8 @@
 type: insight
 title: Innovation requires changing the rules, not optimizing the old model
 concepts:
-  - "business-model-innovation"
-  - "pricing-strategy"
+  - "business-strategy"
+  - "value-based-pricing"
   - "market-adaptation"
 source_guest: "Sahil Mansuri"
 source_episode: "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"

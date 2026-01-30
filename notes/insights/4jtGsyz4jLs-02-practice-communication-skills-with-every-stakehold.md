@@ -3,7 +3,7 @@ type: insight
 title: Practice communication skills with every stakeholder
 concepts:
   - "deliberate-practice"
-  - "stakeholder-management"
+  - "relationship-management"
   - "executive-presence"
 source_guest: Wes Kao
 source_episode: Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)

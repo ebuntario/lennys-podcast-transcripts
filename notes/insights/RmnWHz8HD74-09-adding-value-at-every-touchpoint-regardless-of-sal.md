@@ -3,7 +3,7 @@ type: insight
 title: Adding Value at Every Touchpoint, Regardless of Sale
 concepts:
   - "customer-relationship"
-  - "value-creation"
+  - "value-proposition"
   - "long-term-thinking"
 source_guest: Jeanne DeWitt Grosser
 source_episode: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)

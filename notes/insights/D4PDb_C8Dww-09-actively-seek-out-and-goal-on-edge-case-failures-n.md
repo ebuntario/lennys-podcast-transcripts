@@ -2,9 +2,9 @@
 type: insight
 title: Actively seek out and goal on edge-case failures, not just averages
 concepts:
-  - "metric-definition"
+  - "metric-design"
   - "customer-experience"
-  - "quality-management"
+  - "quality-assurance"
 source_guest: "Jessica Lachs"
 source_episode: "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"
 source: "[[guests/jess-lachs|Jess Lachs]]"

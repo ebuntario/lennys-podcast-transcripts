@@ -2,9 +2,9 @@
 type: insight
 title: Product managers act as conductors, not solo performers
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "team-leadership"
-  - "collaboration"
+  - "team-collaboration"
 source_guest: Naomi Gleit
 source_episode: Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit
 source: "[[guests/naomi-gleit|Naomi Gleit]]"

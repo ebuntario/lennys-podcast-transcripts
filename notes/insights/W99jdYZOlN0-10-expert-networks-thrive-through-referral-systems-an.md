@@ -3,7 +3,7 @@ type: insight
 title: Expert networks thrive through referral systems and meaningful contribution opportunities
 concepts:
   - "expert-networks"
-  - "talent-acquisition"
+  - "hiring"
   - "community-building"
 source_guest: Jason Droege
 source_episode: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next

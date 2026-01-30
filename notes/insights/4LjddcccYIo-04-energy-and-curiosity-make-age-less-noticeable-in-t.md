@@ -2,7 +2,7 @@
 type: insight
 title: Energy and curiosity make age less noticeable in the workplace
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "age-diversity"
   - "mindset"
 source_guest: Chip Conley

@@ -2,7 +2,7 @@
 type: insight
 title: High agency is a key differentiator for impactful PMs
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "ownership"
   - "resilience"
 source_guest: Shreyas Doshi

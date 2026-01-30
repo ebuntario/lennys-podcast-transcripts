@@ -4,7 +4,7 @@ title: The audience is rooting for you to succeed
 concepts:
   - "public-speaking"
   - "mindset"
-  - "presentation-skills"
+  - "public-speaking"
 source_guest: Janna Bastow
 source_episode: Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)
 source: "[[guests/janna-bastow|Janna Bastow]]"

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/customer-experience]] (1 shared insights)
-- [[concepts/measurement]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)

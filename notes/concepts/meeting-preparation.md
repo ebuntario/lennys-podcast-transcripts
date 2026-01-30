@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/leadership-communication]] (1 shared insights)
-- [[concepts/risk-mitigation]] (1 shared insights)
+- [[concepts/risk-management]] (1 shared insights)

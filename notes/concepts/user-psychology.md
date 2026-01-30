@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)
 - [[concepts/product-education]] (1 shared insights)
 - [[concepts/customer-knowledge]] (1 shared insights)
 - [[concepts/product-development]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)

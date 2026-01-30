@@ -2,8 +2,8 @@
 type: insight
 title: Systematize pricing improvements with a quarterly cadence
 concepts:
-  - "pricing-strategy"
-  - "recurring-revenue"
+  - "value-based-pricing"
+  - "subscription-models"
   - "growth-levers"
 source_guest: Patrick Campbell
 source_episode: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)

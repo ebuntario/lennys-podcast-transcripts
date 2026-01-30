@@ -4,7 +4,7 @@ title: Build products that are fundamentally different, not incrementally better
 concepts:
   - "product-strategy"
   - "category-design"
-  - "customer-obsession"
+  - "user-centric-design"
   - "differentiation"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"

@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/managed-marketplaces]] (1 shared insights)
 - [[concepts/supply-quality]] (1 shared insights)
-- [[concepts/product-philosophy]] (1 shared insights)
+- [[concepts/product-principles]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)

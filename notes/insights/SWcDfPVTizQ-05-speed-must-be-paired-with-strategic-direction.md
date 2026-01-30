@@ -4,7 +4,7 @@ title: Speed must be paired with strategic direction
 concepts:
   - "product-strategy"
   - "velocity"
-  - "value-delivery"
+  - "time-to-value"
 source_guest: Nicole Forsgren
 source_episode: How to measure AI developer productivity in 2025 | Nicole Forsgren
 source: "[[guests/nicole-forsgren|Nicole Forsgren]]"

@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/advisor-networks]] (1 shared insights)
+- [[concepts/advisor-role]] (1 shared insights)
 - [[concepts/growth-frameworks]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/skill-development]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)

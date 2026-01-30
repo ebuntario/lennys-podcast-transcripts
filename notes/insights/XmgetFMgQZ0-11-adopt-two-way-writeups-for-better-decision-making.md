@@ -2,7 +2,7 @@
 type: insight
 title: Adopt Two-Way Writeups for Better Decision Making
 concepts:
-  - "written-communication"
+  - "writing"
   - "collaboration-tools"
   - "feedback-integration"
 source_guest: Lane Shackleton

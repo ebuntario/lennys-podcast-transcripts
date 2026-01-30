@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/personal-development]] (2 shared insights)
+- [[concepts/personal-growth]] (2 shared insights)
 - [[concepts/mindset]] (2 shared insights)

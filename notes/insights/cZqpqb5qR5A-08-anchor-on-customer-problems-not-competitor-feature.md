@@ -3,9 +3,9 @@ type: insight
 title: Anchor on customer problems, not competitor features
 concepts:
   - "competitive-strategy"
-  - "customer-centricity"
-  - "product-vision"
-  - "strategic-focus"
+  - "user-centric-design"
+  - "product-strategy"
+  - "focus"
 source_guest: Tanguy Crusson
 source_episode: Hard-won lessons building 0 to 1 inside Atlassian
 source: "[[guests/tanguy-crusson|Tanguy Crusson]]"

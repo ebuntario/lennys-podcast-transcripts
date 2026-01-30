@@ -5,7 +5,7 @@ concepts:
   - "acquisitions"
   - "organizational-culture"
   - "innovation"
-  - "leadership"
+  - "team-leadership"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 source: "[[guests/kayvon-beykpour|Kayvon Beykpour]]"

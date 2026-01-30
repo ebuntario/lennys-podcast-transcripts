@@ -2,7 +2,7 @@
 type: insight
 title: Executives are often disconnected from ground-level AI adoption
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "ai-adoption"
   - "executive-awareness"
 source_guest: Brian Balfour

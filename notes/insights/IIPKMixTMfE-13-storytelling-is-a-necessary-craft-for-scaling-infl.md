@@ -3,7 +3,7 @@ type: insight
 title: Storytelling is a necessary craft for scaling influence
 concepts:
   - "leadership-development"
-  - "communication"
+  - "team-communication"
   - "company-building"
 source_guest: Ivan Zhao
 source_episode: Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal

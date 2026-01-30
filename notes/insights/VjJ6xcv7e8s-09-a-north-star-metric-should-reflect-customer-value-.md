@@ -4,7 +4,7 @@ title: A North Star Metric should reflect customer value, not business revenue
 concepts:
   - "north-star-metric"
   - "goal-setting"
-  - "customer-value"
+  - "user-value"
 source_guest: "Sean Ellis"
 source_episode: "The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)"
 source: "[[guests/sean-ellis|Sean Ellis]]"

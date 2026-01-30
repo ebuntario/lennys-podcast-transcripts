@@ -3,7 +3,7 @@ type: insight
 title: Design as imagining and creating the future
 concepts:
   - "design-mindset"
-  - "vision"
+  - "vision-communication"
   - "intentionality"
 source_guest: Bob Baxley
 source_episode: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley

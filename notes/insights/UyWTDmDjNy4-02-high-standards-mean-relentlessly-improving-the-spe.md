@@ -3,7 +3,7 @@ type: insight
 title: High standards mean relentlessly improving the spec, not pursuing perfection
 concepts:
   - "quality"
-  - "product-management"
+  - "product-leadership"
   - "standards"
 source_guest: "Seth Godin"
 source_episode: "Seth Godin's best tactics for building remarkable products, strategies, brands and more"

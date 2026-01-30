@@ -4,7 +4,7 @@ title: Design your sales process around how customers want to buy, not how you w
 concepts:
   - "demand-side-sales"
   - "buying-journey"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

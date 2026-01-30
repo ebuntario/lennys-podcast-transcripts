@@ -2,7 +2,7 @@
 type: insight
 title: Pricing models must adapt when AI inference costs are high and value is clear
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "subscription-models"
   - "ai-economics"
 source_guest: Eric Simons

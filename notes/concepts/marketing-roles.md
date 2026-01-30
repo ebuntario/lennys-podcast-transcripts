@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/hiring-strategy]] (1 shared insights)
+- [[concepts/hiring-process]] (1 shared insights)
 - [[concepts/generalist-vs-specialist]] (1 shared insights)
 - [[concepts/positioning]] (1 shared insights)
 - [[concepts/cross-functional-collaboration]] (1 shared insights)

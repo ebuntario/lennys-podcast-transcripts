@@ -2,7 +2,7 @@
 type: insight
 title: For early-stage startups, execution matters infinitely more than strategy
 concepts:
-  - "execution"
+  - "strategy-execution"
   - "startup-prioritization"
   - "product-market-fit"
 source_guest: Gustaf Alströmer

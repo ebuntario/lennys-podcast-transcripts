@@ -4,7 +4,7 @@ title: Sketch low-fidelity mocks to visualize the vision, even without a designe
 concepts:
   - "organizational-product-strategy"
   - "visual-communication"
-  - "execution"
+  - "strategy-execution"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

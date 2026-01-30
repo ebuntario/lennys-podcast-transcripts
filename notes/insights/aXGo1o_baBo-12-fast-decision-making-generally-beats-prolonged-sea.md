@@ -3,8 +3,8 @@ type: insight
 title: Fast decision-making generally beats prolonged search for perfection
 concepts:
   - "decision-making"
-  - "execution"
-  - "leadership-principles"
+  - "strategy-execution"
+  - "leadership-development"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

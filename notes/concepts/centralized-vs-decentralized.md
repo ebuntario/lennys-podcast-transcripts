@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/organizational-structure]] (1 shared insights)
+- [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/b2b-vs-b2c]] (1 shared insights)

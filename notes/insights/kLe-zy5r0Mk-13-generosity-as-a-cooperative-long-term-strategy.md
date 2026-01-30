@@ -2,8 +2,8 @@
 type: insight
 title: Generosity as a cooperative long-term strategy
 concepts:
-  - "leadership"
-  - "company-culture"
+  - "team-leadership"
+  - "organizational-culture"
   - "stakeholder-relationships"
 source_guest: Stewart Butterfield
 source_episode: Mental models for building products people love ft. Stewart Butterfield

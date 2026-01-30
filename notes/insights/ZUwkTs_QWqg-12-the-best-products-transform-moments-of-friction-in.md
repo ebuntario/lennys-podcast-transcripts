@@ -4,7 +4,7 @@ title: The best products transform moments of friction into moments of joy
 concepts:
   - "product-design"
   - "user-delight"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: "Hari Srinivasan"
 source_episode: "LinkedIn’s product evolution and the art of building complex systems"
 source: "[[guests/hari-srinivasan|Hari Srinivasan]]"

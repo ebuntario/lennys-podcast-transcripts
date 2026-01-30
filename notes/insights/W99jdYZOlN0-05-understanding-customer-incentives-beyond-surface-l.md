@@ -2,7 +2,7 @@
 type: insight
 title: Understanding customer incentives beyond surface-level requests
 concepts:
-  - "customer-development"
+  - "customer-discovery"
   - "incentive-alignment"
   - "problem-discovery"
 source_guest: Jason Droege

@@ -2,8 +2,8 @@
 type: insight
 title: Performance equals potential minus interference
 concepts:
-  - "team-performance"
-  - "leadership"
+  - "team-effectiveness"
+  - "team-leadership"
   - "organizational-design"
 source_guest: "Katie Dill"
 source_episode: "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"

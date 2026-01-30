@@ -2,8 +2,8 @@
 type: insight
 title: Hiring for Slope, Not Just Intercept
 concepts:
-  - "talent-acquisition"
-  - "hiring-strategy"
+  - "hiring"
+  - "hiring-process"
   - "team-building"
   - "long-term-potential"
 source_guest: "Sri Batchu"

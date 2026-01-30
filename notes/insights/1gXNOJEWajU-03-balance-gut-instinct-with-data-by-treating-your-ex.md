@@ -4,7 +4,7 @@ title: Balance gut instinct with data by treating your experience as valid input
 concepts:
   - "decision-making"
   - "product-strategy"
-  - "leadership"
+  - "team-leadership"
   - "data-analysis"
 source_guest: Maya Prohovnik
 source_episode: Building Anchor, selling to Spotify, and lessons learned | Maya Prohovnik (Head of Podcast Product)

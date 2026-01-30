@@ -2,7 +2,7 @@
 type: insight
 title: Differentiate a product by leaning into an unconventional attribute like "fun"
 concepts:
-  - "product-differentiation"
+  - "product-positioning"
   - "organizational-product-strategy"
   - "customer-experience"
 source_guest: Dylan Field

@@ -3,7 +3,7 @@ type: insight
 title: Revisit onboarding for new customer cohorts
 concepts:
   - "onboarding"
-  - "customer-segmentation"
+  - "segmentation"
   - "product-evolution"
 source_guest: Scott Belsky
 source_episode: Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)

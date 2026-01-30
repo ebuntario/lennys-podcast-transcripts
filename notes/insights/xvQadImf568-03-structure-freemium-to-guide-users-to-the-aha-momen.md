@@ -2,8 +2,8 @@
 type: insight
 title: Structure freemium to guide users to the "aha moment"
 concepts:
-  - "freemium-model"
-  - "user-onboarding"
+  - "freemium-strategy"
+  - "onboarding"
   - "habit-formation"
   - "value-metric"
 source_guest: Naomi Ionita

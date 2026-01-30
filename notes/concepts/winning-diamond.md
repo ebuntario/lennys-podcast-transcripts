@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-frameworks]] (1 shared insights)
+- [[concepts/strategy]] (1 shared insights)
 - [[concepts/brand-strategy]] (1 shared insights)

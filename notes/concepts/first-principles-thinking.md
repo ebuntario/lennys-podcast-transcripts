@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/product-leadership-strategy]] (1 shared insights)
 - [[concepts/autonomy]] (1 shared insights)
-- [[concepts/execution]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)
 - [[concepts/ownership]] (1 shared insights)
 - [[concepts/leadership-influence]] (1 shared insights)

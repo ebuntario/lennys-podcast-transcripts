@@ -3,7 +3,7 @@ type: insight
 title: Your self-belief is more powerful than external obstacles
 concepts:
   - "success-mindset"
-  - "psychological-resilience"
+  - "resilience"
 source_guest: Ben Horowitz
 source_episode: "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
 source: "[[guests/ben-horowitz|Ben Horowitz]]"

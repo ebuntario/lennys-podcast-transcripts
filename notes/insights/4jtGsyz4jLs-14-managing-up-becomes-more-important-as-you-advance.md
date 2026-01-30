@@ -2,7 +2,7 @@
 type: insight
 title: Managing up becomes more important as you advance
 concepts:
-  - "career-advancement"
+  - "professional-growth"
   - "upward-management"
   - "ambiguity-navigation"
 source_guest: "Wes Kao"

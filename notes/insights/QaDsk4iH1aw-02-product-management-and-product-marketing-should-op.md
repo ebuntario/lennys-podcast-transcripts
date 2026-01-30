@@ -4,7 +4,7 @@ title: Product management and product marketing should operate as a three-legged
 concepts:
   - "product-marketing"
   - "product-development"
-  - "go-to-market-strategy"
+  - "go-to-market"
 source_guest: Krithika Shankarraman
 source_episode: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman
 source: "[[guests/krithika-shankarraman|Krithika Shankarraman]]"

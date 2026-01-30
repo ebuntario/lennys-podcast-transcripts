@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/decision-frameworks]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)
 - [[concepts/long-term-thinking]] (1 shared insights)
-- [[concepts/personal-development]] (1 shared insights)
+- [[concepts/personal-growth]] (1 shared insights)

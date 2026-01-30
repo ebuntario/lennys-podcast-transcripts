@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/marketplace-strategy]] (3 shared insights)
 - [[concepts/strategic-growth-management]] (2 shared insights)
-- [[concepts/go-to-market-strategy]] (2 shared insights)
-- [[concepts/user-research]] (2 shared insights)
+- [[concepts/go-to-market]] (2 shared insights)
+- [[concepts/customer-research]] (2 shared insights)
 - [[concepts/market-shifts]] (1 shared insights)

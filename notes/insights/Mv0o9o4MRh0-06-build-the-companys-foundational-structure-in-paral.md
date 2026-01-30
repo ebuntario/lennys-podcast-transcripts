@@ -3,7 +3,7 @@ type: insight
 title: Build the company's foundational structure in parallel with product-market fit
 concepts:
   - "operating-system"
-  - "scaling"
+  - "scalable-systems"
   - "company-building"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)

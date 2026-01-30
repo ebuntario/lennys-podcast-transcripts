@@ -5,7 +5,7 @@ concepts:
   - "growth-infrastructure"
   - "product-led-growth"
   - "data-stack"
-  - "workflow-automation"
+  - "automation"
 source_guest: Naomi Ionita
 source_episode: How to price your product | Naomi Ionita (Menlo Ventures)
 source: "[[guests/naomi-ionita|Naomi Ionita]]"

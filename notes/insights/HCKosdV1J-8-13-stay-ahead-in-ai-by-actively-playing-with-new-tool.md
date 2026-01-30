@@ -3,7 +3,7 @@ type: insight
 title: Stay ahead in AI by actively playing with new tools
 concepts:
   - "artificial-intelligence"
-  - "continuous-learning"
+  - "learning"
   - "future-of-work"
 source_guest: Scott Belsky
 source_episode: Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)

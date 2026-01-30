@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/developer-tools]] (2 shared insights)
 - [[concepts/autonomous-systems]] (2 shared insights)
 - [[concepts/ai-applications]] (2 shared insights)
-- [[concepts/user-onboarding]] (2 shared insights)
+- [[concepts/onboarding]] (2 shared insights)
 - [[concepts/customer-experience]] (1 shared insights)

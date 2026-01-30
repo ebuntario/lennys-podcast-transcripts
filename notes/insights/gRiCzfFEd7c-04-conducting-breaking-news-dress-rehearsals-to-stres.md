@@ -2,10 +2,10 @@
 type: insight
 title: Conducting breaking news dress rehearsals to stress-test systems
 concepts:
-  - "product-testing"
-  - "risk-mitigation"
+  - "product-experimentation"
+  - "risk-management"
   - "scenario-planning"
-  - "user-feedback"
+  - "qualitative-feedback"
 source_guest: Upasna Gautam
 source_episode: An inside look at how CNN builds product | Upasna Gautam
 source: "[[guests/upasna-gautam|Upasna Gautam]]"

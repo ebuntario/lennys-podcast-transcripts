@@ -4,7 +4,7 @@ title: Decentralize Decision Reviews with Catalyst
 concepts:
   - "meeting-design"
   - "organizational-velocity"
-  - "stakeholder-management"
+  - "relationship-management"
 source_guest: Lane Shackleton
 source_episode: What sets great teams apart | Lane Shackleton (CPO of Coda)
 source: "[[guests/lane-shackleton|Lane Shackleton]]"

@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/allocation-economy]] (1 shared insights)
 - [[concepts/future-skills]] (1 shared insights)
-- [[concepts/organizational-values]] (1 shared insights)
+- [[concepts/company-values]] (1 shared insights)
 - [[concepts/transparency]] (1 shared insights)

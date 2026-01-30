@@ -3,7 +3,7 @@ type: insight
 title: Structure executive meetings with clear asks and a concise narrative
 concepts:
   - "executive-communication"
-  - "presentation-skills"
+  - "public-speaking"
   - "decision-making"
 source_guest: Megan Cook
 source_episode: Lessons from Atlassian | Megan Cook (Head of Product, Jira)

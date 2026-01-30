@@ -3,7 +3,7 @@ type: insight
 title: High-profile failures can open future doors
 concepts:
   - "failure"
-  - "career-development"
+  - "professional-growth"
   - "reputation"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)

@@ -3,8 +3,8 @@ type: insight
 title: Win deals by teaching, not just selling
 concepts:
   - "sales-technique"
-  - "customer-empathy"
-  - "value-creation"
+  - "empathy"
+  - "value-proposition"
 source_guest: "Sahil Mansuri"
 source_episode: "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"
 source: "[[guests/sahil-mansuri|Sahil Mansuri]]"

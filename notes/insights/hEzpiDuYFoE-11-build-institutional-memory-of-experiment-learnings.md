@@ -4,7 +4,7 @@ title: Build institutional memory of experiment learnings
 concepts:
   - "organizational-learning"
   - "knowledge-management"
-  - "experimentation-culture"
+  - "testing"
 source_guest: Ronny Kohavi
 source_episode: The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)
 source: "[[guests/ronny-kohavi|Ronny Kohavi]]"

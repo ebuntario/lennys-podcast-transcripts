@@ -2,7 +2,7 @@
 type: insight
 title: Give Your Product Away Free to the Right Influential People
 concepts:
-  - "product-launch"
+  - "launch-strategy"
   - "influencer-marketing"
   - "audience-targeting"
 source_guest: Lulu Cheng Meservey

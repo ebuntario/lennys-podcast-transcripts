@@ -2,8 +2,8 @@
 type: insight
 title: Delay granting senior titles (Director, VP) for as long as possible
 concepts:
-  - "company-culture"
-  - "organizational-structure"
+  - "organizational-culture"
+  - "organizational-design"
   - "titles"
 source_guest: Gokul Rajaram
 source_episode: What AI means for your product strategy | Paul Adams (CPO of Intercom)

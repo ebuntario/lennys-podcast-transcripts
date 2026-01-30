@@ -2,7 +2,7 @@
 type: insight
 title: Reasoning about AI product design using human analogies is a powerful source of intuition
 concepts:
-  - "product-intuition"
+  - "product-sense"
   - "human-analogy"
   - "ai-ux"
 source_guest: Kevin Weil

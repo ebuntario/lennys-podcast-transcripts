@@ -3,7 +3,7 @@ type: insight
 title: Leverage your unique background as a competitive advantage, not a barrier
 concepts:
   - "diversity"
-  - "career-advancement"
+  - "professional-growth"
   - "authenticity"
 source_guest: Aarthi Ramamurthy
 source_episode: Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi

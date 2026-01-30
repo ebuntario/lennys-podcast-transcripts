@@ -3,7 +3,7 @@ type: insight
 title: The reference customer technique for product-market fit
 concepts:
   - "product-market-fit"
-  - "customer-development"
+  - "customer-discovery"
   - "discovery"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)

@@ -3,7 +3,7 @@ type: insight
 title: Invest in polish to build brand trust and customer affinity
 concepts:
   - "brand-building"
-  - "customer-centricity"
+  - "user-centric-design"
   - "early-stage-growth"
   - "product-presentation"
 source_guest: Zoelle Egner

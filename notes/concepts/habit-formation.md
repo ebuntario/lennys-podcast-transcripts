@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-retention]] (1 shared insights)
+- [[concepts/retention]] (1 shared insights)
 - [[concepts/consumer-subscription]] (1 shared insights)
 - [[concepts/gamification]] (1 shared insights)
 - [[concepts/user-motivation]] (1 shared insights)

@@ -3,9 +3,9 @@ type: insight
 title: Fall in love with the problem, not the solution
 concepts:
   - "problem-focus"
-  - "value-creation"
+  - "value-proposition"
   - "founder-mindset"
-  - "north-star"
+  - "north-star-metric"
 source_guest: "Uri Levine"
 source_episode: "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
 source: "[[guests/uri-levine|Uri Levine]]"

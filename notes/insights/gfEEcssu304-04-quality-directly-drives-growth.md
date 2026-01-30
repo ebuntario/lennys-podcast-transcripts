@@ -4,7 +4,7 @@ title: Quality directly drives growth
 concepts:
   - "product-quality"
   - "business-metrics"
-  - "user-experience"
+  - "customer-experience"
   - "conversion-optimization"
 source_guest: "Katie Dill"
 source_episode: "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"

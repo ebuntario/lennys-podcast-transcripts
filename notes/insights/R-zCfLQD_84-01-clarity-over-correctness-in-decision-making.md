@@ -3,7 +3,7 @@ type: insight
 title: Clarity Over Correctness in Decision-Making
 concepts:
   - "decision-making"
-  - "leadership"
+  - "team-leadership"
   - "organizational-alignment"
 source_guest: Tomer Cohen
 source_episode: Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)

@@ -2,7 +2,7 @@
 type: insight
 title: Build a "career bingo card" by seeking diverse experiences
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "skill-breadth"
   - "professional-growth"
 source_guest: Shaun Clowes

@@ -2,7 +2,7 @@
 type: insight
 title: Build product conviction through an insatiable curiosity about users
 concepts:
-  - "user-empathy"
+  - "empathy"
   - "product-sense"
   - "decision-making"
 source_guest: "Mihika Kapoor"

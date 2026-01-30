@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/team-motivation]] (2 shared insights)
 - [[concepts/innovation]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
-- [[concepts/vision]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
+- [[concepts/vision-communication]] (1 shared insights)
 - [[concepts/personal-purpose]] (1 shared insights)

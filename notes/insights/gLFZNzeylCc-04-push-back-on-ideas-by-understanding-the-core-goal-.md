@@ -4,7 +4,7 @@ title: Push back on ideas by understanding the core goal and proposing better op
 concepts:
   - "managing-up"
   - "strategic-alignment"
-  - "influence-without-authority"
+  - "persuasion"
 source_guest: Jiaona Zhang
 source_episode: Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang
 source: "[[guests/jiaona-zhang|Jiaona Zhang]]"

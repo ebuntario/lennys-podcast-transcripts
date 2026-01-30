@@ -2,7 +2,7 @@
 type: insight
 title: Products should get better with use and create mounting loss
 concepts:
-  - "user-retention"
+  - "retention"
   - "product-design"
   - "switching-costs"
 source_guest: Sarah Tavel

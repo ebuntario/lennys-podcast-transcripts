@@ -3,8 +3,8 @@ type: insight
 title: Replace "work-life balance" with "optimization"
 concepts:
   - "work-life-balance"
-  - "career-development"
-  - "personal-productivity"
+  - "professional-growth"
+  - "productivity"
 source_guest: Nikita Miller
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller
 source: "[[guests/nikita-miller|Nikita Miller]]"

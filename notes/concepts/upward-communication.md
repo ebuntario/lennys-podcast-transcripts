@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/storytelling]] (1 shared insights)
+- [[concepts/narrative]] (1 shared insights)
 - [[concepts/executive-alignment]] (1 shared insights)

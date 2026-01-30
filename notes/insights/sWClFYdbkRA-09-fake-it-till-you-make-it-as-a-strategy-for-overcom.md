@@ -2,7 +2,7 @@
 type: insight
 title: Fake it till you make it as a strategy for overcoming imposter syndrome
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "imposter-syndrome"
   - "opportunity-creation"
 source_guest: Gina Gotthilf

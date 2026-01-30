@@ -3,7 +3,7 @@ type: insight
 title: Pitch freelancers for higher engagement
 concepts:
   - "freelancer-pitching"
-  - "relationship-building"
+  - "networking"
   - "media-outreach"
 source_guest: "Jason Feifer"
 source_episode: "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)"

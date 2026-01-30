@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/mentorship]] (1 shared insights)
+- [[concepts/coaching]] (1 shared insights)
 - [[concepts/organizational-culture]] (1 shared insights)

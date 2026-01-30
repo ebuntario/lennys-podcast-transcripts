@@ -2,7 +2,7 @@
 type: insight
 title: Use in-person customer events as a retention and acquisition tool
 concepts:
-  - "customer-engagement"
+  - "user-engagement"
   - "networking"
   - "psychological-incentives"
 source_guest: "Sahil Mansuri"

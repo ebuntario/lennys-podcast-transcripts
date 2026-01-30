@@ -4,7 +4,7 @@ title: Use cross-functional AMPED teams to break down silos and ensure holistic 
 concepts:
   - "team-structure"
   - "cross-functional-collaboration"
-  - "product-development-process"
+  - "product-development"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 source: "[[guests/varun-parmar|Varun Parmar]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Use a rolling roadmap with decreasing certainty to balance planning and agility
 concepts:
-  - "product-roadmapping"
-  - "strategic-planning"
+  - "roadmap-planning"
+  - "scenario-planning"
   - "agile-development"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)

@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize optimizing post-click experiences over ad spend alone
 concepts:
-  - "growth-marketing"
+  - "startup-growth"
   - "conversion-optimization"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Gina Gotthilf
 source_episode: Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene
 source: "[[guests/gina-gotthilf|Gina Gotthilf]]"

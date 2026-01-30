@@ -2,7 +2,7 @@
 type: insight
 title: Optics is about creating awareness, not just self-promotion
 concepts:
-  - "communication"
+  - "team-communication"
   - "team-alignment"
   - "organizational-dynamics"
 source_guest: Shreyas Doshi

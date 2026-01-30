@@ -2,7 +2,7 @@
 type: insight
 title: Lead by Asking Questions, Not Giving Directives
 concepts:
-  - "leadership-style"
+  - "team-leadership"
   - "technical-guidance"
   - "empowerment"
 source_guest: Camille Fournier

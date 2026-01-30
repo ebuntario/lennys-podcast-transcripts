@@ -2,7 +2,7 @@
 type: insight
 title: The CEO as chief taste maker requires hands-on AI usage
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "ai-adoption"
   - "product-development"
 source_guest: Howie Liu

@@ -2,7 +2,7 @@
 type: insight
 title: Closing the habit loop to drive retention
 concepts:
-  - "user-retention"
+  - "retention"
   - "habit-formation"
   - "push-notifications"
 source_guest: Tim Holley

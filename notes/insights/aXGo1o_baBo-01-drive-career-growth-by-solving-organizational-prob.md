@@ -2,9 +2,9 @@
 type: insight
 title: Drive career growth by solving organizational problems
 concepts:
-  - "career-development"
-  - "problem-solving"
-  - "leadership"
+  - "professional-growth"
+  - "creative-problem-solving"
+  - "team-leadership"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

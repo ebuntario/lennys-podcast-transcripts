@@ -4,7 +4,7 @@ title: International expansion requires respecting deep local uniqueness
 concepts:
   - "global-expansion"
   - "product-localization"
-  - "user-research"
+  - "customer-research"
   - "cultural-context"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)

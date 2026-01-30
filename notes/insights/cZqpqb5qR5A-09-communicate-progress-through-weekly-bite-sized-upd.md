@@ -3,7 +3,7 @@ type: insight
 title: Communicate progress through weekly, bite-sized updates
 concepts:
   - "internal-communication"
-  - "stakeholder-management"
+  - "relationship-management"
   - "momentum-building"
   - "progress-visibility"
 source_guest: Tanguy Crusson

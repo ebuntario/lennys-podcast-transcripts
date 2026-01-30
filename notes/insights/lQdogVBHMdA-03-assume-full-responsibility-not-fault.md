@@ -4,7 +4,7 @@ title: Assume Full Responsibility, Not Fault
 concepts:
   - "founder-mindset"
   - "accountability"
-  - "leadership"
+  - "team-leadership"
 source_guest: "Uri Levine"
 source_episode: "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
 source: "[[guests/uri-levine-20|Uri Levine 2.0]]"

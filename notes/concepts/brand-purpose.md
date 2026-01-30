@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-culture]] (1 shared insights)
-- [[concepts/strategic-frameworks]] (1 shared insights)
+- [[concepts/strategy]] (1 shared insights)

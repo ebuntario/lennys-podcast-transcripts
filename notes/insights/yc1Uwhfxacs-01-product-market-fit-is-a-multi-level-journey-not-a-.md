@@ -5,7 +5,7 @@ concepts:
   - "product-market-fit"
   - "startup-stages"
   - "b2b-saas"
-  - "customer-development"
+  - "customer-discovery"
 source_guest: Todd Jackson
 source_episode: A framework for finding product-market fit | Todd Jackson (First Round Capital)
 source: "[[guests/todd-jackson|Todd Jackson]]"

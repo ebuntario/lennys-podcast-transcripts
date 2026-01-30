@@ -4,8 +4,8 @@ title: Use "imperatives" to create cross-team focus and clarity
 concepts:
   - "prioritization"
   - "organizational-alignment"
-  - "strategic-planning"
-  - "execution"
+  - "scenario-planning"
+  - "strategy-execution"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)
 source: "[[guests/jeremy-henrickson|Jeremy Henrickson]]"

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/performance-measurement]] (1 shared insights)
+- [[concepts/performance-metrics]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)

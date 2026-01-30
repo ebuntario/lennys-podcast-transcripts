@@ -3,8 +3,8 @@ type: insight
 title: When growth plateaus, prioritize learning over optimization
 concepts:
   - "product-market-fit"
-  - "growth-strategy"
-  - "data-informed-decisions"
+  - "startup-growth"
+  - "data-driven-decisions"
 source_guest: Noah Weiss
 source_episode: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)
 source: "[[guests/noah-weiss|Noah Weiss]]"

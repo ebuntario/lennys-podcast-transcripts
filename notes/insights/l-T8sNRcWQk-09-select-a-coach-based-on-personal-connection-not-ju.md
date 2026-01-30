@@ -3,7 +3,7 @@ type: insight
 title: Select a coach based on personal connection, not just credentials
 concepts:
   - "coaching"
-  - "relationship-building"
+  - "networking"
 source_guest: Ada Chen Rekhi
 source_episode: Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi
 source: "[[guests/ada-chen-rekhi|Ada Chen Rekhi]]"

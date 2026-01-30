@@ -15,8 +15,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/execution]] (2 shared insights)
-- [[concepts/roadmapping]] (1 shared insights)
-- [[concepts/alignment]] (1 shared insights)
+- [[concepts/strategy-execution]] (2 shared insights)
+- [[concepts/roadmap-planning]] (1 shared insights)
+- [[concepts/team-alignment]] (1 shared insights)
 - [[concepts/time-management]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)

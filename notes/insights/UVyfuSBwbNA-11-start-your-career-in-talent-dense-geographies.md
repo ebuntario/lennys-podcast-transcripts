@@ -2,7 +2,7 @@
 type: insight
 title: Start your career in talent-dense geographies
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "networking"
   - "geographic-strategy"
 source_guest: "Mayur Kamat"

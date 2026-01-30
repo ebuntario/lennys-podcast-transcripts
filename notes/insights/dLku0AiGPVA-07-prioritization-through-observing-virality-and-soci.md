@@ -4,7 +4,7 @@ title: Prioritization through observing virality and social trends
 concepts:
   - "product-prioritization"
   - "market-signals"
-  - "trend-analysis"
+  - "pattern-recognition"
   - "user-acquisition"
 source_guest: Gaurav Misra
 source_episode: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)

@@ -2,7 +2,7 @@
 type: insight
 title: Early career variety builds compound skills that pay off later
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "skill-acquisition"
   - "job-rotation"
 source_guest: Andrew ‘Boz’ Bosworth

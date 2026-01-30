@@ -2,10 +2,10 @@
 type: insight
 title: Great products often have a "magic trick" that creates initial delight and virality
 concepts:
-  - "product-launch"
+  - "launch-strategy"
   - "user-delight"
   - "virality"
-  - "product-iteration"
+  - "product-innovation"
 source_guest: Gustav Söderström
 source_episode: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 source: "[[guests/gustav-soderstrom|Gustav Söderström]]"

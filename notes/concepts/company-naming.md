@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/brand-building]] (2 shared insights)
 - [[concepts/marketing-strategy]] (1 shared insights)
 - [[concepts/positioning]] (1 shared insights)
-- [[concepts/decision-frameworks]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)
 - [[concepts/creative-brainstorming]] (1 shared insights)

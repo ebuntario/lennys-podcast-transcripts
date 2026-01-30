@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/organizational-product-strategy]] (2 shared insights)
 - [[concepts/risk-assessment]] (1 shared insights)
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)
 - [[concepts/organizational-innovation]] (1 shared insights)
 - [[concepts/portfolio-thinking]] (1 shared insights)

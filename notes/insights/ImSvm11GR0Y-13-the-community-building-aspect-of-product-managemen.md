@@ -3,7 +3,7 @@ type: insight
 title: The community-building aspect of product management
 concepts:
   - "team-culture"
-  - "remote-collaboration"
+  - "remote-work"
   - "product-leadership"
 source_guest: Vikrama Dhiman
 source_episode: A framework for PM skill development | Vikrama Dhiman (Gojek)

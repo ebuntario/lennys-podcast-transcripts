@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/conflict-resolution]] (2 shared insights)
 - [[concepts/learning]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/ego-management]] (1 shared insights)
 - [[concepts/identity-threat]] (1 shared insights)

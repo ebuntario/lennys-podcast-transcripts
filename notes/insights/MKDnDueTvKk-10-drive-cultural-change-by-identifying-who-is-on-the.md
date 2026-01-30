@@ -3,9 +3,9 @@ type: insight
 title: Drive cultural change by identifying who is "on the wagon"
 concepts:
   - "organizational-culture"
-  - "leadership"
+  - "team-leadership"
   - "change-management"
-  - "alignment"
+  - "team-alignment"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 source: "[[guests/kayvon-beykpour|Kayvon Beykpour]]"

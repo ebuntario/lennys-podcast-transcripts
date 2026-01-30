@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-thinking]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)
 - [[concepts/strategic-alignment]] (1 shared insights)
 - [[concepts/marketplaces]] (1 shared insights)
 - [[concepts/strategy-execution]] (1 shared insights)

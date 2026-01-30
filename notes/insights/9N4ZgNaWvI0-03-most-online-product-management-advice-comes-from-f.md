@@ -3,7 +3,7 @@ type: insight
 title: Most online product management advice comes from feature team environments
 concepts:
   - "product-management-education"
-  - "career-development"
+  - "professional-growth"
   - "critical-thinking"
   - "community-advice"
 source_guest: Marty Cagan

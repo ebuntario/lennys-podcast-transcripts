@@ -4,7 +4,7 @@ title: Building a Product Team Around Timeless Customer Problems
 concepts:
   - "team-structure"
   - "product-strategy"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: Sachin Monga
 source_episode: Building Substack | Sachin Monga (Substack, Facebook)
 source: "[[guests/sachin-monga|Sachin Monga]]"

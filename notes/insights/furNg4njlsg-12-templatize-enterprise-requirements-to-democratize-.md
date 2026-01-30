@@ -3,7 +3,7 @@ type: insight
 title: Templatize enterprise requirements to democratize compliance across feature teams
 concepts:
   - "enterprise-software"
-  - "product-development-process"
+  - "product-development"
   - "scaling-products"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)

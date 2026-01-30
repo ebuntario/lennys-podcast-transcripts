@@ -2,7 +2,7 @@
 type: insight
 title: Podcasts provide a platform for curated curiosity
 concepts:
-  - "content-creation"
+  - "thought-leadership"
   - "networking"
   - "personal-branding"
 source_guest: Chris Hutchins

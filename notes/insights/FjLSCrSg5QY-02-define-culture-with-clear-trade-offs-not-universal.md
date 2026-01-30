@@ -2,7 +2,7 @@
 type: insight
 title: Define culture with clear trade-offs, not universal accommodation
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "hiring"
   - "values"
 source_guest: Patrick Campbell

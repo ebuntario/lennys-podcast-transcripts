@@ -2,7 +2,7 @@
 type: insight
 title: Align with product-minded founders through shared principles
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "leadership-alignment"
   - "founder-dynamics"
   - "product-strategy"

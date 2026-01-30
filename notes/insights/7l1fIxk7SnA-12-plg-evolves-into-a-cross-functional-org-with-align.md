@@ -2,7 +2,7 @@
 type: insight
 title: PLG evolves into a cross-functional org with aligned metrics
 concepts:
-  - "organizational-structure"
+  - "organizational-design"
   - "growth-metrics"
   - "product-led-sales"
 source_guest: Hila Qu

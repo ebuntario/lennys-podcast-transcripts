@@ -2,7 +2,7 @@
 type: insight
 title: Stay flexible and run small tests, as minor features can become existential
 concepts:
-  - "experimentation"
+  - "testing"
   - "product-discovery"
   - "startup-mindset"
   - "adaptability"

@@ -3,7 +3,7 @@ type: insight
 title: Prioritize removing user blockers as highly as shipping innovative features
 concepts:
   - "product-development"
-  - "customer-retention"
+  - "retention"
   - "prioritization"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design

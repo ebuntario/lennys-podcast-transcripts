@@ -2,8 +2,8 @@
 type: insight
 title: Embed marketing functions close to their primary outcomes
 concepts:
-  - "organizational-structure"
-  - "growth-marketing"
+  - "organizational-design"
+  - "startup-growth"
   - "brand-strategy"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)

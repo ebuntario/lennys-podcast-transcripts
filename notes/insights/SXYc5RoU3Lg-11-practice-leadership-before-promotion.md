@@ -2,9 +2,9 @@
 type: insight
 title: Practice leadership before promotion
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "coaching"
-  - "career-development"
+  - "professional-growth"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

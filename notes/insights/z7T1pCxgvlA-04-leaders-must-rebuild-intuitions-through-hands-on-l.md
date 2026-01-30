@@ -2,7 +2,7 @@
 type: insight
 title: Leaders must rebuild intuitions through hands-on learning
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "ai-adoption"
 source_guest: Aishwarya Naresh Reganti
 source_episode: Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon

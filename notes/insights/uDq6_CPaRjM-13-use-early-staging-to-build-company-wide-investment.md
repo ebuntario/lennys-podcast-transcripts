@@ -4,7 +4,7 @@ title: Use early staging to build company-wide investment in your product
 concepts:
   - "dogfooding"
   - "feedback-culture"
-  - "product-iteration"
+  - "product-innovation"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"
 source: "[[guests/mihika-kapoor|Mihika Kapoor]]"

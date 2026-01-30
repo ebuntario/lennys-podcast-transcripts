@@ -3,7 +3,7 @@ type: insight
 title: Discount only when the client provides exceptional value in return, not to close
 concepts:
   - "sales-negotiation"
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "value-based-selling"
 source_guest: Jen Abel
 source_episode: The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH)

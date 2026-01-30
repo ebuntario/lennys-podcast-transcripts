@@ -3,7 +3,7 @@ type: insight
 title: Embrace perpetual dissatisfaction with your product
 concepts:
   - "product-improvement"
-  - "leadership-mindset"
+  - "team-leadership"
   - "craftsmanship"
 source_guest: Stewart Butterfield
 source_episode: Mental models for building products people love ft. Stewart Butterfield

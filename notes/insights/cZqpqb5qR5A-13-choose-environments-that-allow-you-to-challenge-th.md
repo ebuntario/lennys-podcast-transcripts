@@ -2,7 +2,7 @@
 type: insight
 title: Choose environments that allow you to challenge the status quo
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "organizational-culture"
   - "personal-empowerment"
   - "change-agency"

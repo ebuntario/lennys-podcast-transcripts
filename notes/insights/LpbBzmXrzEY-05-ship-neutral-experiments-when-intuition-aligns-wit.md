@@ -2,7 +2,7 @@
 type: insight
 title: Ship neutral experiments when intuition aligns with long-term vision
 concepts:
-  - "experimentation"
+  - "testing"
   - "organizational-product-strategy"
   - "decision-making"
 source_guest: Archie Abrams

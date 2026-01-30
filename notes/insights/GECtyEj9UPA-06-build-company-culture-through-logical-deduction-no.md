@@ -4,7 +4,7 @@ title: Build company culture through logical deduction, not just inspirational s
 concepts:
   - "organizational-culture"
   - "purpose"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: "Evan LaPointe"
 source_episode: "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
 source: "[[guests/evan-lapointe|Evan LaPointe]]"

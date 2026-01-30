@@ -2,7 +2,7 @@
 type: insight
 title: The best marketing insights come from customer conversations
 concepts:
-  - "customer-development"
+  - "customer-discovery"
   - "positioning"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)

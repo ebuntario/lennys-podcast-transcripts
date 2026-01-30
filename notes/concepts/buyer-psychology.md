@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/risk-aversion]] (3 shared insights)
 - [[concepts/sales-enablement]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
-- [[concepts/risk-mitigation]] (1 shared insights)
+- [[concepts/risk-management]] (1 shared insights)

@@ -4,7 +4,7 @@ title: A good strategy is a coherent, specific plan, not a vague aspiration
 concepts:
   - "strategy"
   - "focus"
-  - "execution"
+  - "strategy-execution"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"
 source: "[[guests/jag-duggal|Jag Duggal]]"

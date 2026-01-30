@@ -4,7 +4,7 @@ title: Use PR for specific credibility goals, not general awareness
 concepts:
   - "public-relations"
   - "startup-launches"
-  - "growth-marketing"
+  - "startup-growth"
 source_guest: Zoelle Egner
 source_episode: Lessons from Airtable’s unconventional growth strategy | Zoelle Egner
 source: "[[guests/zoelle-egner|Zoelle Egner]]"

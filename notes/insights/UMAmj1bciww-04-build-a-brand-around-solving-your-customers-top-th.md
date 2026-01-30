@@ -2,7 +2,7 @@
 type: insight
 title: Build a brand around solving your customer's top three anxieties
 concepts:
-  - "brand-positioning"
+  - "positioning"
   - "customer-psychology"
   - "product-marketing"
 source_guest: Laura Modi

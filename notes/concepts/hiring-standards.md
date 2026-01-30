@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/behavioral-interviewing]] (1 shared insights)
 - [[concepts/cultural-alignment]] (1 shared insights)
-- [[concepts/interview-techniques]] (1 shared insights)
+- [[concepts/interviewing]] (1 shared insights)
 - [[concepts/behavioral-assessment]] (1 shared insights)

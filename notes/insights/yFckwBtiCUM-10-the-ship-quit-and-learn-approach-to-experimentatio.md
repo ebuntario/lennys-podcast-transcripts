@@ -2,7 +2,7 @@
 type: insight
 title: The "Ship, Quit, and Learn" Approach to Experimentation
 concepts:
-  - "rapid-experimentation"
+  - "experimentation-velocity"
   - "project-framing"
   - "learning-by-doing"
 source_guest: Paul Millerd

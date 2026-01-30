@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/sales-pitch-framework]] (3 shared insights)
 - [[concepts/sales-mindset]] (2 shared insights)
-- [[concepts/customer-segmentation]] (2 shared insights)
+- [[concepts/segmentation]] (2 shared insights)
 - [[concepts/cross-functional-collaboration]] (2 shared insights)
 - [[concepts/customer-education]] (1 shared insights)

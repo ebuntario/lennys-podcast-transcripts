@@ -3,7 +3,7 @@ type: insight
 title: Aligning Sprint Cycles Across Functions
 concepts:
   - "cross-functional-collaboration"
-  - "agile-methodology"
+  - "agile-methodologies"
   - "operational-efficiency"
 source_guest: "Sri Batchu"
 source_episode: "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)"

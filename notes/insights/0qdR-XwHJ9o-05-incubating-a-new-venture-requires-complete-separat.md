@@ -4,7 +4,7 @@ title: Incubating a new venture requires complete separation
 concepts:
   - "corporate-innovation"
   - "startup-within-a-company"
-  - "organizational-structure"
+  - "organizational-design"
 source_guest: Garrett Lord
 source_episode: Inside the expert network training every frontier AI model | Garrett Lord
 source: "[[guests/garrett-lord|Garrett Lord]]"

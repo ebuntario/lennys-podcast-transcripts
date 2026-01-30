@@ -4,7 +4,7 @@ title: Self-serve checkout should be as simple as e-commerce
 concepts:
   - "self-serve-checkout"
   - "conversion-optimization"
-  - "pricing-strategy"
+  - "value-based-pricing"
 source_guest: Hila Qu
 source_episode: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
 source: "[[guests/hila-qu|Hila Qu]]"

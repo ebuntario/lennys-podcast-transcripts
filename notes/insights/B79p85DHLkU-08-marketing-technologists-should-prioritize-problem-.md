@@ -3,7 +3,7 @@ type: insight
 title: Marketing technologists should prioritize problem-solving over tool preferences
 concepts:
   - "marketing-technology"
-  - "problem-solving"
+  - "creative-problem-solving"
   - "tool-agnostic"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)

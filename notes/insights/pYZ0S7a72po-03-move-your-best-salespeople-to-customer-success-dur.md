@@ -4,8 +4,8 @@ title: Move your best salespeople to customer success during a downturn
 concepts:
   - "customer-success"
   - "resource-allocation"
-  - "customer-retention"
-  - "sales-strategy"
+  - "retention"
+  - "sales-enablement"
 source_guest: "Sahil Mansuri"
 source_episode: "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"
 source: "[[guests/sahil-mansuri|Sahil Mansuri]]"

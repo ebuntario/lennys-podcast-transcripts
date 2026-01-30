@@ -4,7 +4,7 @@ title: Conduct interviews like casual conversations, not interrogations
 concepts:
   - "customer-interviews"
   - "conversational-skills"
-  - "active-listening"
+  - "listening-skills"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres
 source: "[[guests/teresa-torres|Teresa Torres]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Build a system for experimentation, not just run individual experiments
 concepts:
-  - "experimentation-culture"
+  - "testing"
   - "growth-loops"
   - "instrumentation"
 source_guest: Albert Cheng

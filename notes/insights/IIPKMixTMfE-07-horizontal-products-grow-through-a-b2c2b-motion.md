@@ -2,7 +2,7 @@
 type: insight
 title: Horizontal products grow through a B2C2B motion
 concepts:
-  - "go-to-market-strategy"
+  - "go-to-market"
   - "product-led-growth"
   - "market-segmentation"
 source_guest: Ivan Zhao

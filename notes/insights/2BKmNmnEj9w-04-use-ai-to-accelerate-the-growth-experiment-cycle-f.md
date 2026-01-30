@@ -3,7 +3,7 @@ type: insight
 title: Use AI to accelerate the growth experiment cycle from ideation to analysis
 concepts:
   - "ai-applications"
-  - "experimentation"
+  - "testing"
   - "data-analysis"
 source_guest: Albert Cheng
 source_episode: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)

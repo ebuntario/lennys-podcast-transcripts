@@ -2,7 +2,7 @@
 type: insight
 title: The Core Job is Turning Ambiguity into Clarity
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "problem-framing"
   - "decision-making"
 source_guest: Lane Shackleton

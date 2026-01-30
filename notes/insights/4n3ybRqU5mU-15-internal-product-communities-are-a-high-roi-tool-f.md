@@ -3,7 +3,7 @@ type: insight
 title: Internal product communities are a high-ROI tool for people development
 concepts:
   - "community"
-  - "personal-development"
+  - "personal-growth"
   - "knowledge-sharing"
   - "retention"
 source_guest: Petra Wille

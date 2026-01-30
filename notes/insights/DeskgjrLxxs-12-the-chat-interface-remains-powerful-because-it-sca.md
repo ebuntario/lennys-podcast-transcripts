@@ -4,7 +4,7 @@ title: The chat interface remains powerful because it scales with intelligence l
 concepts:
   - "user-interface"
   - "conversational-ai"
-  - "scalability"
+  - "scalable-systems"
   - "human-ai-interaction"
   - "adaptability"
 source_guest: Karina Nguyen

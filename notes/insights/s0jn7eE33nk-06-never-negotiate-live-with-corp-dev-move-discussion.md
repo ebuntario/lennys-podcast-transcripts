@@ -4,7 +4,7 @@ title: Never negotiate live with Corp Dev; move discussions async to level the p
 concepts:
   - "negotiation"
   - "acquisition-strategy"
-  - "communication"
+  - "team-communication"
 source_guest: Jonathan Lowenhar
 source_episode: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)
 source: "[[guests/jonathan-lowenhar|Jonathan Lowenhar]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Treat content creation as documentation, not pure creation
 concepts:
-  - "communication"
+  - "team-communication"
   - "personal-brand"
   - "learning"
 source_guest: Claire Vo

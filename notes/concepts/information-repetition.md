@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/audience-empathy]] (1 shared insights)
-- [[concepts/communication-tactics]] (1 shared insights)
+- [[concepts/audience-understanding]] (1 shared insights)
+- [[concepts/communication-skills]] (1 shared insights)

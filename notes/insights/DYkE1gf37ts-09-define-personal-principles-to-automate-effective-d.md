@@ -4,7 +4,7 @@ title: Define personal principles to automate effective decision-making
 concepts:
   - "decision-making"
   - "personal-principles"
-  - "leadership"
+  - "team-leadership"
 source_guest: Joe Hudson
 source_episode: How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)
 source: "[[guests/joe-hudson|Joe Hudson]]"

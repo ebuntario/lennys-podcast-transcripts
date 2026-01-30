@@ -2,7 +2,7 @@
 type: insight
 title: Including engineers in customer meetings transforms product development
 concepts:
-  - "customer-development"
+  - "customer-discovery"
   - "engineering-culture"
   - "cross-functional-collaboration"
 source_guest: Christine Itwaru

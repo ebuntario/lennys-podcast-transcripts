@@ -4,7 +4,7 @@ title: The Apple product model prioritizes craft and design over pure strategy
 concepts:
   - "product-culture"
   - "design-led-development"
-  - "organizational-structure"
+  - "organizational-design"
 source_guest: Camille Hearst
 source_episode: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 source: "[[guests/camille-hearst|Camille Hearst]]"

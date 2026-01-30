@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/automation-tipping-point]] (1 shared insights)
-- [[concepts/process-optimization]] (1 shared insights)
+- [[concepts/workflow-optimization]] (1 shared insights)

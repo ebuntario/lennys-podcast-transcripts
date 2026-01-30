@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/hiring-practices]] (2 shared insights)
-- [[concepts/leadership]] (2 shared insights)
+- [[concepts/team-leadership]] (2 shared insights)
 - [[concepts/company-evaluation]] (2 shared insights)
-- [[concepts/competitive-analysis]] (1 shared insights)
-- [[concepts/strategic-thinking]] (1 shared insights)
+- [[concepts/benchmarking]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)

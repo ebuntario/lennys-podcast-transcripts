@@ -2,7 +2,7 @@
 type: insight
 title: Use a two-by-two framework (autonomy vs. attribution) to choose your AI pricing model
 concepts:
-  - "pricing-model"
+  - "value-based-pricing"
   - "ai-pricing"
   - "outcome-based-pricing"
   - "value-attribution"

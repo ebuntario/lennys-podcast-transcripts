@@ -3,7 +3,7 @@ type: insight
 title: Use the "above the line / below the line" model to assess your mindset
 concepts:
   - "mindset"
-  - "leadership"
+  - "team-leadership"
   - "self-awareness"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)

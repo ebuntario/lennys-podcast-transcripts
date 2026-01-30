@@ -3,7 +3,7 @@ type: insight
 title: Seek Businesses with Defensive Moats
 concepts:
   - "product-market-leadership"
-  - "business-models"
+  - "business-model"
   - "acquisition-criteria"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson

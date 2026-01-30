@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/upward-communication]] (1 shared insights)
-- [[concepts/storytelling]] (1 shared insights)
+- [[concepts/narrative]] (1 shared insights)

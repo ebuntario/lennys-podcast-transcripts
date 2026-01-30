@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)
 - [[concepts/content-format]] (1 shared insights)
 - [[concepts/personal-passion]] (1 shared insights)
-- [[concepts/career-pathing]] (1 shared insights)
+- [[concepts/career-planning]] (1 shared insights)

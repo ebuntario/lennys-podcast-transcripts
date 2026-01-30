@@ -2,7 +2,7 @@
 type: insight
 title: Prioritize raw intellect and hunger over extensive experience when hiring product leaders
 concepts:
-  - "hiring-strategy"
+  - "hiring-process"
   - "product-leadership-strategy"
   - "career-acceleration"
 source_guest: Dmitry Zlokazov

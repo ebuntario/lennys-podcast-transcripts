@@ -4,7 +4,7 @@ title: The output of shaping is clarity, not just documentation or mockups
 concepts:
   - "product-shaping"
   - "clarity"
-  - "communication"
+  - "team-communication"
 source_guest: Ryan Singer
 source_episode: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")
 source: "[[guests/ryan-singer|Ryan Singer]]"

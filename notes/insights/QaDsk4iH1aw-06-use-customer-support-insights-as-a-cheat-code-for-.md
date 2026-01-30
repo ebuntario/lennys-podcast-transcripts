@@ -4,7 +4,7 @@ title: Use customer support insights as a cheat code for product marketing and m
 concepts:
   - "customer-feedback"
   - "product-marketing"
-  - "content-strategy"
+  - "thought-leadership"
 source_guest: Krithika Shankarraman
 source_episode: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman
 source: "[[guests/krithika-shankarraman|Krithika Shankarraman]]"

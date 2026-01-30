@@ -2,7 +2,7 @@
 type: insight
 title: Answer hyper-specific compliance and regulatory questions to build authority
 concepts:
-  - "content-strategy"
+  - "thought-leadership"
   - "thought-leadership"
   - "b2b-saas"
   - "customer-problems"

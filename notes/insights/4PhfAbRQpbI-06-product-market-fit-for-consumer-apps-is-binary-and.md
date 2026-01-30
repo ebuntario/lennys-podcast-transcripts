@@ -4,7 +4,7 @@ title: Product-market fit for consumer apps is binary and obvious
 concepts:
   - "product-market-fit"
   - "consumer-metrics"
-  - "growth-signals"
+  - "growth-metrics"
 source_guest: Nikita Bier
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller
 source: "[[guests/nikita-bier|Nikita Bier]]"

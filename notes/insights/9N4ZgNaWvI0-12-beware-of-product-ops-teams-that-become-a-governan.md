@@ -2,7 +2,7 @@
 type: insight
 title: Beware of product ops teams that become a governance layer
 concepts:
-  - "product-ops"
+  - "product-operations"
   - "organizational-design"
   - "enablement-vs-governance"
 source_guest: Marty Cagan

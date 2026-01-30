@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-design]] (1 shared insights)
-- [[concepts/developer-productivity]] (1 shared insights)
+- [[concepts/developer-experience]] (1 shared insights)
 - [[concepts/developer-experience]] (1 shared insights)

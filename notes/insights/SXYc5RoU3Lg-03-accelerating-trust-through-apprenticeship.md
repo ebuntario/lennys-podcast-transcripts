@@ -2,8 +2,8 @@
 type: insight
 title: Accelerating trust through apprenticeship
 concepts:
-  - "trust-building"
-  - "relationship-building"
+  - "psychological-safety"
+  - "networking"
   - "learning"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)

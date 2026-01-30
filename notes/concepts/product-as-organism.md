@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/continuous-feedback]] (1 shared insights)
-- [[concepts/ai-product-development]] (1 shared insights)
+- [[concepts/ai-development]] (1 shared insights)

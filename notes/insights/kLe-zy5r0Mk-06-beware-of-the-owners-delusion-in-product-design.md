@@ -4,7 +4,7 @@ title: Beware of the owner's delusion in product design
 concepts:
   - "user-perspective"
   - "product-design"
-  - "cognitive-bias"
+  - "cognitive-biases"
 source_guest: Stewart Butterfield
 source_episode: Mental models for building products people love ft. Stewart Butterfield
 source: "[[guests/stewart-butterfield|Stewart Butterfield]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Focus on creating customer value, not just extracting it
 concepts:
-  - "customer-value"
+  - "user-value"
   - "business-ethics"
   - "long-term-thinking"
 source_guest: Stewart Butterfield

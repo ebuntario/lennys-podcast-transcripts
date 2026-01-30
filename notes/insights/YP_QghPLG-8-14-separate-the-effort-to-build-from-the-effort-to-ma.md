@@ -3,8 +3,8 @@ type: insight
 title: Separate the effort to build from the effort to market a feature
 concepts:
   - "product-marketing"
-  - "communication"
-  - "customer-centricity"
+  - "team-communication"
+  - "user-centric-design"
 source_guest: Shreyas Doshi
 source_episode: The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)
 source: "[[guests/shreyas-doshi|Shreyas Doshi]]"

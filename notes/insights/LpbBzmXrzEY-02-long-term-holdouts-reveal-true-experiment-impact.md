@@ -2,7 +2,7 @@
 type: insight
 title: Long-term holdouts reveal true experiment impact
 concepts:
-  - "experimentation"
+  - "testing"
   - "growth-metrics"
   - "data-driven-decisions"
 source_guest: Archie Abrams

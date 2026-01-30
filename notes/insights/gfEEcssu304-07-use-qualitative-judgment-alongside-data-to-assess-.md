@@ -4,7 +4,7 @@ title: Use qualitative judgment alongside data to assess quality
 concepts:
   - "decision-making"
   - "product-quality"
-  - "user-research"
+  - "customer-research"
 source_guest: "Katie Dill"
 source_episode: "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"
 source: "[[guests/katie-dill|Katie Dill]]"

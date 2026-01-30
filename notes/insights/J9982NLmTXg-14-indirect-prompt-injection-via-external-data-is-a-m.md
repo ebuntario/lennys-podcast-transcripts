@@ -3,7 +3,7 @@ type: insight
 title: Indirect prompt injection via external data is a major unsolved threat
 concepts:
   - "prompt-injection"
-  - "agentic-ai"
+  - "ai-agents"
 source_guest: "Sander Schulhoff"
 source_episode: "Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO"
 source: "[[guests/sander-schulhoff-20|Sander Schulhoff 2.0]]"

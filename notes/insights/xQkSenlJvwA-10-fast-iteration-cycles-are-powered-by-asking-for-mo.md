@@ -2,9 +2,9 @@
 type: insight
 title: Fast iteration cycles are powered by asking for money early
 concepts:
-  - "iteration-speed"
+  - "rapid-iteration"
   - "validation"
-  - "customer-development"
+  - "customer-discovery"
 source_guest: Nabeel S. Qureshi
 source_episode: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)
 source: "[[guests/nabeel-s-qureshi|Nabeel S. Qureshi]]"

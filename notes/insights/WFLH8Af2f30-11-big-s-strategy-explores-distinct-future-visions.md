@@ -3,7 +3,7 @@ type: insight
 title: Big S strategy explores distinct future visions
 concepts:
   - "strategy-types"
-  - "vision"
+  - "vision-communication"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

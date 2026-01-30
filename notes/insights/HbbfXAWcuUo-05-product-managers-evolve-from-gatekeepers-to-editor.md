@@ -2,7 +2,7 @@
 type: insight
 title: Product managers evolve from gatekeepers to editors and taste-makers
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "idea-curation"
   - "ai-democratization"
 source_guest: Aparna Chennapragada

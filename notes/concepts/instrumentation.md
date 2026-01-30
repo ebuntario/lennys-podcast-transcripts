@@ -15,5 +15,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation-culture]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)
 - [[concepts/growth-loops]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Create principles that people can reasonably disagree with
 concepts:
   - "decision-making"
   - "team-alignment"
-  - "communication"
+  - "team-communication"
 source_guest: Nabeel S. Qureshi
 source_episode: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)
 source: "[[guests/nabeel-s-qureshi|Nabeel S. Qureshi]]"

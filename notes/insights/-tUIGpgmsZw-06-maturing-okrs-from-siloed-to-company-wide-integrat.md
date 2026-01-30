@@ -3,7 +3,7 @@ type: insight
 title: Maturing OKRs from siloed to company-wide integrated planning
 concepts:
   - "okrs"
-  - "strategic-thinking"
+  - "systems-thinking"
   - "strategic-alignment"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)

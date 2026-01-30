@@ -3,8 +3,8 @@ type: insight
 title: Programmatic SEO creates scalable assets by combining data sources
 concepts:
   - "programmatic-seo"
-  - "content-strategy"
-  - "scalability"
+  - "thought-leadership"
+  - "scalable-systems"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

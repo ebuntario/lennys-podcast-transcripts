@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership-style]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/technical-guidance]] (1 shared insights)
 - [[concepts/critical-thinking]] (1 shared insights)

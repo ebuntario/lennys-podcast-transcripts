@@ -2,7 +2,7 @@
 type: insight
 title: Manage Sales Feature Requests with a Quarterly "Budget"
 concepts:
-  - "product-roadmap"
+  - "roadmap-planning"
   - "sales-requests"
   - "prioritization"
 source_guest: Jason M Lemkin

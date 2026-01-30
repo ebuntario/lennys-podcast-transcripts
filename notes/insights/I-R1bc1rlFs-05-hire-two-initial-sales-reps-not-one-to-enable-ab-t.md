@@ -4,7 +4,7 @@ title: Hire Two Initial Sales Reps, Not One, to Enable A/B Testing
 concepts:
   - "hiring-sales"
   - "team-structure"
-  - "experimentation"
+  - "testing"
 source_guest: Jason M Lemkin
 source_episode: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 source: "[[guests/jason-m-lemkin|Jason M Lemkin]]"

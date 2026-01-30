@@ -2,9 +2,9 @@
 type: insight
 title: Competence as the foundation of trust
 concepts:
-  - "trust-building"
+  - "psychological-safety"
   - "competence"
-  - "product-management"
+  - "product-leadership"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

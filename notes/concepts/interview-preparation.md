@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/hiring]] (1 shared insights)
-- [[concepts/problem-solving]] (1 shared insights)
+- [[concepts/creative-problem-solving]] (1 shared insights)

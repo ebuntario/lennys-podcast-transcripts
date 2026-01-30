@@ -3,8 +3,8 @@ type: insight
 title: The three-step asking framework
 concepts:
   - "framework"
-  - "communication"
-  - "iterative-process"
+  - "team-communication"
+  - "iteration"
 source_guest: Kenneth Berger
 source_episode: Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)
 source: "[[guests/kenneth-berger|Kenneth Berger]]"

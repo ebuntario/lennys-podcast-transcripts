@@ -2,8 +2,8 @@
 type: insight
 title: Problem-People-System framework guides effective technology implementation
 concepts:
-  - "problem-solving"
-  - "stakeholder-management"
+  - "creative-problem-solving"
+  - "relationship-management"
   - "systems-thinking"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)

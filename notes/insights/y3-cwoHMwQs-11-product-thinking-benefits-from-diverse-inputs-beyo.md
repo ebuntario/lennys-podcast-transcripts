@@ -4,7 +4,7 @@ title: Product thinking benefits from diverse inputs beyond business literature
 concepts:
   - "creative-inspiration"
   - "product-sense"
-  - "career-development"
+  - "professional-growth"
 source_guest: Alex Hardiman
 source_episode: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 source: "[[guests/alex-hardimen|Alex Hardimen]]"

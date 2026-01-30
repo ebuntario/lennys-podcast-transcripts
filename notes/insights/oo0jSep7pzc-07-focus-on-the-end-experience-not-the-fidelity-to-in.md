@@ -2,7 +2,7 @@
 type: insight
 title: Focus on the end experience, not the fidelity to internal models or processes
 concepts:
-  - "customer-centricity"
+  - "user-centric-design"
   - "outcome-focus"
   - "pragmatism"
 source_guest: Fareed Mosavat

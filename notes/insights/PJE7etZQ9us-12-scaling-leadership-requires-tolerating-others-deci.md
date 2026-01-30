@@ -3,7 +3,7 @@ type: insight
 title: Scaling leadership requires tolerating others' decisions
 concepts:
   - "delegation"
-  - "trust"
+  - "psychological-safety"
   - "leadership-development"
   - "team-autonomy"
 source_guest: Jerry Colonna

@@ -3,7 +3,7 @@ type: insight
 title: Ask for Relevant Experience, Not Advice
 concepts:
   - "decision-making"
-  - "mentorship"
+  - "coaching"
   - "founder-advice"
 source_guest: "Matt MacInnis"
 source_episode: "I deliberately understaff every project | Leadership lessons from Rippling's $16B journey"

@@ -2,8 +2,8 @@
 type: insight
 title: Structuring user engagement with four key touchpoints
 concepts:
-  - "user-research"
-  - "stakeholder-management"
+  - "customer-research"
+  - "relationship-management"
   - "product-evangelism"
   - "feedback-loops"
 source_guest: Upasna Gautam

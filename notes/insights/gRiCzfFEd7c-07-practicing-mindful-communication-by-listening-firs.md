@@ -2,10 +2,10 @@
 type: insight
 title: Practicing mindful communication by listening first
 concepts:
-  - "communication"
+  - "team-communication"
   - "mindfulness"
-  - "stakeholder-management"
-  - "user-feedback"
+  - "relationship-management"
+  - "qualitative-feedback"
 source_guest: Upasna Gautam
 source_episode: An inside look at how CNN builds product | Upasna Gautam
 source: "[[guests/upasna-gautam|Upasna Gautam]]"

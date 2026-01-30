@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/growth-marketing]] (1 shared insights)
+- [[concepts/startup-growth]] (1 shared insights)
 - [[concepts/accessibility]] (1 shared insights)

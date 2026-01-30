@@ -4,7 +4,7 @@ title: Use the "Four Ps" framework to diagnose and execute strategic pivots
 concepts:
   - "pivot-framework"
   - "product-strategy"
-  - "customer-segmentation"
+  - "segmentation"
   - "positioning"
 source_guest: Todd Jackson
 source_episode: A framework for finding product-market fit | Todd Jackson (First Round Capital)

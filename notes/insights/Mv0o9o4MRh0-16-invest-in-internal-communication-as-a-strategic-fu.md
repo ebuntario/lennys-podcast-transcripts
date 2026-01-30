@@ -3,7 +3,7 @@ type: insight
 title: Invest in internal communication as a strategic function
 concepts:
   - "internal-communication"
-  - "alignment"
+  - "team-alignment"
   - "operational-cadence"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)

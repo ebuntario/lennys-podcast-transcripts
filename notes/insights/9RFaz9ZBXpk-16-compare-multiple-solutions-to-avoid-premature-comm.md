@@ -3,7 +3,7 @@ type: insight
 title: Compare multiple solutions to avoid premature commitment
 concepts:
   - "solution-comparison"
-  - "decision-quality"
+  - "decision-velocity"
   - "option-evaluation"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres

@@ -4,7 +4,7 @@ title: Product improvements can drive long-term success without short-term conve
 concepts:
   - "product-development"
   - "customer-experience"
-  - "experimentation"
+  - "testing"
 source_guest: Archie Abrams
 source_episode: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 source: "[[guests/archie-abrams|Archie Abrams]]"

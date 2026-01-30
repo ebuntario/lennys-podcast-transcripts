@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/value-based-pricing]] (1 shared insights)
 - [[concepts/subscription-models]] (1 shared insights)

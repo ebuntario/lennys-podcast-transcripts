@@ -3,9 +3,9 @@ type: insight
 title: Teach your team how leaders think, not just what they decided
 concepts:
   - "mental-models"
-  - "transparent-communication"
+  - "transparency"
   - "organizational-alignment"
-  - "strategic-thinking"
+  - "systems-thinking"
 source_guest: Hilary Gridley
 source_episode: How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)
 source: "[[guests/hilary-gridley|Hilary Gridley]]"

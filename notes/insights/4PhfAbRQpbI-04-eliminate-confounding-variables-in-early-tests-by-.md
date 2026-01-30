@@ -2,8 +2,8 @@
 type: insight
 title: Eliminate confounding variables in early tests by manually creating ideal conditions
 concepts:
-  - "product-testing"
-  - "user-research"
+  - "product-experimentation"
+  - "customer-research"
   - "mvp-validation"
 source_guest: Nikita Bier
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller

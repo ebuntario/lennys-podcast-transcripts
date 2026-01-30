@@ -2,7 +2,7 @@
 type: insight
 title: Use "what happened next?" to deepen interview insights
 concepts:
-  - "interview-techniques"
+  - "interviewing"
   - "story-elaboration"
   - "detail-extraction"
 source_guest: Teresa Torres

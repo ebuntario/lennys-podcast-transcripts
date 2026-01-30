@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/market-sizing]] (1 shared insights)
+- [[concepts/market-opportunity]] (1 shared insights)
 - [[concepts/seo-strategy]] (1 shared insights)

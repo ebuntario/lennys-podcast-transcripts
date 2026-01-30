@@ -4,7 +4,7 @@ title: Small, focused "thermal" teams enable rapid iteration
 concepts:
   - "team-structure"
   - "organizational-design"
-  - "execution"
+  - "strategy-execution"
 source_guest: Keith Coleman
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter
 source: "[[guests/keith-coleman-and-jay-baxter|Keith Coleman & Jay Baxter]]"

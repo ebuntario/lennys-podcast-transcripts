@@ -4,7 +4,7 @@ title: Borrow and adapt rituals from other companies
 concepts:
   - "team-rituals"
   - "best-practices"
-  - "operational-excellence"
+  - "operational-efficiency"
   - "learning-organizations"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

@@ -3,7 +3,7 @@ type: insight
 title: Trello's power lies in simplicity and progressive disclosure
 concepts:
   - "product-strategy"
-  - "user-onboarding"
+  - "onboarding"
   - "product-positioning"
 source_guest: Nikita Miller
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller

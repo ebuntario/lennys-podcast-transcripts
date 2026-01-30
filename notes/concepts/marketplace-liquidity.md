@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/metrics]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)
 - [[concepts/actionable-insights]] (1 shared insights)
 - [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/organizational-product-strategy]] (1 shared insights)

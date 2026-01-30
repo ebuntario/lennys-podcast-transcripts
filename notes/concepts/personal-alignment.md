@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/founder-mindset]] (1 shared insights)
-- [[concepts/business-models]] (1 shared insights)
+- [[concepts/business-model]] (1 shared insights)

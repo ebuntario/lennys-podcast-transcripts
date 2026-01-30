@@ -4,7 +4,7 @@ title: A high quality bar is non-negotiable for trust
 concepts:
   - "trust-and-safety"
   - "quality"
-  - "product-philosophy"
+  - "product-principles"
 source_guest: Keith Coleman & Jay Baxter
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter
 source: "[[guests/keith-coleman-and-jay-baxter|Keith Coleman & Jay Baxter]]"

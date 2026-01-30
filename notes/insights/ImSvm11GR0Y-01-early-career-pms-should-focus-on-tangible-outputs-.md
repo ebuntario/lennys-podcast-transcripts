@@ -2,7 +2,7 @@
 type: insight
 title: Early-career PMs should focus on tangible outputs over strategic impact
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "product-execution"
   - "early-career-advice"
 source_guest: Vikrama Dhiman

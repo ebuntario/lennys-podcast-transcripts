@@ -4,7 +4,7 @@ title: You are not the protagonist in your company's story
 concepts:
   - "humility"
   - "organizational-dynamics"
-  - "leadership-mindset"
+  - "team-leadership"
   - "strategic-alignment"
 source_guest: Hilary Gridley
 source_episode: How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)

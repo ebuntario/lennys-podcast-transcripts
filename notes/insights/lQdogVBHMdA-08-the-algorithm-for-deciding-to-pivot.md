@@ -4,7 +4,7 @@ title: The Algorithm for Deciding to Pivot
 concepts:
   - "pivoting"
   - "product-market-fit"
-  - "opportunity-evaluation"
+  - "opportunity-identification"
 source_guest: "Uri Levine"
 source_episode: "A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
 source: "[[guests/uri-levine-20|Uri Levine 2.0]]"

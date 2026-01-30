@@ -4,7 +4,7 @@ title: Learning to ask "why" to build scalable solutions, not custom features
 concepts:
   - "customer-interviews"
   - "product-development"
-  - "scalability"
+  - "scalable-systems"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

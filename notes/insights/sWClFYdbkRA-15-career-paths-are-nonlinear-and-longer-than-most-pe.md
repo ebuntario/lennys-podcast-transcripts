@@ -2,7 +2,7 @@
 type: insight
 title: Career paths are nonlinear and longer than most people anticipate
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "resilience"
   - "long-term-thinking"
 source_guest: Gina Gotthilf

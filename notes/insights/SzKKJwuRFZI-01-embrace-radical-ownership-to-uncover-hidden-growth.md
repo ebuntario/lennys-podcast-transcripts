@@ -2,7 +2,7 @@
 type: insight
 title: Embrace radical ownership to uncover hidden growth opportunities
 concepts:
-  - "growth-mindset"
+  - "mindset"
   - "ownership-mentality"
   - "opportunity-identification"
 source_guest: Christopher Miller

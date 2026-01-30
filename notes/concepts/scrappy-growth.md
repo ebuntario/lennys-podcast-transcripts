@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/hypothesis-validation]] (1 shared insights)
+- [[concepts/validation]] (1 shared insights)
 - [[concepts/customer-experience]] (1 shared insights)

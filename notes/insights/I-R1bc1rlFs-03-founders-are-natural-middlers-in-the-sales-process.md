@@ -3,8 +3,8 @@ type: insight
 title: Founders are Natural "Middlers" in the Sales Process
 concepts:
   - "founder-led-sales"
-  - "sales-process"
-  - "customer-conversations"
+  - "sales-funnel"
+  - "customer-interviews"
 source_guest: Jason M Lemkin
 source_episode: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 source: "[[guests/jason-m-lemkin|Jason M Lemkin]]"

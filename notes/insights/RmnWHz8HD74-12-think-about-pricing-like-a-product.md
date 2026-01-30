@@ -2,7 +2,7 @@
 type: insight
 title: Think About Pricing Like a Product
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "value-alignment"
   - "consumption-models"
 source_guest: Jeanne DeWitt Grosser

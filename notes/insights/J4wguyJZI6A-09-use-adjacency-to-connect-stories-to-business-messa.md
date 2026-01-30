@@ -2,7 +2,7 @@
 type: insight
 title: Use adjacency to connect stories to business messages
 concepts:
-  - "business-storytelling"
+  - "narrative"
   - "metaphor"
   - "message-framing"
 source_guest: "Matthew Dicks"

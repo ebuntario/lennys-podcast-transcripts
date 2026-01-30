@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/velocity-vs-speed]] (1 shared insights)
-- [[concepts/execution]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)

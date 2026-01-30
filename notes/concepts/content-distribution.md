@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/community-engagement]] (1 shared insights)
+- [[concepts/community-building]] (1 shared insights)
 - [[concepts/expertise-positioning]] (1 shared insights)

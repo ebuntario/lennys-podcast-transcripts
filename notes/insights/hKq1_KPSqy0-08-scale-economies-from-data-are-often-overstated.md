@@ -4,7 +4,7 @@ title: Scale economies from data are often overstated
 concepts:
   - "scale-economies"
   - "data-advantage"
-  - "competitive-analysis"
+  - "benchmarking"
 source_guest: Hamilton Helmer
 source_episode: Business strategy with Hamilton Helmer (author of 7 Powers)
 source: "[[guests/hamilton-helmer|Hamilton Helmer]]"

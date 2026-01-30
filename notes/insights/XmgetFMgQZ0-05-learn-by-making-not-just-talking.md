@@ -2,8 +2,8 @@
 type: insight
 title: Learn by Making, Not Just Talking
 concepts:
-  - "experimentation"
-  - "rapid-prototyping"
+  - "testing"
+  - "prototyping"
   - "action-bias"
 source_guest: Lane Shackleton
 source_episode: What sets great teams apart | Lane Shackleton (CPO of Coda)

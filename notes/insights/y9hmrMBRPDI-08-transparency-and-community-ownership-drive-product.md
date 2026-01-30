@@ -2,7 +2,7 @@
 type: insight
 title: Transparency and community ownership drive product excellence
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "user-community"
   - "product-feedback"
 source_guest: Julia Schottenstein

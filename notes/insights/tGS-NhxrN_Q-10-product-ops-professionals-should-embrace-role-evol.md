@@ -2,7 +2,7 @@
 type: insight
 title: Product ops professionals should embrace role evolution and automation
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "automation"
   - "adaptability"
 source_guest: Christine Itwaru

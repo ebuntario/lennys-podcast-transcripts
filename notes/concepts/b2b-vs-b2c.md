@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/organizational-structure]] (1 shared insights)
+- [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/centralized-vs-decentralized]] (1 shared insights)
 - [[concepts/technology-stack]] (1 shared insights)
 - [[concepts/tool-selection]] (1 shared insights)

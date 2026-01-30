@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/ai-agents]] (1 shared insights)
-- [[concepts/collaboration]] (1 shared insights)
+- [[concepts/team-collaboration]] (1 shared insights)

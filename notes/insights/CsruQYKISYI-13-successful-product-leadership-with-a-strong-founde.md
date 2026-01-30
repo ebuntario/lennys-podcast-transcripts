@@ -2,8 +2,8 @@
 type: insight
 title: Successful product leadership with a strong-founder requires adaptability
 concepts:
-  - "leadership"
-  - "stakeholder-management"
+  - "team-leadership"
+  - "relationship-management"
   - "organizational-dynamics"
   - "founder-relationship"
 source_guest: Jeremy Henrickson

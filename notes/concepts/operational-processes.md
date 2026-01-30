@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership-principles]] (1 shared insights)
+- [[concepts/leadership-development]] (1 shared insights)
 - [[concepts/cultural-reinforcement]] (1 shared insights)

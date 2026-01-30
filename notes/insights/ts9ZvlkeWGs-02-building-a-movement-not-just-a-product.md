@@ -3,7 +3,7 @@ type: insight
 title: Building a movement, not just a product
 concepts:
   - "community-building"
-  - "product-philosophy"
+  - "product-principles"
   - "open-source-advocacy"
 source_guest: "Matt Mullenweg"
 source_episode: "The one question that saves product careers | Matt LeMay"

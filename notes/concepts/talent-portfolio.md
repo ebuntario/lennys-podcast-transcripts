@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/talent-management]] (1 shared insights)
+- [[concepts/talent-development]] (1 shared insights)
 - [[concepts/team-building]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)

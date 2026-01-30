@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/transparent-communication]] (1 shared insights)
+- [[concepts/transparency]] (1 shared insights)
 - [[concepts/okrs]] (1 shared insights)

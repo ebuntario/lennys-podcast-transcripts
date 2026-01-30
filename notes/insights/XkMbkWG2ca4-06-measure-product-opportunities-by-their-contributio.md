@@ -3,7 +3,7 @@ type: insight
 title: Measure product opportunities by their contribution to the core mission
 concepts:
   - "product-strategy"
-  - "mission-alignment"
+  - "purpose"
   - "prioritization"
 source_guest: Logan Kilpatrick
 source_episode: Inside OpenAI | Logan Kilpatrick (head of developer relations)

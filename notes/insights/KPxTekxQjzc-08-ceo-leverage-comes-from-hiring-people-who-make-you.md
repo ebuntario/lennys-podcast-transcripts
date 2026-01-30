@@ -2,7 +2,7 @@
 type: insight
 title: CEO leverage comes from hiring people who make you better
 concepts:
-  - "ceo-mindset"
+  - "ceo-role"
   - "executive-hiring"
   - "managerial-leverage"
 source_guest: Ben Horowitz

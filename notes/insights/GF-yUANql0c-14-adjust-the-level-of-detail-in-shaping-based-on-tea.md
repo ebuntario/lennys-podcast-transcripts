@@ -2,7 +2,7 @@
 type: insight
 title: Adjust the level of detail in shaping based on team seniority
 concepts:
-  - "team-development"
+  - "team-building"
   - "delegation"
   - "autonomy"
 source_guest: Ryan Singer

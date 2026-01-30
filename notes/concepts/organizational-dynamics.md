@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/age-diversity]] (1 shared insights)
-- [[concepts/founder-psychology]] (1 shared insights)
-- [[concepts/ceo-mindset]] (1 shared insights)
+- [[concepts/founder-mindset]] (1 shared insights)
+- [[concepts/ceo-role]] (1 shared insights)

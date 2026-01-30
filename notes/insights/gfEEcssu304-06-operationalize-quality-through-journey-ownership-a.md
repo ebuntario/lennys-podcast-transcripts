@@ -2,7 +2,7 @@
 type: insight
 title: Operationalize quality through journey ownership and regular reviews
 concepts:
-  - "operational-excellence"
+  - "operational-efficiency"
   - "product-quality"
   - "user-journeys"
   - "process-design"

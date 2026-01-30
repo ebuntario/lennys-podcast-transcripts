@@ -4,7 +4,7 @@ title: Using marketplace data to guide seller behavior
 concepts:
   - "data-driven-decisions"
   - "seller-education"
-  - "marketplace-dynamics"
+  - "marketplace-strategy"
 source_guest: Tim Holley
 source_episode: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)
 source: "[[guests/tim-holley|Tim Holley]]"

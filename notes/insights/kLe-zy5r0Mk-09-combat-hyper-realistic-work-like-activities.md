@@ -4,7 +4,7 @@ title: Combat hyper-realistic work-like activities
 concepts:
   - "organizational-effectiveness"
   - "resource-allocation"
-  - "leadership"
+  - "team-leadership"
 source_guest: Stewart Butterfield
 source_episode: Mental models for building products people love ft. Stewart Butterfield
 source: "[[guests/stewart-butterfield|Stewart Butterfield]]"

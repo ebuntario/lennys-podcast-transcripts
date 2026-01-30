@@ -2,7 +2,7 @@
 type: insight
 title: Product ops success requires clear measurement from the start
 concepts:
-  - "product-metrics"
+  - "product-analytics"
   - "role-definition"
   - "accountability"
 source_guest: Christine Itwaru

@@ -4,7 +4,7 @@ title: Avoid confirmation bias by seeking out what proves you wrong
 concepts:
   - "customer-research"
   - "decision-making"
-  - "cognitive-bias"
+  - "cognitive-biases"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
 source: "[[guests/shaun-clowes|Shaun Clowes]]"

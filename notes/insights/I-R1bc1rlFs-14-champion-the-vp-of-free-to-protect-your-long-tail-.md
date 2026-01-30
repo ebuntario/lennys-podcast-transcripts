@@ -3,7 +3,7 @@ type: insight
 title: Champion the "VP of Free" to Protect Your Long-Tail Users
 concepts:
   - "product-led-growth"
-  - "freemium"
+  - "freemium-strategy"
   - "customer-advocacy"
 source_guest: Jason M Lemkin
 source_episode: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)

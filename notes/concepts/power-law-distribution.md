@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/growth-metrics]] (1 shared insights)
-- [[concepts/business-models]] (1 shared insights)
+- [[concepts/business-model]] (1 shared insights)

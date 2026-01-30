@@ -4,7 +4,7 @@ title: Avoid divisional structures that create bureaucracy
 concepts:
   - "organizational-design"
   - "organizational-culture"
-  - "execution"
+  - "strategy-execution"
 source_guest: Brian Chesky
 source_episode: Brian Chesky’s new playbook
 source: "[[guests/brian-chesky|Brian Chesky]]"

@@ -4,7 +4,7 @@ title: Use a one-sentence vision to align the team
 concepts:
   - "team-alignment"
   - "goal-setting"
-  - "communication"
+  - "team-communication"
 source_guest: Matt LeMay
 source_episode: The one question that saves product careers | Matt LeMay
 source: "[[guests/matt-lemay|Matt LeMay]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Deep specialization creates stronger career foundations
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "specialization"
-  - "skill-building"
+  - "skill-development"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)
 source: "[[guests/tom-conrad|Tom Conrad]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Your life partner significantly impacts career trajectory
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "work-life-balance"
   - "personal-foundation"
 source_guest: Deb Liu

@@ -3,7 +3,7 @@ type: insight
 title: Wealth Does Not Resolve Internal Anxiety
 concepts:
   - "mental-health"
-  - "entrepreneurial-mindset"
+  - "entrepreneurship"
   - "happiness"
 source_guest: Andrew Wilkinson
 source_episode: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson

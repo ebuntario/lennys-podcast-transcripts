@@ -3,8 +3,8 @@ type: insight
 title: The most futuristic AI development is self-improving and language-agnostic
 concepts:
   - "self-improving-systems"
-  - "ai-tooling"
-  - "developer-productivity"
+  - "ai-tools"
+  - "developer-experience"
 source_guest: "Mike Krieger"
 source_episode: "Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)"
 source: "[[guests/mike-krieger|Mike Krieger]]"

@@ -3,8 +3,8 @@ type: insight
 title: A growth model is an analytical representation of business growth
 concepts:
   - "growth-loops"
-  - "decision-frameworks"
-  - "business-modeling"
+  - "decision-making"
+  - "business-model"
 source_guest: Dan Hockenmaier
 source_episode: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 source: "[[guests/dan-hockenmaier|Dan Hockenmaier]]"

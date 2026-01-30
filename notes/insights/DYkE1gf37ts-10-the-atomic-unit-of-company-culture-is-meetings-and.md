@@ -4,7 +4,7 @@ title: The atomic unit of company culture is meetings and decisions
 concepts:
   - "organizational-culture"
   - "meeting-effectiveness"
-  - "leadership"
+  - "team-leadership"
 source_guest: Joe Hudson
 source_episode: How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)
 source: "[[guests/joe-hudson|Joe Hudson]]"

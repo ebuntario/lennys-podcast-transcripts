@@ -2,9 +2,9 @@
 type: insight
 title: Conversing in the language of your listener
 concepts:
-  - "communication"
-  - "stakeholder-management"
-  - "user-empathy"
+  - "team-communication"
+  - "relationship-management"
+  - "empathy"
 source_guest: Upasna Gautam
 source_episode: An inside look at how CNN builds product | Upasna Gautam
 source: "[[guests/upasna-gautam|Upasna Gautam]]"

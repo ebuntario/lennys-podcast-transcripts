@@ -3,7 +3,7 @@ type: insight
 title: Team composition focused on complementary strengths outweighs individual pedigree
 concepts:
   - "team-building"
-  - "hiring-strategy"
+  - "hiring-process"
   - "organizational-development"
 source_guest: Jason Droege
 source_episode: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next

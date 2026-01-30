@@ -4,7 +4,7 @@ title: PLG requires a long-term commitment, not just a feature launch
 concepts:
   - "product-led-growth"
   - "organizational-change"
-  - "growth-strategy"
+  - "startup-growth"
 source_guest: Hila Qu
 source_episode: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
 source: "[[guests/hila-qu|Hila Qu]]"

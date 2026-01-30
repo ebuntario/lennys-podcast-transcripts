@@ -3,8 +3,8 @@ type: insight
 title: Writing online crystallizes thinking and builds connections
 concepts:
   - "thought-leadership"
-  - "communication"
-  - "career-growth"
+  - "team-communication"
+  - "professional-growth"
 source_guest: Ian McAllister
 source_episode: What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)
 source: "[[guests/ian-mcallister|Ian McAllister]]"

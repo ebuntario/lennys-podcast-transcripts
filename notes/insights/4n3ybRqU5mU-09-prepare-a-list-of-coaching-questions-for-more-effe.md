@@ -4,7 +4,7 @@ title: Prepare a list of coaching questions for more effective one-on-ones
 concepts:
   - "coaching"
   - "one-on-ones"
-  - "communication"
+  - "team-communication"
   - "preparation"
 source_guest: Petra Wille
 source_episode: How to be the best coach to product people | Petra Wille (Strong Product People)

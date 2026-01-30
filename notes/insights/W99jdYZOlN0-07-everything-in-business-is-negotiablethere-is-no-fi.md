@@ -4,7 +4,7 @@ title: Everything in business is negotiable—there is no fixed playbook
 concepts:
   - "negotiation"
   - "business-fundamentals"
-  - "entrepreneurial-mindset"
+  - "entrepreneurship"
 source_guest: Jason Droege
 source_episode: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next
 source: "[[guests/jason-droege|Jason Droege]]"

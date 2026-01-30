@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/user-onboarding]] (3 shared insights)
+- [[concepts/onboarding]] (3 shared insights)
 - [[concepts/consumer-psychology]] (1 shared insights)
 - [[concepts/user-psychology]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)

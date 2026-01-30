@@ -4,7 +4,7 @@ title: Organizational structures for software development will be rewritten by A
 concepts:
   - "future-of-work"
   - "organizational-design"
-  - "ai-product-development"
+  - "ai-development"
 source_guest: Eric Simons
 source_episode: Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 source: "[[guests/eric-simons|Eric Simons]]"

@@ -3,7 +3,7 @@ type: insight
 title: Reframe job descriptions around experiences, not just features
 concepts:
   - "job-descriptions"
-  - "hiring-strategy"
+  - "hiring-process"
   - "jobs-to-be-done"
 source_guest: Bob Moesta
 source_episode: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)

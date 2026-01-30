@@ -2,7 +2,7 @@
 type: insight
 title: The Modern Elder combines wisdom with curiosity
 concepts:
-  - "mentorship"
+  - "coaching"
   - "age-diversity"
   - "humility"
 source_guest: Chip Conley

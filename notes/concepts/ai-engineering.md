@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/workflow-automation]] (1 shared insights)
+- [[concepts/automation]] (1 shared insights)
 - [[concepts/product-development]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/technical-skills]] (1 shared insights)
-- [[concepts/ml-engineering]] (1 shared insights)
+- [[concepts/machine-learning]] (1 shared insights)

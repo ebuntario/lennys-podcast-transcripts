@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/collaboration]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-collaboration]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/dedication]] (1 shared insights)
 - [[concepts/reliability]] (1 shared insights)

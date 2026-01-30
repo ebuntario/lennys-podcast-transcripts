@@ -4,7 +4,7 @@ title: Prepare for interview questions by demonstrating systematic thinking
 concepts:
   - "hiring"
   - "interview-preparation"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Austin Hay
 source_episode: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 source: "[[guests/austin-hay|Austin Hay]]"

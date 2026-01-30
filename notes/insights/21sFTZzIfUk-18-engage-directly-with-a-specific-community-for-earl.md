@@ -2,7 +2,7 @@
 type: insight
 title: Engage directly with a specific community for early evangelism
 concepts:
-  - "community-led-growth"
+  - "community-strategy"
   - "early-adopters"
   - "developer-marketing"
 source_guest: Ben Williams

@@ -19,5 +19,5 @@ SORT file.name ASC
 
 - [[concepts/career-acceleration]] (1 shared insights)
 - [[concepts/business-acumen]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/company-leadership]] (1 shared insights)

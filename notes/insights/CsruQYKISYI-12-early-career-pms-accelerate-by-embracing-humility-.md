@@ -2,8 +2,8 @@
 type: insight
 title: Early-career PMs accelerate by embracing humility and curiosity
 concepts:
-  - "career-development"
-  - "product-management"
+  - "professional-growth"
+  - "product-leadership"
   - "mindset"
   - "learning"
 source_guest: Jeremy Henrickson

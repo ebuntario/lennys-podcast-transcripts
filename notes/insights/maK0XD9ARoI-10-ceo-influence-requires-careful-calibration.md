@@ -2,7 +2,7 @@
 type: insight
 title: CEO influence requires careful calibration
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "delegation"
   - "organizational-culture"
 source_guest: Tom Conrad

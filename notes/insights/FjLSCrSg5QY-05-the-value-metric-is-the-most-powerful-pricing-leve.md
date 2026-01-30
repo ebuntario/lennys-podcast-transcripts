@@ -4,7 +4,7 @@ title: The value metric is the most powerful pricing lever
 concepts:
   - "pricing-metrics"
   - "value-based-pricing"
-  - "customer-segmentation"
+  - "segmentation"
 source_guest: Patrick Campbell
 source_episode: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)
 source: "[[guests/patrick-campbell|Patrick Campbell]]"

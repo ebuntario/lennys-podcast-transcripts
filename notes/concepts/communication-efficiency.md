@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/stakeholder-management]] (1 shared insights)
+- [[concepts/relationship-management]] (1 shared insights)
 - [[concepts/operational-overhead]] (1 shared insights)
 - [[concepts/information-distortion]] (1 shared insights)

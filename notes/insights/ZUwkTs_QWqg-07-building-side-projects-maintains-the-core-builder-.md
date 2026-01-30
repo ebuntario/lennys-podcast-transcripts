@@ -3,7 +3,7 @@ type: insight
 title: Building side projects maintains the core "builder" muscle for PMs
 concepts:
   - "skill-development"
-  - "product-management"
+  - "product-leadership"
   - "creativity"
 source_guest: "Hari Srinivasan"
 source_episode: "LinkedIn’s product evolution and the art of building complex systems"

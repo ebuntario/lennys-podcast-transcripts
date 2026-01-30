@@ -4,7 +4,7 @@ title: Startups compete on latency, not velocity
 concepts:
   - "startup-advantages"
   - "decision-making"
-  - "experimentation"
+  - "testing"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

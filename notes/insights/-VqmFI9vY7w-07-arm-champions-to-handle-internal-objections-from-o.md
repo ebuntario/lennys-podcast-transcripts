@@ -4,7 +4,7 @@ title: Arm champions to handle internal objections from other stakeholders
 concepts:
   - "b2b-sales"
   - "sales-enablement"
-  - "stakeholder-management"
+  - "relationship-management"
 source_guest: April Dunford
 source_episode: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 source: "[[guests/april-dunford|April Dunford]]"

@@ -3,7 +3,7 @@ type: insight
 title: Engineering involvement in shaping uncovers "time bombs" early
 concepts:
   - "technical-risk"
-  - "collaboration"
+  - "team-collaboration"
   - "estimation"
 source_guest: Ryan Singer
 source_episode: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")

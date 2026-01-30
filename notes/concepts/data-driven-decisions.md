@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation]] (3 shared insights)
-- [[concepts/experimentation-culture]] (2 shared insights)
+- [[concepts/testing]] (3 shared insights)
+- [[concepts/testing]] (2 shared insights)
 - [[concepts/knowledge-sharing]] (2 shared insights)
 - [[concepts/internal-tooling]] (1 shared insights)
 - [[concepts/self-narrative]] (1 shared insights)

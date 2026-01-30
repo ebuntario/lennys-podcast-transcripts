@@ -2,7 +2,7 @@
 type: insight
 title: Impact as the primary career optimization metric
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "impact-measurement"
   - "compensation-philosophy"
 source_guest: Bangaly Kaba

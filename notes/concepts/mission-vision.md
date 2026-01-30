@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-culture]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)

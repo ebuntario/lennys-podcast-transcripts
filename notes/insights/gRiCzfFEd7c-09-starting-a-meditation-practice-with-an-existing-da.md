@@ -3,7 +3,7 @@ type: insight
 title: Starting a meditation practice with an existing daily habit
 concepts:
   - "mindfulness"
-  - "personal-development"
+  - "personal-growth"
   - "focus"
 source_guest: Upasna Gautam
 source_episode: An inside look at how CNN builds product | Upasna Gautam

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/pattern-recognition]] (1 shared insights)
-- [[concepts/advisor-networks]] (1 shared insights)
+- [[concepts/advisor-role]] (1 shared insights)

@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/personal-productivity]] (1 shared insights)
+- [[concepts/productivity]] (1 shared insights)
 - [[concepts/focus-techniques]] (1 shared insights)
 - [[concepts/work-habits]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: Lack of cross-functional transparency signals need for product ops
 concepts:
   - "cross-functional-alignment"
-  - "communication"
+  - "team-communication"
   - "organizational-health"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)

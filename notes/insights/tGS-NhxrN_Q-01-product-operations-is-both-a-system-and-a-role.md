@@ -3,7 +3,7 @@ type: insight
 title: Product operations is both a system and a role
 concepts:
   - "product-operations"
-  - "product-management"
+  - "product-leadership"
   - "process-design"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)

@@ -3,7 +3,7 @@ type: insight
 title: Prioritize skill development in complementary areas
 concepts:
   - "skill-development"
-  - "career-transition"
+  - "career-transitions"
   - "product-management-skills"
 source_guest: Vikrama Dhiman
 source_episode: A framework for PM skill development | Vikrama Dhiman (Gojek)

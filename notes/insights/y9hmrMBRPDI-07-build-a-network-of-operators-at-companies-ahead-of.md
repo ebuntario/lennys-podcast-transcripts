@@ -3,8 +3,8 @@ type: insight
 title: Build a network of operators at companies ahead of yours to learn
 concepts:
   - "professional-networking"
-  - "continuous-learning"
-  - "operational-excellence"
+  - "learning"
+  - "operational-efficiency"
 source_guest: Julia Schottenstein
 source_episode: M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)
 source: "[[guests/julia-schottenstein|Julia Schottenstein]]"

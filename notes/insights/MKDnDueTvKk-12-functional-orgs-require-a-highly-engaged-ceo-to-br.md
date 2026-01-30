@@ -2,10 +2,10 @@
 type: insight
 title: Functional orgs require a highly engaged CEO to break deadlocks
 concepts:
-  - "organizational-structure"
-  - "leadership"
+  - "organizational-design"
+  - "team-leadership"
   - "decision-making"
-  - "execution"
+  - "strategy-execution"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 source: "[[guests/kayvon-beykpour|Kayvon Beykpour]]"

@@ -2,7 +2,7 @@
 type: insight
 title: AI tools shift the bottleneck from engineering execution to problem identification and taste
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "ai-applications"
   - "skill-evolution"
 source_guest: Anton Osika

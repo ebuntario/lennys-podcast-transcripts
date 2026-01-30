@@ -4,7 +4,7 @@ title: Give effective feedback using the "situation, behavior, impact" model
 concepts:
   - "feedback"
   - "management"
-  - "communication"
+  - "team-communication"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 source: "[[guests/paige-costello|Paige Costello]]"

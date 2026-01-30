@@ -2,7 +2,7 @@
 type: insight
 title: The person in the execution role must become the domain expert, not just manage the process
 concepts:
-  - "execution"
+  - "strategy-execution"
   - "ownership"
   - "first-principles-thinking"
 source_guest: Ayo Omojola

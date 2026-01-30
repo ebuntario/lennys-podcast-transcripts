@@ -3,8 +3,8 @@ type: insight
 title: Craft vision through cross-functional collaboration, not linear processes
 concepts:
   - "cross-functional-collaboration"
-  - "product-vision"
-  - "user-research"
+  - "product-strategy"
+  - "customer-research"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"
 source: "[[guests/mihika-kapoor|Mihika Kapoor]]"

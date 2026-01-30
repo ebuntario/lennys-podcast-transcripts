@@ -3,7 +3,7 @@ type: insight
 title: Force a choice, not a comparison
 concepts:
   - "positioning"
-  - "product-differentiation"
+  - "product-positioning"
   - "customer-desperation"
 source_guest: "Mike Maples Jr"
 source_episode: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"

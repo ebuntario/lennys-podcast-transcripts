@@ -3,7 +3,7 @@ type: insight
 title: Underdogs Must Build Their Own Distribution and Win Hearts
 concepts:
   - "underdog-strategy"
-  - "audience-building"
+  - "audience-engagement"
   - "direct-communication"
 source_guest: Lulu Cheng Meservey
 source_episode: Gain attention as an underdog with this framework | Lulu Cheng Meservey

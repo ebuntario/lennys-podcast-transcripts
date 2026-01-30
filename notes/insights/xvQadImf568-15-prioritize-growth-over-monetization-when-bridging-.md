@@ -5,9 +5,9 @@ concepts:
   - "growth-vs-revenue"
   - "market-expansion"
   - "product-led-growth"
-  - "long-term-strategy"
+  - "long-term-thinking"
 source_guest: Naomi Ionita
 source_episode: How to price your product | Naomi Ionita (Menlo Ventures)
 source: "[[guests/naomi-ionita|Naomi Ionita]]"
 ---
-If you have a clear path to move up-market (e.g., from single-player to enterprise), it can be worthwhile to trade off early monetization for explosive growth. Giving up revenue from individual users to drive massive adoption and habit formation creates a powerful foundation for later monetization through team and [[concepts/enterprise-sales|enterprise plans]].
+If you have a clear path to move up-market (e.g., from single-player to enterprise), it can be worthwhile to trade off early monetization for explosive growth. Giving up revenue from individual users to drive massive adoption and habit formation creates a powerful foundation for later monetization through team and [[concepts/b2b-sales|enterprise plans]].

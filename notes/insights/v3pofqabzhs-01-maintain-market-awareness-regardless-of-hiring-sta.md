@@ -4,7 +4,7 @@ title: Maintain market awareness regardless of hiring status
 concepts:
   - "market-awareness"
   - "talent-pipeline"
-  - "career-development"
+  - "professional-growth"
 source_guest: Lauren Ipsen
 source_episode: Lessons from one of the world’s top executive recruiters
 source: "[[guests/lauren-ipsen|Lauren Ipsen]]"

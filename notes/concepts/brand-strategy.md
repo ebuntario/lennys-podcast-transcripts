@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/creative-frameworks]] (1 shared insights)
 - [[concepts/behavior-and-experience]] (1 shared insights)
-- [[concepts/strategic-frameworks]] (1 shared insights)
+- [[concepts/strategy]] (1 shared insights)
 - [[concepts/winning-diamond]] (1 shared insights)
-- [[concepts/organizational-structure]] (1 shared insights)
+- [[concepts/organizational-design]] (1 shared insights)

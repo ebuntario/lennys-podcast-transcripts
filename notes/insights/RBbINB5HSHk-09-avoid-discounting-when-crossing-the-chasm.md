@@ -2,7 +2,7 @@
 type: insight
 title: Avoid discounting when crossing the chasm
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "value-pricing"
   - "chasm-crossing"
   - "customer-perception"

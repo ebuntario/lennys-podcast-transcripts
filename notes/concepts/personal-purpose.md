@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/self-leadership]] (1 shared insights)
+- [[concepts/self-management]] (1 shared insights)
 - [[concepts/leadership-development]] (1 shared insights)
 - [[concepts/goal-setting]] (1 shared insights)
-- [[concepts/vision]] (1 shared insights)
+- [[concepts/vision-communication]] (1 shared insights)

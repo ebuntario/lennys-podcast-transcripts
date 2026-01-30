@@ -3,7 +3,7 @@ type: insight
 title: Anonymity increases honest participation across partisan lines
 concepts:
   - "user-behavior"
-  - "incentive-design"
+  - "incentive-alignment"
   - "crowdsourced-moderation"
 source_guest: Keith Coleman
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter

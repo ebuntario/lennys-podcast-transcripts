@@ -3,7 +3,7 @@ type: insight
 title: Create explicit organizational permission to think big
 concepts:
   - "organizational-innovation"
-  - "strategic-thinking"
+  - "systems-thinking"
   - "process-design"
 source_guest: Eeke de Milliano
 source_episode: How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)

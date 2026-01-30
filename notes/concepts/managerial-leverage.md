@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ceo-mindset]] (1 shared insights)
+- [[concepts/ceo-role]] (1 shared insights)
 - [[concepts/executive-hiring]] (1 shared insights)

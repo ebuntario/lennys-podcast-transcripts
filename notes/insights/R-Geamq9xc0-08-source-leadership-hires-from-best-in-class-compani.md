@@ -3,8 +3,8 @@ type: insight
 title: Source leadership hires from best-in-class companies in analogous spaces
 concepts:
   - "hiring"
-  - "leadership"
-  - "talent-acquisition"
+  - "team-leadership"
+  - "hiring"
 source_guest: Gokul Rajaram
 source_episode: What AI means for your product strategy | Paul Adams (CPO of Intercom)
 source: "[[guests/gokul-rajaram|Gokul Rajaram]]"

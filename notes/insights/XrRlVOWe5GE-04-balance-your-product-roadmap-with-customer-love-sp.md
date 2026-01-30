@@ -2,9 +2,9 @@
 type: insight
 title: Balance your product roadmap with "Customer Love Sprints"
 concepts:
-  - "product-roadmap"
+  - "roadmap-planning"
   - "team-rituals"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: Noah Weiss
 source_episode: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)
 source: "[[guests/noah-weiss|Noah Weiss]]"

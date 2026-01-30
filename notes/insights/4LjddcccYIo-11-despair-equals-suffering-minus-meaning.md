@@ -3,7 +3,7 @@ type: insight
 title: Despair equals suffering minus meaning
 concepts:
   - "emotional-intelligence"
-  - "personal-development"
+  - "personal-growth"
   - "mindset"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)

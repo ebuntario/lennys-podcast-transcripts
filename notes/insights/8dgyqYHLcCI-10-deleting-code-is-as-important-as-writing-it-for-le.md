@@ -3,7 +3,7 @@ type: insight
 title: Deleting code is as important as writing it for lean teams
 concepts:
   - "technical-debt"
-  - "execution"
+  - "strategy-execution"
   - "team-structure"
 source_guest: Jay Baxter
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter

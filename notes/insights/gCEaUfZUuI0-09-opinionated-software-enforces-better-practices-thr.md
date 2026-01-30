@@ -3,7 +3,7 @@ type: insight
 title: Opinionated software enforces better practices through system design
 concepts:
   - "opinionated-software"
-  - "product-philosophy"
+  - "product-principles"
 source_guest: Barbra Gago
 source_episode: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 source: "[[guests/barbra-gago|Barbra Gago]]"

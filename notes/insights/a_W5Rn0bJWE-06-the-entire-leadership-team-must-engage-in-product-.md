@@ -3,7 +3,7 @@ type: insight
 title: The entire leadership team must engage in product strategy
 concepts:
   - "product-strategy"
-  - "leadership"
+  - "team-leadership"
   - "cross-functional-collaboration"
 source_guest: Noam Lovinsky
 source_episode: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)

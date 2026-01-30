@@ -4,7 +4,7 @@ title: Action trumps imposter syndrome; embrace the possibility of failure
 concepts:
   - "imposter-syndrome"
   - "career-risks"
-  - "growth-mindset"
+  - "mindset"
 source_guest: "Raaz Herzberg"
 source_episode: "Building Wiz: the fastest-growing startup in history"
 source: "[[guests/raaz-herzberg|Raaz Herzberg]]"

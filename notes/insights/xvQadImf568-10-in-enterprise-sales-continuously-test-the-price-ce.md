@@ -2,7 +2,7 @@
 type: insight
 title: In enterprise sales, continuously test the price ceiling
 concepts:
-  - "enterprise-sales"
+  - "b2b-sales"
   - "pricing-testing"
   - "value-based-pricing"
   - "negotiation"

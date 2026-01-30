@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/accountability]] (1 shared insights)
-- [[concepts/execution]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)

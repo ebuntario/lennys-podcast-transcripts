@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/rebranding]] (1 shared insights)
-- [[concepts/performance-optimization]] (1 shared insights)
+- [[concepts/optimization]] (1 shared insights)

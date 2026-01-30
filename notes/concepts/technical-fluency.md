@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-development]] (1 shared insights)
-- [[concepts/entrepreneurial-mindset]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
+- [[concepts/entrepreneurship]] (1 shared insights)

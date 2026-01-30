@@ -2,8 +2,8 @@
 type: insight
 title: Three Levels of Listening for Better Communication
 concepts:
-  - "communication"
-  - "leadership"
+  - "team-communication"
+  - "team-leadership"
   - "coaching"
 source_guest: Heidi Helfand
 source_episode: The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)

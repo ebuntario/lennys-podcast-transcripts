@@ -2,7 +2,7 @@
 type: insight
 title: Anticipated regret is a form of wisdom that drives action
 concepts:
-  - "personal-development"
+  - "personal-growth"
   - "decision-making"
   - "mindset"
 source_guest: Chip Conley

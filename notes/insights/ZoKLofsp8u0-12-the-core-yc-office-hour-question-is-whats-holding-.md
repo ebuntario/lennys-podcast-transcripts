@@ -4,7 +4,7 @@ title: The core YC office hour question is "What's holding you back from moving 
 concepts:
   - "yc-advice"
   - "startup-prioritization"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Gustaf Alströmer
 source_episode: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)
 source: "[[guests/gustaf-alstromer|Gustaf Alstromer]]"

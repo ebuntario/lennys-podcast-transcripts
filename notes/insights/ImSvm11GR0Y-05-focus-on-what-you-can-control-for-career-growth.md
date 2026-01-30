@@ -3,7 +3,7 @@ type: insight
 title: Focus on what you can control for career growth
 concepts:
   - "mindset-shift"
-  - "career-development"
+  - "professional-growth"
   - "personal-agency"
 source_guest: Vikrama Dhiman
 source_episode: A framework for PM skill development | Vikrama Dhiman (Gojek)

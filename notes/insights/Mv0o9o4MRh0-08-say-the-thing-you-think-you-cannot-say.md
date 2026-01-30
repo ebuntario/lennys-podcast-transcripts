@@ -2,7 +2,7 @@
 type: insight
 title: Say the thing you think you cannot say
 concepts:
-  - "communication"
+  - "team-communication"
   - "feedback"
   - "psychological-safety"
 source_guest: Claire Hughes Johnson

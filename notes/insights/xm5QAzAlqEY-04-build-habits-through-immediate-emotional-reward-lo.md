@@ -3,7 +3,7 @@ type: insight
 title: Build habits through immediate, emotional reward loops
 concepts:
   - "habit-formation"
-  - "behavioral-psychology"
+  - "behavioral-economics"
   - "team-culture"
   - "skill-development"
 source_guest: Hilary Gridley

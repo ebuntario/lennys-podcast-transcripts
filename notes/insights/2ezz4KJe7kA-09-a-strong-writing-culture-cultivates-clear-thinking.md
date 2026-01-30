@@ -2,7 +2,7 @@
 type: insight
 title: A strong writing culture cultivates clear thinking
 concepts:
-  - "communication"
+  - "team-communication"
   - "organizational-culture"
   - "critical-thinking"
 source_guest: Eeke de Milliano

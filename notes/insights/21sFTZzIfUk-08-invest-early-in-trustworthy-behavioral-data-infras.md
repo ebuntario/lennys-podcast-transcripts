@@ -2,7 +2,7 @@
 type: insight
 title: Invest early in trustworthy behavioral data infrastructure
 concepts:
-  - "data-infrastructure"
+  - "data-strategy"
   - "behavioral-analytics"
   - "experimentation-platform"
 source_guest: Ben Williams

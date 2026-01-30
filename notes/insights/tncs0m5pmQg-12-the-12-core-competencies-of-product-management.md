@@ -3,8 +3,8 @@ type: insight
 title: The 12 core competencies of product management
 concepts:
   - "product-manager-skills"
-  - "career-development"
-  - "leadership"
+  - "professional-growth"
+  - "team-leadership"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

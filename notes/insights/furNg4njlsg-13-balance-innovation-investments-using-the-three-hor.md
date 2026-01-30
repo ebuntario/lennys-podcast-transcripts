@@ -3,7 +3,7 @@ type: insight
 title: Balance innovation investments using the three-horizon framework
 concepts:
   - "resource-allocation"
-  - "innovation-strategy"
+  - "innovation"
   - "product-portfolio"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)

@@ -2,9 +2,9 @@
 type: insight
 title: Intuition as a hypothesis generator for product decisions
 concepts:
-  - "product-intuition"
+  - "product-sense"
   - "hypothesis-testing"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: Dylan Field
 source_episode: Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field
 source: "[[guests/dylan-field|Dylan Field]]"

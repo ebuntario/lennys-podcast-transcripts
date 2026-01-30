@@ -4,7 +4,7 @@ title: Foster extreme ownership by encouraging roles beyond job descriptions
 concepts:
   - "team-culture"
   - "ownership"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: "Jessica Lachs"
 source_episode: "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)"
 source: "[[guests/jess-lachs|Jess Lachs]]"

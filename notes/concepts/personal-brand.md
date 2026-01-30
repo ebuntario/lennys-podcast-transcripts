@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/learning]] (1 shared insights)
 - [[concepts/documentation]] (1 shared insights)
-- [[concepts/relationship-building]] (1 shared insights)
+- [[concepts/networking]] (1 shared insights)
 - [[concepts/professional-etiquette]] (1 shared insights)

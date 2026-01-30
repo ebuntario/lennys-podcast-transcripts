@@ -4,7 +4,7 @@ title: In-person time is crucial for solving hard problems remotely
 concepts:
   - "remote-work"
   - "team-building"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Nikita Miller
 source_episode: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller
 source: "[[guests/nikita-miller|Nikita Miller]]"

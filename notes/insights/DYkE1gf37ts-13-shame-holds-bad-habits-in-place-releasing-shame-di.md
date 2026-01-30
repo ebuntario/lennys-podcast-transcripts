@@ -4,7 +4,7 @@ title: Shame holds bad habits in place; releasing shame dissolves them
 concepts:
   - "shame"
   - "self-acceptance"
-  - "behavior-change"
+  - "behavioral-change"
 source_guest: Joe Hudson
 source_episode: How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)
 source: "[[guests/joe-hudson|Joe Hudson]]"

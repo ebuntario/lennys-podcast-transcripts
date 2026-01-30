@@ -3,7 +3,7 @@ type: insight
 title: In-person collaboration (especially shared meals) accelerates team problem-solving
 concepts:
   - "team-building"
-  - "communication"
+  - "team-communication"
   - "startup-culture"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)

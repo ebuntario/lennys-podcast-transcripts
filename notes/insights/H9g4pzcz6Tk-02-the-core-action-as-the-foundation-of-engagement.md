@@ -2,7 +2,7 @@
 type: insight
 title: The core action as the foundation of engagement
 concepts:
-  - "product-metrics"
+  - "product-analytics"
   - "user-engagement"
   - "north-star-metric"
 source_guest: Sarah Tavel

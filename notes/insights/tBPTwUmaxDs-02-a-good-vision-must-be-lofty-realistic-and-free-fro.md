@@ -3,7 +3,7 @@ type: insight
 title: A good vision must be lofty, realistic, and free from today's limitations
 concepts:
   - "organizational-product-strategy"
-  - "strategic-thinking"
+  - "systems-thinking"
   - "aspirational-goals"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)

@@ -3,8 +3,8 @@ type: insight
 title: Build organizational trust by understanding priorities two levels up and down
 concepts:
   - "organizational-trust"
-  - "strategic-thinking"
-  - "stakeholder-management"
+  - "systems-thinking"
+  - "relationship-management"
 source_guest: Fareed Mosavat
 source_episode: How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)
 source: "[[guests/fareed-mosavat|Fareed Mosavat]]"

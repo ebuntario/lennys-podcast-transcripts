@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/cross-functional-teams]] (1 shared insights)
+- [[concepts/cross-functional-collaboration]] (1 shared insights)
 - [[concepts/rapid-iteration]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)

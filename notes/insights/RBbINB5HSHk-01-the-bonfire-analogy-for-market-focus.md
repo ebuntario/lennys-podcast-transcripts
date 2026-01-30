@@ -4,7 +4,7 @@ title: The bonfire analogy for market focus
 concepts:
   - "market-focus"
   - "chasm-crossing"
-  - "customer-acquisition"
+  - "user-acquisition"
   - "startup-strategy"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market

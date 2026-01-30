@@ -4,7 +4,7 @@ title: Founders Should 'Go Direct' by Building a Personal Audience
 concepts:
   - "direct-communication"
   - "personal-branding"
-  - "audience-building"
+  - "audience-engagement"
 source_guest: Lulu Cheng Meservey
 source_episode: Gain attention as an underdog with this framework | Lulu Cheng Meservey
 source: "[[guests/lulu-cheng-meservey|Lulu Cheng Meservey]]"

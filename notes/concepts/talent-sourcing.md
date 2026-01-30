@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/hiring-strategy]] (1 shared insights)
+- [[concepts/hiring-process]] (1 shared insights)
 - [[concepts/product-excellence]] (1 shared insights)

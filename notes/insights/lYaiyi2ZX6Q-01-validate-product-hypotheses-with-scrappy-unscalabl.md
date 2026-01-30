@@ -2,7 +2,7 @@
 type: insight
 title: Validate product hypotheses with scrappy, unscalable tests
 concepts:
-  - "hypothesis-validation"
+  - "validation"
   - "scrappy-growth"
   - "customer-experience"
 source_guest: Crystal Widjaja

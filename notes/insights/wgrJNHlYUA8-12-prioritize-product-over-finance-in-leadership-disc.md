@@ -3,7 +3,7 @@ type: insight
 title: Prioritize product over finance in leadership discussions to maintain focus
 concepts:
   - "product-obsession"
-  - "leadership"
+  - "team-leadership"
   - "board-management"
 source_guest: Cameron Adams
 source_episode: Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams

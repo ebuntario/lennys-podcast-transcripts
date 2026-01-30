@@ -2,7 +2,7 @@
 type: insight
 title: Focus on "very disappointed" users to identify core value
 concepts:
-  - "customer-segmentation"
+  - "segmentation"
   - "product-positioning"
   - "onboarding"
   - "value-proposition"

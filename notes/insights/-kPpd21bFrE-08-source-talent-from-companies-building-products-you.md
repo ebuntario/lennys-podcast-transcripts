@@ -3,7 +3,7 @@ type: insight
 title: Source talent from companies building products you admire
 concepts:
   - "talent-sourcing"
-  - "hiring-strategy"
+  - "hiring-process"
   - "product-excellence"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

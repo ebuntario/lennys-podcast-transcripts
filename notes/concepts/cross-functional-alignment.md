@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/customer-experience]] (1 shared insights)
 - [[concepts/organizational-leadership]] (1 shared insights)
-- [[concepts/stakeholder-management]] (1 shared insights)
+- [[concepts/relationship-management]] (1 shared insights)

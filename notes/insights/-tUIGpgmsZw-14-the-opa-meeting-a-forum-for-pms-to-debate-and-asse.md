@@ -4,7 +4,7 @@ title: The OPA meeting: A forum for PMs to debate and assess opportunities
 concepts:
   - "product-culture"
   - "decision-making"
-  - "collaboration"
+  - "team-collaboration"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

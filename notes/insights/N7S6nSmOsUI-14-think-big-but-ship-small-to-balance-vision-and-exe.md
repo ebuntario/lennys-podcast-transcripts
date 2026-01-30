@@ -3,7 +3,7 @@ type: insight
 title: Think big, but ship small to balance vision and execution
 concepts:
   - "product-strategy"
-  - "execution"
+  - "strategy-execution"
   - "agile-development"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)

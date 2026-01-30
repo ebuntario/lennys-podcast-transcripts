@@ -2,7 +2,7 @@
 type: insight
 title: Develop a reputation for a specific excellence to accelerate your career
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "reputation-building"
   - "product-management-skills"
 source_guest: Jiaona Zhang

@@ -2,7 +2,7 @@
 type: insight
 title: The "understand, identify, execute" framework for data-driven growth
 concepts:
-  - "growth-strategy"
+  - "startup-growth"
   - "data-driven-decisions"
   - "product-development"
 source_guest: Naomi Gleit

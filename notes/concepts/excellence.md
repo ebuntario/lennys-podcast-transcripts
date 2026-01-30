@@ -15,5 +15,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/outcome-orientation]] (1 shared insights)
+- [[concepts/outcome-focus]] (1 shared insights)
 - [[concepts/managerial-frameworks]] (1 shared insights)

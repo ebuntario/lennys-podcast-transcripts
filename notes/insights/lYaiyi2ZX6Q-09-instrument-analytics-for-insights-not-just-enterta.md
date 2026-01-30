@@ -4,7 +4,7 @@ title: Instrument analytics for insights, not just entertainment
 concepts:
   - "analytics"
   - "data-instrumentation"
-  - "experimentation"
+  - "testing"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 source: "[[guests/crystal-w|Crystal W]]"

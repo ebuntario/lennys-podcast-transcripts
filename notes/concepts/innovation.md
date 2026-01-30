@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/creative-process]] (2 shared insights)
 - [[concepts/struggling-moment]] (1 shared insights)
-- [[concepts/customer-centricity]] (1 shared insights)
+- [[concepts/user-centric-design]] (1 shared insights)
 - [[concepts/goal-setting]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)

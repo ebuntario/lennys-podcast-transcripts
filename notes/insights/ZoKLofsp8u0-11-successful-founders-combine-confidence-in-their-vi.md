@@ -3,8 +3,8 @@ type: insight
 title: Successful founders combine confidence in their vision with humility towards their team
 concepts:
   - "founder-mindset"
-  - "leadership"
-  - "communication"
+  - "team-leadership"
+  - "team-communication"
 source_guest: Gustaf Alströmer
 source_episode: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)
 source: "[[guests/gustaf-alstromer|Gustaf Alstromer]]"

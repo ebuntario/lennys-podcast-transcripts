@@ -4,7 +4,7 @@ title: Cap Table as an Early Growth Strategy
 concepts:
   - "early-stage-growth"
   - "founder-network"
-  - "customer-acquisition"
+  - "user-acquisition"
   - "b2b-saas"
 source_guest: "Sri Batchu"
 source_episode: "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)"

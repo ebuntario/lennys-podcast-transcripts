@@ -4,7 +4,7 @@ title: Foster a culture of unsupervised play
 concepts:
   - "innovation-culture"
   - "creativity"
-  - "experimentation"
+  - "testing"
 source_guest: Sam Schillace
 source_episode: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)
 source: "[[guests/sam-schillace|Sam Schillace]]"

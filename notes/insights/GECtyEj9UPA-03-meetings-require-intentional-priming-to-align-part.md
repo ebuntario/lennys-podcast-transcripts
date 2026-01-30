@@ -4,7 +4,7 @@ title: Meetings require intentional priming to align participants
 concepts:
   - "meeting-effectiveness"
   - "team-alignment"
-  - "communication"
+  - "team-communication"
 source_guest: "Evan LaPointe"
 source_episode: "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
 source: "[[guests/evan-lapointe|Evan LaPointe]]"

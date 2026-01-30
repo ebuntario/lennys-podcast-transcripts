@@ -2,9 +2,9 @@
 type: insight
 title: Provide unique industry insights to become an indispensable advisor
 concepts:
-  - "customer-value"
+  - "user-value"
   - "thought-leadership"
-  - "customer-retention"
+  - "retention"
   - "data-advantage"
 source_guest: "Sahil Mansuri"
 source_episode: "How to hit revenue targets in a recession | Sahil Mansuri (Bravado)"

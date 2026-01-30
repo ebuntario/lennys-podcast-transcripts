@@ -3,7 +3,7 @@ type: insight
 title: Understand individual motivations to build a high-functioning team
 concepts:
   - "team-dynamics"
-  - "leadership"
+  - "team-leadership"
   - "psychological-safety"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"

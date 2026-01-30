@@ -4,7 +4,7 @@ title: Build direct connections to customers rather than relying on filtered fee
 concepts:
   - "customer-feedback"
   - "product-empathy"
-  - "user-research"
+  - "customer-research"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products
 source: "[[guests/dmitry-zlokazov|Dmitry Zlokazov]]"

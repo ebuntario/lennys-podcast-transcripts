@@ -4,7 +4,7 @@ title: The "disagreeable giver" as a valuable team member
 concepts:
   - "team-culture"
   - "radical-candor"
-  - "leadership"
+  - "team-leadership"
 source_guest: Naomi Gleit
 source_episode: Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit
 source: "[[guests/naomi-gleit|Naomi Gleit]]"

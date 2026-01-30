@@ -4,7 +4,7 @@ title: Respecting "no" establishes clear consequences
 concepts:
   - "boundaries"
   - "accountability"
-  - "leadership"
+  - "team-leadership"
 source_guest: Kenneth Berger
 source_episode: Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)
 source: "[[guests/kenneth-berger|Kenneth Berger]]"

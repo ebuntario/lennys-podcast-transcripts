@@ -4,7 +4,7 @@ title: Prioritization at a Startup vs. a Large Platform
 concepts:
   - "product-prioritization"
   - "startup-dynamics"
-  - "trade-off-management"
+  - "trade-offs"
 source_guest: Sachin Monga
 source_episode: Building Substack | Sachin Monga (Substack, Facebook)
 source: "[[guests/sachin-monga|Sachin Monga]]"

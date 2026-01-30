@@ -3,7 +3,7 @@ type: insight
 title: Consistent, small follow-ups beat intense, infrequent check-ins
 concepts:
   - "coaching"
-  - "personal-development"
+  - "personal-growth"
   - "management-habits"
   - "consistency"
 source_guest: Petra Wille

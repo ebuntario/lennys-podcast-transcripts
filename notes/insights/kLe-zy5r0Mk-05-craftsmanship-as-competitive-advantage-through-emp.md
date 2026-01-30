@@ -4,7 +4,7 @@ title: Craftsmanship as competitive advantage through empathy
 concepts:
   - "product-craftsmanship"
   - "competitive-advantage"
-  - "user-empathy"
+  - "empathy"
 source_guest: Stewart Butterfield
 source_episode: Mental models for building products people love ft. Stewart Butterfield
 source: "[[guests/stewart-butterfield|Stewart Butterfield]]"

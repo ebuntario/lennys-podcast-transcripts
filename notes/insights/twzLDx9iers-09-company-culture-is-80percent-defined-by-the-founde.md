@@ -4,7 +4,7 @@ title: Company culture is 80% defined by the founder's personality
 concepts:
   - "organizational-culture"
   - "founder-led-companies"
-  - "leadership"
+  - "team-leadership"
 source_guest: Molly Graham
 source_episode: "I like being scared: Molly Graham's frameworks for rapid career growth"
 source: "[[guests/molly-graham|Molly Graham]]"

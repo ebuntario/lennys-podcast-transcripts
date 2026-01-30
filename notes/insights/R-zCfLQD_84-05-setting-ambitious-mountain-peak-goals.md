@@ -3,7 +3,7 @@ type: insight
 title: Setting Ambitious "Mountain Peak" Goals
 concepts:
   - "goal-setting"
-  - "product-vision"
+  - "product-strategy"
   - "ambition"
 source_guest: Tomer Cohen
 source_episode: Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)

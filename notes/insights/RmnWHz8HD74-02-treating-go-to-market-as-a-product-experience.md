@@ -2,9 +2,9 @@
 type: insight
 title: Treating Go-to-Market as a Product Experience
 concepts:
-  - "go-to-market-strategy"
+  - "go-to-market"
   - "customer-experience"
-  - "product-thinking"
+  - "product-design"
 source_guest: Jeanne DeWitt Grosser
 source_episode: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)
 source: "[[guests/jeanne-grosser|Jeanne Grosser]]"

@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-development]] (2 shared insights)
-- [[concepts/mentorship]] (2 shared insights)
-- [[concepts/leadership]] (2 shared insights)
-- [[concepts/problem-solving]] (2 shared insights)
-- [[concepts/product-management]] (2 shared insights)
+- [[concepts/professional-growth]] (2 shared insights)
+- [[concepts/coaching]] (2 shared insights)
+- [[concepts/team-leadership]] (2 shared insights)
+- [[concepts/creative-problem-solving]] (2 shared insights)
+- [[concepts/product-leadership]] (2 shared insights)

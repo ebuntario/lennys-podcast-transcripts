@@ -5,7 +5,7 @@ concepts:
   - "partnership-strategy"
   - "b2b-growth"
   - "trusted-sources"
-  - "distribution-channels"
+  - "distribution-strategy"
 source_guest: Meltem Kuran Berkowitz
 source_episode: An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)
 source: "[[guests/meltem-kuran|Meltem Kuran]]"

@@ -2,10 +2,10 @@
 type: insight
 title: Shaping requires collaborative problem-solving with key roles present
 concepts:
-  - "collaboration"
+  - "team-collaboration"
   - "product-shaping"
-  - "cross-functional-teams"
-  - "risk-mitigation"
+  - "cross-functional-collaboration"
+  - "risk-management"
 source_guest: Ryan Singer
 source_episode: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")
 source: "[[guests/ryan-singer|Ryan Singer]]"

@@ -3,7 +3,7 @@ type: insight
 title: Modern management requires being sturdy yet flexible like a willow tree
 concepts:
   - "change-management"
-  - "leadership-mindset"
+  - "team-leadership"
   - "resilience"
 source_guest: "Julie Zhuo"
 source_episode: "How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024"

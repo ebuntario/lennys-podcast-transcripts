@@ -3,7 +3,7 @@ type: insight
 title: Treat escalation as a tool, not a failure
 concepts:
   - "decision-making"
-  - "organizational-structure"
+  - "organizational-design"
   - "conflict-resolution"
 source_guest: Molly Graham
 source_episode: "I like being scared: Molly Graham's frameworks for rapid career growth"

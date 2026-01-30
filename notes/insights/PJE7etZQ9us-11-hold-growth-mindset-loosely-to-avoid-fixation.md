@@ -2,7 +2,7 @@
 type: insight
 title: Hold growth mindset loosely to avoid fixation
 concepts:
-  - "growth-mindset"
+  - "mindset"
   - "flexibility"
   - "adaptability"
   - "ego"

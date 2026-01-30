@@ -3,8 +3,8 @@ type: insight
 title: Make decisions with between 30% and 70% of the available data
 concepts:
   - "decision-making"
-  - "data-informed-decisions"
-  - "product-management"
+  - "data-driven-decisions"
+  - "product-leadership"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
 source: "[[guests/shaun-clowes|Shaun Clowes]]"

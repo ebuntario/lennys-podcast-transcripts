@@ -2,9 +2,9 @@
 type: insight
 title: Good interviews leave customers wanting to participate again
 concepts:
-  - "interview-techniques"
-  - "customer-engagement"
-  - "relationship-building"
+  - "interviewing"
+  - "user-engagement"
+  - "networking"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres
 source: "[[guests/teresa-torres|Teresa Torres]]"

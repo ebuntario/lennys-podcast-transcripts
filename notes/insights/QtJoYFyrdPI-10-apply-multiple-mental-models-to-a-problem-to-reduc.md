@@ -5,7 +5,7 @@ concepts:
   - "decision-making"
   - "mental-models"
   - "critical-thinking"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Gustav Söderström
 source_episode: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 source: "[[guests/gustav-soderstrom|Gustav Söderström]]"

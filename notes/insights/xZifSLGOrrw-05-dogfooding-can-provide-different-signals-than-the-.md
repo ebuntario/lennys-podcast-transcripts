@@ -4,7 +4,7 @@ title: Dogfooding can provide different signals than the general market, requiri
 concepts:
   - "dogfooding"
   - "product-market-fit"
-  - "user-research"
+  - "customer-research"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 source: "[[guests/alexander-embiricos|Alexander Embiricos]]"

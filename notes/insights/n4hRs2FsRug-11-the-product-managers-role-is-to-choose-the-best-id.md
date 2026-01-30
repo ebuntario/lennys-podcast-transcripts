@@ -2,7 +2,7 @@
 type: insight
 title: The product manager's role is to choose the best ideas
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "decision-making"
   - "accountability"
 source_guest: Tim Holley

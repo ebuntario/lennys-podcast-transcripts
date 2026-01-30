@@ -4,7 +4,7 @@ title: Use wireframes to make strategy concrete and aligned
 concepts:
   - "product-strategy"
   - "visual-communication"
-  - "alignment"
+  - "team-alignment"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

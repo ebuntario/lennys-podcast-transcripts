@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/workflow-automation]] (1 shared insights)
+- [[concepts/automation]] (1 shared insights)
 - [[concepts/ai-adoption]] (1 shared insights)

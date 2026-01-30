@@ -4,7 +4,7 @@ title: Match your price to a clear value metric
 concepts:
   - "value-metric"
   - "usage-based-pricing"
-  - "pricing-model"
+  - "value-based-pricing"
   - "customer-alignment"
 source_guest: Naomi Ionita
 source_episode: How to price your product | Naomi Ionita (Menlo Ventures)

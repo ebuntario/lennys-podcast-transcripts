@@ -2,7 +2,7 @@
 type: insight
 title: Experimental storytelling formats should inform scalable product systems
 concepts:
-  - "experimentation"
+  - "testing"
   - "product-platforms"
   - "product-innovation-strategy"
 source_guest: Alex Hardiman

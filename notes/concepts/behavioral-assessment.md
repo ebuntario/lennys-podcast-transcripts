@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/interview-techniques]] (1 shared insights)
+- [[concepts/interviewing]] (1 shared insights)
 - [[concepts/hiring-standards]] (1 shared insights)

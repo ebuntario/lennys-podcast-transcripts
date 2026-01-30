@@ -2,7 +2,7 @@
 type: insight
 title: Ask with clarity and humility
 concepts:
-  - "communication"
+  - "team-communication"
   - "humility"
   - "vulnerability"
 source_guest: Kenneth Berger

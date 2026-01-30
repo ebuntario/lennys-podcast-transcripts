@@ -2,7 +2,7 @@
 type: insight
 title: Embrace the "Give Away Your Legos" mindset for career growth
 concepts:
-  - "career-growth"
+  - "professional-growth"
   - "scaling-companies"
   - "letting-go"
   - "organizational-change"

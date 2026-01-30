@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/executive-mindset]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)
 - [[concepts/team-dynamics]] (1 shared insights)
 - [[concepts/product-operations]] (1 shared insights)
 - [[concepts/program-management]] (1 shared insights)

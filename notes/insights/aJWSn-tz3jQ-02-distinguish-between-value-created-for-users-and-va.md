@@ -3,7 +3,7 @@ type: insight
 title: Distinguish between value created for users and value captured by the business
 concepts:
   - "product-strategy"
-  - "metrics"
+  - "success-metrics"
   - "north-star-metric"
   - "value-exchange"
 source_guest: "Itamar Gilad"

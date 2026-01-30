@@ -19,4 +19,4 @@ SORT file.name ASC
 
 - [[concepts/career-transitions]] (1 shared insights)
 - [[concepts/internal-transfer]] (1 shared insights)
-- [[concepts/product-management]] (1 shared insights)
+- [[concepts/product-leadership]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: AI will soon be a utility, not a differentiating feature
 concepts:
   - "artificial-intelligence"
-  - "product-differentiation"
+  - "product-positioning"
   - "utility"
 source_guest: "Seth Godin"
 source_episode: "Seth Godin's best tactics for building remarkable products, strategies, brands and more"

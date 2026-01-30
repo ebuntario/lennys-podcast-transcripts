@@ -3,7 +3,7 @@ type: insight
 title: Start with a pilot project to learn the shaping muscle
 concepts:
   - "organizational-change"
-  - "experimentation"
+  - "testing"
   - "adoption"
 source_guest: Ryan Singer
 source_episode: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")

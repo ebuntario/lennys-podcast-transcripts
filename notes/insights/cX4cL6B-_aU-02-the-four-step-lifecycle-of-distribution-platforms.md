@@ -4,7 +4,7 @@ title: The four-step lifecycle of distribution platforms
 concepts:
   - "platform-lifecycle"
   - "distribution-platforms"
-  - "monetization"
+  - "monetization-strategy"
 source_guest: Brian Balfour
 source_episode: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 source: "[[guests/brian-balfour|Brian Balfour]]"

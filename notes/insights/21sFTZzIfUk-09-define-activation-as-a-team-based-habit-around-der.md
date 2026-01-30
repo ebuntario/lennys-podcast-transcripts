@@ -3,7 +3,7 @@ type: insight
 title: Define activation as a team-based habit around deriving core value
 concepts:
   - "activation-metrics"
-  - "customer-retention"
+  - "retention"
   - "team-adoption"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)

@@ -4,7 +4,7 @@ title: The power of being first to win
 concepts:
   - "competitive-advantage"
   - "market-timing"
-  - "innovation-strategy"
+  - "innovation"
   - "first-mover-advantage"
 source_guest: Gaurav Misra
 source_episode: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)

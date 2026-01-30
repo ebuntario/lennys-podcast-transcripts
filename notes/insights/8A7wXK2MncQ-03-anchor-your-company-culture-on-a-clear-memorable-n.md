@@ -2,9 +2,9 @@
 type: insight
 title: Anchor your company culture on a clear, memorable North Star
 concepts:
-  - "company-culture"
-  - "leadership"
-  - "mission"
+  - "organizational-culture"
+  - "team-leadership"
+  - "purpose"
   - "values"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"

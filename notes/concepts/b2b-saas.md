@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organic-growth]] (1 shared insights)
-- [[concepts/marketing-channels]] (1 shared insights)
+- [[concepts/marketing-strategy]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Former product managers make strong product ops leaders due to firsthand 
 concepts:
   - "career-transitions"
   - "product-operations"
-  - "leadership"
+  - "team-leadership"
 source_guest: Christine Itwaru
 source_episode: Understanding the role of product ops | Christine Itwaru (Pendo)
 source: "[[guests/christine-itwaru|Christine Itwaru]]"

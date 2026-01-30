@@ -4,7 +4,7 @@ title: Diagnose goal-setting risk with the 'frontier of understanding'
 concepts:
   - "goal-setting"
   - "risk-assessment"
-  - "experimentation"
+  - "testing"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

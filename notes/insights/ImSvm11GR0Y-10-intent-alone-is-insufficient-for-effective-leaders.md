@@ -2,7 +2,7 @@
 type: insight
 title: Intent alone is insufficient for effective leadership
 concepts:
-  - "leadership-principles"
+  - "leadership-development"
   - "communication-skills"
   - "professional-behavior"
 source_guest: Vikrama Dhiman

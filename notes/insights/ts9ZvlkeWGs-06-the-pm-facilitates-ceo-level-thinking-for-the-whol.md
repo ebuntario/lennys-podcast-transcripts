@@ -2,7 +2,7 @@
 type: insight
 title: The PM facilitates CEO-level thinking for the whole team
 concepts:
-  - "product-manager-role"
+  - "product-leadership"
   - "team-leadership"
   - "commercial-thinking"
 source_guest: Matt LeMay

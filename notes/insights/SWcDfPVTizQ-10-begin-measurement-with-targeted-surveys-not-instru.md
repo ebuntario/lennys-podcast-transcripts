@@ -3,7 +3,7 @@ type: insight
 title: Begin measurement with targeted surveys, not instrumentation
 concepts:
   - "metrics-framework"
-  - "user-research"
+  - "customer-research"
   - "developer-experience"
 source_guest: Nicole Forsgren
 source_episode: How to measure AI developer productivity in 2025 | Nicole Forsgren

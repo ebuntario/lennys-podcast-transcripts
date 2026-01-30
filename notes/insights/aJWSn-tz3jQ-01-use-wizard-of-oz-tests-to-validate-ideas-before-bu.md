@@ -3,8 +3,8 @@ type: insight
 title: Use Wizard of Oz tests to validate ideas before building
 concepts:
   - "product-validation"
-  - "user-research"
-  - "mvp"
+  - "customer-research"
+  - "minimum-viable-product"
   - "risk-reduction"
 source_guest: "Itamar Gilad"
 source_episode: "Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)"

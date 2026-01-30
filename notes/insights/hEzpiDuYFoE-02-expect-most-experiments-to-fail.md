@@ -2,7 +2,7 @@
 type: insight
 title: Expect most experiments to fail
 concepts:
-  - "experimentation-culture"
+  - "testing"
   - "failure-rates"
   - "humility"
 source_guest: Ronny Kohavi

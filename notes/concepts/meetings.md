@@ -17,4 +17,4 @@ SORT file.name ASC
 
 - [[concepts/decision-making]] (3 shared insights)
 - [[concepts/group-dynamics]] (3 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)

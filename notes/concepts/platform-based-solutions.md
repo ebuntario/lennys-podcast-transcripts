@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/platform-strategy]] (1 shared insights)
-- [[concepts/scalability]] (1 shared insights)
+- [[concepts/scalable-systems]] (1 shared insights)
 - [[concepts/organizational-effectiveness]] (1 shared insights)

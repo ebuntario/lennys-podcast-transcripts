@@ -2,7 +2,7 @@
 type: insight
 title: Map the current state and envision the "next bigger challenge" for each PM
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "coaching"
   - "skill-gap-analysis"
   - "opportunity-identification"

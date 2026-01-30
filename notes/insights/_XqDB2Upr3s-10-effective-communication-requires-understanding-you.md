@@ -2,8 +2,8 @@
 type: insight
 title: Effective communication requires understanding your audience's starting point
 concepts:
-  - "audience-empathy"
-  - "communication-tactics"
+  - "audience-understanding"
+  - "communication-skills"
   - "information-repetition"
 source_guest: Andrew ‘Boz’ Bosworth
 source_episode: Making Meta | Andrew ‘Boz’ Bosworth (CTO)

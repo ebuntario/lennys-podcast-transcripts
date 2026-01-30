@@ -4,7 +4,7 @@ title: Align roles clearly with cross-functional partners
 concepts:
   - "cross-functional-collaboration"
   - "team-alignment"
-  - "leadership"
+  - "team-leadership"
 source_guest: Tamar Yehoshua
 source_episode: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua
 source: "[[guests/tamar-yehoshua|Tamar Yehoshua]]"

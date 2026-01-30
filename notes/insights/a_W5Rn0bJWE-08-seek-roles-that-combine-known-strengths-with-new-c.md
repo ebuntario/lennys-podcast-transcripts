@@ -2,7 +2,7 @@
 type: insight
 title: Seek roles that combine known strengths with new challenges
 concepts:
-  - "career-advancement"
+  - "professional-growth"
   - "skill-development"
   - "self-awareness"
 source_guest: Noam Lovinsky

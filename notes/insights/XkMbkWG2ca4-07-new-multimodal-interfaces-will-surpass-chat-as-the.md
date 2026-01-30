@@ -4,7 +4,7 @@ title: New multimodal interfaces will surpass chat as the primary AI interaction
 concepts:
   - "ai-interaction"
   - "multimodal-ai"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Logan Kilpatrick
 source_episode: Inside OpenAI | Logan Kilpatrick (head of developer relations)
 source: "[[guests/logan-kilpatrick|Logan Kilpatrick]]"

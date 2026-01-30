@@ -4,7 +4,7 @@ title: Effective strategy reduces stakeholder infighting and emotional trade-off
 concepts:
   - "strategy-deployment"
   - "executive-alignment"
-  - "stakeholder-management"
+  - "relationship-management"
 source_guest: Melissa Perri
 source_episode: Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)
 source: "[[guests/melissa|Melissa]]"

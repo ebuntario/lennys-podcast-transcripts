@@ -3,7 +3,7 @@ type: insight
 title: Improve public speaking by starting with small, friendly audiences
 concepts:
   - "public-speaking"
-  - "skill-building"
+  - "skill-development"
   - "confidence"
   - "community"
 source_guest: Petra Wille

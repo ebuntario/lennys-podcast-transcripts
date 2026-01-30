@@ -2,7 +2,7 @@
 type: insight
 title: Founder-led growth precedes growth teams
 concepts:
-  - "founder-led-growth"
+  - "founder-led-sales"
   - "product-market-fit"
   - "growth-team-hiring"
 source_guest: Elena Verna

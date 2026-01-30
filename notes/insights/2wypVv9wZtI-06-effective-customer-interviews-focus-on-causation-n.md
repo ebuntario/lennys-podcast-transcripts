@@ -4,7 +4,7 @@ title: Effective customer interviews focus on causation, not opinions
 concepts:
   - "customer-interviews"
   - "causation"
-  - "storytelling"
+  - "narrative"
 source_guest: Bob Moesta
 source_episode: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 source: "[[guests/bob-moesta|Bob Moesta]]"

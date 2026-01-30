@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/feedback]] (2 shared insights)
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/advice-seeking]] (1 shared insights)
-- [[concepts/relationship-building]] (1 shared insights)
+- [[concepts/networking]] (1 shared insights)
 - [[concepts/coaching]] (1 shared insights)

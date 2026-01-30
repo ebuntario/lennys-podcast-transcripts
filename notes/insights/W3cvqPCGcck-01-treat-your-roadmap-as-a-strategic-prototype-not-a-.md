@@ -2,9 +2,9 @@
 type: insight
 title: Treat your roadmap as a strategic prototype, not a fixed plan
 concepts:
-  - "roadmapping"
+  - "roadmap-planning"
   - "product-strategy"
-  - "lean-methodology"
+  - "lean-startup"
   - "assumption-testing"
 source_guest: Janna Bastow
 source_episode: Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)

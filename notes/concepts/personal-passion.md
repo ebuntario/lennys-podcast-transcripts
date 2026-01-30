@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/content-ideation]] (1 shared insights)
 - [[concepts/authenticity]] (1 shared insights)
 - [[concepts/creator-sustainability]] (1 shared insights)
-- [[concepts/career-pathing]] (1 shared insights)
+- [[concepts/career-planning]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Weekly status updates should focus on learning from obstacles
 concepts:
-  - "continuous-learning"
+  - "learning"
   - "transparency"
   - "growth-strategy-execution"
 source_guest: Christina Wodtke

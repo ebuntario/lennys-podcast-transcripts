@@ -5,7 +5,7 @@ concepts:
   - "organizational-culture"
   - "decision-making"
   - "velocity"
-  - "leadership-principles"
+  - "leadership-development"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)
 source: "[[guests/jeremy-henrickson|Jeremy Henrickson]]"

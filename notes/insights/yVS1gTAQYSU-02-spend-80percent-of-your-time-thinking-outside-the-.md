@@ -2,9 +2,9 @@
 type: insight
 title: Spend 80% of your time thinking "outside the building"
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "customer-research"
-  - "strategic-thinking"
+  - "systems-thinking"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
 source: "[[guests/shaun-clowes|Shaun Clowes]]"

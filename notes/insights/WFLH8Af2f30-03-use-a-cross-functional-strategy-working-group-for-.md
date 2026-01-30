@@ -3,7 +3,7 @@ type: insight
 title: Use a cross-functional strategy working group for buy-in
 concepts:
   - "cross-functional-collaboration"
-  - "alignment"
+  - "team-alignment"
 source_guest: Chandra Janakiraman
 source_episode: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 source: "[[guests/chandra-janakiraman|Chandra Janakiraman]]"

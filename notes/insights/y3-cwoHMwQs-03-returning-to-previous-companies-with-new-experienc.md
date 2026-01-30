@@ -2,7 +2,7 @@
 type: insight
 title: Returning to previous companies with new experience creates unique opportunities
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "organizational-culture"
   - "pattern-recognition"
 source_guest: Alex Hardiman

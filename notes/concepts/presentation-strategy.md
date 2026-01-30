@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/stakeholder-alignment]] (1 shared insights)
+- [[concepts/stakeholder-buy-in]] (1 shared insights)

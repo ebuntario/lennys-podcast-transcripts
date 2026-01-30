@@ -2,7 +2,7 @@
 type: insight
 title: Founders should talk to 25-50 potential customers to find early adopters
 concepts:
-  - "customer-development"
+  - "customer-discovery"
   - "early-adopters"
   - "sales-outreach"
 source_guest: Gustaf Alströmer

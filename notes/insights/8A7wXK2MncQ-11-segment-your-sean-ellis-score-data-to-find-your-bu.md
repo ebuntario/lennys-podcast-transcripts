@@ -3,7 +3,7 @@ type: insight
 title: Segment your Sean Ellis Score data to find your "bullseye" cohort
 concepts:
   - "product-market-fit"
-  - "customer-segmentation"
+  - "segmentation"
   - "data-analysis"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"

@@ -3,8 +3,8 @@ type: insight
 title: The COO role thrives on productive tension with the CEO
 concepts:
   - "coo-role"
-  - "leadership"
-  - "trust"
+  - "team-leadership"
+  - "psychological-safety"
 source_guest: Claire Hughes Johnson
 source_episode: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 source: "[[guests/claire-hughes-johnson|Claire Hughes Johnson]]"

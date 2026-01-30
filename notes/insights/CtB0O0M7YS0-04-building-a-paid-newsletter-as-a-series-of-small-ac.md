@@ -4,7 +4,7 @@ title: Building a paid newsletter as a series of small, accountable experiments
 concepts:
   - "newsletter-strategy"
   - "iterative-launch"
-  - "risk-mitigation"
+  - "risk-management"
 source_guest: Gergely Orosz
 source_episode: Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)
 source: "[[guests/gergely|Gergely]]"

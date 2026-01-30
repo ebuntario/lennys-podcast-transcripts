@@ -2,7 +2,7 @@
 type: insight
 title: Fully understanding a problem reveals its solution
 concepts:
-  - "problem-solving"
+  - "creative-problem-solving"
   - "curiosity"
   - "experimental-mindset"
 source_guest: Joe Hudson

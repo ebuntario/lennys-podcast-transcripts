@@ -2,9 +2,9 @@
 type: insight
 title: Data-Driven Sourcing for Hiring
 concepts:
-  - "talent-acquisition"
+  - "hiring"
   - "data-driven-hiring"
-  - "competitive-analysis"
+  - "benchmarking"
 source_guest: "Sri Batchu"
 source_episode: "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)"
 source: "[[guests/sri-batchu|Sri Batchu]]"

@@ -3,7 +3,7 @@ type: insight
 title: Use the "Working Backwards" Process for Clarity
 concepts:
   - "product-development"
-  - "communication"
+  - "team-communication"
   - "planning"
 source_guest: Jason Shah
 source_episode: Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)

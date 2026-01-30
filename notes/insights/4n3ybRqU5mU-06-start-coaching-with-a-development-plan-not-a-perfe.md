@@ -3,7 +3,7 @@ type: insight
 title: Start coaching with a development plan, not a perfect competency framework
 concepts:
   - "coaching"
-  - "personal-development"
+  - "personal-growth"
   - "pragmatism"
   - "skill-gap-analysis"
 source_guest: Petra Wille

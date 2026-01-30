@@ -3,7 +3,7 @@ type: insight
 title: Building for value versus building for business requires balance
 concepts:
   - "founder-mindset"
-  - "product-philosophy"
+  - "product-principles"
   - "market-fit"
 source_guest: Ivan Zhao
 source_episode: Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal

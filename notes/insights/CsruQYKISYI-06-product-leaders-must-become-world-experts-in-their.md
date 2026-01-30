@@ -2,9 +2,9 @@
 type: insight
 title: Product leaders must become world experts in their domain
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "expertise"
-  - "leadership"
+  - "team-leadership"
   - "go-and-see"
 source_guest: Jeremy Henrickson
 source_episode: Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)

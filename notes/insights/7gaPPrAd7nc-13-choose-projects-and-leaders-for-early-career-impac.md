@@ -2,8 +2,8 @@
 type: insight
 title: Choose projects and leaders for early career impact
 concepts:
-  - "career-growth"
-  - "mentorship"
+  - "professional-growth"
+  - "coaching"
   - "impact-driven-work"
 source_guest: Ian McAllister
 source_episode: What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)

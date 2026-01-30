@@ -4,7 +4,7 @@ title: Focus on solving loneliness problems, not just matching keywords
 concepts:
   - "customer-journey"
   - "seo-strategy"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Eli Schwartz
 source_episode: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 source: "[[guests/eli-schwartz|Eli Schwartz]]"

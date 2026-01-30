@@ -2,7 +2,7 @@
 type: insight
 title: Book the next call before ending the current one to gauge true interest
 concepts:
-  - "sales-process"
+  - "sales-funnel"
   - "deal-momentum"
   - "qualification"
 source_guest: Jen Abel

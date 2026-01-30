@@ -3,7 +3,7 @@ type: insight
 title: Process innovation enables scaling beyond hypergrowth
 concepts:
   - "process-innovation"
-  - "scaling"
+  - "scalable-systems"
   - "organizational-excellence"
 source_guest: Bill Carr
 source_episode: Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)

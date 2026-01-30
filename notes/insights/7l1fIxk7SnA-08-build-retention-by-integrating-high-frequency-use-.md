@@ -2,7 +2,7 @@
 type: insight
 title: Build retention by integrating high-frequency use cases into the product
 concepts:
-  - "user-retention"
+  - "retention"
   - "habit-formation"
   - "product-expansion"
 source_guest: Hila Qu

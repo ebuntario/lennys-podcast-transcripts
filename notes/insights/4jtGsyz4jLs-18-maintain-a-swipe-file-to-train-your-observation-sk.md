@@ -4,7 +4,7 @@ title: Maintain a swipe file to train your observation skills
 concepts:
   - "skill-development"
   - "pattern-recognition"
-  - "continuous-learning"
+  - "learning"
 source_guest: "Wes Kao"
 source_episode: "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)"
 source: "[[guests/wes-kao|Wes Kao]]"

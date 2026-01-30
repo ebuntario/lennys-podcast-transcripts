@@ -2,9 +2,9 @@
 type: insight
 title: Prioritize breadth of experience for product leadership trajectories
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "skill-diversification"
-  - "product-management"
+  - "product-leadership"
 source_guest: Lauren Ipsen
 source_episode: Lessons from one of the world’s top executive recruiters
 source: "[[guests/lauren-ipsen|Lauren Ipsen]]"

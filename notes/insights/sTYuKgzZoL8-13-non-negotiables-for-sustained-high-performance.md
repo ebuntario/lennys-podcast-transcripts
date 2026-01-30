@@ -2,7 +2,7 @@
 type: insight
 title: Non-negotiables for sustained high performance
 concepts:
-  - "personal-productivity"
+  - "productivity"
   - "health-optimization"
   - "energy-management"
 source_guest: Naomi Gleit

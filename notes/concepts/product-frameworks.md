@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/strategic-thinking]] (1 shared insights)
+- [[concepts/systems-thinking]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)
 - [[concepts/jobs-to-be-done]] (1 shared insights)
-- [[concepts/customer-empathy]] (1 shared insights)
+- [[concepts/empathy]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: A full calendar is a badge of shame, not honor
 concepts:
   - "time-management"
-  - "leadership"
+  - "team-leadership"
   - "high-leverage-work"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"

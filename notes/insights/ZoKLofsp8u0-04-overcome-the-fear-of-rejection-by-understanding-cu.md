@@ -3,7 +3,7 @@ type: insight
 title: Overcome the fear of rejection by understanding customer indifference
 concepts:
   - "founder-mindset"
-  - "customer-development"
+  - "customer-discovery"
   - "early-adopters"
 source_guest: Gustaf Alströmer
 source_episode: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)

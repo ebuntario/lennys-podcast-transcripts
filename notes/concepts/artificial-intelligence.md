@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/productivity]] (2 shared insights)
 - [[concepts/product-design]] (1 shared insights)
-- [[concepts/behavioral-science]] (1 shared insights)
-- [[concepts/career-development]] (1 shared insights)
+- [[concepts/behavioral-economics]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/skill-development]] (1 shared insights)

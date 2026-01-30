@@ -2,7 +2,7 @@
 type: insight
 title: Find your story's most interesting nugget and double down on it
 concepts:
-  - "storytelling"
+  - "narrative"
   - "messaging"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)

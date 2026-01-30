@@ -4,7 +4,7 @@ title: Use AI to explore expansive possibility spaces and build intuition
 concepts:
   - "ai-strategy"
   - "creativity"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design
 source: "[[guests/dylan-field-20|Dylan Field 2.0]]"

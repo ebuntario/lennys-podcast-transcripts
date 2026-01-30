@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/organizational-culture]] (1 shared insights)
-- [[concepts/process-optimization]] (1 shared insights)
+- [[concepts/workflow-optimization]] (1 shared insights)
 - [[concepts/strategic-judgment]] (1 shared insights)
-- [[concepts/leadership-style]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)

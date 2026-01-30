@@ -2,7 +2,7 @@
 type: insight
 title: Start with a team that launches frequently
 concepts:
-  - "experimentation-culture"
+  - "testing"
   - "organizational-change"
   - "beachhead-strategy"
 source_guest: Ronny Kohavi

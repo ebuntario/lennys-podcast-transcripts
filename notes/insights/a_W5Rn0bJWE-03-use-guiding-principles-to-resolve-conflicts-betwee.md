@@ -3,8 +3,8 @@ type: insight
 title: Use guiding principles to resolve conflicts between user and business needs
 concepts:
   - "product-strategy"
-  - "marketplace-dynamics"
-  - "decision-frameworks"
+  - "marketplace-strategy"
+  - "decision-making"
 source_guest: Noam Lovinsky
 source_episode: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)
 source: "[[guests/noam-lovinsky|Noam Lovinsky]]"

@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/future-of-work]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/hands-on-learning]] (1 shared insights)
 - [[concepts/innovation]] (1 shared insights)

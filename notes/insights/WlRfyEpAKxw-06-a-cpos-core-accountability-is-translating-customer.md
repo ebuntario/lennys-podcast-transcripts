@@ -4,7 +4,7 @@ title: A CPO's Core Accountability is Translating Customer Value into Business V
 concepts:
   - "chief-product-officer"
   - "organizational-product-strategy"
-  - "execution"
+  - "strategy-execution"
 source_guest: Casey Winters
 source_episode: Why most product managers are unprepared for the demands of a real startup | Casey Winters
 source: "[[guests/casey-winters|Casey Winters]]"

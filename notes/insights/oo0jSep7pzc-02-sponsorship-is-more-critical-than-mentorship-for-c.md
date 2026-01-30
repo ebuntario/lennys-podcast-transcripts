@@ -2,7 +2,7 @@
 type: insight
 title: Sponsorship is more critical than mentorship for career advancement
 concepts:
-  - "career-advancement"
+  - "professional-growth"
   - "sponsorship"
   - "organizational-trust"
 source_guest: Fareed Mosavat

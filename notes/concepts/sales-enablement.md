@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/b2b-sales]] (1 shared insights)
-- [[concepts/stakeholder-management]] (1 shared insights)
+- [[concepts/relationship-management]] (1 shared insights)
 - [[concepts/iteration]] (1 shared insights)
 - [[concepts/sales-pitch-framework]] (1 shared insights)

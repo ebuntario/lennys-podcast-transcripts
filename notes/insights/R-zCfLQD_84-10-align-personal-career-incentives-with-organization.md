@@ -4,7 +4,7 @@ title: Align personal career incentives with organizational needs for change
 concepts:
   - "incentive-alignment"
   - "career-resilience"
-  - "continuous-learning"
+  - "learning"
 source_guest: "Tomer Cohen"
 source_episode: "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)"
 source: "[[guests/tomer-cohen-20|Tomer Cohen 2.0]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Modern marketing leaders must be comb-shaped, not just T-shaped
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "marketing-leadership"
   - "skill-diversification"
 source_guest: Krithika Shankarraman

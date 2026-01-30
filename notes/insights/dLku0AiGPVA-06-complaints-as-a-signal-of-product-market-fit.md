@@ -3,8 +3,8 @@ type: insight
 title: Complaints as a signal of product-market fit
 concepts:
   - "product-market-fit"
-  - "user-feedback"
-  - "customer-engagement"
+  - "qualitative-feedback"
+  - "user-engagement"
   - "validation"
 source_guest: Gaurav Misra
 source_episode: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)

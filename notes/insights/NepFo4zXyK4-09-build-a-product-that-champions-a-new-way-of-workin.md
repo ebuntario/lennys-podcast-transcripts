@@ -2,7 +2,7 @@
 type: insight
 title: Build a product that champions a new way of working
 concepts:
-  - "product-vision"
+  - "product-strategy"
   - "user-adoption"
   - "category-creation"
 source_guest: Yuhki Yamashita

@@ -2,7 +2,7 @@
 type: insight
 title: Path to CPO Requires Optimizing for the Company, Not Just Your Function
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "company-leadership"
   - "executive-mindset"
 source_guest: Casey Winters

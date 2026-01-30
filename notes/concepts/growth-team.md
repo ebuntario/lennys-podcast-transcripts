@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/founder-led-growth]] (1 shared insights)
+- [[concepts/founder-led-sales]] (1 shared insights)
 - [[concepts/product-market-fit]] (1 shared insights)
 - [[concepts/growth-team-hiring]] (1 shared insights)
 - [[concepts/growth-team-limitations]] (1 shared insights)

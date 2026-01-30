@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/collaboration]] (2 shared insights)
+- [[concepts/team-collaboration]] (2 shared insights)
 - [[concepts/burnout]] (1 shared insights)
 - [[concepts/adaptability]] (1 shared insights)
 - [[concepts/age-diversity]] (1 shared insights)

@@ -2,7 +2,7 @@
 type: insight
 title: Frame difficult feedback as skill development, not character attacks
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "management-communication"
   - "performance-management"
 source_guest: Ben Horowitz

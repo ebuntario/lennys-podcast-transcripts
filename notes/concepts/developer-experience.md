@@ -19,6 +19,6 @@ SORT file.name ASC
 
 - [[concepts/integration-strategy]] (1 shared insights)
 - [[concepts/product-adoption]] (1 shared insights)
-- [[concepts/customer-acquisition]] (1 shared insights)
+- [[concepts/user-acquisition]] (1 shared insights)
 - [[concepts/signup-friction]] (1 shared insights)
 - [[concepts/organizational-design]] (1 shared insights)

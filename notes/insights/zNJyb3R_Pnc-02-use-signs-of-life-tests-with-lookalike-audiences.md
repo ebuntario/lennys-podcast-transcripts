@@ -2,9 +2,9 @@
 type: insight
 title: Use "signs of life" tests with lookalike audiences
 concepts:
-  - "experimentation"
+  - "testing"
   - "audience-targeting"
-  - "budget-allocation"
+  - "resource-allocation"
   - "data-driven-decisions"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)

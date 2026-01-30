@@ -3,7 +3,7 @@ type: insight
 title: Hire for "little hands" mentality and full-funnel accountability in early-stage teams
 concepts:
   - "team-building"
-  - "hiring-strategy"
+  - "hiring-process"
   - "startup-culture"
   - "performance-metrics"
 source_guest: Meltem Kuran Berkowitz

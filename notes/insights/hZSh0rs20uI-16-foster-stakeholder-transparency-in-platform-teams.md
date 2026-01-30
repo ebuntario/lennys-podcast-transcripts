@@ -2,7 +2,7 @@
 type: insight
 title: Foster Stakeholder Transparency in Platform Teams
 concepts:
-  - "stakeholder-alignment"
+  - "stakeholder-buy-in"
   - "internal-communication"
   - "platform-adoption"
 source_guest: Camille Fournier

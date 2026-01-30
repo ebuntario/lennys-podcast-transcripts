@@ -2,7 +2,7 @@
 type: insight
 title: Career advancement requires intellectual fearlessness
 concepts:
-  - "career-advancement"
+  - "professional-growth"
   - "risk-taking"
   - "passion-driven-work"
 source_guest: Dr. Fei-Fei Li

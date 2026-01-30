@@ -3,7 +3,7 @@ type: insight
 title: Seek win-win outcomes in managerial decisions
 concepts:
   - "win-win-negotiation"
-  - "people-management"
+  - "management"
   - "ethical-leadership"
 source_guest: "Julie Zhuo"
 source_episode: "How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024"

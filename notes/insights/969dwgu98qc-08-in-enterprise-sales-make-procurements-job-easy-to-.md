@@ -2,7 +2,7 @@
 type: insight
 title: In enterprise sales, make procurement's job easy to avoid deal stagnation
 concepts:
-  - "enterprise-sales"
+  - "b2b-sales"
   - "procurement"
   - "sales-negotiation"
 source_guest: Jen Abel

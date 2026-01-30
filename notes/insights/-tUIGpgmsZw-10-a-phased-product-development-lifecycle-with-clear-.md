@@ -4,7 +4,7 @@ title: A phased product development lifecycle with clear commitment points
 concepts:
   - "product-development"
   - "estimation"
-  - "roadmapping"
+  - "roadmap-planning"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

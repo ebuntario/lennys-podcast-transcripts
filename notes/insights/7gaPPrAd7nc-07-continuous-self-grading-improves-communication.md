@@ -2,7 +2,7 @@
 type: insight
 title: Continuous self-grading improves communication
 concepts:
-  - "communication"
+  - "team-communication"
   - "continuous-improvement"
   - "feedback"
 source_guest: Ian McAllister

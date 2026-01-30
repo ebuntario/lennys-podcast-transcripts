@@ -3,8 +3,8 @@ type: insight
 title: Build AI products by solving your own frustrations
 concepts:
   - "idea-generation"
-  - "ai-product-development"
-  - "user-research"
+  - "ai-development"
+  - "customer-research"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 source: "[[guests/chip-huyen|Chip Huyen]]"

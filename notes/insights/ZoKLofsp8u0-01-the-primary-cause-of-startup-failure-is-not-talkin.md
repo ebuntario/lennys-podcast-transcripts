@@ -3,7 +3,7 @@ type: insight
 title: The primary cause of startup failure is not talking to users
 concepts:
   - "product-market-fit"
-  - "customer-development"
+  - "customer-discovery"
   - "startup-failure"
   - "yc-advice"
 source_guest: Gustaf Alströmer

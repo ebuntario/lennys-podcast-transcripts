@@ -2,10 +2,10 @@
 type: insight
 title: Consider hybrid pricing models for predictability and scalability
 concepts:
-  - "pricing-model"
+  - "value-based-pricing"
   - "usage-based-pricing"
   - "seat-based-pricing"
-  - "customer-acquisition"
+  - "user-acquisition"
 source_guest: Naomi Ionita
 source_episode: How to price your product | Naomi Ionita (Menlo Ventures)
 source: "[[guests/naomi-ionita|Naomi Ionita]]"

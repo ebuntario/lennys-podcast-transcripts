@@ -4,7 +4,7 @@ title: Invest profits, not people, into new ventures
 concepts:
   - "core-product-focus"
   - "resource-allocation"
-  - "innovation-strategy"
+  - "innovation"
   - "competitive-advantage"
 source_guest: "Vijay Iyengar"
 source_episode: "An inside look at Mixpanel’s product journey | Vijay Iyengar"

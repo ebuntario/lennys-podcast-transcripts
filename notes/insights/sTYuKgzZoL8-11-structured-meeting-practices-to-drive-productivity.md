@@ -2,8 +2,8 @@
 type: insight
 title: Structured meeting practices to drive productivity
 concepts:
-  - "meeting-efficiency"
-  - "communication"
+  - "meeting-effectiveness"
+  - "team-communication"
   - "action-accountability"
 source_guest: Naomi Gleit
 source_episode: Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit

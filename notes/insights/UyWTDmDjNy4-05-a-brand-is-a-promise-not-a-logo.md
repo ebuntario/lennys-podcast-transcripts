@@ -2,7 +2,7 @@
 type: insight
 title: A brand is a promise, not a logo
 concepts:
-  - "branding"
+  - "brand-building"
   - "promise"
   - "differentiation"
 source_guest: "Seth Godin"

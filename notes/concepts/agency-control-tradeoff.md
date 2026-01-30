@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/risk-management]] (2 shared insights)
-- [[concepts/iterative-development]] (1 shared insights)
+- [[concepts/iteration]] (1 shared insights)

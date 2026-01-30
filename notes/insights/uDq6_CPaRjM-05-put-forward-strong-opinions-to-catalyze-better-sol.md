@@ -4,7 +4,7 @@ title: Put forward strong opinions to catalyze better solutions
 concepts:
   - "decision-making"
   - "team-dynamics"
-  - "leadership"
+  - "team-leadership"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"
 source: "[[guests/mihika-kapoor|Mihika Kapoor]]"

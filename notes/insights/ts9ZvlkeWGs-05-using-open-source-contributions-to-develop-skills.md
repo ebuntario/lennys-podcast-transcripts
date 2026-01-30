@@ -4,7 +4,7 @@ title: Using open source contributions to develop skills
 concepts:
   - "open-source-contribution"
   - "skill-development"
-  - "community-engagement"
+  - "community-building"
 source_guest: "Matt Mullenweg"
 source_episode: "The one question that saves product careers | Matt LeMay"
 source: "[[guests/matt-mullenweg|Matt Mullenweg]]"

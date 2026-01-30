@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/ai-agents]] (1 shared insights)
 - [[concepts/automation]] (1 shared insights)
 - [[concepts/input-metrics]] (1 shared insights)
-- [[concepts/measurement]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/success-metrics]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)

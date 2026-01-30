@@ -2,7 +2,7 @@
 type: insight
 title: Build a "safety funnel" to protect customers and the core business
 concepts:
-  - "product-launch"
+  - "launch-strategy"
   - "risk-management"
   - "customer-experience"
   - "incubation-strategy"

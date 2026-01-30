@@ -3,7 +3,7 @@ type: insight
 title: Manual lead list creation precedes any sales tool investment
 concepts:
   - "lead-generation"
-  - "sales-process"
+  - "sales-funnel"
   - "customer-discovery"
 source_guest: Jen Abel
 source_episode: The ultimate guide to founder-led sales | Jen Abel (co Abel)

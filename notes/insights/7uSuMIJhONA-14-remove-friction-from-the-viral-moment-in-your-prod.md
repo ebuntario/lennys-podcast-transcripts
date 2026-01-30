@@ -5,7 +5,7 @@ concepts:
   - "growth-loops"
   - "product-design"
   - "viral-mechanics"
-  - "pricing-strategy"
+  - "value-based-pricing"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft
 source: "[[guests/shishir-mehrotra|Shishir Mehrotra]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Retention and engagement are better signals than vanity metrics
 concepts:
-  - "metrics"
+  - "success-metrics"
   - "platform-evaluation"
   - "user-engagement"
 source_guest: Brian Balfour

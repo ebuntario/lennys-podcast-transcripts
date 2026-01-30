@@ -4,7 +4,7 @@ title: Mission dictates product mechanics, even in similar markets
 concepts:
   - "product-strategy"
   - "mission-vision"
-  - "competitive-differentiation"
+  - "differentiation"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Focus on amplifying strengths rather than fixing weaknesses for career growth
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "strengths-based-development"
   - "performance-feedback"
 source_guest: Sriram Krishnan

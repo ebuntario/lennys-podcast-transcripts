@@ -3,7 +3,7 @@ type: insight
 title: When a project goes off track, pause building and return to shaping
 concepts:
   - "project-recovery"
-  - "risk-mitigation"
+  - "risk-management"
   - "decision-making"
 source_guest: Ryan Singer
 source_episode: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")

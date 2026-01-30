@@ -4,7 +4,7 @@ title: In-person interactions significantly boost key business metrics
 concepts:
   - "local-marketing"
   - "customer-relationships"
-  - "sales-strategy"
+  - "sales-enablement"
 source_guest: Patrick Campbell
 source_episode: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)
 source: "[[guests/patrick-campbell|Patrick Campbell]]"

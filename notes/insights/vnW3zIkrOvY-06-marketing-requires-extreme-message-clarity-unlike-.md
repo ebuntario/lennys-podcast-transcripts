@@ -5,7 +5,7 @@ concepts:
   - "product-marketing"
   - "messaging"
   - "internal-communication"
-  - "scaling"
+  - "scalable-systems"
 source_guest: "Raaz Herzberg"
 source_episode: "Building Wiz: the fastest-growing startup in history"
 source: "[[guests/raaz-herzberg|Raaz Herzberg]]"

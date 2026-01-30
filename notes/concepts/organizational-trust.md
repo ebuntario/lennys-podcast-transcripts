@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/stakeholder-alignment]] (1 shared insights)
+- [[concepts/stakeholder-buy-in]] (1 shared insights)
 - [[concepts/internal-communication]] (1 shared insights)
 - [[concepts/platform-adoption]] (1 shared insights)

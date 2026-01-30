@@ -2,8 +2,8 @@
 type: insight
 title: Drive impact, not just task completion, for career advancement
 concepts:
-  - "career-development"
-  - "product-management"
+  - "professional-growth"
+  - "product-leadership"
   - "impact-measurement"
 source_guest: Tamar Yehoshua
 source_episode: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua

@@ -3,7 +3,7 @@ type: insight
 title: Product roles require multidisciplinary "polymathism"
 concepts:
   - "skill-development"
-  - "product-management"
+  - "product-leadership"
   - "ai-era-skills"
 source_guest: Howie Liu
 source_episode: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)

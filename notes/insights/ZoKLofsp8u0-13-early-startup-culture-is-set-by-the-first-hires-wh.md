@@ -2,7 +2,7 @@
 type: insight
 title: Early startup culture is set by the first hires, who should be excited missionaries, not mercenaries
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "early-hiring"
   - "founder-values"
 source_guest: Gustaf Alströmer

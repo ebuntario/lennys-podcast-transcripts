@@ -4,7 +4,7 @@ title: Designing Work Around What Brings You Alive
 concepts:
   - "energy-mapping"
   - "work-design"
-  - "intrinsic-motivation"
+  - "motivation"
 source_guest: Paul Millerd
 source_episode: Redefining success, money, and belonging | Paul Millerd (The Pathless Path)
 source: "[[guests/paul-millerd|Paul Millerd]]"

@@ -3,8 +3,8 @@ type: insight
 title: Manage the alignment-confidence matrix with your leader
 concepts:
   - "managing-up"
-  - "leadership"
-  - "stakeholder-management"
+  - "team-leadership"
+  - "relationship-management"
 source_guest: Ravi Mehta
 source_episode: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 source: "[[guests/ravi-mehta|Ravi Mehta]]"

@@ -4,8 +4,8 @@ title: Shape the path to drive behavioral change
 concepts:
   - "change-management"
   - "behavioral-design"
-  - "operational-excellence"
-  - "leadership"
+  - "operational-efficiency"
+  - "team-leadership"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft
 source: "[[guests/shishir-mehrotra|Shishir Mehrotra]]"

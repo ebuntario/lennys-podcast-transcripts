@@ -2,8 +2,8 @@
 type: insight
 title: Build credibility by distinguishing facts from hypotheses
 concepts:
-  - "communication"
-  - "credibility"
+  - "team-communication"
+  - "credibility-building"
   - "hypothesis-driven-development"
   - "decision-making"
 source_guest: Megan Cook

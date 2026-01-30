@@ -2,9 +2,9 @@
 type: insight
 title: Data is a compass, not a GPS
 concepts:
-  - "data-informed-decisions"
+  - "data-driven-decisions"
   - "intuition"
-  - "experimentation"
+  - "testing"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
 source: "[[guests/shaun-clowes|Shaun Clowes]]"

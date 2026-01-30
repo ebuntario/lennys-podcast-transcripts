@@ -2,7 +2,7 @@
 type: insight
 title: Embrace the A-side and B-side narrative of careers and companies
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "resilience"
   - "failure-embracement"
 source_guest: Gina Gotthilf

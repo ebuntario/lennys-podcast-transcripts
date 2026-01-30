@@ -3,8 +3,8 @@ type: insight
 title: Be authentic by openly sharing what's incomplete or uncertain
 concepts:
   - "authenticity"
-  - "communication"
-  - "trust-building"
+  - "team-communication"
+  - "psychological-safety"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 source: "[[guests/paige-costello|Paige Costello]]"

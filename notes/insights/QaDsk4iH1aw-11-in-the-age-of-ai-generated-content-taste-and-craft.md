@@ -2,7 +2,7 @@
 type: insight
 title: In the age of AI-generated content, taste and craft become key differentiators
 concepts:
-  - "content-strategy"
+  - "thought-leadership"
   - "brand-differentiation"
   - "ai-in-marketing"
 source_guest: Krithika Shankarraman

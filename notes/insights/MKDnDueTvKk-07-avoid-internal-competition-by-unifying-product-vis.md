@@ -2,8 +2,8 @@
 type: insight
 title: Avoid internal competition by unifying product visions
 concepts:
-  - "organizational-structure"
-  - "execution"
+  - "organizational-design"
+  - "strategy-execution"
   - "product-strategy"
   - "internal-competition"
 source_guest: Kayvon Beykpour

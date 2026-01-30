@@ -4,7 +4,7 @@ title: Separate the decision from the implementation
 concepts:
   - "decision-making"
   - "compassionate-leadership"
-  - "stakeholder-management"
+  - "relationship-management"
 source_guest: Matt Mochary
 source_episode: Are your fears giving you terrible advice? | Matt Mochary
 source: "[[guests/matt-mochary|Matt Mochary]]"

@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/strategy]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/meeting-culture]] (1 shared insights)
 - [[concepts/manager-effectiveness]] (1 shared insights)
 - [[concepts/group-communication]] (1 shared insights)

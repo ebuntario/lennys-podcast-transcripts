@@ -3,8 +3,8 @@ type: insight
 title: Prioritize activation experiments for early wins
 concepts:
   - "growth-experimentation"
-  - "activation-metric"
-  - "user-onboarding"
+  - "activation-metrics"
+  - "onboarding"
 source_guest: Hila Qu
 source_episode: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
 source: "[[guests/hila-qu|Hila Qu]]"

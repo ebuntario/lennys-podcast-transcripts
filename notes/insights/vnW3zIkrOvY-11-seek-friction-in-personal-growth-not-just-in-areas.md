@@ -2,8 +2,8 @@
 type: insight
 title: Seek friction in personal growth, not just in areas of existing strength
 concepts:
-  - "personal-development"
-  - "skill-building"
+  - "personal-growth"
+  - "skill-development"
   - "resilience"
 source_guest: "Raaz Herzberg"
 source_episode: "Building Wiz: the fastest-growing startup in history"

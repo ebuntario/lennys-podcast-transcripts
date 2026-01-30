@@ -2,7 +2,7 @@
 type: insight
 title: Weekly planning with clear focus areas maintains momentum in fast-moving environments
 concepts:
-  - "execution"
+  - "strategy-execution"
   - "team-coordination"
   - "prioritization"
 source_guest: Anton Osika

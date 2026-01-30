@@ -2,7 +2,7 @@
 type: insight
 title: Perfect execution reveals the quality of strategy
 concepts:
-  - "execution-excellence"
+  - "strategy-execution"
   - "strategy-validation"
   - "project-accountability"
 source_guest: Naomi Gleit

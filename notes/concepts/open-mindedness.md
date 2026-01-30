@@ -20,5 +20,5 @@ SORT file.name ASC
 - [[concepts/ego-management]] (1 shared insights)
 - [[concepts/cognitive-flexibility]] (1 shared insights)
 - [[concepts/disconfirming-evidence]] (1 shared insights)
-- [[concepts/collaboration]] (1 shared insights)
+- [[concepts/team-collaboration]] (1 shared insights)
 - [[concepts/truth-seeking]] (1 shared insights)

@@ -4,7 +4,7 @@ title: Develop communication skills by saving and analyzing great examples
 concepts:
   - "communication-skills"
   - "skill-development"
-  - "professional-development"
+  - "professional-growth"
 source_guest: Jules Walter
 source_episode: Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)
 source: "[[guests/jules-walter|Jules Walter]]"

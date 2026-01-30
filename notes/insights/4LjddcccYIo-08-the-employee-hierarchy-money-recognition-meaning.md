@@ -4,7 +4,7 @@ title: The employee hierarchy: money, recognition, meaning
 concepts:
   - "employee-motivation"
   - "organizational-culture"
-  - "leadership"
+  - "team-leadership"
 source_guest: Chip Conley
 source_episode: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 source: "[[guests/chip-conley|Chip Conley]]"

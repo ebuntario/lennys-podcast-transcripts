@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/career-satisfaction]] (1 shared insights)
 - [[concepts/support-network]] (1 shared insights)
 - [[concepts/vulnerability]] (1 shared insights)
-- [[concepts/entrepreneurial-mindset]] (1 shared insights)
+- [[concepts/entrepreneurship]] (1 shared insights)

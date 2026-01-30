@@ -5,7 +5,7 @@ concepts:
   - "product-strategy"
   - "growth"
   - "portfolio-management"
-  - "experimentation"
+  - "testing"
 source_guest: Kayvon Beykpour
 source_episode: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 source: "[[guests/kayvon-beykpour|Kayvon Beykpour]]"

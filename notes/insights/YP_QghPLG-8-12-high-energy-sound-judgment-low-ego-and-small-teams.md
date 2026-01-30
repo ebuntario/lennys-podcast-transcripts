@@ -4,7 +4,7 @@ title: High energy, sound judgment, low ego, and small teams create magic
 concepts:
   - "team-dynamics"
   - "organizational-culture"
-  - "leadership"
+  - "team-leadership"
 source_guest: Shreyas Doshi
 source_episode: The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)
 source: "[[guests/shreyas-doshi|Shreyas Doshi]]"

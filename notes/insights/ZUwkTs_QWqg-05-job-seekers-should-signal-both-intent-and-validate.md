@@ -2,9 +2,9 @@
 type: insight
 title: Job seekers should signal both intent and validated skills to stand out
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "personal-branding"
-  - "recruiting"
+  - "hiring"
 source_guest: "Hari Srinivasan"
 source_episode: "LinkedIn’s product evolution and the art of building complex systems"
 source: "[[guests/hari-srinivasan|Hari Srinivasan]]"

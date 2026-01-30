@@ -2,9 +2,9 @@
 type: insight
 title: Product Leadership Should Be Deeply Embedded in Sales
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "sales-collaboration"
-  - "customer-meetings"
+  - "customer-interviews"
 source_guest: Jason M Lemkin
 source_episode: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 source: "[[guests/jason-m-lemkin|Jason M Lemkin]]"

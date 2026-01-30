@@ -4,7 +4,7 @@ title: Commercial-minded PMs are often the happiest
 concepts:
   - "mindset"
   - "career-satisfaction"
-  - "product-manager-role"
+  - "product-leadership"
 source_guest: Matt LeMay
 source_episode: The one question that saves product careers | Matt LeMay
 source: "[[guests/matt-lemay|Matt LeMay]]"

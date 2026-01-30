@@ -2,7 +2,7 @@
 type: insight
 title: Determine pricing after establishing clear positioning
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "product-positioning"
   - "value-proposition"
 source_guest: Rahul Vohra

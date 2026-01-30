@@ -2,7 +2,7 @@
 type: insight
 title: De-risk AI investments by referencing adjacent successes
 concepts:
-  - "risk-mitigation"
+  - "risk-management"
   - "stakeholder-buy-in"
   - "business-case"
 source_guest: Marily Nika

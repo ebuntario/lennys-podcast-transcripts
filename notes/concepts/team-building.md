@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/startup-culture]] (3 shared insights)
 - [[concepts/culture-fit]] (1 shared insights)
 - [[concepts/organizational-design]] (1 shared insights)
-- [[concepts/growth-mindset]] (1 shared insights)
+- [[concepts/mindset]] (1 shared insights)

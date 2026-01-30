@@ -2,8 +2,8 @@
 type: insight
 title: Create organizational clarity by relentlessly investigating murky areas and having hard conversations
 concepts:
-  - "leadership"
-  - "communication"
+  - "team-leadership"
+  - "team-communication"
   - "decision-making"
 source_guest: Dylan Field
 source_episode: Dylan Field live at Figma's Config: Intuition, simplicity, and the future of design

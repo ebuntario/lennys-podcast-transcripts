@@ -2,7 +2,7 @@
 type: insight
 title: Discounting can signal value while making products accessible
 concepts:
-  - "pricing-strategy"
+  - "value-based-pricing"
   - "consumer-psychology"
   - "growth-levers"
 source_guest: Archie Abrams

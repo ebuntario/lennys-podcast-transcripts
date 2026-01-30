@@ -3,7 +3,7 @@ type: insight
 title: Diversify paid acquisition with long-tail channels for sustainable growth
 concepts:
   - "paid-acquisition"
-  - "growth-strategy"
+  - "startup-growth"
   - "channel-diversification"
   - "marketing-optimization"
 source_guest: Meltem Kuran Berkowitz

@@ -4,7 +4,7 @@ title: Your four strategic choices determine your product and your life
 concepts:
   - "strategy"
   - "customer-selection"
-  - "product-vision"
+  - "product-strategy"
 source_guest: "Seth Godin"
 source_episode: "Seth Godin's best tactics for building remarkable products, strategies, brands and more"
 source: "[[guests/seth-godin|Seth Godin]]"

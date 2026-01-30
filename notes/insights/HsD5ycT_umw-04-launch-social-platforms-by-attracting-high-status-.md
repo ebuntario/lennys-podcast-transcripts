@@ -3,7 +3,7 @@ type: insight
 title: Launch social platforms by attracting high-status, underserved niches
 concepts:
   - "social-networks"
-  - "growth-strategy"
+  - "startup-growth"
   - "community-building"
 source_guest: Sriram Krishnan
 source_episode: Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi

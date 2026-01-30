@@ -2,9 +2,9 @@
 type: insight
 title: Sometimes seeing value first makes hard problems worth solving
 concepts:
-  - "problem-solving"
+  - "creative-problem-solving"
   - "motivation"
-  - "vision"
+  - "vision-communication"
 source_guest: Sam Schillace
 source_episode: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)
 source: "[[guests/sam-schillace|Sam Schillace]]"

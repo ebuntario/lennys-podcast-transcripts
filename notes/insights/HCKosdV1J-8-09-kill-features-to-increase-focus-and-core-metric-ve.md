@@ -4,7 +4,7 @@ title: Kill features to increase focus and core metric velocity
 concepts:
   - "product-scope"
   - "focus"
-  - "metrics"
+  - "success-metrics"
 source_guest: Scott Belsky
 source_episode: Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)
 source: "[[guests/scott-belsky|Scott Belsky]]"

@@ -18,5 +18,5 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/mindset]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/agency]] (1 shared insights)

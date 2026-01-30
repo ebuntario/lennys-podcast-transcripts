@@ -3,7 +3,7 @@ type: insight
 title: Build naturally hedged product portfolios
 concepts:
   - "product-strategy"
-  - "business-models"
+  - "business-model"
   - "risk-management"
 source_guest: "Mayur Kamat"
 source_episode: "Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)"

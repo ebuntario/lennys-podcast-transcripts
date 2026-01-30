@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/market-testing]] (1 shared insights)
+- [[concepts/market-validation]] (1 shared insights)
 - [[concepts/positioning]] (1 shared insights)

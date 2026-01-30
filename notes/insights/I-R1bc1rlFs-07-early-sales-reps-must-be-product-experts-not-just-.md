@@ -4,7 +4,7 @@ title: Early Sales Reps Must Be Product Experts, Not Just Closers
 concepts:
   - "sales-skills"
   - "product-knowledge"
-  - "early-stage"
+  - "early-stage-startups"
 source_guest: Jason M Lemkin
 source_episode: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 source: "[[guests/jason-m-lemkin|Jason M Lemkin]]"

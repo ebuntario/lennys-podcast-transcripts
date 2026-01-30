@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/decision-making]] (1 shared insights)

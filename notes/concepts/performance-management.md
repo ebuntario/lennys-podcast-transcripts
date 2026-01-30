@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/radical-candor]] (3 shared insights)
-- [[concepts/leadership]] (2 shared insights)
+- [[concepts/team-leadership]] (2 shared insights)
 - [[concepts/managerial-frameworks]] (2 shared insights)
 - [[concepts/difficult-conversations]] (2 shared insights)
 - [[concepts/organizational-transformation]] (1 shared insights)

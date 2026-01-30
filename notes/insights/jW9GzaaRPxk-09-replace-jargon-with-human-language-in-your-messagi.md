@@ -3,7 +3,7 @@ type: insight
 title: Replace jargon with human language in your messaging
 concepts:
   - "messaging"
-  - "communication"
+  - "team-communication"
 source_guest: Emilie Gerber
 source_episode: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 source: "[[guests/emilie-gerber|Emilie Gerber]]"

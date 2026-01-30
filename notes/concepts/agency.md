@@ -17,6 +17,6 @@ SORT file.name ASC
 
 - [[concepts/startup-strategy]] (2 shared insights)
 - [[concepts/talent-development]] (1 shared insights)
-- [[concepts/mentorship]] (1 shared insights)
+- [[concepts/coaching]] (1 shared insights)
 - [[concepts/organizational-design]] (1 shared insights)
 - [[concepts/diversity-in-tech]] (1 shared insights)

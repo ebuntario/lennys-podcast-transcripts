@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/freemium-model]] (4 shared insights)
+- [[concepts/freemium-strategy]] (4 shared insights)
 - [[concepts/cross-functional-collaboration]] (2 shared insights)
 - [[concepts/growth-loops]] (2 shared insights)
 - [[concepts/virality]] (2 shared insights)

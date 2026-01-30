@@ -2,9 +2,9 @@
 type: insight
 title: Growth masks underlying product problems
 concepts:
-  - "growth-strategy"
+  - "startup-growth"
   - "product-health"
-  - "marketplace-dynamics"
+  - "marketplace-strategy"
 source_guest: Noam Lovinsky
 source_episode: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)
 source: "[[guests/noam-lovinsky|Noam Lovinsky]]"

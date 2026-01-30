@@ -2,8 +2,8 @@
 type: insight
 title: Agency is the most undervalued skill
 concepts:
-  - "career-development"
-  - "skill-building"
+  - "professional-growth"
+  - "skill-development"
   - "ai-era-skills"
   - "startup-mindset"
 source_guest: "Varun Mohan"

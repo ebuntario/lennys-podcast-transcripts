@@ -16,7 +16,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-launches]] (1 shared insights)
-- [[concepts/storytelling]] (1 shared insights)
+- [[concepts/narrative]] (1 shared insights)
 - [[concepts/growth]] (1 shared insights)
 - [[concepts/brand-building]] (1 shared insights)
 - [[concepts/startup-growth]] (1 shared insights)

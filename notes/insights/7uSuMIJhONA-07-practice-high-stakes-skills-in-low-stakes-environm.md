@@ -4,7 +4,7 @@ title: Practice high-stakes skills in low-stakes environments
 concepts:
   - "skill-development"
   - "interviewing"
-  - "problem-solving"
+  - "creative-problem-solving"
   - "training"
 source_guest: Shishir Mehrotra
 source_episode: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft

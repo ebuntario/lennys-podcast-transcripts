@@ -5,7 +5,7 @@ concepts:
   - "product-market-fit"
   - "product-validation"
   - "customer-feedback"
-  - "metrics"
+  - "success-metrics"
 source_guest: "Jag Duggal"
 source_episode: "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)"
 source: "[[guests/jag-duggal|Jag Duggal]]"

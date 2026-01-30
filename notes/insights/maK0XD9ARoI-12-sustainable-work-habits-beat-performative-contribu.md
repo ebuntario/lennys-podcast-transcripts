@@ -4,7 +4,7 @@ title: Sustainable work habits beat performative contribution
 concepts:
   - "work-life-balance"
   - "productivity"
-  - "company-culture"
+  - "organizational-culture"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)
 source: "[[guests/tom-conrad|Tom Conrad]]"

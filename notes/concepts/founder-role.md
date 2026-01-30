@@ -17,4 +17,4 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-development]] (2 shared insights)
+- [[concepts/customer-discovery]] (2 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Cultivating equanimity for product management in chaos
 concepts:
   - "mindfulness"
-  - "product-management"
-  - "stakeholder-management"
+  - "product-leadership"
+  - "relationship-management"
   - "emotional-regulation"
 source_guest: Upasna Gautam
 source_episode: An inside look at how CNN builds product | Upasna Gautam

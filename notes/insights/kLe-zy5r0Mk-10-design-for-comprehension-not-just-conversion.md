@@ -2,7 +2,7 @@
 type: insight
 title: Design for comprehension, not just conversion
 concepts:
-  - "user-onboarding"
+  - "onboarding"
   - "product-marketing"
   - "user-intent"
 source_guest: Stewart Butterfield

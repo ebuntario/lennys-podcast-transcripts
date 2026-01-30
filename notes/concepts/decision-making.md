@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (13 shared insights)
-- [[concepts/experimentation]] (3 shared insights)
+- [[concepts/team-leadership]] (13 shared insights)
+- [[concepts/testing]] (3 shared insights)
 - [[concepts/sunk-cost-fallacy]] (3 shared insights)
 - [[concepts/ownership]] (3 shared insights)
 - [[concepts/meetings]] (3 shared insights)

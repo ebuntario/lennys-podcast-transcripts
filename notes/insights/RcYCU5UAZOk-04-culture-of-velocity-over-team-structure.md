@@ -3,7 +3,7 @@ type: insight
 title: Culture of Velocity Over Team Structure
 concepts:
   - "operational-velocity"
-  - "company-culture"
+  - "organizational-culture"
   - "decision-making"
   - "bias-to-action"
 source_guest: "Sri Batchu"

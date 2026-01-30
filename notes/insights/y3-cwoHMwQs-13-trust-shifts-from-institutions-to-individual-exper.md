@@ -2,7 +2,7 @@
 type: insight
 title: Trust shifts from institutions to individual experts in modern media
 concepts:
-  - "trust-building"
+  - "psychological-safety"
   - "creator-economy"
   - "brand-strategy"
 source_guest: Alex Hardiman

@@ -4,7 +4,7 @@ title: At the nascent stage, focus on extreme satisfaction for 3-5 customers, no
 concepts:
   - "early-stage-startups"
   - "customer-validation"
-  - "mvp"
+  - "minimum-viable-product"
   - "founder-led-sales"
 source_guest: Todd Jackson
 source_episode: A framework for finding product-market fit | Todd Jackson (First Round Capital)

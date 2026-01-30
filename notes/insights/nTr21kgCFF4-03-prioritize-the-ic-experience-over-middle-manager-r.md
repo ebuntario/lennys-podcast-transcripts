@@ -3,7 +3,7 @@ type: insight
 title: Prioritize the IC experience over middle-manager reporting features
 concepts:
   - "user-centric-design"
-  - "product-philosophy"
+  - "product-principles"
   - "b2b-saas"
   - "incentive-alignment"
 source_guest: "Nan Yu"

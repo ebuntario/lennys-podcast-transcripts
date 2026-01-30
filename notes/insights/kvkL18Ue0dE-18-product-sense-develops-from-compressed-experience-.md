@@ -2,7 +2,7 @@
 type: insight
 title: Product sense develops from compressed experience, not innate talent
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "skill-development"
   - "pattern-recognition"
 source_guest: Christina Wodtke

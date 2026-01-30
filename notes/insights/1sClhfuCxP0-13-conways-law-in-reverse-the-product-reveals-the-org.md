@@ -4,7 +4,7 @@ title: Conway's Law in Reverse: The Product Reveals the Org Design
 concepts:
   - "organizational-design"
   - "software-architecture"
-  - "leadership"
+  - "team-leadership"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

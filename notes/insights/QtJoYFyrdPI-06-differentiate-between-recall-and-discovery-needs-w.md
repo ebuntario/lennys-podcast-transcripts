@@ -2,7 +2,7 @@
 type: insight
 title: Differentiate between recall and discovery needs when redesigning core experiences
 concepts:
-  - "user-research"
+  - "customer-research"
   - "product-redesign"
   - "user-habits"
   - "a-b-testing"

@@ -2,7 +2,7 @@
 type: insight
 title: Build separate networks for different career stages
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "networking"
   - "startup-ecosystem"
 source_guest: Ravi Mehta

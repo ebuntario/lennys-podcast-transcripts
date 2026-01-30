@@ -3,7 +3,7 @@ type: insight
 title: Interpret "be more likable" feedback as "expand your toolkit"
 concepts:
   - "feedback"
-  - "career-development"
+  - "professional-growth"
   - "authenticity"
 source_guest: Ami Vora
 source_episode: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)

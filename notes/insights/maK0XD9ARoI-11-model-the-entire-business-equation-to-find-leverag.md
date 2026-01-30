@@ -3,7 +3,7 @@ type: insight
 title: Model the entire business equation to find leverage points
 concepts:
   - "business-model-math"
-  - "unit-economics"
+  - "saas-metrics"
   - "data-driven-decisions"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)

@@ -4,7 +4,7 @@ title: Strategy is an informed bet that requires continuous reevaluation
 concepts:
   - "strategy"
   - "decision-making"
-  - "data-informed-decisions"
+  - "data-driven-decisions"
 source_guest: Melissa Perri
 source_episode: Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)
 source: "[[guests/melissa|Melissa]]"

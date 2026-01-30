@@ -3,7 +3,7 @@ type: insight
 title: Shift sales compensation to reward retention, not just new logos
 concepts:
   - "sales-compensation"
-  - "customer-retention"
+  - "retention"
   - "incentive-alignment"
   - "net-dollar-retention"
 source_guest: "Sahil Mansuri"

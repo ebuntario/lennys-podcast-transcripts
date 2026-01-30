@@ -2,9 +2,9 @@
 type: insight
 title: Foster a culture of speed, optimism, and customer-centricity from the start
 concepts:
-  - "company-culture"
+  - "organizational-culture"
   - "operational-speed"
-  - "customer-obsession"
+  - "user-centric-design"
   - "remote-work"
 source_guest: Meltem Kuran Berkowitz
 source_episode: An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)

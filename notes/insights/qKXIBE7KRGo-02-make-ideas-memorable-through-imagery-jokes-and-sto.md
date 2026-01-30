@@ -2,9 +2,9 @@
 type: insight
 title: Make Ideas Memorable Through Imagery, Jokes, and Stories
 concepts:
-  - "messaging-strategy"
+  - "messaging"
   - "idea-virality"
-  - "communication-frameworks"
+  - "team-communication"
 source_guest: Lulu Cheng Meservey
 source_episode: Gain attention as an underdog with this framework | Lulu Cheng Meservey
 source: "[[guests/lulu-cheng-meservey|Lulu Cheng Meservey]]"

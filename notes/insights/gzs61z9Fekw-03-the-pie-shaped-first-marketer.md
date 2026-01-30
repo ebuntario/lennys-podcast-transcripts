@@ -2,7 +2,7 @@
 type: insight
 title: The "Pie-Shaped" First Marketer
 concepts:
-  - "hiring-strategy"
+  - "hiring-process"
   - "marketing-roles"
   - "generalist-vs-specialist"
 source_guest: Emily Kramer

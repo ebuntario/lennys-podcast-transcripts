@@ -15,7 +15,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/relationship-building]] (1 shared insights)
-- [[concepts/trust]] (1 shared insights)
+- [[concepts/networking]] (1 shared insights)
+- [[concepts/psychological-safety]] (1 shared insights)
 - [[concepts/surrender]] (1 shared insights)
 - [[concepts/life-metaphor]] (1 shared insights)

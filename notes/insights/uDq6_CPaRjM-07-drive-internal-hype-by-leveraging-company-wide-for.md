@@ -3,7 +3,7 @@ type: insight
 title: Drive internal hype by leveraging company-wide forums for demos
 concepts:
   - "internal-buy-in"
-  - "product-launch"
+  - "launch-strategy"
   - "momentum"
 source_guest: "Mihika Kapoor"
 source_episode: "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)"

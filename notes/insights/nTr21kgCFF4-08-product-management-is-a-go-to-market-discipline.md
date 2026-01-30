@@ -2,8 +2,8 @@
 type: insight
 title: Product Management is a go-to-market discipline
 concepts:
-  - "product-management"
-  - "go-to-market-strategy"
+  - "product-leadership"
+  - "go-to-market"
   - "cross-functional-collaboration"
 source_guest: "Nan Yu"
 source_episode: "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"

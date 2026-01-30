@@ -2,7 +2,7 @@
 type: insight
 title: Ramp-up time is normal; focus on learning before changing
 concepts:
-  - "user-onboarding"
+  - "onboarding"
   - "humility"
   - "learning"
 source_guest: Ami Vora

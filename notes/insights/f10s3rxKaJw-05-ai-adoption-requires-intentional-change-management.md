@@ -4,7 +4,7 @@ title: AI adoption requires intentional change management
 concepts:
   - "change-management"
   - "ai-adoption"
-  - "developer-workflow"
+  - "developer-experience"
 source_guest: Inbal Shani
 source_episode: The future of AI in software development | Inbal Shani (CPO of GitHub)
 source: "[[guests/inbal-s|Inbal S]]"

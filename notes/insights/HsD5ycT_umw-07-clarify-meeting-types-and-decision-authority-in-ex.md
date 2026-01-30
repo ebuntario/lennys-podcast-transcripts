@@ -2,7 +2,7 @@
 type: insight
 title: Clarify meeting types and decision authority in executive reviews
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "meeting-management"
   - "decision-making"
 source_guest: Sriram Krishnan

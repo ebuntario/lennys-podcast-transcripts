@@ -3,8 +3,8 @@ type: insight
 title: Clear communication is more critical with AI agents than with human engineers
 concepts:
   - "ai-applications"
-  - "product-management"
-  - "communication"
+  - "product-leadership"
+  - "team-communication"
 source_guest: Anton Osika
 source_episode: Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 source: "[[guests/anton-osika|Anton Osika]]"

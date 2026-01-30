@@ -4,7 +4,7 @@ title: Open participation and transparency build trust
 concepts:
   - "trust-and-safety"
   - "transparency"
-  - "product-philosophy"
+  - "product-principles"
 source_guest: Keith Coleman
 source_episode: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter
 source: "[[guests/keith-coleman-and-jay-baxter|Keith Coleman & Jay Baxter]]"

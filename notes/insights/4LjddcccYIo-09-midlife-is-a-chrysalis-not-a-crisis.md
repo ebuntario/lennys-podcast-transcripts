@@ -2,7 +2,7 @@
 type: insight
 title: Midlife is a chrysalis, not a crisis
 concepts:
-  - "personal-development"
+  - "personal-growth"
   - "mindset"
   - "life-transitions"
 source_guest: Chip Conley

@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/experimentation]] (3 shared insights)
+- [[concepts/testing]] (3 shared insights)
 - [[concepts/early-testing]] (1 shared insights)
 - [[concepts/product-led-growth]] (1 shared insights)
 - [[concepts/revenue-attribution]] (1 shared insights)

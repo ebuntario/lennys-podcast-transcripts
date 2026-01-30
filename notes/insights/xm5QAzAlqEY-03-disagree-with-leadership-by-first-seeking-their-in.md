@@ -2,7 +2,7 @@
 type: insight
 title: Disagree with leadership by first seeking their insight
 concepts:
-  - "influence-without-authority"
+  - "persuasion"
   - "strategic-alignment"
   - "humility"
   - "decision-making"

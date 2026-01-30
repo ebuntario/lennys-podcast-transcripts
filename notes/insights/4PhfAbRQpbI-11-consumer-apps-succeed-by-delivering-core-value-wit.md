@@ -2,7 +2,7 @@
 type: insight
 title: Consumer apps succeed by delivering core value within three seconds
 concepts:
-  - "user-onboarding"
+  - "onboarding"
   - "time-to-value"
   - "product-design"
 source_guest: Nikita Bier

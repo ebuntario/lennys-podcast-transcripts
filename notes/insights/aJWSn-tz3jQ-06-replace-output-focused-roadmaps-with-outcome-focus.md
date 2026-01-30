@@ -2,7 +2,7 @@
 type: insight
 title: Replace output-focused roadmaps with outcome-focused roadmaps
 concepts:
-  - "roadmapping"
+  - "roadmap-planning"
   - "outcome-over-output"
   - "product-planning"
 source_guest: "Itamar Gilad"

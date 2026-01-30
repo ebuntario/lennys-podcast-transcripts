@@ -2,7 +2,7 @@
 type: insight
 title: For sustainable job success, you must be good at it, like it, and the market must care
 concepts:
-  - "career-development"
+  - "professional-growth"
   - "job-fit"
   - "motivation"
 source_guest: Jonathan Lowenhar

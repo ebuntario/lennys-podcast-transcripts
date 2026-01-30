@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/career-advancement]] (1 shared insights)
+- [[concepts/professional-growth]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)
 - [[concepts/intellectual-fearlessness]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: Flatten team structure for deep technical understanding
 concepts:
   - "organizational-design"
-  - "engineering-leadership"
+  - "technical-leadership"
   - "fast-paced-environments"
 source_guest: "Varun Mohan"
 source_episode: "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf"

@@ -3,7 +3,7 @@ type: insight
 title: The 1000 True Fans Model is a Starting Point, Not a Ceiling
 concepts:
   - "monetization-strategy"
-  - "audience-building"
+  - "audience-engagement"
   - "niche-creation"
 source_guest: Sachin Monga
 source_episode: Building Substack | Sachin Monga (Substack, Facebook)

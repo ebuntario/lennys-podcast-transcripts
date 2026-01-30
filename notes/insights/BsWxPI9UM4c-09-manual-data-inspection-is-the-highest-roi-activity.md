@@ -3,8 +3,8 @@ type: insight
 title: Manual data inspection is the highest ROI activity
 concepts:
   - "error-analysis"
-  - "product-management"
-  - "data-analytics"
+  - "product-leadership"
+  - "data-analysis"
 source_guest: Hamel Husain
 source_episode: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar
 source: "[[guests/hamel-husain-and-shreya-shankar|Hamel Husain & Shreya Shankar]]"

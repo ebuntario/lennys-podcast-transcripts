@@ -4,7 +4,7 @@ title: The Power of "Path Expert" Conversations
 concepts:
   - "networking"
   - "career-exploration"
-  - "mentorship"
+  - "coaching"
 source_guest: Paul Millerd
 source_episode: Redefining success, money, and belonging | Paul Millerd (The Pathless Path)
 source: "[[guests/paul-millerd|Paul Millerd]]"

@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/audience-building]] (1 shared insights)
-- [[concepts/community-engagement]] (1 shared insights)
+- [[concepts/audience-engagement]] (1 shared insights)
+- [[concepts/community-building]] (1 shared insights)

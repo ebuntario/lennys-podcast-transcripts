@@ -15,6 +15,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)
 - [[concepts/personal-brand]] (1 shared insights)
 - [[concepts/learning]] (1 shared insights)

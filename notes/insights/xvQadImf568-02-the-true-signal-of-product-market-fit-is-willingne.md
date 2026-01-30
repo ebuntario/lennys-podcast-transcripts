@@ -3,7 +3,7 @@ type: insight
 title: The true signal of product-market fit is willingness to pay
 concepts:
   - "product-market-fit"
-  - "monetization"
+  - "monetization-strategy"
   - "customer-feedback"
   - "value-proposition"
 source_guest: Naomi Ionita

@@ -3,7 +3,7 @@ type: insight
 title: Use the CEDAF framework for effective delegation
 concepts:
   - "delegation-framework"
-  - "risk-mitigation"
+  - "risk-management"
   - "feedback-loops"
 source_guest: "Wes Kao"
 source_episode: "Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)"

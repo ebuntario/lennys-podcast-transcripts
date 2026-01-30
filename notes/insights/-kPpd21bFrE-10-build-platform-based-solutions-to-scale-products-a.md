@@ -3,7 +3,7 @@ type: insight
 title: Build platform-based solutions to scale products across multiple markets efficiently
 concepts:
   - "platform-strategy"
-  - "scalability"
+  - "scalable-systems"
   - "organizational-effectiveness"
 source_guest: Dmitry Zlokazov
 source_episode: How Revolut trains world-class PMs: The "Local CEO" model, raw intellect & building wow products

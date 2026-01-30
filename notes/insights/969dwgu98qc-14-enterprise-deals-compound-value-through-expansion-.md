@@ -2,7 +2,7 @@
 type: insight
 title: Enterprise deals compound value through expansion and partnership
 concepts:
-  - "enterprise-sales"
+  - "b2b-sales"
   - "customer-lifetime-value"
   - "account-management"
 source_guest: Jen Abel

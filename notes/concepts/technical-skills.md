@@ -18,6 +18,6 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/hiring]] (1 shared insights)
-- [[concepts/continuous-learning]] (1 shared insights)
+- [[concepts/learning]] (1 shared insights)
 - [[concepts/ai-engineering]] (1 shared insights)
 - [[concepts/ai-agents]] (1 shared insights)

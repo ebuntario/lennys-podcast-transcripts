@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/marketplace-dynamics]] (1 shared insights)
+- [[concepts/marketplace-strategy]] (1 shared insights)
 - [[concepts/network-effects]] (1 shared insights)

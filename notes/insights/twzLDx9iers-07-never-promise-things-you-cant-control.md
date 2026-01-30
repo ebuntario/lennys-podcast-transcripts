@@ -4,7 +4,7 @@ title: Never promise things you can't control
 concepts:
   - "management"
   - "hiring"
-  - "communication"
+  - "team-communication"
 source_guest: Molly Graham
 source_episode: "I like being scared: Molly Graham's frameworks for rapid career growth"
 source: "[[guests/molly-graham|Molly Graham]]"

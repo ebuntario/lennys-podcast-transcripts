@@ -4,7 +4,7 @@ title: Companies are mathematical equations, not just products
 concepts:
   - "business-model-math"
   - "product-strategy"
-  - "unit-economics"
+  - "saas-metrics"
 source_guest: Tom Conrad
 source_episode: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)
 source: "[[guests/tom-conrad|Tom Conrad]]"

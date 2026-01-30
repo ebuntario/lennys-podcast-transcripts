@@ -4,7 +4,7 @@ title: Senior engineers use AI for parallelized, systematic prototyping
 concepts:
   - "ai-workflow"
   - "system-design"
-  - "rapid-prototyping"
+  - "prototyping"
 source_guest: "Nicole Forsgren"
 source_episode: "How to measure AI developer productivity in 2025 | Nicole Forsgren"
 source: "[[guests/nicole-forsgren-20|Nicole Forsgren 2.0]]"

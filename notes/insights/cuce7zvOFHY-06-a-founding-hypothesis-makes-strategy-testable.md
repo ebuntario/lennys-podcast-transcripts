@@ -4,7 +4,7 @@ title: A founding hypothesis makes strategy testable
 concepts:
   - "hypothesis-testing"
   - "product-strategy"
-  - "experimentation"
+  - "testing"
 source_guest: Jake Knapp
 source_episode: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)
 source: "[[guests/jake-knapp-john-zeratsky-20|Jake Knapp + John Zeratsky 2.0]]"

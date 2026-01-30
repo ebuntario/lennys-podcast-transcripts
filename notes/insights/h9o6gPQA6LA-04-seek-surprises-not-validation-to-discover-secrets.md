@@ -3,7 +3,7 @@ type: insight
 title: Seek surprises, not validation, to discover secrets
 concepts:
   - "earned-secrets"
-  - "experimentation"
+  - "testing"
   - "truth-seeking"
 source_guest: "Mike Maples Jr"
 source_episode: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"

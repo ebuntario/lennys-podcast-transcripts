@@ -4,7 +4,7 @@ title: Choose Excellence Over Speed When Forced to Decide
 concepts:
   - "product-development"
   - "decision-making"
-  - "experimentation"
+  - "testing"
 source_guest: Anuj Rathi
 source_episode: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 source: "[[guests/anuj-rathi|Anuj Rathi]]"

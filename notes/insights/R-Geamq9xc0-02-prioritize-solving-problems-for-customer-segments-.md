@@ -3,8 +3,8 @@ type: insight
 title: Prioritize solving problems for customer segments that energize you
 concepts:
   - "career-motivation"
-  - "customer-centricity"
-  - "mission-alignment"
+  - "user-centric-design"
+  - "purpose"
 source_guest: Gokul Rajaram
 source_episode: What AI means for your product strategy | Paul Adams (CPO of Intercom)
 source: "[[guests/gokul-rajaram|Gokul Rajaram]]"

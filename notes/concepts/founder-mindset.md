@@ -21,4 +21,4 @@ SORT file.name ASC
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/product-market-fit]] (1 shared insights)
 - [[concepts/growth-loops]] (1 shared insights)
-- [[concepts/mentorship]] (1 shared insights)
+- [[concepts/coaching]] (1 shared insights)

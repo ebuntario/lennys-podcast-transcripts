@@ -4,7 +4,7 @@ title: The flexible and contextual nature of a Minimum Viable Product (MVP)
 concepts:
   - "minimum-viable-product"
   - "leap-of-faith-assumptions"
-  - "experimentation"
+  - "testing"
 source_guest: Eric Ries
 source_episode: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
 source: "[[guests/eric-ries|Eric Ries]]"

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/product-design]] (1 shared insights)
-- [[concepts/marketplace-dynamics]] (1 shared insights)
+- [[concepts/marketplace-strategy]] (1 shared insights)

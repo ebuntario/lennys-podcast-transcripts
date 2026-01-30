@@ -4,7 +4,7 @@ title: Don't ship flat experiments
 concepts:
   - "launch-criteria"
   - "cost-of-complexity"
-  - "decision-frameworks"
+  - "decision-making"
 source_guest: Ronny Kohavi
 source_episode: The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)
 source: "[[guests/ronny-kohavi|Ronny Kohavi]]"

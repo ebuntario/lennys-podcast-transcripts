@@ -2,7 +2,7 @@
 type: insight
 title: Founder-led taste can replace metrics as a quality bar
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "product-development"
   - "decision-making"
 source_guest: Archie Abrams

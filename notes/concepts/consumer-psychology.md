@@ -17,7 +17,7 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/value-based-pricing]] (1 shared insights)
 - [[concepts/growth-levers]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)
 - [[concepts/product-adoption]] (1 shared insights)

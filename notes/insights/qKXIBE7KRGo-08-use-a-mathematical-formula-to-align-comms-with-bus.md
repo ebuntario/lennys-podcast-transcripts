@@ -3,8 +3,8 @@ type: insight
 title: Use a Mathematical Formula to Align Comms with Business Goals
 concepts:
   - "strategic-communication"
-  - "goal-alignment"
-  - "measurement"
+  - "goal-setting"
+  - "success-metrics"
 source_guest: Lulu Cheng Meservey
 source_episode: Gain attention as an underdog with this framework | Lulu Cheng Meservey
 source: "[[guests/lulu-cheng-meservey|Lulu Cheng Meservey]]"

@@ -2,8 +2,8 @@
 type: insight
 title: Leaders must explain their reasoning to create shared understanding and trust
 concepts:
-  - "leadership"
-  - "communication"
+  - "team-leadership"
+  - "team-communication"
   - "organizational-culture"
   - "decision-making"
 source_guest: Gustav Söderström

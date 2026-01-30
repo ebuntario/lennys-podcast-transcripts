@@ -18,7 +18,7 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-culture]] (1 shared insights)
-- [[concepts/leadership]] (1 shared insights)
+- [[concepts/team-leadership]] (1 shared insights)
 - [[concepts/team-culture]] (1 shared insights)
-- [[concepts/collaboration]] (1 shared insights)
+- [[concepts/team-collaboration]] (1 shared insights)
 - [[concepts/team-health]] (1 shared insights)

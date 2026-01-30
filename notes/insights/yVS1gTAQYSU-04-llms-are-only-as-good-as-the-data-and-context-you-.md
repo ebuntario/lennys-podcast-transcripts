@@ -4,7 +4,7 @@ title: LLMs are only as good as the data and context you provide
 concepts:
   - "llm-synthesis"
   - "data-quality"
-  - "ai-products"
+  - "ai-applications"
 source_guest: Shaun Clowes
 source_episode: Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)
 source: "[[guests/shaun-clowes|Shaun Clowes]]"

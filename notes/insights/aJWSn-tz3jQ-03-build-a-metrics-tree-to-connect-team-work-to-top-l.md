@@ -2,8 +2,8 @@
 type: insight
 title: Build a metrics tree to connect team work to top-level goals
 concepts:
-  - "metrics"
-  - "goal-alignment"
+  - "success-metrics"
+  - "goal-setting"
   - "impact-estimation"
   - "team-topology"
 source_guest: "Itamar Gilad"

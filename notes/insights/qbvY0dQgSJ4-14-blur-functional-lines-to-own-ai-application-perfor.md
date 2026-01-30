@@ -2,7 +2,7 @@
 type: insight
 title: Blur functional lines to own AI application performance
 concepts:
-  - "organizational-structure"
+  - "organizational-design"
   - "cross-functional-collaboration"
   - "evaluation"
 source_guest: Chip Huyen

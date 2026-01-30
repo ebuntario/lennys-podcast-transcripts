@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/problem-solving]] (1 shared insights)
-- [[concepts/stakeholder-management]] (1 shared insights)
+- [[concepts/creative-problem-solving]] (1 shared insights)
+- [[concepts/relationship-management]] (1 shared insights)
 - [[concepts/systems-thinking]] (1 shared insights)

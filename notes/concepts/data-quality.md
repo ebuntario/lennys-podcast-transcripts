@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/execution]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)
 - [[concepts/systems-thinking]] (1 shared insights)

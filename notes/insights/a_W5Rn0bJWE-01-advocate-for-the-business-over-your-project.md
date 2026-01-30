@@ -4,7 +4,7 @@ title: Advocate for the business over your project
 concepts:
   - "product-strategy"
   - "organizational-health"
-  - "career-advancement"
+  - "professional-growth"
   - "prioritization"
 source_guest: Noam Lovinsky
 source_episode: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)

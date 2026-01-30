@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/scaling]] (1 shared insights)
+- [[concepts/scalable-systems]] (1 shared insights)
 - [[concepts/organizational-excellence]] (1 shared insights)

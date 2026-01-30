@@ -17,8 +17,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/customer-obsession]] (2 shared insights)
-- [[concepts/pricing-strategy]] (1 shared insights)
+- [[concepts/user-centric-design]] (2 shared insights)
+- [[concepts/value-based-pricing]] (1 shared insights)
 - [[concepts/innovation]] (1 shared insights)
 - [[concepts/risk-taking]] (1 shared insights)
-- [[concepts/decision-frameworks]] (1 shared insights)
+- [[concepts/decision-making]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Use dynamic or usage-based trial lengths to cater to different customer evaluation times
 concepts:
   - "trial-strategy"
-  - "pricing-strategy"
-  - "customer-segmentation"
+  - "value-based-pricing"
+  - "segmentation"
 source_guest: Ben Williams
 source_episode: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 source: "[[guests/ben-williams|Ben Williams]]"

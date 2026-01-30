@@ -3,7 +3,7 @@ type: insight
 title: The hybrid model of for-profit, nonprofit, and open source
 concepts:
   - "open-source-business-models"
-  - "organizational-structure"
+  - "organizational-design"
   - "stewardship"
 source_guest: "Matt Mullenweg"
 source_episode: "The one question that saves product careers | Matt LeMay"

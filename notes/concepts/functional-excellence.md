@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/organizational-design]] (1 shared insights)
-- [[concepts/cross-functional-teams]] (1 shared insights)
+- [[concepts/cross-functional-collaboration]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Marketing as Fuel and Engine
 concepts:
   - "marketing-framework"
-  - "content-strategy"
-  - "distribution-channels"
+  - "thought-leadership"
+  - "distribution-strategy"
 source_guest: Emily Kramer
 source_episode: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)
 source: "[[guests/emily-kramer|Emily Kramer]]"

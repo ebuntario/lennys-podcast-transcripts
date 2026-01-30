@@ -3,7 +3,7 @@ type: insight
 title: Follow the organizational "heat" to where impact is needed
 concepts:
   - "organizational-dynamics"
-  - "career-development"
+  - "professional-growth"
   - "startup-growth-phases"
 source_guest: "Raaz Herzberg"
 source_episode: "Building Wiz: the fastest-growing startup in history"

@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/technical-depth]] (1 shared insights)
-- [[concepts/customer-empathy]] (1 shared insights)
+- [[concepts/empathy]] (1 shared insights)

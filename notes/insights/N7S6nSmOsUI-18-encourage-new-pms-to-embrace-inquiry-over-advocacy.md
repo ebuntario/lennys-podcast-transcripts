@@ -2,9 +2,9 @@
 type: insight
 title: Encourage new PMs to embrace inquiry over advocacy
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "mindset"
-  - "collaboration"
+  - "team-collaboration"
 source_guest: Paige Costello
 source_episode: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 source: "[[guests/paige-costello|Paige Costello]]"

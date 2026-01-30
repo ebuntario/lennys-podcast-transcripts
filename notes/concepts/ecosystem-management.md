@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/marketplace-strategy]] (1 shared insights)
-- [[concepts/incentive-design]] (1 shared insights)
+- [[concepts/incentive-alignment]] (1 shared insights)

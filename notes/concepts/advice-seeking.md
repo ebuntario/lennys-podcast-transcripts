@@ -20,4 +20,4 @@ SORT file.name ASC
 - [[concepts/decision-making]] (1 shared insights)
 - [[concepts/feedback]] (1 shared insights)
 - [[concepts/curiosity-loop]] (1 shared insights)
-- [[concepts/communication]] (1 shared insights)
+- [[concepts/team-communication]] (1 shared insights)

@@ -3,8 +3,8 @@ type: insight
 title: Structure strategy work into insights, strategy, and big rocks
 concepts:
   - "organizational-product-strategy"
-  - "strategic-thinking"
-  - "execution"
+  - "systems-thinking"
+  - "strategy-execution"
 source_guest: Ebi Atawodi
 source_episode: Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)
 source: "[[guests/ebi-atawodi|Ebi Atawodi]]"

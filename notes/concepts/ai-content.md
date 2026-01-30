@@ -17,5 +17,5 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/content-strategy]] (1 shared insights)
+- [[concepts/thought-leadership]] (1 shared insights)
 - [[concepts/seo-strategy]] (1 shared insights)

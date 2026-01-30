@@ -3,7 +3,7 @@ type: insight
 title: Leaders must use AI tools personally to drive organizational adoption
 concepts:
   - "ai-adoption"
-  - "leadership"
+  - "team-leadership"
   - "hands-on-experimentation"
 source_guest: Dhanji R. Prasanna
 source_episode: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna

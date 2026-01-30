@@ -3,7 +3,7 @@ type: insight
 title: The North Star Metric Translation Layer
 concepts:
   - "north-star-metric"
-  - "goal-alignment"
+  - "goal-setting"
   - "team-prioritization"
   - "data-driven-decisions"
 source_guest: "Sri Batchu"

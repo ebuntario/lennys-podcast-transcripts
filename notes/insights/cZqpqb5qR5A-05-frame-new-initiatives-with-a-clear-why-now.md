@@ -4,7 +4,7 @@ title: Frame new initiatives with a clear "why now"
 concepts:
   - "business-case"
   - "organizational-alignment"
-  - "opportunity-evaluation"
+  - "opportunity-identification"
   - "sense-of-urgency"
 source_guest: Tanguy Crusson
 source_episode: Hard-won lessons building 0 to 1 inside Atlassian

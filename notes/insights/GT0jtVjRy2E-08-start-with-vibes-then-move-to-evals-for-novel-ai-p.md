@@ -4,7 +4,7 @@ title: Start with vibes, then move to evals for novel AI products
 concepts:
   - "ai-evaluation"
   - "product-discovery"
-  - "experimentation"
+  - "testing"
 source_guest: Howie Liu
 source_episode: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)
 source: "[[guests/howie-liu|Howie Liu]]"

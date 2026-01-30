@@ -4,7 +4,7 @@ title: Use your calendar as a design canvas, not just a record of commitments
 concepts:
   - "time-blocking"
   - "proactive-planning"
-  - "calendar-management"
+  - "time-management"
 source_guest: John Zeratsky
 source_episode: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)
 source: "[[guests/jake-knapp-john-zeratsky|Jake Knapp + John Zeratsky]]"

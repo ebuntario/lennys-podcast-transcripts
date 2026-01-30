@@ -3,7 +3,7 @@ type: insight
 title: AI operations lead as a dedicated role for workflow automation
 concepts:
   - "ai-operations"
-  - "workflow-automation"
+  - "automation"
   - "ai-adoption"
 source_guest: Dan Shipper
 source_episode: The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)

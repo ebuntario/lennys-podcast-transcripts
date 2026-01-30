@@ -3,7 +3,7 @@ type: insight
 title: Map the "physics" of your market, product, model, and channels for growth
 concepts:
   - "strategic-growth-management"
-  - "business-models"
+  - "business-model"
   - "market-research"
 source_guest: Crystal Widjaja
 source_episode: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu

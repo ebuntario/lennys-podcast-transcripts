@@ -4,7 +4,7 @@ title: Map the customer journey through value milestones, not business-centric s
 concepts:
   - "customer-journey-mapping"
   - "value-milestones"
-  - "customer-centricity"
+  - "user-centric-design"
   - "product-activation"
 source_guest: "Georgiana Laudi"
 source_episode: "Customer-led growth | Georgiana Laudi (Forget The Funnel)"

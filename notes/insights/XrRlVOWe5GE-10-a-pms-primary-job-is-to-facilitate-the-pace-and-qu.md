@@ -2,7 +2,7 @@
 type: insight
 title: A PM's primary job is to facilitate the pace and quality of decisions
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "team-facilitation"
   - "decision-making"
 source_guest: Noah Weiss

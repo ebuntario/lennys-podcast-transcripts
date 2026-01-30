@@ -4,7 +4,7 @@ title: Community amplifies word-of-mouth and retention in new categories
 concepts:
   - "community-building"
   - "word-of-mouth"
-  - "customer-retention"
+  - "retention"
 source_guest: Elena Verna
 source_episode: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
 source: "[[guests/elena-verna-40|Elena Verna 4.0]]"

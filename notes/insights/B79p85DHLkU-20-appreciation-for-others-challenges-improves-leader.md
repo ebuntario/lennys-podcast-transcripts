@@ -2,7 +2,7 @@
 type: insight
 title: Appreciation for others' challenges improves leadership and decision-making
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "empathy"
   - "perspective-taking"
 source_guest: Austin Hay

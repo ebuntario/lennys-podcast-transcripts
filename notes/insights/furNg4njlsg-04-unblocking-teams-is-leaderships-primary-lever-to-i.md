@@ -4,7 +4,7 @@ title: Unblocking teams is leadership's primary lever to increase velocity
 concepts:
   - "product-leadership"
   - "team-velocity"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 source: "[[guests/varun-parmar|Varun Parmar]]"

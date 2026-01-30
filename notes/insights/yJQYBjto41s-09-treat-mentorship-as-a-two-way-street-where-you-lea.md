@@ -2,7 +2,7 @@
 type: insight
 title: Treat mentorship as a two-way street where you learn from those you guide
 concepts:
-  - "leadership"
+  - "team-leadership"
   - "learning"
   - "team-culture"
 source_guest: Dylan Field

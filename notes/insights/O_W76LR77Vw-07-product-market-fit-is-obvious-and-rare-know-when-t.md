@@ -4,7 +4,7 @@ title: Product Market Fit is Obvious and Rare; Know When to Quit
 concepts:
   - "product-market-fit"
   - "startup-advice"
-  - "founder-psychology"
+  - "founder-mindset"
 source_guest: "Matt MacInnis"
 source_episode: "I deliberately understaff every project | Leadership lessons from Rippling's $16B journey"
 source: "[[guests/matt-macinnis|Matt MacInnis]]"

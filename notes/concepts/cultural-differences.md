@@ -17,6 +17,6 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/ownership-mindset]] (1 shared insights)
+- [[concepts/ownership]] (1 shared insights)
 - [[concepts/compensation]] (1 shared insights)
 - [[concepts/equity]] (1 shared insights)

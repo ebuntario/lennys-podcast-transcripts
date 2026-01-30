@@ -15,8 +15,8 @@ SORT file.name ASC
 
 ## Related Concepts
 
-- [[concepts/leadership]] (2 shared insights)
+- [[concepts/team-leadership]] (2 shared insights)
 - [[concepts/curiosity]] (1 shared insights)
-- [[concepts/execution]] (1 shared insights)
+- [[concepts/strategy-execution]] (1 shared insights)
 - [[concepts/strategy]] (1 shared insights)
-- [[concepts/user-onboarding]] (1 shared insights)
+- [[concepts/onboarding]] (1 shared insights)

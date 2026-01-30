@@ -3,7 +3,7 @@ type: insight
 title: Build multidisciplinary teams for rapid, high-quality iteration
 concepts:
   - "team-structure"
-  - "collaboration"
+  - "team-collaboration"
   - "product-development"
 source_guest: "Katie Dill"
 source_episode: "Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"

@@ -2,9 +2,9 @@
 type: insight
 title: Gross margin analysis as a quick filter for business viability and differentiation
 concepts:
-  - "business-models"
-  - "unit-economics"
-  - "value-creation"
+  - "business-model"
+  - "saas-metrics"
+  - "value-proposition"
 source_guest: Jason Droege
 source_episode: Scale AI CEO on Meta's $80B deal, scaling Uber Eats to $80B, & what frontier labs are building next
 source: "[[guests/jason-droege|Jason Droege]]"

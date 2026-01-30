@@ -2,10 +2,10 @@
 type: insight
 title: Recognize market phase by budget availability
 concepts:
-  - "market-analysis"
+  - "market-research"
   - "buyer-readiness"
   - "sales-qualification"
-  - "go-to-market-strategy"
+  - "go-to-market"
 source_guest: Geoffrey Moore
 source_episode: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market
 source: "[[guests/geoffrey-moore|Geoffrey Moore]]"

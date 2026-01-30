@@ -3,7 +3,7 @@ type: insight
 title: Define a Minimal Lovable Product based on user context and alternatives
 concepts:
   - "product-development"
-  - "user-experience"
+  - "customer-experience"
   - "quality-bar"
 source_guest: Jiaona Zhang
 source_episode: Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang

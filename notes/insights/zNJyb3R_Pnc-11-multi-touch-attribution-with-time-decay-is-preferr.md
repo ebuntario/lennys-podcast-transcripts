@@ -5,7 +5,7 @@ concepts:
   - "attribution-modeling"
   - "multi-touch-attribution"
   - "campaign-measurement"
-  - "data-analytics"
+  - "data-analysis"
 source_guest: Timothy Davis
 source_episode: The ultimate guide to paid growth | Timothy Davis (Shopify)
 source: "[[guests/timothy-davis|Timothy Davis]]"

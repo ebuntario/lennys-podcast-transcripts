@@ -4,7 +4,7 @@ title: Value is the most overlooked risk
 concepts:
   - "customer-value-creation"
   - "product-discovery"
-  - "product-roadmaps"
+  - "roadmap-planning"
 source_guest: Christian Idiodi
 source_episode: The essence of product management | Christian Idiodi (SVPG)
 source: "[[guests/christian-idiodi|Christian Idiodi]]"

@@ -2,9 +2,9 @@
 type: insight
 title: Blending consumer and enterprise product mindsets
 concepts:
-  - "product-thinking"
+  - "product-design"
   - "b2b2c"
-  - "career-development"
+  - "professional-growth"
 source_guest: Annie Pearl
 source_episode: Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)
 source: "[[guests/annie-pearl|Annie Pearl]]"

@@ -4,7 +4,7 @@ title: Write Down Limiting Beliefs to Disarm Them
 concepts:
   - "limiting-beliefs"
   - "self-awareness"
-  - "problem-solving"
+  - "creative-problem-solving"
 source_guest: Graham Weaver
 source_episode: How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)
 source: "[[guests/graham-weaver|Graham Weaver]]"

@@ -2,7 +2,7 @@
 type: insight
 title: Build a working version in the first 10% of the time
 concepts:
-  - "rapid-prototyping"
+  - "prototyping"
   - "hypothesis-testing"
   - "product-validation"
 source_guest: "Nan Yu"

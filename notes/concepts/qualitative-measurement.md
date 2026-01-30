@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/metrics-selection]] (1 shared insights)
-- [[concepts/experimentation-mindset]] (1 shared insights)
+- [[concepts/testing]] (1 shared insights)

@@ -3,7 +3,7 @@ type: insight
 title: AI strategies require balancing use cases and talent
 concepts:
   - "ai-strategy"
-  - "organizational-structure"
+  - "organizational-design"
   - "talent-development"
 source_guest: Chip Huyen
 source_episode: AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)

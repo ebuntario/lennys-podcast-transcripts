@@ -2,7 +2,7 @@
 type: insight
 title: Apply More Pressure by Decreasing Your Message's Surface Area
 concepts:
-  - "messaging-strategy"
+  - "messaging"
   - "resource-allocation"
   - "audience-targeting"
 source_guest: Lulu Cheng Meservey

@@ -2,7 +2,7 @@
 type: insight
 title: Look for directional momentum, not statistical significance, in early channel tests
 concepts:
-  - "experimentation"
+  - "testing"
   - "growth-metrics"
   - "early-testing"
 source_guest: Adam Grenier

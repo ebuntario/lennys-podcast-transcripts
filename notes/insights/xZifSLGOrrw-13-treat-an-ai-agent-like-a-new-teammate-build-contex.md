@@ -3,7 +3,7 @@ type: insight
 title: Treat an AI agent like a new teammate: build context, align on a plan, then delegate
 concepts:
   - "ai-agents"
-  - "collaboration"
+  - "team-collaboration"
   - "prompting-strategies"
 source_guest: Alexander Embiricos
 source_episode: How to drive word of mouth | Nilan Peiris (CPO of Wise)

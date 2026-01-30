@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/value-exchange]] (1 shared insights)
-- [[concepts/creator-monetization]] (1 shared insights)
+- [[concepts/creator-economy]] (1 shared insights)

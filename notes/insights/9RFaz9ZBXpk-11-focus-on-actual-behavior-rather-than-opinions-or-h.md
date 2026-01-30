@@ -3,7 +3,7 @@ type: insight
 title: Focus on actual behavior rather than opinions or hypotheticals
 concepts:
   - "behavioral-insights"
-  - "interview-techniques"
+  - "interviewing"
   - "decision-reliability"
 source_guest: Teresa Torres
 source_episode: Build better products with continuous product discovery | Teresa Torres

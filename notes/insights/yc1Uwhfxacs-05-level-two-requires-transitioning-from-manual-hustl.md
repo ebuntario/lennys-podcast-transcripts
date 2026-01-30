@@ -3,8 +3,8 @@ type: insight
 title: Level two requires transitioning from manual hustle to a scalable demand channel
 concepts:
   - "demand-generation"
-  - "sales-process"
-  - "scaling"
+  - "sales-funnel"
+  - "scalable-systems"
   - "b2b-saas"
 source_guest: Todd Jackson
 source_episode: A framework for finding product-market fit | Todd Jackson (First Round Capital)

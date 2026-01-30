@@ -18,4 +18,4 @@ SORT file.name ASC
 ## Related Concepts
 
 - [[concepts/founder-mindset]] (1 shared insights)
-- [[concepts/cognitive-bias]] (1 shared insights)
+- [[concepts/cognitive-biases]] (1 shared insights)

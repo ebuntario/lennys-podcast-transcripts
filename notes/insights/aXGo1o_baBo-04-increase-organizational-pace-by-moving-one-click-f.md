@@ -2,9 +2,9 @@
 type: insight
 title: Increase organizational pace by moving "one click faster"
 concepts:
-  - "execution"
+  - "strategy-execution"
   - "operational-tempo"
-  - "leadership"
+  - "team-leadership"
 source_guest: Claire Vo
 source_episode: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 source: "[[guests/claire-vo|Claire Vo]]"

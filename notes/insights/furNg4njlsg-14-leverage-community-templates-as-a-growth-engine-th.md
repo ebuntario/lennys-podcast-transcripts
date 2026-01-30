@@ -4,7 +4,7 @@ title: Leverage community templates as a growth engine through SEO and viral ado
 concepts:
   - "product-led-growth"
   - "community-building"
-  - "content-strategy"
+  - "thought-leadership"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 source: "[[guests/varun-parmar|Varun Parmar]]"

@@ -4,7 +4,7 @@ title: Journalists serve their audience, not you
 concepts:
   - "media-pitching"
   - "audience-centricity"
-  - "storytelling"
+  - "narrative"
 source_guest: "Jason Feifer"
 source_episode: "How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)"
 source: "[[guests/jason-feifer|Jason Feifer]]"

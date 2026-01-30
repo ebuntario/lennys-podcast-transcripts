@@ -4,7 +4,7 @@ title: AI will reinvent job matching through skills-based assessment
 concepts:
   - "future-of-work"
   - "ai-in-hiring"
-  - "career-development"
+  - "professional-growth"
 source_guest: Garrett Lord
 source_episode: Inside the expert network training every frontier AI model | Garrett Lord
 source: "[[guests/garrett-lord|Garrett Lord]]"

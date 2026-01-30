@@ -4,7 +4,7 @@ title: Use physical and mental techniques to manage speaking anxiety
 concepts:
   - "public-speaking"
   - "confidence"
-  - "presentation-skills"
+  - "public-speaking"
 source_guest: Janna Bastow
 source_episode: Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)
 source: "[[guests/janna-bastow|Janna Bastow]]"

@@ -3,7 +3,7 @@ type: insight
 title: Frame product work as running experiments, similar to sales
 concepts:
   - "product-experimentation"
-  - "stakeholder-alignment"
+  - "stakeholder-buy-in"
   - "accountability"
 source_guest: Janna Bastow
 source_episode: Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)

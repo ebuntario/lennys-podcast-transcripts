@@ -3,8 +3,8 @@ type: insight
 title: If you land, you must have a plan to expand
 concepts:
   - "land-and-expand"
-  - "monetization"
-  - "pricing-strategy"
+  - "monetization-strategy"
+  - "value-based-pricing"
   - "customer-lifetime-value"
 source_guest: "Madhavan Ramanujam"
 source_episode: "The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)"

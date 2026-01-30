@@ -3,7 +3,7 @@ type: insight
 title: Prioritize evals for pesky, non-obvious failures
 concepts:
   - "prioritization"
-  - "ai-evals"
+  - "ai-evaluation"
   - "product-development"
 source_guest: Shreya Shankar
 source_episode: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar

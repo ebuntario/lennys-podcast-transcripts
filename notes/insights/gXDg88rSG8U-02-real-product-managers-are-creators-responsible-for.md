@@ -2,7 +2,7 @@
 type: insight
 title: Real product managers are creators responsible for value and viability
 concepts:
-  - "product-management"
+  - "product-leadership"
   - "product-manager-skills"
   - "value-proposition"
   - "business-viability"

@@ -4,7 +4,7 @@ title: Avoid distraction by industry fads; double down on what customers value
 concepts:
   - "startup-focus"
   - "product-strategy"
-  - "customer-centricity"
+  - "user-centric-design"
 source_guest: Aarthi Ramamurthy
 source_episode: Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi
 source: "[[guests/sriram-and-aarthi|Sriram and Aarthi]]"

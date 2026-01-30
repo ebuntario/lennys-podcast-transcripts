@@ -2,9 +2,9 @@
 type: insight
 title: Build team-centric products, not persona-centric tools, to win in collaboration markets
 concepts:
-  - "product-vision"
+  - "product-strategy"
   - "market-differentiation"
-  - "user-experience"
+  - "customer-experience"
 source_guest: Varun Parmar
 source_episode: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 source: "[[guests/varun-parmar|Varun Parmar]]"
