@@ -64,7 +64,7 @@ Transcript:
 ${transcript}`;
 
   const response = await openai.chat.completions.create({
-    model: "deepseek/deepseek-chat-v3-0324:free",
+    model: "deepseek/deepseek-v3.2",
     temperature: 0.2,
     max_tokens: 8000,
     messages: [

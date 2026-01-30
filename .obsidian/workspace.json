@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ce60ab0eb7a1d058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e746d25a039b2f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28c0e0fffa0c086",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a015cbd3a515c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbfda91de150e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c6be6052009fd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b63b07f04de6955b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b58d5c7672856a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15acba6e128a1772",
+    "type": "split",
+    "children": [
+      {
+        "id": "0305c582e4ca43d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c685af34127931e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e9188db8dc342dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "74a7da61661734d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc652021c013a301",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f7f32bdf32e0a744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d28c0e0fffa0c086",
+  "lastOpenFiles": [
+    "notes/insights/MajB5CQUKDA-13-coach-yourself-by-reframing-feedback-as-opportunit.md",
+    "notes/insights/MajB5CQUKDA-12-time-your-career-risk-taking-for-maximum-optionali.md",
+    "notes/insights/MajB5CQUKDA-11-make-public-writing-a-consistent-practice-through-.md",
+    "notes/insights/MajB5CQUKDA-10-your-life-partner-significantly-impacts-career-tra.md",
+    "notes/insights/MajB5CQUKDA-09-view-growth-as-a-compounding-game-of-inches.md",
+    "notes/insights/MajB5CQUKDA-08-use-a-structured-30-60-90-day-plan-for-new-role-su.md",
+    "notes/insights/MajB5CQUKDA-07-approach-zero-to-one-projects-with-portfolio-think.md",
+    "notes/insights/MajB5CQUKDA-06-create-psychological-safety-for-introverts-in-meet.md",
+    "notes/insights/MajB5CQUKDA-05-show-product-passion-not-just-process-mastery-in-i.md",
+    "notes/insights/MajB5CQUKDA-04-balance-learning-and-impact-cycles-for-career-grow.md",
+    "notes/insights/MajB5CQUKDA-03-build-resilience-by-viewing-adversity-as-stepping-.md",
+    "notes/insights/MajB5CQUKDA-02-treat-your-career-like-a-product-with-intentional-.md",
+    "notes/insights/MajB5CQUKDA-01-frame-career-communication-as-education-not-self-p.md",
+    "notes/insights/F0_IKKY3HCk-15-build-prototypes-to-help-stakeholders-visualize-th.md",
+    "notes/insights/F0_IKKY3HCk-14-work-with-linguists-to-avoid-cultural-and-linguist.md",
+    "notes/insights/F0_IKKY3HCk-13-names-should-start-stories-not-make-statements.md",
+    "notes/insights/F0_IKKY3HCk-12-generate-thousands-of-ideas-before-evaluating.md",
+    "notes/insights/F0_IKKY3HCk-11-force-synchronicity-by-exploring-unrelated-categor.md",
+    "notes/insights/F0_IKKY3HCk-10-test-names-by-presenting-them-as-competitors.md",
+    "notes/insights/F0_IKKY3HCk-09-use-the-winning-diamond-framework-to-clarify-namin.md",
+    "notes/insights/F0_IKKY3HCk-08-the-com-domain-is-now-an-area-codeget-the-right-na.md",
+    "notes/insights/F0_IKKY3HCk-07-prioritize-processing-fluency-over-complexity.md",
+    "notes/insights/F0_IKKY3HCk-06-compound-names-act-as-multipliers-of-association.md",
+    "notes/insights/F0_IKKY3HCk-05-leverage-sound-symbolismeach-letter-evokes-specifi.md",
+    "notes/insights/F0_IKKY3HCk-04-use-a-creative-misdirection-process-to-unlock-nove.md",
+    "notes/insights/F0_IKKY3HCk-03-focus-on-future-behavior-and-experience-not-past-p.md",
+    "concepts",
+    "notes/concepts",
+    "scripts/generate-concepts.ts",
+    "scripts/generate-guests.ts",
+    "notes/guests",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "skills/transcript-to-obsidian",
+    "node_modules/fsevents/build/config.gypi",
+    "node_modules/fsevents/build",
+    "node_modules/@esbuild/darwin-arm64/package.json",
+    "node_modules/tsx/package.json"
+  ]
+}
