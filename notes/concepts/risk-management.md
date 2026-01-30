@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "risk management"
+  - risk management
+core: true
 ---
 
 # Risk Management

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "value based pricing"
+  - value based pricing
+core: true
 ---
 
 # Value Based Pricing

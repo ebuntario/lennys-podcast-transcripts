@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "success metrics"
+  - success metrics
+core: true
 ---
 
 # Success Metrics

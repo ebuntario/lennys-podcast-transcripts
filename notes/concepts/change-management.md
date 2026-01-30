@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "change management"
+  - change management
+core: true
 ---
 
 # Change Management

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "future of work"
+  - future of work
+core: true
 ---
 
 # Future Of Work

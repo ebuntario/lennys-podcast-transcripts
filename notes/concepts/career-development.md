@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "career development"
+  - career development
+core: true
 ---
 
 # Career Development

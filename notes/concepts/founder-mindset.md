@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "founder mindset"
+  - founder mindset
+core: true
 ---
 
 # Founder Mindset

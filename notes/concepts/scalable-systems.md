@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "scalable systems"
+  - scalable systems
+core: true
 ---
 
 # Scalable Systems

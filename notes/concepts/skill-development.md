@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "skill development"
+  - skill development
+core: true
 ---
 
 # Skill Development

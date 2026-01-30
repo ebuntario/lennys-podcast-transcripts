@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "emotional intelligence"
+  - emotional intelligence
+core: true
 ---
 
 # Emotional Intelligence

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "developer experience"
+  - developer experience
+core: true
 ---
 
 # Developer Experience

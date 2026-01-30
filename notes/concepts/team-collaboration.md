@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team collaboration"
+  - team collaboration
+core: true
 ---
 
 # Team Collaboration

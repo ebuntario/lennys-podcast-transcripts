@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "organizational alignment"
+  - organizational alignment
+core: true
 ---
 
 # Organizational Alignment

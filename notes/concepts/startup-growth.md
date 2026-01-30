@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "startup growth"
+  - startup growth
+core: true
 ---
 
 # Startup Growth

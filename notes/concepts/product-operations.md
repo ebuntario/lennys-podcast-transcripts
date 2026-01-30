@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product operations"
+  - product operations
+core: true
 ---
 
 # Product Operations

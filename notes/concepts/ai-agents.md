@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "ai agents"
+  - ai agents
+core: true
 ---
 
 # Ai Agents

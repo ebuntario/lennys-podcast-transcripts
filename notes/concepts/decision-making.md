@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "decision making"
+  - decision making
+core: true
 ---
 
 # Decision Making

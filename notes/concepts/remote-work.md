@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "remote work"
+  - remote work
+core: true
 ---
 
 # Remote Work

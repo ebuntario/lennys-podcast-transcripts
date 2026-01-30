@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "time management"
+  - time management
+core: true
 ---
 
 # Time Management

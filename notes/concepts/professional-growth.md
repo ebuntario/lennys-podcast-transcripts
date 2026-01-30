@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "professional growth"
+  - professional growth
+core: true
 ---
 
 # Professional Growth

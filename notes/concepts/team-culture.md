@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team culture"
+  - team culture
+core: true
 ---
 
 # Team Culture

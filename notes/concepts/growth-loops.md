@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "growth loops"
+  - growth loops
+core: true
 ---
 
 # Growth Loops

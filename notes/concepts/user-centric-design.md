@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "user centric design"
+  - user centric design
+core: true
 ---
 
 # User Centric Design

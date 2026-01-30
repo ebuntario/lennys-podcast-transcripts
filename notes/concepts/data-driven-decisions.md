@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "data driven decisions"
+  - data driven decisions
+core: true
 ---
 
 # Data Driven Decisions

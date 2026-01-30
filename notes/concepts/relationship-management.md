@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "relationship management"
+  - relationship management
+core: true
 ---
 
 # Relationship Management

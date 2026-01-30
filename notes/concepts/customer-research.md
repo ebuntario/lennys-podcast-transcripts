@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "customer research"
+  - customer research
+core: true
 ---
 
 # Customer Research

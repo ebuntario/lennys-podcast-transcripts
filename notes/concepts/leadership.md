@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "leadership"
+  - leadership
+core: true
 ---
 
 # Leadership

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "value proposition"
+  - value proposition
+core: true
 ---
 
 # Value Proposition

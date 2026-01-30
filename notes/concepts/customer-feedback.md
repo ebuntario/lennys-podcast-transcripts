@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "customer feedback"
+  - customer feedback
+core: true
 ---
 
 # Customer Feedback

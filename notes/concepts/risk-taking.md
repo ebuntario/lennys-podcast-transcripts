@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "risk taking"
+  - risk taking
+core: true
 ---
 
 # Risk Taking

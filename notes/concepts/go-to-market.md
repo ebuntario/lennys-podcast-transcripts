@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "go to market"
+  - go to market
+core: true
 ---
 
 # Go To Market

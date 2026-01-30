@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "ai evaluation"
+  - ai evaluation
+core: true
 ---
 
 # Ai Evaluation

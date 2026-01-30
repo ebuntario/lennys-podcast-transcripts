@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "self awareness"
+  - self awareness
+core: true
 ---
 
 # Self Awareness

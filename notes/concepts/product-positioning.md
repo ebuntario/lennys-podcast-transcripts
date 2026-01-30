@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product positioning"
+  - product positioning
+core: true
 ---
 
 # Product Positioning

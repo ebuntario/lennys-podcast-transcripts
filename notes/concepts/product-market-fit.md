@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product market fit"
+  - product market fit
+core: true
 ---
 
 # Product Market Fit

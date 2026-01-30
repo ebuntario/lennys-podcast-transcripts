@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "community building"
+  - community building
+core: true
 ---
 
 # Community Building

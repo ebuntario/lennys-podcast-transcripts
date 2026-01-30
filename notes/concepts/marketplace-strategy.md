@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "marketplace strategy"
+  - marketplace strategy
+core: true
 ---
 
 # Marketplace Strategy

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "strategy execution"
+  - strategy execution
+core: true
 ---
 
 # Strategy Execution

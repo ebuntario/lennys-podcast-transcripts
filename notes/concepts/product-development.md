@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product development"
+  - product development
+core: true
 ---
 
 # Product Development

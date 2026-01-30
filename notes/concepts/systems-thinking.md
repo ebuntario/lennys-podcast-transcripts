@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "systems thinking"
+  - systems thinking
+core: true
 ---
 
 # Systems Thinking

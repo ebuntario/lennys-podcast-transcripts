@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "organizational design"
+  - organizational design
+core: true
 ---
 
 # Organizational Design

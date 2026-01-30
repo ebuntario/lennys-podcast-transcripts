@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team alignment"
+  - team alignment
+core: true
 ---
 
 # Team Alignment

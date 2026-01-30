@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "hiring process"
+  - hiring process
+core: true
 ---
 
 # Hiring Process

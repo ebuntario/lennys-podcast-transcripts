@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "customer experience"
+  - customer experience
+core: true
 ---
 
 # Customer Experience

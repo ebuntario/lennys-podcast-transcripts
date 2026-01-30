@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "cross functional collaboration"
+  - cross functional collaboration
+core: true
 ---
 
 # Cross Functional Collaboration

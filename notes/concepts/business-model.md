@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "business model"
+  - business model
+core: true
 ---
 
 # Business Model

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "resource allocation"
+  - resource allocation
+core: true
 ---
 
 # Resource Allocation

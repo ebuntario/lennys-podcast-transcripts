@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team structure"
+  - team structure
+core: true
 ---
 
 # Team Structure

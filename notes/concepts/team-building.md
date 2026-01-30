@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team building"
+  - team building
+core: true
 ---
 
 # Team Building

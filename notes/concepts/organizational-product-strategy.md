@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "organizational product strategy"
+  - organizational product strategy
+core: true
 ---
 
 # Organizational Product Strategy

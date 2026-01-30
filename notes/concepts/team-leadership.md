@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team leadership"
+  - team leadership
+core: true
 ---
 
 # Team Leadership

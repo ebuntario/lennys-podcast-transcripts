@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "creative problem solving"
+  - creative problem solving
+core: true
 ---
 
 # Creative Problem Solving

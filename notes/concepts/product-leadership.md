@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product leadership"
+  - product leadership
+core: true
 ---
 
 # Product Leadership

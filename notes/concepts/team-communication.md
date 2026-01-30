@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team communication"
+  - team communication
+core: true
 ---
 
 # Team Communication

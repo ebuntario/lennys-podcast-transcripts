@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "personal growth"
+  - personal growth
+core: true
 ---
 
 # Personal Growth

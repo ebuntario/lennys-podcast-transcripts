@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "b2b sales"
+  - b2b sales
+core: true
 ---
 
 # B2b Sales

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "conversion optimization"
+  - conversion optimization
+core: true
 ---
 
 # Conversion Optimization

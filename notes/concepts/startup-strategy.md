@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "startup strategy"
+  - startup strategy
+core: true
 ---
 
 # Startup Strategy

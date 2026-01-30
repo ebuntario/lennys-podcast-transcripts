@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "goal setting"
+  - goal setting
+core: true
 ---
 
 # Goal Setting

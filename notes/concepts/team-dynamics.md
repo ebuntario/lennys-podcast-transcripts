@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "team dynamics"
+  - team dynamics
+core: true
 ---
 
 # Team Dynamics

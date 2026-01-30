@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "operational efficiency"
+  - operational efficiency
+core: true
 ---
 
 # Operational Efficiency

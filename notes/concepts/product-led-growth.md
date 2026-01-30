@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product led growth"
+  - product led growth
+core: true
 ---
 
 # Product Led Growth

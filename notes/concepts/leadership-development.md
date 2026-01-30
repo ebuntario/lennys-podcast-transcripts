@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "leadership development"
+  - leadership development
+core: true
 ---
 
 # Leadership Development

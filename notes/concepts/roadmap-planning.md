@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "roadmap planning"
+  - roadmap planning
+core: true
 ---
 
 # Roadmap Planning

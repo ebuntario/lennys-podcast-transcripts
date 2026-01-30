@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "thought leadership"
+  - thought leadership
+core: true
 ---
 
 # Thought Leadership

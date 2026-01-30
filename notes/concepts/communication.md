@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "communication"
+  - communication
+core: true
 ---
 
 # Communication

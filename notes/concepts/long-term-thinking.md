@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "long term thinking"
+  - long term thinking
+core: true
 ---
 
 # Long Term Thinking

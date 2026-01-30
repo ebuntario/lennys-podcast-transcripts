@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product strategy"
+  - product strategy
+core: true
 ---
 
 # Product Strategy

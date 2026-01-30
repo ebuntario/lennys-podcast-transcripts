@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "organizational culture"
+  - organizational culture
+core: true
 ---
 
 # Organizational Culture

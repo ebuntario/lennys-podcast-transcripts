@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "psychological safety"
+  - psychological safety
+core: true
 ---
 
 # Psychological Safety

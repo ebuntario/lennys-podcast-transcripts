@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "product design"
+  - product design
+core: true
 ---
 
 # Product Design

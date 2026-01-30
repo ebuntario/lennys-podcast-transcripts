@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "competitive advantage"
+  - competitive advantage
+core: true
 ---
 
 # Competitive Advantage

@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "seo strategy"
+  - seo strategy
+core: true
 ---
 
 # Seo Strategy

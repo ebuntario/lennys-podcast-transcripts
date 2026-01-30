@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "artificial intelligence"
+  - artificial intelligence
+core: true
 ---
 
 # Artificial Intelligence

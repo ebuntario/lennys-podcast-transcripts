@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "customer discovery"
+  - customer discovery
+core: true
 ---
 
 # Customer Discovery

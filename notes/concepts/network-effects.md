@@ -1,7 +1,8 @@
 ---
 type: concept
 aliases:
-  - "network effects"
+  - network effects
+core: true
 ---
 
 # Network Effects
